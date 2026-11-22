@@ -272,9 +272,88 @@
     return Math.max(1, Math.ceil(total / PER_PAGE));
   }
 
+  // One spreadsheet column. Several instruments stay in this cell, joined like the lineup.
+  const CSV_HEADERS = [
+    "type",
+    "artist",
+    "title",
+    "year",
+    "genre",
+    "duration_seconds",
+    "duration",
+    "featured_instrument",
+    "musicians",
+    "interviewer",
+    "outlet",
+    "credits",
+    "youtube_url",
+    "id",
+  ];
+
+  function labelInstrument(name) {
+    return name.slice(0, 1).toUpperCase() + name.slice(1);
+  }
+
+  function csvField(value) {
+    const text = value == null ? "" : String(value);
+    if (/[",\r\n]/.test(text)) return '"' + text.replace(/"/g, '""') + '"';
+    return text;
+  }
+
+  function featuredInstruments(item, index) {
+    if (!index || typeof index.instrumentsFor !== "function") return "";
+    const found = [];
+    const seen = new Set();
+    for (const name of lineupNames(item)) {
+      for (const instrument of index.instrumentsFor(name)) {
+        if (seen.has(instrument)) continue;
+        seen.add(instrument);
+        found.push(labelInstrument(instrument));
+      }
+    }
+    return found.join("; ");
+  }
+
+  function creditCell(item) {
+    return creditsFor(item).map((credit) => (credit.role ? credit.name + " (" + credit.role + ")" : credit.name)).join("; ");
+  }
+
+  function youtubeUrl(id) {
+    return "https://www.youtube.com/watch?v=" + encodeURIComponent(id || "");
+  }
+
+  function csvRow(item, index) {
+    const seconds = Math.max(0, Math.floor(Number(item && item.durationSeconds) || 0));
+    const values = [
+      itemType(item),
+      (item && item.artist) || "",
+      (item && item.title) || "",
+      item && item.year ? String(item.year) : "",
+      (item && item.genre) || "",
+      String(seconds),
+      formatDuration(seconds),
+      featuredInstruments(item, index),
+      lineupNames(item).join("; "),
+      (item && item.interviewer) || "",
+      (item && item.outlet) || "",
+      creditCell(item),
+      youtubeUrl(item && item.id),
+      (item && item.id) || "",
+    ];
+    return values.map(csvField).join(",");
+  }
+
+  // UTF-8 BOM plus CRLF so Excel keeps accents and row breaks.
+  function toCsv(items, index) {
+    const lines = [CSV_HEADERS.join(",")];
+    for (const item of items || []) lines.push(csvRow(item, index));
+    return "\uFEFF" + lines.join("\r\n") + "\r\n";
+  }
+
   return {
     PER_PAGE,
     TYPES,
+    CSV_HEADERS,
     typeInfo,
     itemType,
     lineup,
@@ -290,5 +369,7 @@
     fold,
     related,
     pageCount,
+    toCsv,
+    youtubeUrl,
   };
 });

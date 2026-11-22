@@ -389,6 +389,9 @@
     } else if (action === "clear") {
       clearFilters();
       render(false);
+    } else if (action === "csv") {
+      if (!index) return;
+      downloadCsv("live-concert-finder.csv", Catalog.toCsv(currentRows(), index));
     } else if (action === "musician") {
       state.musician = el.getAttribute("data-name");
       state.genre = "All";
@@ -424,6 +427,19 @@
     } else if (action === "theme") {
       toggleTheme();
     }
+  }
+
+  function downloadCsv(filename, text) {
+    const blob = new Blob([text], { type: "text/csv;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = filename;
+    link.hidden = true;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
   }
 
   function scrollToDiscover() {
