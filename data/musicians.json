@@ -1,586 +1,3507 @@
 {
-  "'Philthy Animal' Taylor": ["drums"],
-  "Ad-Rock": ["vocals"],
-  "Adam Jones": ["guitar"],
-  "Adrian Smith": ["guitar"],
-  "aespa": ["vocals"],
-  "Airto Moreira": ["percussion"],
-  "Al Di Meola": ["guitar"],
-  "Al Green": ["vocals"],
-  "Alban Berg Quartett": ["violin", "viola", "cello"],
-  "Albert Collins": ["guitar", "vocals"],
-  "Albert King": ["guitar", "vocals"],
-  "Albert Mangelsdorff": ["trombone"],
-  "Alex Acuña": ["percussion"],
-  "Alex Lifeson": ["guitar"],
-  "Ali Akbar Khan": ["sarod"],
-  "Ali Shaheed Muhammad": ["DJ"],
-  "Alicia Keys": ["vocals", "piano"],
-  "Alison Krauss": ["vocals", "fiddle"],
-  "Alla Rakha": ["tabla"],
-  "Allan Holdsworth": ["guitar"],
-  "Alphonse Mouzon": ["drums"],
-  "Amadeus Quartet": ["violin", "viola", "cello"],
-  "Amanojaku": ["taiko"],
-  "Amjad Ali Khan": ["sarod"],
-  "Amy Winehouse": ["vocals"],
-  "André 3000": ["vocals"],
-  "Anoushka Shankar": ["sitar"],
-  "Anthony Kiedis": ["vocals"],
-  "Antonio Pappano": ["conductor"],
-  "Antonio Sanchez": ["drums"],
-  "Aretha Franklin": ["vocals", "piano"],
-  "Armin van Buuren": ["DJ"],
-  "Art Blakey": ["drums"],
-  "Art Garfunkel": ["vocals"],
-  "Art Neville": ["keyboards", "vocals"],
-  "Avicii": ["DJ"],
-  "Axwell": ["DJ"],
-  "B.B. King": ["guitar", "vocals"],
-  "BaliSpirit Festival Gamelan": ["gamelan"],
-  "Béla Fleck": ["banjo"],
-  "Belcea Quartet": ["violin", "viola", "cello"],
-  "Bennie Maupin": ["saxophone"],
-  "Bernard Haitink": ["conductor"],
-  "Bernie Worrell": ["keyboards"],
-  "Berry Oakley": ["bass"],
-  "Beth Hart": ["vocals"],
-  "Bhimsen Joshi": ["vocals"],
-  "Big Boi": ["vocals"],
-  "Bill Bruford": ["drums"],
-  "Bill Kelliher": ["guitar"],
-  "Bill Monroe": ["mandolin", "vocals"],
-  "Bill Payne": ["keyboards"],
-  "Bill Ward": ["drums"],
-  "Bill Withers": ["vocals", "guitar"],
-  "Bill Wyman": ["bass"],
-  "Billie Joe Armstrong": ["guitar", "vocals"],
-  "Billy Cobham": ["drums"],
-  "Billy Gibbons": ["guitar", "vocals"],
-  "Black Coffee": ["DJ"],
-  "Black Thought": ["vocals"],
-  "Bob Berg": ["saxophone"],
-  "Bob Dylan": ["vocals", "guitar", "harmonica"],
-  "Bob Marley": ["vocals", "guitar"],
-  "Bob Mintzer": ["saxophone"],
-  "Bob Weir": ["guitar", "vocals"],
-  "Bobby Byrd": ["vocals"],
-  "Bobby Osborne": ["mandolin", "vocals"],
-  "Bobby Womack": ["vocals", "guitar"],
-  "Bonnie Raitt": ["guitar", "vocals"],
-  "Booker T. Jones": ["keyboards"],
-  "Bootsy Collins": ["bass", "vocals"],
-  "Borodin Quartet": ["violin", "viola", "cello"],
-  "Brann Dailor": ["drums"],
-  "Brent Hinds": ["guitar"],
-  "Brian Blade": ["drums"],
-  "Brian May": ["guitar"],
-  "Brian Setzer": ["guitar", "vocals"],
-  "Bruce Dickinson": ["vocals"],
-  "Bruce Springsteen": ["guitar", "vocals"],
-  "Buddy Guy": ["guitar", "vocals"],
-  "Bunny Wailer": ["vocals"],
-  "Burning Spear": ["vocals"],
-  "Butch Trucks": ["drums"],
-  "Camarón de la Isla": ["vocals"],
-  "Cannonball Adderley": ["saxophone"],
-  "Canyon Crest Academy Gamelan": ["gamelan"],
-  "Carl Perkins": ["guitar", "vocals"],
-  "Carlos Santana": ["guitar"],
-  "Carmen Linares": ["vocals"],
-  "CeCe Winans": ["vocals"],
-  "Celia Cruz": ["vocals"],
-  "Chad Smith": ["drums"],
-  "Chaka Khan": ["vocals"],
-  "Charles Bradley": ["vocals"],
-  "Charles Mingus": ["bass"],
-  "Charlie Watts": ["drums"],
-  "Chester Thompson": ["drums"],
-  "Chick Corea": ["keyboards"],
-  "Chris Frantz": ["drums"],
-  "Chris Layton": ["drums"],
-  "Chris Potter": ["saxophone"],
-  "Chris Stapleton": ["vocals", "guitar"],
-  "Chris Thile": ["mandolin"],
-  "Christian Vander": ["drums", "vocals"],
-  "Christone Ingram": ["guitar", "vocals"],
-  "Chucho Valdés": ["piano"],
-  "Chuck D": ["vocals"],
-  "Clyde Stubblefield": ["drums"],
-  "Compay Segundo": ["guitar", "vocals"],
-  "Cory Wong": ["guitar"],
-  "Count Basie": ["piano"],
-  "Curtis Mayfield": ["vocals", "guitar"],
-  "D'Angelo": ["vocals", "keyboards"],
-  "Daesung": ["vocals"],
-  "Damian Marley": ["vocals"],
-  "Danilo Pérez": ["piano"],
-  "Danish String Quartet": ["violin", "viola", "cello"],
-  "Danny Carey": ["drums"],
-  "Darryl Jenifer": ["bass"],
-  "Darryl Jones": ["bass"],
-  "Dave": ["vocals"],
-  "Dave Brubeck": ["piano"],
-  "Dave Holland": ["bass"],
-  "Dave Lombardo": ["drums"],
-  "Dave Murray": ["guitar"],
-  "Dave Mustaine": ["guitar", "vocals"],
-  "Dave Vanian": ["vocals"],
-  "Dave Weckl": ["drums"],
-  "David Byrne": ["vocals", "guitar"],
-  "David Coverdale": ["vocals"],
-  "David Crosby": ["vocals", "guitar"],
-  "David Garibaldi": ["drums"],
-  "David Gilmour": ["guitar", "vocals"],
-  "David Hinds": ["vocals", "guitar"],
-  "David Morales": ["DJ"],
-  "David Rawlings": ["guitar", "vocals"],
-  "deadmau5": ["DJ", "synthesizer"],
-  "Dee Dee Ramone": ["bass", "vocals"],
-  "Del McCoury": ["guitar", "vocals"],
-  "Derek Trucks": ["guitar"],
-  "Diamanda Galás": ["vocals", "piano"],
-  "Dickey Betts": ["guitar"],
-  "Dimebag Darrell": ["guitar"],
-  "Dixon": ["DJ"],
-  "Dizzy Gillespie": ["trumpet"],
-  "DMC": ["vocals"],
-  "Doc Watson": ["guitar", "vocals"],
-  "Dolly Parton": ["vocals"],
-  "Don Alias": ["percussion"],
-  "Don Van Vliet": ["vocals", "harmonica"],
-  "Donald Fagen": ["vocals", "keyboards"],
-  "Donnie McClurkin": ["vocals"],
-  "Donny Hathaway": ["vocals", "piano"],
-  "Dr. Know": ["guitar"],
-  "Drum Tao": ["taiko"],
-  "Duane Allman": ["guitar"],
-  "Duck Dunn": ["bass"],
-  "Duke Ellington": ["piano"],
-  "Dusty Hill": ["bass", "vocals"],
-  "Dwight Yoakam": ["vocals", "guitar"],
-  "Earl Hudson": ["drums"],
-  "Earl Scruggs": ["banjo"],
-  "East Bay Ray": ["guitar"],
-  "Ebo Taylor": ["guitar", "vocals"],
-  "Ed Simons": ["DJ", "synthesizer"],
-  "Eddie Hazel": ["guitar"],
-  "Eddie Palmieri": ["piano"],
-  "Ella Fitzgerald": ["vocals"],
-  "Elvin Jones": ["drums"],
-  "Elvis Presley": ["vocals", "guitar"],
-  "Emerson String Quartet": ["violin", "viola", "cello"],
-  "Emilio Castillo": ["saxophone"],
-  "Emily Strayer": ["banjo", "vocals"],
-  "Eminem": ["vocals"],
-  "Emmylou Harris": ["vocals", "guitar"],
-  "Emory Javanese Gamelan": ["gamelan"],
-  "Enrique Morente": ["vocals"],
-  "Eric Clapton": ["guitar", "vocals"],
-  "Erykah Badu": ["vocals"],
-  "Estrella Morente": ["vocals"],
-  "Etta James": ["vocals"],
-  "EXO": ["vocals"],
-  "Fast Eddie Clarke": ["guitar"],
-  "Fat Mike": ["bass", "vocals"],
-  "Fatboy Slim": ["DJ"],
-  "Fela Kuti": ["vocals", "saxophone", "keyboards"],
-  "Femi Kuti": ["vocals", "saxophone"],
-  "Flavor Flav": ["vocals"],
-  "Flea": ["bass"],
-  "Florian Schneider": ["synthesizer"],
-  "Frank Beard": ["drums"],
-  "Frank Zappa": ["guitar", "vocals"],
-  "Frankie Knuckles": ["DJ"],
-  "Fred Wesley": ["trombone"],
-  "Freddie King": ["guitar", "vocals"],
-  "Freddie Mercury": ["vocals"],
-  "G-Dragon": ["vocals"],
-  "Gamelan Gong Gede ISI Denpasar": ["gamelan"],
-  "Gamelan Gong Gede of Batur Temple": ["gamelan"],
-  "Gamelan Sekar Jaya": ["gamelan"],
-  "Garry Shider": ["guitar", "vocals"],
-  "Garth Hudson": ["keyboards"],
-  "Gary Clark Jr.": ["guitar", "vocals"],
-  "Gary Moore": ["guitar", "vocals"],
-  "Gary Willis": ["bass"],
-  "Geddy Lee": ["bass", "vocals"],
-  "Geezer Butler": ["bass"],
-  "George Clinton": ["vocals"],
-  "George Duke": ["keyboards"],
-  "George Harrison": ["guitar", "vocals"],
-  "George Jones": ["vocals"],
-  "George Porter Jr.": ["bass"],
-  "Ghostface Killah": ["vocals"],
-  "Gillian Welch": ["vocals", "guitar"],
-  "Ginger Baker": ["drums"],
-  "Glenn Hughes": ["bass", "vocals"],
-  "Glenn Tipton": ["guitar"],
-  "Graham Nash": ["vocals", "guitar"],
-  "Greg Ginn": ["guitar"],
-  "Greg Graffin": ["vocals"],
-  "Gregg Allman": ["vocals", "keyboards"],
-  "Gregg Bissonette": ["drums"],
-  "Guarneri Quartet": ["violin", "viola", "cello"],
-  "Gustavo Dudamel": ["conductor"],
-  "Guy Lawrence": ["DJ"],
-  "Guy Picciotto": ["guitar", "vocals"],
-  "Guy-Manuel de Homem-Christo": ["DJ", "synthesizer"],
-  "GZA": ["vocals"],
-  "H.R.": ["vocals"],
-  "Hariprasad Chaurasia": ["bansuri"],
-  "Héctor Lavoe": ["vocals"],
-  "Henry Rollins": ["vocals"],
-  "Herbert von Karajan": ["conductor"],
-  "Herbie Hancock": ["keyboards"],
-  "Holger Czukay": ["bass"],
-  "Honey Dijon": ["DJ"],
-  "Howard Lawrence": ["DJ", "vocals"],
-  "Howlin' Wolf": ["vocals", "harmonica", "guitar"],
-  "Ian Hill": ["bass"],
-  "Ian MacKaye": ["vocals", "guitar"],
-  "Ian Paice": ["drums"],
-  "Ibrahim Ferrer": ["vocals"],
-  "Iggy Pop": ["vocals"],
-  "Imelda May": ["vocals"],
-  "Irma Thomas": ["vocals"],
-  "Irmin Schmidt": ["keyboards"],
-  "Isaac Hayes": ["vocals", "keyboards"],
-  "IU": ["vocals"],
-  "J-Hope": ["vocals"],
-  "Jack Bruce": ["bass", "vocals"],
-  "Jack DeJohnette": ["drums"],
-  "Jaco Pastorius": ["bass"],
-  "Jaimoe": ["drums"],
-  "Jaki Liebezeit": ["drums"],
-  "Jam Master Jay": ["DJ"],
-  "James Brown": ["vocals"],
-  "James Cleveland": ["vocals", "piano"],
-  "James Hetfield": ["guitar", "vocals"],
-  "Jan Hammer": ["keyboards"],
-  "Janick Gers": ["guitar"],
-  "Janis Joplin": ["vocals"],
-  "Jason Newsted": ["bass"],
-  "Jay Beckenstein": ["saxophone"],
-  "Jay Kay": ["vocals"],
-  "Jay-Z": ["vocals"],
-  "Jean-Luc Ponty": ["violin"],
-  "Jeff Beck": ["guitar"],
-  "Jeff Hanneman": ["guitar"],
-  "Jello Biafra": ["vocals"],
-  "Jennie": ["vocals"],
-  "Jerry Douglas": ["dobro"],
-  "Jerry Garcia": ["guitar", "vocals"],
-  "Jerry Goodman": ["violin"],
-  "Jerry Harrison": ["keyboards", "guitar"],
-  "Jerry Lee Lewis": ["piano", "vocals"],
-  "Jim Heath": ["guitar", "vocals"],
-  "Jimi Hendrix": ["guitar", "vocals"],
-  "Jimin": ["vocals"],
-  "Jimmy Cliff": ["vocals"],
-  "Jimmy Garrison": ["bass"],
-  "Jimmy Haslip": ["bass"],
-  "Jimmy Nolen": ["guitar"],
-  "Jimmy Page": ["guitar"],
-  "Jin": ["vocals"],
-  "Jisoo": ["vocals"],
-  "Joan Baez": ["vocals", "guitar"],
-  "Joe Bonamassa": ["guitar", "vocals"],
-  "Joe Dart": ["bass"],
-  "Joe Duplantier": ["guitar", "vocals"],
-  "Joe Pass": ["guitar"],
-  "Joe Strummer": ["vocals", "guitar"],
-  "Joe Zawinul": ["keyboards"],
-  "Joey Ramone": ["vocals"],
-  "John Bonham": ["drums"],
-  "John Coltrane": ["saxophone"],
-  "John Deacon": ["bass"],
-  "John Entwistle": ["bass"],
-  "John Fogerty": ["guitar", "vocals"],
-  "John Frusciante": ["guitar"],
-  "John Lee Hooker": ["guitar", "vocals"],
-  "John McLaughlin": ["guitar"],
-  "John McVie": ["bass"],
-  "John Patitucci": ["bass"],
-  "John Paul Jones": ["bass", "keyboards"],
-  "John Scofield": ["guitar"],
-  "John Williams": ["conductor"],
-  "Johnny Cash": ["vocals", "guitar"],
-  "Johnny Ramone": ["guitar"],
-  "Johnny Rotten": ["vocals"],
-  "Johnny Winter": ["guitar", "vocals"],
-  "Jon Lord": ["keyboards"],
-  "Joni Mitchell": ["vocals", "guitar"],
-  "Joseph Hill": ["vocals"],
-  "Judy Collins": ["vocals", "guitar"],
-  "June Carter Cash": ["vocals", "guitar"],
-  "Jungkook": ["vocals"],
-  "Junior Wells": ["harmonica", "vocals"],
-  "Justin Chancellor": ["bass"],
-  "K.K. Downing": ["guitar"],
-  "Keith Flint": ["vocals"],
-  "Keith Jarrett": ["piano"],
-  "Keith Moon": ["drums"],
-  "Keith Richards": ["guitar"],
-  "Kendrick Lamar": ["vocals"],
-  "Kenny Wayne Shepherd": ["guitar"],
-  "Kerri Chandler": ["DJ"],
-  "Kerry King": ["guitar"],
-  "Kim Gordon": ["bass", "vocals"],
-  "Kirk Franklin": ["vocals"],
-  "Kirk Hammett": ["guitar"],
-  "Kodo": ["taiko"],
-  "Kris Kristofferson": ["vocals", "guitar"],
-  "Kronos Quartet": ["violin", "viola", "cello"],
-  "L. Subramaniam": ["violin"],
-  "Larry Blackmon": ["vocals", "drums"],
-  "Lars Ulrich": ["drums"],
-  "Laurie Anderson": ["vocals", "violin"],
-  "Lauryn Hill": ["vocals"],
-  "Lawrence University Gamelan": ["gamelan"],
-  "Lee \"Scratch\" Perry": ["vocals"],
-  "Lee Fields": ["vocals"],
-  "Lee Ranaldo": ["guitar"],
-  "Lee Rocker": ["bass"],
-  "Lemmy": ["bass", "vocals"],
-  "Lenny White": ["drums"],
-  "Leo Nocentelli": ["guitar"],
-  "Leonard Cohen": ["vocals", "guitar"],
-  "Lester Flatt": ["guitar", "vocals"],
-  "Levon Helm": ["drums", "vocals"],
-  "Liam Howlett": ["synthesizer"],
-  "Link Wray": ["guitar"],
-  "Lisa": ["vocals"],
-  "Loretta Lynn": ["vocals"],
-  "Louie Vega": ["DJ"],
-  "Louis Armstrong": ["trumpet", "vocals"],
-  "Luther Vandross": ["vocals"],
-  "Lyle Mays": ["keyboards"],
-  "M.S. Subbulakshmi": ["vocals"],
-  "Maceo Parker": ["saxophone"],
-  "Mahalia Jackson": ["vocals"],
-  "Manolo Badrena": ["percussion"],
-  "Marcus Miller": ["bass"],
-  "Mario Duplantier": ["drums"],
-  "Mark Knopfler": ["guitar", "vocals"],
-  "Martie Maguire": ["fiddle", "vocals"],
-  "Marvin Gaye": ["vocals"],
-  "Maurice White": ["vocals", "drums"],
-  "Maxim": ["vocals"],
-  "Maxwell": ["vocals"],
-  "Maynard James Keenan": ["vocals"],
-  "MCA": ["vocals"],
-  "McCoy Tyner": ["piano"],
-  "Menahem Pressler": ["piano"],
-  "Merle Haggard": ["vocals", "guitar"],
-  "Method Man": ["vocals"],
-  "Michael Brecker": ["saxophone"],
-  "Michael Gira": ["vocals", "guitar"],
-  "Michael Jackson": ["vocals"],
-  "Michael Karoli": ["guitar"],
-  "Michael League": ["bass"],
-  "Michael Rose": ["vocals"],
-  "Michel Camilo": ["piano"],
-  "Mick Fleetwood": ["drums"],
-  "Mick Jagger": ["vocals"],
-  "Mick Jones": ["guitar", "vocals"],
-  "Mighty Clouds of Joy": ["vocals"],
-  "Mikael Åkerfeldt": ["guitar", "vocals"],
-  "Mike Clark": ["drums"],
-  "Mike D": ["vocals"],
-  "Mike Dirnt": ["bass"],
-  "Mike Mainieri": ["vibraphone"],
-  "Miles Davis": ["trumpet"],
-  "Milo Aukerman": ["vocals"],
-  "Mississippi Mass Choir": ["vocals"],
-  "Missy Elliott": ["vocals"],
-  "Muddy Waters": ["guitar", "vocals"],
-  "Napoleon Murphy Brock": ["vocals", "saxophone"],
-  "Nas": ["vocals"],
-  "Natalie Maines": ["vocals"],
-  "Neil Peart": ["drums"],
-  "Nick Mason": ["drums"],
-  "Nicko McBrain": ["drums"],
-  "Nina Simone": ["vocals", "piano"],
-  "Oedo Sukeroku Taiko": ["taiko"],
-  "Omar Hakim": ["drums"],
-  "Omara Portuondo": ["vocals"],
-  "Ondekoza": ["taiko"],
-  "Orlando Julius": ["saxophone", "vocals"],
-  "Oscar D'León": ["vocals", "bass"],
-  "Oscar Peterson": ["piano"],
-  "Otis Redding": ["vocals"],
-  "Ozzy Osbourne": ["vocals"],
-  "Paco de Lucía": ["guitar"],
-  "Paco Peña": ["guitar"],
-  "Pat Metheny": ["guitar"],
-  "Paul Barrere": ["guitar"],
-  "Paul Cook": ["drums"],
-  "Paul Desmond": ["saxophone"],
-  "Paul Hartnoll": ["synthesizer"],
-  "Paul Jackson": ["bass"],
-  "Paul Simon": ["vocals", "guitar"],
-  "Paul Simonon": ["bass"],
-  "Pavel Haas Quartet": ["violin", "viola", "cello"],
-  "Pee Wee Ellis": ["saxophone"],
-  "Pepe Habichuela": ["guitar"],
-  "Pete Seeger": ["vocals", "banjo"],
-  "Pete Shelley": ["guitar", "vocals"],
-  "Pete Townshend": ["guitar"],
-  "Peter Erskine": ["drums"],
-  "Peter Green": ["guitar", "vocals"],
-  "Peter Tosh": ["vocals", "guitar"],
-  "Phife Dawg": ["vocals"],
-  "Phil Anselmo": ["vocals"],
-  "Phil Hartnoll": ["synthesizer"],
-  "Philip Bailey": ["vocals"],
-  "Pinetop Perkins": ["piano"],
-  "Pino Palladino": ["bass"],
-  "Posdnuos": ["vocals"],
-  "Prince": ["guitar", "vocals", "keyboards"],
-  "PSY": ["vocals"],
-  "Q-Tip": ["vocals"],
-  "Questlove": ["drums"],
-  "Raekwon": ["vocals"],
-  "Ralf Hütter": ["keyboards"],
-  "Ralph Stanley": ["vocals", "banjo"],
-  "Randy Brecker": ["trumpet"],
-  "Ravi Shankar": ["sitar"],
-  "Ray Barretto": ["congas", "percussion"],
-  "Ray Charles": ["vocals", "piano"],
-  "Rex Brown": ["bass"],
-  "Riccardo Muti": ["conductor"],
-  "Richard Manuel": ["keyboards", "vocals"],
-  "Richard Thompson": ["guitar", "vocals"],
-  "Richard Wright": ["keyboards"],
-  "Rick Danko": ["bass", "vocals"],
-  "Rick James": ["vocals"],
-  "Rick Laird": ["bass"],
-  "Ricky Skaggs": ["mandolin", "vocals"],
-  "Ringo Starr": ["drums"],
-  "Ritchie Blackmore": ["guitar"],
-  "RM": ["vocals"],
-  "Rob Halford": ["vocals"],
-  "Robbie Robertson": ["guitar", "vocals"],
-  "Robert \"Kool\" Bell": ["bass"],
-  "Robert Cray": ["guitar", "vocals"],
-  "Robert Gordon": ["vocals"],
-  "Robert Plant": ["vocals"],
-  "Roberta Flack": ["vocals", "piano"],
-  "Rodney Crowell": ["guitar", "vocals"],
-  "Roger Daltrey": ["vocals"],
-  "Roger Taylor": ["drums"],
-  "Roger Waters": ["bass", "vocals"],
-  "Ron Carter": ["bass"],
-  "Ron Wood": ["guitar"],
-  "Ronnie James Dio": ["vocals"],
-  "Ronnie Van Zant": ["vocals"],
-  "Rory Gallagher": ["guitar", "vocals"],
-  "Rosé": ["vocals"],
-  "Rubén Blades": ["vocals"],
-  "Rubén González": ["piano"],
-  "Run": ["vocals"],
-  "Russell Ferrante": ["keyboards"],
-  "Ruth Underwood": ["percussion"],
-  "RZA": ["vocals"],
-  "Sade Adu": ["vocals"],
-  "Sam Cooke": ["vocals"],
-  "Sam Divine": ["DJ"],
-  "San Francisco Taiko Dojo": ["taiko"],
-  "Sara Watkins": ["fiddle", "vocals"],
-  "Sarah Vaughan": ["vocals"],
-  "Scott Henderson": ["guitar"],
-  "Sean Watkins": ["guitar"],
-  "Sebastian Ingrosso": ["DJ"],
-  "Seun Kuti": ["vocals", "saxophone"],
-  "SEVENTEEN": ["vocals"],
-  "Sharon Jones": ["vocals"],
-  "Sheila E.": ["percussion", "vocals"],
-  "SHINee": ["vocals"],
-  "Shirley Caesar": ["vocals"],
-  "Shivkumar Sharma": ["santoor"],
-  "Sid Vicious": ["bass"],
-  "Simon Dunmore": ["DJ"],
-  "Skrillex": ["DJ"],
-  "Slim Jim Phantom": ["drums"],
-  "Soh Daiko": ["taiko"],
-  "Solomon Burke": ["vocals"],
-  "Sonny Osborne": ["banjo"],
-  "Sonny Rollins": ["saxophone"],
-  "Stanley Clarke": ["bass"],
-  "Stephen Kupka": ["saxophone"],
-  "Stephen Stills": ["guitar", "vocals"],
-  "Steve Angello": ["DJ"],
-  "Steve Cropper": ["guitar"],
-  "Steve Harris": ["bass"],
-  "Steve Jones": ["guitar"],
-  "Steve Shelley": ["drums"],
-  "Stevie Ray Vaughan": ["guitar", "vocals"],
-  "Stevie Wonder": ["vocals", "keyboards", "harmonica"],
-  "Stray Kids": ["vocals"],
-  "Sturgill Simpson": ["vocals", "guitar"],
-  "Suga": ["vocals"],
-  "Sun Ra": ["keyboards"],
-  "Susan Tedeschi": ["guitar", "vocals"],
-  "T.O.P": ["vocals"],
-  "Taeyang": ["vocals"],
-  "Taj Mahal": ["guitar", "vocals"],
-  "Takács Quartet": ["violin", "viola", "cello"],
-  "Tal Wilkenfeld": ["bass"],
-  "Tanya Tucker": ["vocals"],
-  "Teddy Pendergrass": ["vocals"],
-  "The Band": ["guitar", "bass", "drums", "vocals"],
-  "The Clark Sisters": ["vocals"],
-  "The Winans": ["vocals"],
-  "Thelonious Monk": ["piano"],
-  "Theo Katzman": ["drums", "vocals"],
-  "Thomas Bangalter": ["DJ", "synthesizer"],
-  "Thurston Moore": ["guitar", "vocals"],
-  "Tiësto": ["DJ"],
-  "Tigran Hamasyan": ["piano"],
-  "Tina Turner": ["vocals"],
-  "Tina Weymouth": ["bass"],
-  "Tito Puente": ["timbales", "percussion"],
-  "Todd Terry": ["DJ"],
-  "Tom Araya": ["vocals", "bass"],
-  "Tom Petty": ["guitar", "vocals"],
-  "Tom Rowlands": ["DJ", "synthesizer"],
-  "Tomatito": ["guitar"],
-  "Tommy Ramone": ["drums"],
-  "Tommy Shannon": ["bass"],
-  "Tony Allen": ["drums"],
-  "Tony Iommi": ["guitar"],
-  "Tony Williams": ["drums"],
-  "Toots Hibbert": ["vocals"],
-  "Topper Headon": ["drums"],
-  "Townes Van Zandt": ["vocals", "guitar"],
-  "Tré Cool": ["drums"],
-  "Troy Sanders": ["bass", "vocals"],
-  "TWICE": ["vocals"],
-  "UBC Balinese Gamelan": ["gamelan"],
-  "Ubud Palace Gamelan": ["gamelan"],
-  "V": ["vocals"],
-  "Valery Gergiev": ["conductor"],
-  "Verdine White": ["bass"],
-  "Vicente Amigo": ["guitar"],
-  "Victor Bailey": ["bass"],
-  "Victor Borge": ["piano"],
-  "Victor Wooten": ["bass"],
-  "Vilayat Khan": ["sitar"],
-  "Vinnie Colaiuta": ["drums"],
-  "Vinnie Paul": ["drums"],
-  "Walter Becker": ["guitar", "bass"],
-  "Wanda Jackson": ["vocals", "guitar"],
-  "Warren Haynes": ["guitar"],
-  "Waylon Jennings": ["vocals", "guitar"],
-  "Wayne Shorter": ["saxophone"],
-  "Willie Colón": ["trombone", "vocals"],
-  "Willie Nelson": ["vocals", "guitar"],
-  "Wilson Pickett": ["vocals"],
-  "Wynton Marsalis": ["trumpet"],
-  "Yamato": ["taiko"],
-  "Yo-Yo Ma": ["cello"],
-  "Yolanda Adams": ["vocals"],
-  "Zakir Hussain": ["tabla"],
-  "Zigaboo Modeliste": ["drums"]
+  "'Philthy Animal' Taylor": [
+    "drums"
+  ],
+  "A.B. Crentsil": [
+    "vocals",
+    "guitar"
+  ],
+  "Abida Parveen": [
+    "vocals"
+  ],
+  "Ad-Rock": [
+    "vocals"
+  ],
+  "Adam Beyer": [
+    "DJ"
+  ],
+  "Adam Deitch": [
+    "drums"
+  ],
+  "Adam Franklin": [
+    "guitar",
+    "vocals"
+  ],
+  "Adam Jones": [
+    "guitar"
+  ],
+  "Adrian Belew": [
+    "guitar",
+    "vocals"
+  ],
+  "Adrian Smith": [
+    "guitar"
+  ],
+  "aespa": [
+    "vocals"
+  ],
+  "Ahmad Jamal": [
+    "piano"
+  ],
+  "Airto Moreira": [
+    "percussion"
+  ],
+  "Al Di Meola": [
+    "guitar"
+  ],
+  "Al Green": [
+    "vocals"
+  ],
+  "Alain Caron": [
+    "bass"
+  ],
+  "Alan Gorrie": [
+    "bass",
+    "vocals"
+  ],
+  "Alan Jackson": [
+    "vocals",
+    "guitar"
+  ],
+  "Alan White": [
+    "drums"
+  ],
+  "Alban Berg Quartett": [
+    "violin",
+    "viola",
+    "cello"
+  ],
+  "Albert Collins": [
+    "guitar",
+    "vocals"
+  ],
+  "Albert King": [
+    "guitar",
+    "vocals"
+  ],
+  "Albert Mangelsdorff": [
+    "trombone"
+  ],
+  "Alex Acuña": [
+    "percussion"
+  ],
+  "Alex Lifeson": [
+    "guitar"
+  ],
+  "Alex Paterson": [
+    "DJ"
+  ],
+  "Ali Akbar Khan": [
+    "sarod"
+  ],
+  "Ali Campbell": [
+    "vocals"
+  ],
+  "Ali Shaheed Muhammad": [
+    "DJ"
+  ],
+  "Alicia Keys": [
+    "vocals",
+    "piano"
+  ],
+  "Alison Krauss": [
+    "vocals",
+    "fiddle"
+  ],
+  "Alla Rakha": [
+    "tabla"
+  ],
+  "Allan Holdsworth": [
+    "guitar"
+  ],
+  "Alphonse Mouzon": [
+    "drums"
+  ],
+  "Amadeus Quartet": [
+    "violin",
+    "viola",
+    "cello"
+  ],
+  "Amakye Dede": [
+    "vocals"
+  ],
+  "Amanojaku": [
+    "taiko"
+  ],
+  "Amelie Lens": [
+    "DJ"
+  ],
+  "Amjad Ali Khan": [
+    "sarod"
+  ],
+  "Amy Winehouse": [
+    "vocals"
+  ],
+  "Amália Rodrigues": [
+    "vocals"
+  ],
+  "Ana Moura": [
+    "vocals"
+  ],
+  "Andraé Crouch": [
+    "vocals",
+    "piano"
+  ],
+  "Andrew Latimer": [
+    "guitar",
+    "vocals"
+  ],
+  "André 3000": [
+    "vocals"
+  ],
+  "Andy C": [
+    "DJ"
+  ],
+  "Andy Irvine": [
+    "vocals",
+    "mandolin"
+  ],
+  "Andy Rourke": [
+    "bass"
+  ],
+  "Andy Statman": [
+    "mandolin",
+    "clarinet"
+  ],
+  "Andy Summers": [
+    "guitar"
+  ],
+  "Angus Young": [
+    "guitar"
+  ],
+  "Ani DiFranco": [
+    "vocals",
+    "guitar"
+  ],
+  "Anita Baker": [
+    "vocals"
+  ],
+  "Anoushka Shankar": [
+    "sitar"
+  ],
+  "Anthony Kiedis": [
+    "vocals"
+  ],
+  "Antonio Pappano": [
+    "conductor"
+  ],
+  "Antonio Sanchez": [
+    "drums"
+  ],
+  "Antônio Carlos Jobim": [
+    "piano",
+    "vocals"
+  ],
+  "Aníbal Troilo": [
+    "bandoneon"
+  ],
+  "Aretha Franklin": [
+    "vocals",
+    "piano"
+  ],
+  "Arlo Guthrie": [
+    "vocals",
+    "guitar"
+  ],
+  "Armin van Buuren": [
+    "DJ"
+  ],
+  "Art Blakey": [
+    "drums"
+  ],
+  "Art Garfunkel": [
+    "vocals"
+  ],
+  "Art Neville": [
+    "keyboards",
+    "vocals"
+  ],
+  "Astor Piazzolla": [
+    "bandoneon"
+  ],
+  "Avicii": [
+    "DJ"
+  ],
+  "Axwell": [
+    "DJ"
+  ],
+  "Aziz Mian": [
+    "vocals"
+  ],
+  "B.B. King": [
+    "guitar",
+    "vocals"
+  ],
+  "BaliSpirit Festival Gamelan": [
+    "gamelan"
+  ],
+  "BeBe Winans": [
+    "vocals"
+  ],
+  "Belcea Quartet": [
+    "violin",
+    "viola",
+    "cello"
+  ],
+  "Ben Klock": [
+    "DJ"
+  ],
+  "Ben Shepherd": [
+    "bass"
+  ],
+  "Bennie Maupin": [
+    "saxophone"
+  ],
+  "Benny Goodman": [
+    "clarinet"
+  ],
+  "Bernard Haitink": [
+    "conductor"
+  ],
+  "Bernard Sumner": [
+    "vocals",
+    "guitar"
+  ],
+  "Bernie Worrell": [
+    "keyboards"
+  ],
+  "Berry Oakley": [
+    "bass"
+  ],
+  "Bert Jansch": [
+    "guitar",
+    "vocals"
+  ],
+  "Beth Hart": [
+    "vocals"
+  ],
+  "Bez": [
+    "percussion"
+  ],
+  "Bhimsen Joshi": [
+    "vocals"
+  ],
+  "Big Boi": [
+    "vocals"
+  ],
+  "Bilinda Butcher": [
+    "guitar",
+    "vocals"
+  ],
+  "Bill Bruford": [
+    "drums"
+  ],
+  "Bill Evans": [
+    "piano"
+  ],
+  "Bill Kelliher": [
+    "guitar"
+  ],
+  "Bill Kreutzmann": [
+    "drums"
+  ],
+  "Bill Monroe": [
+    "mandolin",
+    "vocals"
+  ],
+  "Bill Nershi": [
+    "guitar"
+  ],
+  "Bill Payne": [
+    "keyboards"
+  ],
+  "Bill Rieflin": [
+    "keyboards",
+    "drums"
+  ],
+  "Bill Ward": [
+    "drums"
+  ],
+  "Bill Withers": [
+    "vocals",
+    "guitar"
+  ],
+  "Bill Wyman": [
+    "bass"
+  ],
+  "Billie Joe Armstrong": [
+    "guitar",
+    "vocals"
+  ],
+  "Billy Cobham": [
+    "drums"
+  ],
+  "Billy Gibbons": [
+    "guitar",
+    "vocals"
+  ],
+  "Billy Martin": [
+    "drums"
+  ],
+  "Black Coffee": [
+    "DJ"
+  ],
+  "Black Thought": [
+    "vocals"
+  ],
+  "Bob Berg": [
+    "saxophone"
+  ],
+  "Bob Dylan": [
+    "vocals",
+    "guitar",
+    "harmonica"
+  ],
+  "Bob James": [
+    "keyboards"
+  ],
+  "Bob Marley": [
+    "vocals",
+    "guitar"
+  ],
+  "Bob Mintzer": [
+    "saxophone"
+  ],
+  "Bob Weir": [
+    "guitar",
+    "vocals"
+  ],
+  "Bobby Byrd": [
+    "vocals"
+  ],
+  "Bobby Osborne": [
+    "mandolin",
+    "vocals"
+  ],
+  "Bobby Womack": [
+    "vocals",
+    "guitar"
+  ],
+  "Bonnie Raitt": [
+    "guitar",
+    "vocals"
+  ],
+  "Booker T. Jones": [
+    "keyboards"
+  ],
+  "Bootsy Collins": [
+    "bass",
+    "vocals"
+  ],
+  "Borodin Quartet": [
+    "violin",
+    "viola",
+    "cello"
+  ],
+  "Brad Mehldau": [
+    "piano"
+  ],
+  "Brann Dailor": [
+    "drums"
+  ],
+  "Brendan Bayliss": [
+    "guitar",
+    "vocals"
+  ],
+  "Brent Hinds": [
+    "guitar"
+  ],
+  "Brian Blade": [
+    "drums"
+  ],
+  "Brian May": [
+    "guitar"
+  ],
+  "Brian Setzer": [
+    "guitar",
+    "vocals"
+  ],
+  "Brian Wilson": [
+    "vocals",
+    "keyboards"
+  ],
+  "Bruce Dickinson": [
+    "vocals"
+  ],
+  "Bruce Springsteen": [
+    "guitar",
+    "vocals"
+  ],
+  "Buckwheat Zydeco": [
+    "accordion",
+    "vocals"
+  ],
+  "Buddy Guy": [
+    "guitar",
+    "vocals"
+  ],
+  "Buddy Rich": [
+    "drums"
+  ],
+  "Bunny Wailer": [
+    "vocals"
+  ],
+  "Burning Spear": [
+    "vocals"
+  ],
+  "Butch Trucks": [
+    "drums"
+  ],
+  "Buzz Osborne": [
+    "guitar",
+    "vocals"
+  ],
+  "Béla Fleck": [
+    "banjo"
+  ],
+  "Cab Calloway": [
+    "vocals"
+  ],
+  "Caetano Veloso": [
+    "vocals",
+    "guitar"
+  ],
+  "Calvin Harris": [
+    "DJ"
+  ],
+  "Camané": [
+    "vocals"
+  ],
+  "Camarón de la Isla": [
+    "vocals"
+  ],
+  "Cannonball Adderley": [
+    "saxophone"
+  ],
+  "Canyon Crest Academy Gamelan": [
+    "gamelan"
+  ],
+  "Carl Craig": [
+    "DJ"
+  ],
+  "Carl Palmer": [
+    "drums"
+  ],
+  "Carl Perkins": [
+    "guitar",
+    "vocals"
+  ],
+  "Carlos do Carmo": [
+    "vocals"
+  ],
+  "Carlos Núñez": [
+    "gaita"
+  ],
+  "Carlos Santana": [
+    "guitar"
+  ],
+  "Carmen Linares": [
+    "vocals"
+  ],
+  "Carminho": [
+    "vocals"
+  ],
+  "Carole King": [
+    "vocals",
+    "piano"
+  ],
+  "Carter Beauford": [
+    "drums"
+  ],
+  "Cat Stevens": [
+    "vocals",
+    "guitar"
+  ],
+  "CeCe Winans": [
+    "vocals"
+  ],
+  "Cecil Taylor": [
+    "piano"
+  ],
+  "Celia Cruz": [
+    "vocals"
+  ],
+  "Chad Smith": [
+    "drums"
+  ],
+  "Chaka Khan": [
+    "vocals"
+  ],
+  "Charles Bradley": [
+    "vocals"
+  ],
+  "Charles Lloyd": [
+    "saxophone"
+  ],
+  "Charles Mingus": [
+    "bass"
+  ],
+  "Charley Pride": [
+    "vocals"
+  ],
+  "Charlie Watts": [
+    "drums"
+  ],
+  "Charlie Wilson": [
+    "vocals"
+  ],
+  "Charlotte de Witte": [
+    "DJ"
+  ],
+  "Chase & Status": [
+    "DJ"
+  ],
+  "Chester Thompson": [
+    "drums"
+  ],
+  "Chick Corea": [
+    "keyboards"
+  ],
+  "Chico Buarque": [
+    "vocals",
+    "guitar"
+  ],
+  "Chris Cornell": [
+    "vocals"
+  ],
+  "Chris Frantz": [
+    "drums"
+  ],
+  "Chris Layton": [
+    "drums"
+  ],
+  "Chris Potter": [
+    "saxophone"
+  ],
+  "Chris Squire": [
+    "bass",
+    "vocals"
+  ],
+  "Chris Stapleton": [
+    "vocals",
+    "guitar"
+  ],
+  "Chris Stein": [
+    "guitar"
+  ],
+  "Chris Thile": [
+    "mandolin"
+  ],
+  "Chris Wood": [
+    "bass"
+  ],
+  "Chrissie Hynde": [
+    "vocals",
+    "guitar"
+  ],
+  "Christian McBride": [
+    "bass"
+  ],
+  "Christian Vander": [
+    "drums",
+    "vocals"
+  ],
+  "Christine McVie": [
+    "keyboards",
+    "vocals"
+  ],
+  "Christone Ingram": [
+    "guitar",
+    "vocals"
+  ],
+  "Christopher Franke": [
+    "synthesizer"
+  ],
+  "Christy Moore": [
+    "vocals",
+    "guitar"
+  ],
+  "Chubby Carrier": [
+    "accordion",
+    "vocals"
+  ],
+  "Chucho Valdés": [
+    "piano"
+  ],
+  "Chuck D": [
+    "vocals"
+  ],
+  "Clifton Chenier": [
+    "accordion",
+    "vocals"
+  ],
+  "Clint Boon": [
+    "keyboards"
+  ],
+  "Clyde Stubblefield": [
+    "drums"
+  ],
+  "Compay Segundo": [
+    "guitar",
+    "vocals"
+  ],
+  "Corey Taylor": [
+    "vocals"
+  ],
+  "Cory Wong": [
+    "guitar"
+  ],
+  "Count Basie": [
+    "piano"
+  ],
+  "Cristina Branco": [
+    "vocals"
+  ],
+  "Curt Smith": [
+    "vocals",
+    "bass"
+  ],
+  "Curtis Mayfield": [
+    "vocals",
+    "guitar"
+  ],
+  "D'Angelo": [
+    "vocals",
+    "keyboards"
+  ],
+  "Daesung": [
+    "vocals"
+  ],
+  "Daevid Allen": [
+    "guitar",
+    "vocals"
+  ],
+  "Dale Crover": [
+    "drums"
+  ],
+  "Damian Marley": [
+    "vocals"
+  ],
+  "Damo Suzuki": [
+    "vocals"
+  ],
+  "Danilo Pérez": [
+    "piano"
+  ],
+  "Danish String Quartet": [
+    "violin",
+    "viola",
+    "cello"
+  ],
+  "Danny Carey": [
+    "drums"
+  ],
+  "Daron Malakian": [
+    "guitar",
+    "vocals"
+  ],
+  "Darryl Jenifer": [
+    "bass"
+  ],
+  "Darryl Jones": [
+    "bass"
+  ],
+  "Dave": [
+    "vocals"
+  ],
+  "Dave Brock": [
+    "guitar",
+    "vocals"
+  ],
+  "Dave Brubeck": [
+    "piano"
+  ],
+  "Dave Grohl": [
+    "drums"
+  ],
+  "Dave Holland": [
+    "bass"
+  ],
+  "Dave Lombardo": [
+    "drums"
+  ],
+  "Dave Matthews": [
+    "vocals",
+    "guitar"
+  ],
+  "Dave Murray": [
+    "guitar"
+  ],
+  "Dave Mustaine": [
+    "guitar",
+    "vocals"
+  ],
+  "Dave Stewart": [
+    "keyboards"
+  ],
+  "Dave Vanian": [
+    "vocals"
+  ],
+  "Dave Weckl": [
+    "drums"
+  ],
+  "David Byrne": [
+    "vocals",
+    "guitar"
+  ],
+  "David Coverdale": [
+    "vocals"
+  ],
+  "David Crosby": [
+    "vocals",
+    "guitar"
+  ],
+  "David Cross": [
+    "violin"
+  ],
+  "David Garibaldi": [
+    "drums"
+  ],
+  "David Gilmour": [
+    "guitar",
+    "vocals"
+  ],
+  "David Hinds": [
+    "vocals",
+    "guitar"
+  ],
+  "David Krakauer": [
+    "clarinet"
+  ],
+  "David Morales": [
+    "DJ"
+  ],
+  "David Rawlings": [
+    "guitar",
+    "vocals"
+  ],
+  "David Sinclair": [
+    "keyboards"
+  ],
+  "deadmau5": [
+    "DJ",
+    "synthesizer"
+  ],
+  "Debbie Harry": [
+    "vocals"
+  ],
+  "Dee Dee Ramone": [
+    "bass",
+    "vocals"
+  ],
+  "Del McCoury": [
+    "guitar",
+    "vocals"
+  ],
+  "Dennis Brown": [
+    "vocals"
+  ],
+  "Dennis Chambers": [
+    "drums"
+  ],
+  "Derek Trucks": [
+    "guitar"
+  ],
+  "Derrick May": [
+    "DJ"
+  ],
+  "Desmond Dekker": [
+    "vocals"
+  ],
+  "Dewey Balfa": [
+    "fiddle",
+    "vocals"
+  ],
+  "Dexter Holland": [
+    "vocals",
+    "guitar"
+  ],
+  "Diamanda Galás": [
+    "vocals",
+    "piano"
+  ],
+  "Dickey Betts": [
+    "guitar"
+  ],
+  "Didier Malherbe": [
+    "saxophone",
+    "flute"
+  ],
+  "Dimebag Darrell": [
+    "guitar"
+  ],
+  "Dixon": [
+    "DJ"
+  ],
+  "Dizzy Gillespie": [
+    "trumpet"
+  ],
+  "Djavan": [
+    "vocals",
+    "guitar"
+  ],
+  "DMC": [
+    "vocals"
+  ],
+  "Doc Watson": [
+    "guitar",
+    "vocals"
+  ],
+  "Dolly Parton": [
+    "vocals"
+  ],
+  "Don Alias": [
+    "percussion"
+  ],
+  "Don Henley": [
+    "drums",
+    "vocals"
+  ],
+  "Don Van Vliet": [
+    "vocals",
+    "harmonica"
+  ],
+  "Donald Fagen": [
+    "vocals",
+    "keyboards"
+  ],
+  "Donna Godchaux": [
+    "vocals"
+  ],
+  "Donnie McClurkin": [
+    "vocals"
+  ],
+  "Donnie Munro": [
+    "vocals"
+  ],
+  "Donny Hathaway": [
+    "vocals",
+    "piano"
+  ],
+  "Dr. Know": [
+    "guitar"
+  ],
+  "Drake": [
+    "vocals"
+  ],
+  "Drum Tao": [
+    "taiko"
+  ],
+  "Duane Allman": [
+    "guitar"
+  ],
+  "Duck Dunn": [
+    "bass"
+  ],
+  "Duke Ellington": [
+    "piano"
+  ],
+  "Dusty Hill": [
+    "bass",
+    "vocals"
+  ],
+  "Dwight Yoakam": [
+    "vocals",
+    "guitar"
+  ],
+  "Dónal Lunny": [
+    "bouzouki",
+    "vocals"
+  ],
+  "E.T. Mensah": [
+    "trumpet",
+    "vocals"
+  ],
+  "Earl Hudson": [
+    "drums"
+  ],
+  "Earl Scruggs": [
+    "banjo"
+  ],
+  "East Bay Ray": [
+    "guitar"
+  ],
+  "Ebo Taylor": [
+    "guitar",
+    "vocals"
+  ],
+  "Ed Simons": [
+    "DJ",
+    "synthesizer"
+  ],
+  "Ed Wynne": [
+    "guitar"
+  ],
+  "Eddie Hazel": [
+    "guitar"
+  ],
+  "Eddie Palmieri": [
+    "piano"
+  ],
+  "Eddie Vedder": [
+    "vocals"
+  ],
+  "Edgar Froese": [
+    "synthesizer"
+  ],
+  "Eduardo Makaroff": [
+    "guitar"
+  ],
+  "Elis Regina": [
+    "vocals"
+  ],
+  "Elizabeth Fraser": [
+    "vocals"
+  ],
+  "Ella Fitzgerald": [
+    "vocals"
+  ],
+  "Elliott Smith": [
+    "vocals",
+    "guitar"
+  ],
+  "Elton Dean": [
+    "saxophone"
+  ],
+  "Elvin Jones": [
+    "drums"
+  ],
+  "Elvis Costello": [
+    "vocals",
+    "guitar"
+  ],
+  "Elvis Presley": [
+    "vocals",
+    "guitar"
+  ],
+  "Elza Soares": [
+    "vocals"
+  ],
+  "Emerson String Quartet": [
+    "violin",
+    "viola",
+    "cello"
+  ],
+  "Emilio Castillo": [
+    "saxophone"
+  ],
+  "Emily Strayer": [
+    "banjo",
+    "vocals"
+  ],
+  "Eminem": [
+    "vocals"
+  ],
+  "Emmylou Harris": [
+    "vocals",
+    "guitar"
+  ],
+  "Emory Javanese Gamelan": [
+    "gamelan"
+  ],
+  "Enrique Morente": [
+    "vocals"
+  ],
+  "Eric Clapton": [
+    "guitar",
+    "vocals"
+  ],
+  "Eric Krasno": [
+    "guitar"
+  ],
+  "Eric Prydz": [
+    "DJ"
+  ],
+  "Erykah Badu": [
+    "vocals"
+  ],
+  "Esperanza Spalding": [
+    "bass",
+    "vocals"
+  ],
+  "Estrella Morente": [
+    "vocals"
+  ],
+  "Etta James": [
+    "vocals"
+  ],
+  "Eva Cassidy": [
+    "vocals",
+    "guitar"
+  ],
+  "EXO": [
+    "vocals"
+  ],
+  "Fabio": [
+    "DJ"
+  ],
+  "Fareed Ayaz": [
+    "vocals"
+  ],
+  "Fast Eddie Clarke": [
+    "guitar"
+  ],
+  "Fat Mike": [
+    "bass",
+    "vocals"
+  ],
+  "Fatboy Slim": [
+    "DJ"
+  ],
+  "Fela Kuti": [
+    "vocals",
+    "saxophone",
+    "keyboards"
+  ],
+  "Femi Kuti": [
+    "vocals",
+    "saxophone"
+  ],
+  "Fish": [
+    "vocals"
+  ],
+  "Flavor Flav": [
+    "vocals"
+  ],
+  "Flea": [
+    "bass"
+  ],
+  "Fletcher Dragge": [
+    "guitar"
+  ],
+  "Florian Schneider": [
+    "synthesizer"
+  ],
+  "Frank Beard": [
+    "drums"
+  ],
+  "Frank Gambale": [
+    "guitar"
+  ],
+  "Frank London": [
+    "trumpet"
+  ],
+  "Frank Zappa": [
+    "guitar",
+    "vocals"
+  ],
+  "Frankie Knuckles": [
+    "DJ"
+  ],
+  "Fred Schneider": [
+    "vocals"
+  ],
+  "Fred Wesley": [
+    "trombone"
+  ],
+  "Freddie Hubbard": [
+    "trumpet"
+  ],
+  "Freddie King": [
+    "guitar",
+    "vocals"
+  ],
+  "Freddie Mercury": [
+    "vocals"
+  ],
+  "G-Dragon": [
+    "vocals"
+  ],
+  "Gal Costa": [
+    "vocals"
+  ],
+  "Gamelan Gong Gede ISI Denpasar": [
+    "gamelan"
+  ],
+  "Gamelan Gong Gede of Batur Temple": [
+    "gamelan"
+  ],
+  "Gamelan Sekar Jaya": [
+    "gamelan"
+  ],
+  "Garry Shider": [
+    "guitar",
+    "vocals"
+  ],
+  "Garth Brooks": [
+    "vocals",
+    "guitar"
+  ],
+  "Garth Hudson": [
+    "keyboards"
+  ],
+  "Gary Clark Jr.": [
+    "guitar",
+    "vocals"
+  ],
+  "Gary Moore": [
+    "guitar",
+    "vocals"
+  ],
+  "Gary Numan": [
+    "vocals",
+    "keyboards"
+  ],
+  "Gary Peacock": [
+    "bass"
+  ],
+  "Gary Rossington": [
+    "guitar"
+  ],
+  "Gary Willis": [
+    "bass"
+  ],
+  "Gavin Harrison": [
+    "drums"
+  ],
+  "Geddy Lee": [
+    "bass",
+    "vocals"
+  ],
+  "Geezer Butler": [
+    "bass"
+  ],
+  "Gene Vincent": [
+    "vocals",
+    "guitar"
+  ],
+  "Geno Delafose": [
+    "accordion",
+    "vocals"
+  ],
+  "George Clinton": [
+    "vocals"
+  ],
+  "George Darko": [
+    "guitar",
+    "vocals"
+  ],
+  "George Duke": [
+    "keyboards"
+  ],
+  "George Harrison": [
+    "guitar",
+    "vocals"
+  ],
+  "George Johnson": [
+    "guitar",
+    "vocals"
+  ],
+  "George Jones": [
+    "vocals"
+  ],
+  "George Porter Jr.": [
+    "bass"
+  ],
+  "George Strait": [
+    "vocals",
+    "guitar"
+  ],
+  "Ghostface Killah": [
+    "vocals"
+  ],
+  "Gil Evans": [
+    "conductor"
+  ],
+  "Gilberto Gil": [
+    "vocals",
+    "guitar"
+  ],
+  "Gilli Smyth": [
+    "vocals"
+  ],
+  "Gillian Gilbert": [
+    "keyboards"
+  ],
+  "Gillian Welch": [
+    "vocals",
+    "guitar"
+  ],
+  "Ginger Baker": [
+    "drums"
+  ],
+  "Giora Feidman": [
+    "clarinet"
+  ],
+  "Gisela João": [
+    "vocals"
+  ],
+  "Glenn Danzig": [
+    "vocals"
+  ],
+  "Glenn Frey": [
+    "guitar",
+    "vocals"
+  ],
+  "Glenn Hughes": [
+    "bass",
+    "vocals"
+  ],
+  "Glenn Tipton": [
+    "guitar"
+  ],
+  "Goldie": [
+    "DJ"
+  ],
+  "Gordon Goodwin": [
+    "saxophone",
+    "piano"
+  ],
+  "Graham Massey": [
+    "keyboards",
+    "synthesizer"
+  ],
+  "Graham Nash": [
+    "vocals",
+    "guitar"
+  ],
+  "Greg Ginn": [
+    "guitar"
+  ],
+  "Greg Graffin": [
+    "vocals"
+  ],
+  "Greg Lake": [
+    "bass",
+    "vocals"
+  ],
+  "Gregg Allman": [
+    "vocals",
+    "keyboards"
+  ],
+  "Gregg Bissonette": [
+    "drums"
+  ],
+  "Gregory Isaacs": [
+    "vocals"
+  ],
+  "Grooverider": [
+    "DJ"
+  ],
+  "Guarneri Quartet": [
+    "violin",
+    "viola",
+    "cello"
+  ],
+  "Gustavo Dudamel": [
+    "conductor"
+  ],
+  "Gustavo Santaolalla": [
+    "guitar"
+  ],
+  "Guy Garvey": [
+    "vocals"
+  ],
+  "Guy Lawrence": [
+    "DJ"
+  ],
+  "Guy Picciotto": [
+    "guitar",
+    "vocals"
+  ],
+  "Guy-Manuel de Homem-Christo": [
+    "DJ",
+    "synthesizer"
+  ],
+  "Gyedu-Blay Ambolley": [
+    "vocals"
+  ],
+  "GZA": [
+    "vocals"
+  ],
+  "H.R.": [
+    "vocals"
+  ],
+  "Hank Williams Jr.": [
+    "vocals",
+    "guitar"
+  ],
+  "Hankus Netsky": [
+    "keyboards"
+  ],
+  "Hariprasad Chaurasia": [
+    "bansuri"
+  ],
+  "Haruomi Hosono": [
+    "bass",
+    "keyboards",
+    "vocals"
+  ],
+  "Harvey Bainbridge": [
+    "bass",
+    "keyboards"
+  ],
+  "Harvey Mason": [
+    "drums"
+  ],
+  "Heath": [
+    "bass"
+  ],
+  "Henry Rollins": [
+    "vocals"
+  ],
+  "Herbert von Karajan": [
+    "conductor"
+  ],
+  "Herbie Hancock": [
+    "keyboards"
+  ],
+  "hide": [
+    "guitar"
+  ],
+  "High Contrast": [
+    "DJ"
+  ],
+  "Hiromi": [
+    "piano"
+  ],
+  "Holger Czukay": [
+    "bass"
+  ],
+  "Honey Dijon": [
+    "DJ"
+  ],
+  "Horace Silver": [
+    "piano"
+  ],
+  "Horacio Salgán": [
+    "piano"
+  ],
+  "Howard Lawrence": [
+    "DJ",
+    "vocals"
+  ],
+  "Howlin' Wolf": [
+    "vocals",
+    "harmonica",
+    "guitar"
+  ],
+  "Hugh Hopper": [
+    "bass"
+  ],
+  "Huw Lloyd-Langton": [
+    "guitar"
+  ],
+  "hyde": [
+    "vocals"
+  ],
+  "Héctor Lavoe": [
+    "vocals"
+  ],
+  "Ian Anderson": [
+    "flute",
+    "vocals",
+    "guitar"
+  ],
+  "Ian Brown": [
+    "vocals"
+  ],
+  "Ian Curtis": [
+    "vocals"
+  ],
+  "Ian Hill": [
+    "bass"
+  ],
+  "Ian MacKaye": [
+    "vocals",
+    "guitar"
+  ],
+  "Ian McDonald": [
+    "saxophone",
+    "flute",
+    "keyboards"
+  ],
+  "Ian Paice": [
+    "drums"
+  ],
+  "Iarla Ó Lionáird": [
+    "vocals"
+  ],
+  "Ibrahim Ferrer": [
+    "vocals"
+  ],
+  "Ice Cube": [
+    "vocals"
+  ],
+  "Iggy Pop": [
+    "vocals"
+  ],
+  "Imelda May": [
+    "vocals"
+  ],
+  "Irma Thomas": [
+    "vocals"
+  ],
+  "Irmin Schmidt": [
+    "keyboards"
+  ],
+  "Isaac Hayes": [
+    "vocals",
+    "keyboards"
+  ],
+  "Israel Vibration": [
+    "vocals"
+  ],
+  "Issei Noro": [
+    "guitar"
+  ],
+  "Itzhak Perlman": [
+    "violin"
+  ],
+  "IU": [
+    "vocals"
+  ],
+  "Ivan Lins": [
+    "vocals",
+    "piano"
+  ],
+  "Ivan Neville": [
+    "keyboards",
+    "vocals"
+  ],
+  "J-Hope": [
+    "vocals"
+  ],
+  "J. Cole": [
+    "vocals"
+  ],
+  "Jack Bruce": [
+    "bass",
+    "vocals"
+  ],
+  "Jack DeJohnette": [
+    "drums"
+  ],
+  "Jackson Browne": [
+    "vocals",
+    "guitar"
+  ],
+  "Jaco Pastorius": [
+    "bass"
+  ],
+  "Jacqui McShee": [
+    "vocals"
+  ],
+  "Jaimoe": [
+    "drums"
+  ],
+  "Jaki Liebezeit": [
+    "drums"
+  ],
+  "Jakko Jakszyk": [
+    "guitar",
+    "vocals"
+  ],
+  "Jam Master Jay": [
+    "DJ"
+  ],
+  "James Brown": [
+    "vocals"
+  ],
+  "James Cleveland": [
+    "vocals",
+    "piano"
+  ],
+  "James Hetfield": [
+    "guitar",
+    "vocals"
+  ],
+  "James LaBrie": [
+    "vocals"
+  ],
+  "James Taylor": [
+    "vocals",
+    "guitar"
+  ],
+  "Jan Hammer": [
+    "keyboards"
+  ],
+  "Jan Kincaid": [
+    "drums"
+  ],
+  "Janick Gers": [
+    "guitar"
+  ],
+  "Janis Joplin": [
+    "vocals"
+  ],
+  "Jason Newsted": [
+    "bass"
+  ],
+  "Jay Beckenstein": [
+    "saxophone"
+  ],
+  "Jay Kay": [
+    "vocals"
+  ],
+  "Jay-Z": [
+    "vocals"
+  ],
+  "Jean-Luc Ponty": [
+    "violin"
+  ],
+  "Jean-Michel Jarre": [
+    "synthesizer"
+  ],
+  "Jean-Paul 'Bluey' Maunick": [
+    "guitar"
+  ],
+  "Jean-Paul Maunick": [
+    "guitar"
+  ],
+  "Jeff Ament": [
+    "bass"
+  ],
+  "Jeff Beck": [
+    "guitar"
+  ],
+  "Jeff Hanneman": [
+    "guitar"
+  ],
+  "Jeff Mills": [
+    "DJ"
+  ],
+  "Jello Biafra": [
+    "vocals"
+  ],
+  "Jennie": [
+    "vocals"
+  ],
+  "Jerry Cantrell": [
+    "guitar",
+    "vocals"
+  ],
+  "Jerry Douglas": [
+    "dobro"
+  ],
+  "Jerry Garcia": [
+    "guitar",
+    "vocals"
+  ],
+  "Jerry Goodman": [
+    "violin"
+  ],
+  "Jerry Harrison": [
+    "keyboards",
+    "guitar"
+  ],
+  "Jerry Lee Lewis": [
+    "piano",
+    "vocals"
+  ],
+  "Jill Scott": [
+    "vocals"
+  ],
+  "Jim Heath": [
+    "guitar",
+    "vocals"
+  ],
+  "Jim James": [
+    "vocals",
+    "guitar"
+  ],
+  "Jim Morrison": [
+    "vocals"
+  ],
+  "Jim Reid": [
+    "vocals",
+    "guitar"
+  ],
+  "Jimi Hendrix": [
+    "guitar",
+    "vocals"
+  ],
+  "Jimin": [
+    "vocals"
+  ],
+  "Jimmy Cliff": [
+    "vocals"
+  ],
+  "Jimmy Garrison": [
+    "bass"
+  ],
+  "Jimmy Haslip": [
+    "bass"
+  ],
+  "Jimmy Nolen": [
+    "guitar"
+  ],
+  "Jimmy Page": [
+    "guitar"
+  ],
+  "Jin": [
+    "vocals"
+  ],
+  "Jisoo": [
+    "vocals"
+  ],
+  "Joan Baez": [
+    "vocals",
+    "guitar"
+  ],
+  "Joe Bonamassa": [
+    "guitar",
+    "vocals"
+  ],
+  "Joe Dart": [
+    "bass"
+  ],
+  "Joe Duplantier": [
+    "guitar",
+    "vocals"
+  ],
+  "Joe Henderson": [
+    "saxophone"
+  ],
+  "Joe Jackson": [
+    "vocals",
+    "keyboards"
+  ],
+  "Joe Pass": [
+    "guitar"
+  ],
+  "Joe Perry": [
+    "guitar"
+  ],
+  "Joe Strummer": [
+    "vocals",
+    "guitar"
+  ],
+  "Joe Zawinul": [
+    "keyboards"
+  ],
+  "Joey Belladonna": [
+    "vocals"
+  ],
+  "Joey Ramone": [
+    "vocals"
+  ],
+  "John Bell": [
+    "vocals",
+    "guitar"
+  ],
+  "John Bonham": [
+    "drums"
+  ],
+  "John Coltrane": [
+    "saxophone"
+  ],
+  "John Deacon": [
+    "bass"
+  ],
+  "John Densmore": [
+    "drums"
+  ],
+  "John Entwistle": [
+    "bass"
+  ],
+  "John Etheridge": [
+    "guitar"
+  ],
+  "John Fogerty": [
+    "guitar",
+    "vocals"
+  ],
+  "John Frusciante": [
+    "guitar"
+  ],
+  "John Goodsall": [
+    "guitar"
+  ],
+  "John Lee Hooker": [
+    "guitar",
+    "vocals"
+  ],
+  "John Lewis": [
+    "piano"
+  ],
+  "John Marshall": [
+    "drums"
+  ],
+  "John Mayall": [
+    "vocals",
+    "harmonica",
+    "guitar"
+  ],
+  "John Mayer": [
+    "guitar",
+    "vocals"
+  ],
+  "John McLaughlin": [
+    "guitar"
+  ],
+  "John McVie": [
+    "bass"
+  ],
+  "John Medeski": [
+    "keyboards"
+  ],
+  "John Myung": [
+    "bass"
+  ],
+  "John Patitucci": [
+    "bass"
+  ],
+  "John Paul Jones": [
+    "bass",
+    "keyboards"
+  ],
+  "John Petrucci": [
+    "guitar"
+  ],
+  "John Popper": [
+    "harmonica",
+    "vocals"
+  ],
+  "John Prine": [
+    "vocals",
+    "guitar"
+  ],
+  "John Renbourn": [
+    "guitar"
+  ],
+  "John Scofield": [
+    "guitar"
+  ],
+  "John Squire": [
+    "guitar"
+  ],
+  "John Wetton": [
+    "bass",
+    "vocals"
+  ],
+  "John Williams": [
+    "conductor"
+  ],
+  "Johnny Cash": [
+    "vocals",
+    "guitar"
+  ],
+  "Johnny Marr": [
+    "guitar",
+    "vocals"
+  ],
+  "Johnny Ramone": [
+    "guitar"
+  ],
+  "Johnny Rotten": [
+    "vocals"
+  ],
+  "Johnny Winter": [
+    "guitar",
+    "vocals"
+  ],
+  "Jon Anderson": [
+    "vocals"
+  ],
+  "Jon Fishman": [
+    "drums"
+  ],
+  "Jon Lord": [
+    "keyboards"
+  ],
+  "Joni Mitchell": [
+    "vocals",
+    "guitar"
+  ],
+  "Jordan Rudess": [
+    "keyboards"
+  ],
+  "Jorge Ben Jor": [
+    "vocals",
+    "guitar"
+  ],
+  "Joseph Hill": [
+    "vocals"
+  ],
+  "João Bosco": [
+    "vocals",
+    "guitar"
+  ],
+  "João Gilberto": [
+    "guitar",
+    "vocals"
+  ],
+  "Judy Collins": [
+    "vocals",
+    "guitar"
+  ],
+  "June Carter Cash": [
+    "vocals",
+    "guitar"
+  ],
+  "Jungkook": [
+    "vocals"
+  ],
+  "Junior Wells": [
+    "harmonica",
+    "vocals"
+  ],
+  "Justin Chancellor": [
+    "bass"
+  ],
+  "K.K. Downing": [
+    "guitar"
+  ],
+  "Kamasi Washington": [
+    "saxophone"
+  ],
+  "Kanye West": [
+    "vocals"
+  ],
+  "Karen Matheson": [
+    "vocals"
+  ],
+  "Karl Jenkins": [
+    "keyboards",
+    "saxophone"
+  ],
+  "Kate Pierson": [
+    "vocals"
+  ],
+  "Kazutoshi Sakurai": [
+    "vocals",
+    "guitar"
+  ],
+  "Keb' Mo'": [
+    "guitar",
+    "vocals"
+  ],
+  "Keisuke Kuwata": [
+    "vocals",
+    "guitar"
+  ],
+  "Keith Emerson": [
+    "keyboards"
+  ],
+  "Keith Flint": [
+    "vocals"
+  ],
+  "Keith Godchaux": [
+    "keyboards"
+  ],
+  "Keith Jarrett": [
+    "piano"
+  ],
+  "Keith Moon": [
+    "drums"
+  ],
+  "Keith Richards": [
+    "guitar"
+  ],
+  "Keith Tippett": [
+    "piano"
+  ],
+  "ken": [
+    "guitar"
+  ],
+  "Kendrick Lamar": [
+    "vocals"
+  ],
+  "Kenny Wayne Shepherd": [
+    "guitar"
+  ],
+  "Kerri Chandler": [
+    "DJ"
+  ],
+  "Kerry King": [
+    "guitar"
+  ],
+  "Kerry Livgren": [
+    "guitar"
+  ],
+  "Kevin Ayers": [
+    "bass",
+    "vocals"
+  ],
+  "Kevin Crawford": [
+    "flute"
+  ],
+  "Kevin Shields": [
+    "guitar",
+    "vocals"
+  ],
+  "Kim Gordon": [
+    "bass",
+    "vocals"
+  ],
+  "Kim Thayil": [
+    "guitar"
+  ],
+  "Kimmo Pohjonen": [
+    "accordion"
+  ],
+  "King Sunny Ade": [
+    "guitar",
+    "vocals"
+  ],
+  "Kirk Franklin": [
+    "vocals"
+  ],
+  "Kirk Hammett": [
+    "guitar"
+  ],
+  "Klaus Doldinger": [
+    "saxophone"
+  ],
+  "Klaus Schulze": [
+    "synthesizer"
+  ],
+  "Kodo": [
+    "taiko"
+  ],
+  "Koko Taylor": [
+    "vocals"
+  ],
+  "Koshi Inaba": [
+    "vocals"
+  ],
+  "Kris Kristofferson": [
+    "vocals",
+    "guitar"
+  ],
+  "Krist Novoselic": [
+    "bass"
+  ],
+  "Kronos Quartet": [
+    "violin",
+    "viola",
+    "cello"
+  ],
+  "Kurt Cobain": [
+    "guitar",
+    "vocals"
+  ],
+  "L. Subramaniam": [
+    "violin"
+  ],
+  "Laraaji": [
+    "zither"
+  ],
+  "Larry Blackmon": [
+    "vocals",
+    "drums"
+  ],
+  "Lars Frederiksen": [
+    "guitar",
+    "vocals"
+  ],
+  "Lars Ulrich": [
+    "drums"
+  ],
+  "Laura Marling": [
+    "vocals",
+    "guitar"
+  ],
+  "Laurie Anderson": [
+    "vocals",
+    "violin"
+  ],
+  "Lauryn Hill": [
+    "vocals"
+  ],
+  "Lawrence University Gamelan": [
+    "gamelan"
+  ],
+  "Layne Staley": [
+    "vocals"
+  ],
+  "Lee \"Scratch\" Perry": [
+    "vocals"
+  ],
+  "Lee Fields": [
+    "vocals"
+  ],
+  "Lee Ranaldo": [
+    "guitar"
+  ],
+  "Lee Ritenour": [
+    "guitar"
+  ],
+  "Lee Rocker": [
+    "bass"
+  ],
+  "Lemmy": [
+    "bass",
+    "vocals"
+  ],
+  "Lenny White": [
+    "drums"
+  ],
+  "Leo Nocentelli": [
+    "guitar"
+  ],
+  "Leonard Cohen": [
+    "vocals",
+    "guitar"
+  ],
+  "Lester Flatt": [
+    "guitar",
+    "vocals"
+  ],
+  "Levon Helm": [
+    "drums",
+    "vocals"
+  ],
+  "Liam Gallagher": [
+    "vocals"
+  ],
+  "Liam Howlett": [
+    "synthesizer"
+  ],
+  "Liam O'Flynn": [
+    "uilleann pipes"
+  ],
+  "Lightnin' Hopkins": [
+    "guitar",
+    "vocals"
+  ],
+  "Lindsey Buckingham": [
+    "guitar",
+    "vocals"
+  ],
+  "Link Wray": [
+    "guitar"
+  ],
+  "Lionel Richie": [
+    "vocals"
+  ],
+  "Lisa": [
+    "vocals"
+  ],
+  "Lisa Gerrard": [
+    "vocals"
+  ],
+  "LL Cool J": [
+    "vocals"
+  ],
+  "Loretta Lynn": [
+    "vocals"
+  ],
+  "Louie Vega": [
+    "DJ"
+  ],
+  "Louis Armstrong": [
+    "trumpet",
+    "vocals"
+  ],
+  "Louis Johnson": [
+    "bass"
+  ],
+  "LTJ Bukem": [
+    "DJ"
+  ],
+  "Luke Kelly": [
+    "vocals",
+    "banjo"
+  ],
+  "Luther Allison": [
+    "guitar",
+    "vocals"
+  ],
+  "Luther Vandross": [
+    "vocals"
+  ],
+  "Lyle Mays": [
+    "keyboards"
+  ],
+  "M.S. Subbulakshmi": [
+    "vocals"
+  ],
+  "Maceo Parker": [
+    "saxophone"
+  ],
+  "Magic Sam": [
+    "guitar",
+    "vocals"
+  ],
+  "Mahalia Jackson": [
+    "vocals"
+  ],
+  "Mairéad Ní Mhaonaigh": [
+    "fiddle",
+    "vocals"
+  ],
+  "Mani": [
+    "bass"
+  ],
+  "Manolo Badrena": [
+    "percussion"
+  ],
+  "Marc Anthony": [
+    "vocals"
+  ],
+  "Marcus Miller": [
+    "bass"
+  ],
+  "Maria Bethânia": [
+    "vocals"
+  ],
+  "Maria Schneider": [
+    "conductor"
+  ],
+  "Mario Duplantier": [
+    "drums"
+  ],
+  "Marisa Monte": [
+    "vocals"
+  ],
+  "Mariza": [
+    "vocals"
+  ],
+  "Mark Arm": [
+    "vocals",
+    "guitar"
+  ],
+  "Mark E. Smith": [
+    "vocals"
+  ],
+  "Mark Gardener": [
+    "guitar",
+    "vocals"
+  ],
+  "Mark King": [
+    "bass",
+    "vocals"
+  ],
+  "Mark Knopfler": [
+    "guitar",
+    "vocals"
+  ],
+  "Mark Lanegan": [
+    "vocals"
+  ],
+  "Mark Mothersbaugh": [
+    "vocals",
+    "keyboards"
+  ],
+  "Martie Maguire": [
+    "fiddle",
+    "vocals"
+  ],
+  "Marty Stuart": [
+    "mandolin",
+    "vocals",
+    "guitar"
+  ],
+  "Marvin Gaye": [
+    "vocals"
+  ],
+  "Mary J. Blige": [
+    "vocals"
+  ],
+  "Masafumi Gotoh": [
+    "vocals",
+    "guitar"
+  ],
+  "Matt Cameron": [
+    "drums"
+  ],
+  "Maurice White": [
+    "vocals",
+    "drums"
+  ],
+  "Max Cavalera": [
+    "guitar",
+    "vocals"
+  ],
+  "Maxim": [
+    "vocals"
+  ],
+  "Maxwell": [
+    "vocals"
+  ],
+  "Maynard Ferguson": [
+    "trumpet"
+  ],
+  "Maynard James Keenan": [
+    "vocals"
+  ],
+  "MCA": [
+    "vocals"
+  ],
+  "McCoy Tyner": [
+    "piano"
+  ],
+  "Mel Collins": [
+    "saxophone",
+    "flute"
+  ],
+  "Mel Lewis": [
+    "drums"
+  ],
+  "Menahem Pressler": [
+    "piano"
+  ],
+  "Meredith Monk": [
+    "vocals"
+  ],
+  "Merle Haggard": [
+    "vocals",
+    "guitar"
+  ],
+  "Method Man": [
+    "vocals"
+  ],
+  "Michael Brecker": [
+    "saxophone"
+  ],
+  "Michael Doucet": [
+    "fiddle",
+    "vocals"
+  ],
+  "Michael Giles": [
+    "drums"
+  ],
+  "Michael Gira": [
+    "vocals",
+    "guitar"
+  ],
+  "Michael Hutchence": [
+    "vocals"
+  ],
+  "Michael Jackson": [
+    "vocals"
+  ],
+  "Michael Karoli": [
+    "guitar"
+  ],
+  "Michael League": [
+    "bass"
+  ],
+  "Michael Rose": [
+    "vocals"
+  ],
+  "Michel Camilo": [
+    "piano"
+  ],
+  "Mick Fleetwood": [
+    "drums"
+  ],
+  "Mick Jagger": [
+    "vocals"
+  ],
+  "Mick Jones": [
+    "guitar",
+    "vocals"
+  ],
+  "Mickey Hart": [
+    "percussion"
+  ],
+  "Mighty Clouds of Joy": [
+    "vocals"
+  ],
+  "Mikael Åkerfeldt": [
+    "guitar",
+    "vocals"
+  ],
+  "Mike Clark": [
+    "drums"
+  ],
+  "Mike D": [
+    "vocals"
+  ],
+  "Mike Dirnt": [
+    "bass"
+  ],
+  "Mike Gordon": [
+    "bass",
+    "vocals"
+  ],
+  "Mike Inez": [
+    "bass"
+  ],
+  "Mike Joyce": [
+    "drums"
+  ],
+  "Mike Love": [
+    "vocals"
+  ],
+  "Mike Mainieri": [
+    "vibraphone"
+  ],
+  "Mike McCready": [
+    "guitar"
+  ],
+  "Mike Ness": [
+    "guitar",
+    "vocals"
+  ],
+  "Mike Portnoy": [
+    "drums"
+  ],
+  "Mike Ratledge": [
+    "keyboards"
+  ],
+  "Mike Rutherford": [
+    "guitar",
+    "bass"
+  ],
+  "Mike Stern": [
+    "guitar"
+  ],
+  "Miki Berenyi": [
+    "vocals",
+    "guitar"
+  ],
+  "Miles Davis": [
+    "trumpet"
+  ],
+  "Milo Aukerman": [
+    "vocals"
+  ],
+  "Milt Jackson": [
+    "vibraphone"
+  ],
+  "Milton Nascimento": [
+    "vocals"
+  ],
+  "Miranda Lambert": [
+    "vocals",
+    "guitar"
+  ],
+  "Mississippi Mass Choir": [
+    "vocals"
+  ],
+  "Missy Elliott": [
+    "vocals"
+  ],
+  "Morris Day": [
+    "vocals"
+  ],
+  "Morrissey": [
+    "vocals"
+  ],
+  "Moya Brennan": [
+    "vocals",
+    "harp"
+  ],
+  "Muddy Waters": [
+    "guitar",
+    "vocals"
+  ],
+  "Napoleon Murphy Brock": [
+    "vocals",
+    "saxophone"
+  ],
+  "Nas": [
+    "vocals"
+  ],
+  "Natalie Maines": [
+    "vocals"
+  ],
+  "Nathan East": [
+    "bass"
+  ],
+  "Nathan Williams": [
+    "accordion",
+    "vocals"
+  ],
+  "Neil Halstead": [
+    "guitar",
+    "vocals"
+  ],
+  "Neil Peart": [
+    "drums"
+  ],
+  "Neil Young": [
+    "vocals",
+    "guitar"
+  ],
+  "Netsky": [
+    "DJ"
+  ],
+  "Nick Cave": [
+    "vocals",
+    "piano"
+  ],
+  "Nick Mason": [
+    "drums"
+  ],
+  "Nick Rhodes": [
+    "keyboards"
+  ],
+  "Nicko McBrain": [
+    "drums"
+  ],
+  "Nik Turner": [
+    "saxophone",
+    "flute",
+    "vocals"
+  ],
+  "Nina Kraviz": [
+    "DJ"
+  ],
+  "Nina Simone": [
+    "vocals",
+    "piano"
+  ],
+  "Noel Gallagher": [
+    "guitar",
+    "vocals"
+  ],
+  "Nusrat Fateh Ali Khan": [
+    "vocals"
+  ],
+  "Odetta": [
+    "vocals",
+    "guitar"
+  ],
+  "Oedo Sukeroku Taiko": [
+    "taiko"
+  ],
+  "Omar Hakim": [
+    "drums"
+  ],
+  "Omara Portuondo": [
+    "vocals"
+  ],
+  "Ondekoza": [
+    "taiko"
+  ],
+  "Orlando Julius": [
+    "saxophone",
+    "vocals"
+  ],
+  "Ornette Coleman": [
+    "saxophone"
+  ],
+  "Oscar D'León": [
+    "vocals",
+    "bass"
+  ],
+  "Oscar Peterson": [
+    "piano"
+  ],
+  "Osvaldo Pugliese": [
+    "piano"
+  ],
+  "Otis Redding": [
+    "vocals"
+  ],
+  "Otis Rush": [
+    "guitar",
+    "vocals"
+  ],
+  "Ozzy Osbourne": [
+    "vocals"
+  ],
+  "Paco de Lucía": [
+    "guitar"
+  ],
+  "Paco Peña": [
+    "guitar"
+  ],
+  "Paddy Keenan": [
+    "uilleann pipes"
+  ],
+  "Paddy Moloney": [
+    "uilleann pipes"
+  ],
+  "Page McConnell": [
+    "keyboards"
+  ],
+  "Pat Mastelotto": [
+    "drums"
+  ],
+  "Pat Metheny": [
+    "guitar"
+  ],
+  "Pat Thomas": [
+    "vocals"
+  ],
+  "Pata": [
+    "guitar"
+  ],
+  "Patti Smith": [
+    "vocals"
+  ],
+  "Paul Barrere": [
+    "guitar"
+  ],
+  "Paul Cook": [
+    "drums"
+  ],
+  "Paul Desmond": [
+    "saxophone"
+  ],
+  "Paul Hartnoll": [
+    "synthesizer"
+  ],
+  "Paul Jackson": [
+    "bass"
+  ],
+  "Paul Simon": [
+    "vocals",
+    "guitar"
+  ],
+  "Paul Simonon": [
+    "bass"
+  ],
+  "Pavel Haas Quartet": [
+    "violin",
+    "viola",
+    "cello"
+  ],
+  "Pee Wee Ellis": [
+    "saxophone"
+  ],
+  "Pepe Habichuela": [
+    "guitar"
+  ],
+  "Pete Seeger": [
+    "vocals",
+    "banjo"
+  ],
+  "Pete Shelley": [
+    "guitar",
+    "vocals"
+  ],
+  "Pete Townshend": [
+    "guitar"
+  ],
+  "Peter Baumann": [
+    "synthesizer"
+  ],
+  "Peter Erskine": [
+    "drums"
+  ],
+  "Peter Gabriel": [
+    "vocals"
+  ],
+  "Peter Green": [
+    "guitar",
+    "vocals"
+  ],
+  "Peter Hammill": [
+    "vocals",
+    "guitar"
+  ],
+  "Peter Hook": [
+    "bass"
+  ],
+  "Peter Tosh": [
+    "vocals",
+    "guitar"
+  ],
+  "Pharoah Sanders": [
+    "saxophone"
+  ],
+  "Phife Dawg": [
+    "vocals"
+  ],
+  "Phil Anselmo": [
+    "vocals"
+  ],
+  "Phil Collins": [
+    "drums",
+    "vocals"
+  ],
+  "Phil Hartnoll": [
+    "synthesizer"
+  ],
+  "Phil Lesh": [
+    "bass",
+    "vocals"
+  ],
+  "Phil Miller": [
+    "guitar"
+  ],
+  "Philip Bailey": [
+    "vocals"
+  ],
+  "Philip Glass": [
+    "piano"
+  ],
+  "Philip Oakey": [
+    "vocals"
+  ],
+  "Pierre Moerlen": [
+    "drums"
+  ],
+  "Pinetop Perkins": [
+    "piano"
+  ],
+  "Pino Palladino": [
+    "bass"
+  ],
+  "Pip Pyle": [
+    "drums"
+  ],
+  "Posdnuos": [
+    "vocals"
+  ],
+  "Prince": [
+    "guitar",
+    "vocals",
+    "keyboards"
+  ],
+  "PSY": [
+    "vocals"
+  ],
+  "Pye Hastings": [
+    "guitar",
+    "vocals"
+  ],
+  "Q-Tip": [
+    "vocals"
+  ],
+  "Queen Latifah": [
+    "vocals"
+  ],
+  "Questlove": [
+    "drums"
+  ],
+  "Rachel Goswell": [
+    "vocals"
+  ],
+  "Raekwon": [
+    "vocals"
+  ],
+  "Rahat Fateh Ali Khan": [
+    "vocals"
+  ],
+  "Ralf Hütter": [
+    "keyboards"
+  ],
+  "Ralph Stanley": [
+    "vocals",
+    "banjo"
+  ],
+  "Randy Brecker": [
+    "trumpet"
+  ],
+  "Randy Newman": [
+    "vocals",
+    "piano"
+  ],
+  "Ravi Shankar": [
+    "sitar"
+  ],
+  "Ray Barretto": [
+    "congas",
+    "percussion"
+  ],
+  "Ray Charles": [
+    "vocals",
+    "piano"
+  ],
+  "Ray Davies": [
+    "vocals",
+    "guitar"
+  ],
+  "Ray Manzarek": [
+    "keyboards"
+  ],
+  "Reba McEntire": [
+    "vocals"
+  ],
+  "Reni": [
+    "drums"
+  ],
+  "Rex Brown": [
+    "bass"
+  ],
+  "Ric Ocasek": [
+    "vocals",
+    "guitar"
+  ],
+  "Riccardo Muti": [
+    "conductor"
+  ],
+  "Richard Coughlan": [
+    "drums"
+  ],
+  "Richard Manuel": [
+    "keyboards",
+    "vocals"
+  ],
+  "Richard Sinclair": [
+    "bass",
+    "vocals"
+  ],
+  "Richard Thompson": [
+    "guitar",
+    "vocals"
+  ],
+  "Richard Wright": [
+    "keyboards"
+  ],
+  "Richie Hawtin": [
+    "DJ"
+  ],
+  "Rick Danko": [
+    "bass",
+    "vocals"
+  ],
+  "Rick Davies": [
+    "keyboards",
+    "vocals"
+  ],
+  "Rick James": [
+    "vocals"
+  ],
+  "Rick Laird": [
+    "bass"
+  ],
+  "Rick Wakeman": [
+    "keyboards"
+  ],
+  "Ricky Skaggs": [
+    "mandolin",
+    "vocals"
+  ],
+  "Ringo Starr": [
+    "drums"
+  ],
+  "Rita Lee": [
+    "vocals"
+  ],
+  "Ritchie Blackmore": [
+    "guitar"
+  ],
+  "Rizwan-Muazzam Qawwali": [
+    "vocals"
+  ],
+  "RM": [
+    "vocals"
+  ],
+  "Rob Halford": [
+    "vocals"
+  ],
+  "Rob Swire": [
+    "synthesizer",
+    "vocals"
+  ],
+  "Robbie Robertson": [
+    "guitar",
+    "vocals"
+  ],
+  "Robby Krieger": [
+    "guitar"
+  ],
+  "Robert \"Kool\" Bell": [
+    "bass"
+  ],
+  "Robert Cray": [
+    "guitar",
+    "vocals"
+  ],
+  "Robert Fripp": [
+    "guitar"
+  ],
+  "Robert Glasper": [
+    "piano"
+  ],
+  "Robert Gordon": [
+    "vocals"
+  ],
+  "Robert Hood": [
+    "DJ"
+  ],
+  "Robert Plant": [
+    "vocals"
+  ],
+  "Robert Smith": [
+    "vocals",
+    "guitar"
+  ],
+  "Robert Wyatt": [
+    "drums",
+    "vocals",
+    "keyboards"
+  ],
+  "Roberta Flack": [
+    "vocals",
+    "piano"
+  ],
+  "Robin Guthrie": [
+    "guitar"
+  ],
+  "Rockin' Dopsie": [
+    "accordion",
+    "vocals"
+  ],
+  "Rockin' Dopsie Jr.": [
+    "accordion",
+    "vocals"
+  ],
+  "Rodney Crowell": [
+    "guitar",
+    "vocals"
+  ],
+  "Roger Daltrey": [
+    "vocals"
+  ],
+  "Roger Hodgson": [
+    "vocals",
+    "guitar"
+  ],
+  "Roger Taylor": [
+    "drums"
+  ],
+  "Roger Waters": [
+    "bass",
+    "vocals"
+  ],
+  "Roland Orzabal": [
+    "vocals",
+    "guitar"
+  ],
+  "Ron Carter": [
+    "bass"
+  ],
+  "Ron Wood": [
+    "guitar"
+  ],
+  "Roni Size": [
+    "DJ"
+  ],
+  "Ronnie Drew": [
+    "vocals",
+    "guitar"
+  ],
+  "Ronnie James Dio": [
+    "vocals"
+  ],
+  "Ronnie Van Zant": [
+    "vocals"
+  ],
+  "Rory Gallagher": [
+    "guitar",
+    "vocals"
+  ],
+  "Rosé": [
+    "vocals"
+  ],
+  "Roy Hargrove": [
+    "trumpet"
+  ],
+  "Rubén Blades": [
+    "vocals"
+  ],
+  "Rubén González": [
+    "piano"
+  ],
+  "Run": [
+    "vocals"
+  ],
+  "Russell Ferrante": [
+    "keyboards"
+  ],
+  "Ruth Underwood": [
+    "percussion"
+  ],
+  "Ryuichi Sakamoto": [
+    "keyboards"
+  ],
+  "RZA": [
+    "vocals"
+  ],
+  "Sabri Brothers": [
+    "vocals"
+  ],
+  "Sade Adu": [
+    "vocals"
+  ],
+  "Sam Cooke": [
+    "vocals"
+  ],
+  "Sam Divine": [
+    "DJ"
+  ],
+  "San Francisco Taiko Dojo": [
+    "taiko"
+  ],
+  "Sara Watkins": [
+    "fiddle",
+    "vocals"
+  ],
+  "Sarah Vaughan": [
+    "vocals"
+  ],
+  "Scott Henderson": [
+    "guitar"
+  ],
+  "Scott Ian": [
+    "guitar"
+  ],
+  "Scott Weiland": [
+    "vocals"
+  ],
+  "Seamus Egan": [
+    "banjo",
+    "flute"
+  ],
+  "Sean Kinney": [
+    "drums"
+  ],
+  "Sean Watkins": [
+    "guitar"
+  ],
+  "Sebastian Ingrosso": [
+    "DJ"
+  ],
+  "Serj Tankian": [
+    "vocals"
+  ],
+  "Seun Kuti": [
+    "vocals",
+    "saxophone"
+  ],
+  "SEVENTEEN": [
+    "vocals"
+  ],
+  "Shane MacGowan": [
+    "vocals"
+  ],
+  "Sharon Jones": [
+    "vocals"
+  ],
+  "Sharon Shannon": [
+    "accordion"
+  ],
+  "Shaun Ryder": [
+    "vocals"
+  ],
+  "Sheila E.": [
+    "percussion",
+    "vocals"
+  ],
+  "Shemekia Copeland": [
+    "vocals"
+  ],
+  "SHINee": [
+    "vocals"
+  ],
+  "Shirley Caesar": [
+    "vocals"
+  ],
+  "Shivkumar Sharma": [
+    "santoor"
+  ],
+  "Sid Vicious": [
+    "bass"
+  ],
+  "Simon Dunmore": [
+    "DJ"
+  ],
+  "Simon House": [
+    "violin",
+    "keyboards"
+  ],
+  "Simon Le Bon": [
+    "vocals"
+  ],
+  "Skrillex": [
+    "DJ"
+  ],
+  "Slim Jim Phantom": [
+    "drums"
+  ],
+  "Snoop Dogg": [
+    "vocals"
+  ],
+  "Soh Daiko": [
+    "taiko"
+  ],
+  "Solomon Burke": [
+    "vocals"
+  ],
+  "Sonny Osborne": [
+    "banjo"
+  ],
+  "Sonny Rollins": [
+    "saxophone"
+  ],
+  "Stan Kenton": [
+    "piano"
+  ],
+  "Stanley Clarke": [
+    "bass"
+  ],
+  "Stefan Lessard": [
+    "bass"
+  ],
+  "Stephen Kupka": [
+    "saxophone"
+  ],
+  "Stephen Morris": [
+    "drums"
+  ],
+  "Stephen Stills": [
+    "guitar",
+    "vocals"
+  ],
+  "Steve Angello": [
+    "DJ"
+  ],
+  "Steve Cropper": [
+    "guitar"
+  ],
+  "Steve Diggle": [
+    "guitar",
+    "vocals"
+  ],
+  "Steve Gadd": [
+    "drums"
+  ],
+  "Steve Hackett": [
+    "guitar"
+  ],
+  "Steve Harris": [
+    "bass"
+  ],
+  "Steve Hillage": [
+    "guitar",
+    "vocals"
+  ],
+  "Steve Howe": [
+    "guitar"
+  ],
+  "Steve Jones": [
+    "guitar"
+  ],
+  "Steve Jordan": [
+    "drums"
+  ],
+  "Steve Reich": [
+    "percussion"
+  ],
+  "Steve Riley": [
+    "accordion",
+    "vocals"
+  ],
+  "Steve Roach": [
+    "synthesizer"
+  ],
+  "Steve Rothery": [
+    "guitar"
+  ],
+  "Steve Shelley": [
+    "drums"
+  ],
+  "Steve Smith": [
+    "drums"
+  ],
+  "Steve Walsh": [
+    "vocals",
+    "keyboards"
+  ],
+  "Steven Tyler": [
+    "vocals"
+  ],
+  "Steven Wilson": [
+    "guitar",
+    "vocals"
+  ],
+  "Stevie Nicks": [
+    "vocals"
+  ],
+  "Stevie Ray Vaughan": [
+    "guitar",
+    "vocals"
+  ],
+  "Stevie Wonder": [
+    "vocals",
+    "keyboards",
+    "harmonica"
+  ],
+  "Stewart Copeland": [
+    "drums"
+  ],
+  "Sting": [
+    "vocals",
+    "bass"
+  ],
+  "Stone Gossard": [
+    "guitar"
+  ],
+  "Stray Kids": [
+    "vocals"
+  ],
+  "Sturgill Simpson": [
+    "vocals",
+    "guitar"
+  ],
+  "SU-METAL": [
+    "vocals"
+  ],
+  "Sub Focus": [
+    "DJ"
+  ],
+  "Suga": [
+    "vocals"
+  ],
+  "Sun Ra": [
+    "keyboards"
+  ],
+  "Susan Tedeschi": [
+    "guitar",
+    "vocals"
+  ],
+  "T.O.P": [
+    "vocals"
+  ],
+  "Taeyang": [
+    "vocals"
+  ],
+  "Taj Mahal": [
+    "guitar",
+    "vocals"
+  ],
+  "Tak Matsumoto": [
+    "guitar"
+  ],
+  "Taka": [
+    "vocals"
+  ],
+  "Takács Quartet": [
+    "violin",
+    "viola",
+    "cello"
+  ],
+  "Tal Wilkenfeld": [
+    "bass"
+  ],
+  "Tammy Wynette": [
+    "vocals"
+  ],
+  "Tanya Tucker": [
+    "vocals"
+  ],
+  "Teddy Osei": [
+    "saxophone",
+    "vocals"
+  ],
+  "Teddy Pendergrass": [
+    "vocals"
+  ],
+  "Terry Riley": [
+    "piano"
+  ],
+  "tetsuya": [
+    "bass"
+  ],
+  "Thad Jones": [
+    "trumpet"
+  ],
+  "The Band": [
+    "guitar",
+    "bass",
+    "drums",
+    "vocals"
+  ],
+  "The Blind Boys of Alabama": [
+    "vocals"
+  ],
+  "The Clark Sisters": [
+    "vocals"
+  ],
+  "The Winans": [
+    "vocals"
+  ],
+  "Thelonious Monk": [
+    "piano"
+  ],
+  "Theo Katzman": [
+    "drums",
+    "vocals"
+  ],
+  "Thomas Bangalter": [
+    "DJ",
+    "synthesizer"
+  ],
+  "Thomas Bartlett": [
+    "piano"
+  ],
+  "Thundercat": [
+    "bass",
+    "vocals"
+  ],
+  "Thurston Moore": [
+    "guitar",
+    "vocals"
+  ],
+  "Tigran Hamasyan": [
+    "piano"
+  ],
+  "Till Lindemann": [
+    "vocals"
+  ],
+  "Tim Armstrong": [
+    "guitar",
+    "vocals"
+  ],
+  "Tim Blake": [
+    "keyboards"
+  ],
+  "Tim Booth": [
+    "vocals"
+  ],
+  "Tim Burgess": [
+    "vocals"
+  ],
+  "Tim Hecker": [
+    "synthesizer"
+  ],
+  "Tina Turner": [
+    "vocals"
+  ],
+  "Tina Weymouth": [
+    "bass"
+  ],
+  "Tito Puente": [
+    "timbales",
+    "percussion"
+  ],
+  "Tiësto": [
+    "DJ"
+  ],
+  "Todd Terry": [
+    "DJ"
+  ],
+  "Tom Araya": [
+    "vocals",
+    "bass"
+  ],
+  "Tom Hingley": [
+    "vocals"
+  ],
+  "Tom Petty": [
+    "guitar",
+    "vocals"
+  ],
+  "Tom Rowlands": [
+    "DJ",
+    "synthesizer"
+  ],
+  "Tom Verlaine": [
+    "guitar",
+    "vocals"
+  ],
+  "Tom Waits": [
+    "vocals",
+    "piano"
+  ],
+  "Tomatito": [
+    "guitar"
+  ],
+  "Tommy Ramone": [
+    "drums"
+  ],
+  "Tommy Shannon": [
+    "bass"
+  ],
+  "Tony Allen": [
+    "drums"
+  ],
+  "Tony Banks": [
+    "keyboards"
+  ],
+  "Tony Iommi": [
+    "guitar"
+  ],
+  "Tony Kaye": [
+    "keyboards"
+  ],
+  "Tony Levin": [
+    "bass"
+  ],
+  "Tony Williams": [
+    "drums"
+  ],
+  "Toots Hibbert": [
+    "vocals"
+  ],
+  "Topper Headon": [
+    "drums"
+  ],
+  "Toshi": [
+    "vocals"
+  ],
+  "Townes Van Zandt": [
+    "vocals",
+    "guitar"
+  ],
+  "Tracy Chapman": [
+    "vocals",
+    "guitar"
+  ],
+  "Trevor Rabin": [
+    "guitar",
+    "vocals"
+  ],
+  "Trey Anastasio": [
+    "guitar",
+    "vocals"
+  ],
+  "Trey Gunn": [
+    "guitar"
+  ],
+  "Troy Sanders": [
+    "bass",
+    "vocals"
+  ],
+  "Tré Cool": [
+    "drums"
+  ],
+  "Tuomas Holopainen": [
+    "keyboards"
+  ],
+  "TWICE": [
+    "vocals"
+  ],
+  "Tyler Childers": [
+    "vocals",
+    "guitar"
+  ],
+  "Tyler, the Creator": [
+    "vocals"
+  ],
+  "UBC Balinese Gamelan": [
+    "gamelan"
+  ],
+  "Ubud Palace Gamelan": [
+    "gamelan"
+  ],
+  "Usher": [
+    "vocals"
+  ],
+  "V": [
+    "vocals"
+  ],
+  "Valery Gergiev": [
+    "conductor"
+  ],
+  "Van Morrison": [
+    "vocals"
+  ],
+  "Verdine White": [
+    "bass"
+  ],
+  "Vicente Amigo": [
+    "guitar"
+  ],
+  "Victor Bailey": [
+    "bass"
+  ],
+  "Victor Borge": [
+    "piano"
+  ],
+  "Victor Wooten": [
+    "bass"
+  ],
+  "Vilayat Khan": [
+    "sitar"
+  ],
+  "Vince Gill": [
+    "vocals",
+    "guitar"
+  ],
+  "Vinnie Colaiuta": [
+    "drums"
+  ],
+  "Vinnie Paul": [
+    "drums"
+  ],
+  "Walter Becker": [
+    "guitar",
+    "bass"
+  ],
+  "Walter Trout": [
+    "guitar",
+    "vocals"
+  ],
+  "Wanda Jackson": [
+    "vocals",
+    "guitar"
+  ],
+  "Warren Haynes": [
+    "guitar"
+  ],
+  "Waylon Jennings": [
+    "vocals",
+    "guitar"
+  ],
+  "Wayne Krantz": [
+    "guitar"
+  ],
+  "Wayne Shorter": [
+    "saxophone"
+  ],
+  "Wayne Toups": [
+    "accordion",
+    "vocals"
+  ],
+  "Wes Montgomery": [
+    "guitar"
+  ],
+  "Whitney Houston": [
+    "vocals"
+  ],
+  "William Reid": [
+    "guitar"
+  ],
+  "Willie Colón": [
+    "trombone",
+    "vocals"
+  ],
+  "Willie Nelson": [
+    "vocals",
+    "guitar"
+  ],
+  "Wilson Pickett": [
+    "vocals"
+  ],
+  "Woody Herman": [
+    "clarinet",
+    "saxophone",
+    "vocals"
+  ],
+  "Wynton Marsalis": [
+    "trumpet"
+  ],
+  "Yamato": [
+    "taiko"
+  ],
+  "Yo-Yo Ma": [
+    "cello"
+  ],
+  "Yojiro Noda": [
+    "vocals",
+    "guitar"
+  ],
+  "Yolanda Adams": [
+    "vocals"
+  ],
+  "Yoshiki": [
+    "drums",
+    "piano"
+  ],
+  "yukihiro": [
+    "drums"
+  ],
+  "Yukihiro Takahashi": [
+    "drums",
+    "vocals"
+  ],
+  "Zach Bryan": [
+    "vocals",
+    "guitar"
+  ],
+  "Zachary Richard": [
+    "vocals",
+    "accordion"
+  ],
+  "Zakir Hussain": [
+    "tabla"
+  ],
+  "Zigaboo Modeliste": [
+    "drums"
+  ],
+  "Ziggy Marley": [
+    "vocals",
+    "guitar"
+  ]
 }

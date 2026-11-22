@@ -29,7 +29,7 @@ assert(validate(concerts, ["bass"]).some((error) => error.includes("object")), "
 assert(validate(concerts, { Ada: ["guitar!"] }).some((error) => error.includes("instrument name")), "instrument shape");
 assert(validate(concerts, { Ada: ["DJ"] }).length === 0, "DJ is a valid instrument name");
 
-assert(concerts.length >= 420, "concert count");
+assert(concerts.length >= 901, "concert count");
 for (const id of ["0wtqnKXZlWk", "5XB7iPsCjC4", "btIIPIPDO4U", "4fPKcqx87Yc", "TAMx_nkKqDg", "C_mFOnzglU8"]) {
   assert(concerts.some((concert) => concert.id === id), id);
 }
@@ -58,8 +58,7 @@ assert(Catalog.PER_PAGE === 12);
 const index = Catalog.buildIndex(concerts, musicians);
 const genreList = [...new Set(concerts.map((concert) => concert.genre))].sort((a, b) => a.localeCompare(b, undefined, { sensitivity: "base" }));
 assert(JSON.stringify(index.genres) === JSON.stringify(genreList), "genres come from the data");
-const requiredGenres = ["Afrobeat", "Bluegrass", "Blues", "Chamber Music", "Classic Rock", "Country", "EDM", "Experimental", "Flamenco", "Folk", "Funk", "Fusion", "Gamelan", "Gospel", "House", "Indian Classical", "Jazz", "K-pop", "Latin/Salsa", "Metal", "Orchestral", "Punk", "Rap/Hip-Hop", "Reggae", "Rockabilly", "Soul/R&B", "Taiko"];
-assert(requiredGenres.length === 27);
+const requiredGenres = ["Afrobeat", "Bluegrass", "Blues", "Chamber Music", "Classic Rock", "Country", "EDM", "Experimental", "Flamenco", "Folk", "Funk", "Fusion", "Gamelan", "Gospel", "House", "Indian Classical", "Jazz", "K-pop", "Latin/Salsa", "Manchester/Madchester", "Metal", "Orchestral", "Progressive Rock", "Punk", "Rap/Hip-Hop", "Reggae", "Rockabilly", "Soul/R&B", "Taiko"];
 for (const genre of requiredGenres) assert(index.genres.includes(genre), genre);
 assert(index.instruments.includes("DJ") && index.instruments.includes("sarod") && index.instruments.includes("taiko") && index.instruments.includes("gamelan"));
 assert(index.decades.at(-1) === "Unknown");
@@ -178,5 +177,5 @@ for (let pass = 0; pass < 100; pass += 1) {
   Catalog.groupConcerts(filtered, "instrument", "time", { index, musician: "All", query: "" });
 }
 const elapsed = Number(process.hrtime.bigint() - started) / 1e6;
-assert(elapsed < 1500, "filtering 420 concerts 100 times took " + elapsed.toFixed(0) + "ms");
+assert(elapsed < 1500, "filtering the catalog 100 times took " + elapsed.toFixed(0) + "ms");
 console.log("OK: catalog checks passed (" + concerts.length + " concerts, " + index.genres.length + " genres, " + index.instruments.length + " instruments, filter pass " + elapsed.toFixed(0) + "ms)");
