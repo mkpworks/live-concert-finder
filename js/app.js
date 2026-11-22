@@ -205,6 +205,17 @@
     );
   }
 
+  function appearsHtml(rows) {
+    const found = Catalog.appearances(state.query, rows);
+    if (!found.length) return "";
+    return '<div class="appears">' + found.slice(0, 3).map((person) => {
+      const shown = person.acts.slice(0, 12);
+      const links = shown.map((act) => '<button type="button" class="act-link" data-action="search" data-query="' + esc(act) + '">' + esc(act) + "</button>").join('<span class="act-sep">, </span>');
+      const more = person.acts.length > shown.length ? '<span class="act-sep">…</span>' : "";
+      return "<p><span class=\"appears-name\">" + esc(person.name) + "</span> appears in: " + links + more + "</p>";
+    }).join("") + "</div>";
+  }
+
   function emptyState(message) {
     return '<div class="empty"><p>' + esc(message) + '</p><button type="button" class="btn" data-action="clear">Clear filters</button></div>';
   }
@@ -243,6 +254,7 @@
     const groupLabel = state.mode === "list" ? "" : " · " + groups.length + " " + unit;
     document.getElementById("status").textContent = "Page " + (state.page + 1) + " of " + pages + " · " + concertLabel + groupLabel;
 
+    const note = appearsHtml(rows);
     let results = "";
     if (state.mode === "list") {
       results = rows.length
@@ -253,7 +265,7 @@
     } else {
       results = pageGroups.map(groupBlock).join("") + pager(pages);
     }
-    document.getElementById("results").innerHTML = results;
+    document.getElementById("results").innerHTML = note + results;
 
     const nextCross = state.musician + "\0" + state.instrument;
     if (nextCross !== crossStamp) {
@@ -369,6 +381,10 @@
       render(false);
     } else if (action === "collapse") {
       state.open = {};
+      render(false);
+    } else if (action === "search") {
+      state.query = el.getAttribute("data-query") || "";
+      state.page = 0;
       render(false);
     } else if (action === "clear") {
       clearFilters();

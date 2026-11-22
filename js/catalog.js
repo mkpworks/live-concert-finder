@@ -79,6 +79,10 @@
     return String(a).localeCompare(String(b), undefined, { sensitivity: "base" });
   }
 
+  function fold(value) {
+    return String(value || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  }
+
   function uniqueSorted(values) {
     return [...new Set(values)].sort(compareNames);
   }
@@ -143,7 +147,7 @@
     const musician = (filters && filters.musician) || "All";
     const instrument = (filters && filters.instrument) || "All";
     const type = (filters && filters.type) || "All";
-    const query = ((filters && filters.query) || "").trim().toLowerCase();
+    const query = fold((filters && filters.query) || "").trim();
     const people = lineup(concert);
     const names = people.map((entry) => entry.name);
     if (type !== "All" && itemType(concert) !== type) return false;
@@ -165,9 +169,10 @@
         concert.interviewer || "",
         typeName ? typeName.label + " " + typeName.plural : "",
         people.map((entry) => entry.name + " " + entry.role).join(" "),
+        creditsFor(concert).map((credit) => credit.name).join(" "),
         index.concertInstruments(concert).join(" "),
-      ].join(" ").toLowerCase();
-      if (!haystack.includes(query)) return false;
+      ].join(" ");
+      if (!fold(haystack).includes(query)) return false;
     }
     return true;
   }
@@ -245,6 +250,24 @@
       .slice(0, max);
   }
 
+  function appearances(query, items) {
+    const needle = fold(query).trim();
+    if (needle.length < 2) return [];
+    const map = new Map();
+    for (const item of items) {
+      const names = new Set(lineupNames(item));
+      for (const credit of creditsFor(item)) names.add(credit.name);
+      for (const name of names) {
+        if (!fold(name).includes(needle)) continue;
+        if (!map.has(name)) map.set(name, new Set());
+        if (item.artist) map.get(name).add(item.artist);
+      }
+    }
+    return [...map.entries()]
+      .map(([name, acts]) => ({ name, acts: [...acts].sort(compareNames) }))
+      .sort((a, b) => b.acts.length - a.acts.length || compareNames(a.name, b.name));
+  }
+
   function pageCount(total) {
     return Math.max(1, Math.ceil(total / PER_PAGE));
   }
@@ -263,6 +286,8 @@
     matches,
     sortConcerts,
     groupConcerts,
+    appearances,
+    fold,
     related,
     pageCount,
   };

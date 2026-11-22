@@ -16278,36 +16278,6 @@
     "durationSeconds": 9977
   },
   {
-    "id": "B9856_xv8gc",
-    "type": "interview",
-    "artist": "Frank Zappa",
-    "title": "Frank Zappa on Crossfire 1986",
-    "year": 1986,
-    "genre": "Classic Rock",
-    "musicians": [
-      "Frank Zappa",
-      "Robert Novak",
-      "Tom Braden"
-    ],
-    "durationSeconds": 1278,
-    "interviewer": "Robert Novak, Tom Braden",
-    "outlet": "Crossfire",
-    "credits": [
-      {
-        "name": "Frank Zappa",
-        "role": "interviewee"
-      },
-      {
-        "name": "Robert Novak",
-        "role": "interviewer"
-      },
-      {
-        "name": "Tom Braden",
-        "role": "interviewer"
-      }
-    ]
-  },
-  {
     "id": "WpT8aMtr0SQ",
     "type": "interview",
     "artist": "Frank Zappa",
@@ -16370,13 +16340,14 @@
       "Frank Zappa"
     ],
     "durationSeconds": 1139,
+    "outlet": "MTV",
     "credits": [
       {
         "name": "Frank Zappa",
         "role": "interviewee"
       }
     ],
-    "notes": "Official Music Vault / Frank Zappa on MV upload. Outlet and interviewer are listed as unknown in the title and description."
+    "notes": "Official Music Vault upload, recorded 12/8/1984. Same duration as widely circulated 'MTV Interview (1984)' / 'Does Humor Belong In Music Interview' uploads, so outlet is recorded as MTV; interviewer is not named in the title or description."
   },
   {
     "id": "6ocLsd-Vnr0",
@@ -16396,5 +16367,1951 @@
         "role": "interviewee"
       }
     ]
+  },
+  {
+    "id": "DqL9MlZCjhw",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa on the Steve Allen Show March 4 1963",
+    "year": 1963,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Steve Allen"
+    ],
+    "durationSeconds": 989,
+    "interviewer": "Steve Allen",
+    "outlet": "The Steve Allen Show",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Steve Allen",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Notable 1963 TV appearance: Zappa demonstrates composing on a bicycle, with conversation. Not a conventional sit-down interview."
+  },
+  {
+    "id": "4J4aOvJJ8IE",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1967 Frank Zappa on Newfound Success, Shock Value and Hippies",
+    "year": 1967,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 376,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "SkDNbI38AYM",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa: interview 1967-11 WDET-FM Detroit (MI)",
+    "year": 1967,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 2035,
+    "outlet": "WDET-FM",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Radio interview (audio, or video of a static-image upload)."
+  },
+  {
+    "id": "FAhM3RQhwls",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Lost Frank Zappa college radio interview from 1967",
+    "year": 1967,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 1903,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "College radio interview. Outlet is not named in the title or description. Radio/audio upload."
+  },
+  {
+    "id": "Exz6QdEgVnI",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa Interview - August 1968 - WFMT Radio Chicago",
+    "year": 1968,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 2107,
+    "outlet": "WFMT",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Radio interview (audio, or video of a static-image upload)."
+  },
+  {
+    "id": "TY1HJc8kTuM",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "KSAN 95 San Francisco - Tom Donahue Interviews Frank Zappa - 1968 1/2",
+    "year": 1968,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Tom Donahue"
+    ],
+    "durationSeconds": 1533,
+    "interviewer": "Tom Donahue",
+    "outlet": "KSAN",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Tom Donahue",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Part 1 of 2 of the same 1968 KSAN interview. Radio/audio upload."
+  },
+  {
+    "id": "0xfkHa_eM04",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "KSAN 95 San Francisco - Tom Donahue Interviews Frank Zappa - 1968 2/2",
+    "year": 1968,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Tom Donahue"
+    ],
+    "durationSeconds": 840,
+    "interviewer": "Tom Donahue",
+    "outlet": "KSAN",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Tom Donahue",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Part 2 of 2 of the same 1968 KSAN interview. Radio/audio upload."
+  },
+  {
+    "id": "b7LjELRss14",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Interview at Beat Club 1970",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 250,
+    "outlet": "Beat Club",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Notable short European TV interview (~4 min), kept because Beat Club is a well-known appearance."
+  },
+  {
+    "id": "iB9jzox6zmg",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa Interviewed by Roelof Kiers (1970)",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Roelof Kiers"
+    ],
+    "durationSeconds": 266,
+    "interviewer": "Roelof Kiers",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Roelof Kiers",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Notable short interview (~4½ min) with VPRO filmmaker Roelof Kiers."
+  },
+  {
+    "id": "aMRVToqPIhk",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Netherlands (Interview & band intro)",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 359,
+    "outlet": "VPRO",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Interview and band intro excerpt from the 18 June 1970 Piknik / VPRO appearance at Uddel, Netherlands. Year is in the video description."
+  },
+  {
+    "id": "n5WEU30Iods",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa on Fads",
+    "year": 1971,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Howard Smith"
+    ],
+    "durationSeconds": 301,
+    "interviewer": "Howard Smith",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Howard Smith",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Short interview. Date 6 June 1971 and interviewer are in the video description."
+  },
+  {
+    "id": "fR289Dc-_sg",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Full Whistle Test Frank Zappa Interview {16 Nov 1971}",
+    "year": 1971,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 576,
+    "outlet": "The Old Grey Whistle Test",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "BBC Whistle Test interview; date 16 Nov 1971 is in the title."
+  },
+  {
+    "id": "emhLwbg0haY",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Spotlight Swedish TV 1971",
+    "year": 1971,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 1867,
+    "outlet": "Spotlight",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "DmQQbHTxnNE",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Martin Perlich Interview 1972 (complete - audio only)",
+    "year": 1972,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Martin Perlich"
+    ],
+    "durationSeconds": 3008,
+    "interviewer": "Martin Perlich",
+    "outlet": "KMET",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Martin Perlich",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Complete audio-only radio interview on Martin Perlich's Electric Tongue (KMET, Los Angeles)."
+  },
+  {
+    "id": "wTLOsoMMDuE",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa TV Interview- Monday Conference Australia 1973 Robert Moore",
+    "year": 1973,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Robert Moore"
+    ],
+    "durationSeconds": 2896,
+    "interviewer": "Robert Moore",
+    "outlet": "Monday Conference",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Robert Moore",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Australian TV. A shorter 'part one' and a 30 June 1973 'Monday Press Conference' upload of similar length were treated as the same appearance; this is the longest copy."
+  },
+  {
+    "id": "Ex9k_fwwswM",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa Interview Rare GTK Australia [June 1973] 106810",
+    "year": 1973,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 665,
+    "outlet": "GTK",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "UC4a80t0t0U",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa: 1974-03-05 KZEW-FM Dallas TX interview Apostrophe, 200 Motels, Beefheart, more",
+    "year": 1974,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 2468,
+    "outlet": "KZEW-FM",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Radio interview (audio, or video of a static-image upload)."
+  },
+  {
+    "id": "E2kj6iqkj9c",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa 1974 10 03 Finland TV Interview (Pro Shot)",
+    "year": 1974,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 533,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Finland TV interview, 3 Oct 1974 (pro-shot). Other equal-length uploads of the same interview were dropped."
+  },
+  {
+    "id": "CazcQqRsT9w",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1974 Frank Zappa - 'This Interviewer is a Jerk', 'What's wrong with a Cadillac?'",
+    "year": 1974,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 363,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "Oo7ysHqsMWw",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa: 1975-09 KPFK-FM interview",
+    "year": 1975,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 1388,
+    "outlet": "KPFK-FM",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Radio interview (audio, or video of a static-image upload)."
+  },
+  {
+    "id": "wfVsoS8SeUs",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1976 Frank Zappa funny interview with Norman Gunston (Australian TV)",
+    "year": 1976,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Norman Gunston"
+    ],
+    "durationSeconds": 241,
+    "interviewer": "Norman Gunston",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Norman Gunston",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Notable short Australian TV comedy interview (~4 min). A same-length duplicate was dropped."
+  },
+  {
+    "id": "LFNWKG3Glko",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa: 1976 radio \"Inner View\" interview by Jim Ladd",
+    "year": 1976,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Jim Ladd"
+    ],
+    "durationSeconds": 1687,
+    "interviewer": "Jim Ladd",
+    "outlet": "Inner-View",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jim Ladd",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Radio interview. A shorter 1976 Jim Ladd upload was treated as the same interview and dropped."
+  },
+  {
+    "id": "kSPdg4yPwAg",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa appearing on the Mike Douglas Show (28. October 1976)",
+    "year": 1976,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Mike Douglas"
+    ],
+    "durationSeconds": 1036,
+    "interviewer": "Mike Douglas",
+    "outlet": "The Mike Douglas Show",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Mike Douglas",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "28 October 1976. Slightly shorter uploads of the same appearance were dropped."
+  },
+  {
+    "id": "AG0qxSfqXkI",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa: 1977-03-22 Tomorrow TV Show interview by Tom Snyder",
+    "year": 1977,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Tom Snyder"
+    ],
+    "durationSeconds": 931,
+    "interviewer": "Tom Snyder",
+    "outlet": "Tomorrow",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Tom Snyder",
+        "role": "interviewer"
+      }
+    ]
+  },
+  {
+    "id": "uoOSDs0V9SE",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1980 Frank Zappa on Dick Cavett",
+    "year": 1980,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Dick Cavett"
+    ],
+    "durationSeconds": 1668,
+    "interviewer": "Dick Cavett",
+    "outlet": "The Dick Cavett Show",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Dick Cavett",
+        "role": "interviewer"
+      }
+    ]
+  },
+  {
+    "id": "QWv3Mgick-0",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1980 Frank Zappa on Five All Night Live All Night",
+    "year": 1980,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 1161,
+    "outlet": "Five All Night Live All Night",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "1-kIEjz3bJA",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - NewsCenter 4, 1980",
+    "year": 1980,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 386,
+    "outlet": "NewsCenter 4",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "9uK6k3a-hUo",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1981 Frank Zappa Interview (The New Music, Canada)",
+    "year": 1981,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 611,
+    "outlet": "The New Music",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "ijg2_vVyu0Q",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank and Moon Zappa Talk \"Valley Girl\" | Letterman",
+    "year": 1982,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Moon Zappa",
+      "David Letterman"
+    ],
+    "durationSeconds": 722,
+    "interviewer": "David Letterman",
+    "outlet": "Late Night with David Letterman",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Moon Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Official Letterman clip. Air date 8/10/82 is in the video description."
+  },
+  {
+    "id": "uS-4HMH3Uts",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Good Morning America September 21, 1982 Frank and Moon Zappa on Valley Girl craze",
+    "year": 1982,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Moon Zappa"
+    ],
+    "durationSeconds": 305,
+    "outlet": "Good Morning America",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Moon Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "LKWQOijC-m0",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa interviewed at home 1983",
+    "year": 1983,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 669,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "l6azc9oXRjQ",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1983 Frank Zappa on SOUNDS (Australian TV)",
+    "year": 1983,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 555,
+    "outlet": "SOUNDS",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "DiWOTx6ifR4",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Nightwatch - CBS - Charlie Rose Interview - February 28, 1984 -    Multiple Generation",
+    "year": 1984,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 649,
+    "interviewer": "Charlie Rose",
+    "outlet": "CBS Nightwatch",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ]
+  },
+  {
+    "id": "GTN60taZNMk",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Moon Unit and Frank Zappa TV interview 2-1-84 daytime TV show",
+    "year": 1984,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Moon Zappa"
+    ],
+    "durationSeconds": 886,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Moon Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Daytime TV, dated 2-1-84 in the title. Outlet is not named."
+  },
+  {
+    "id": "kWkXqEbysZ8",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa: 1984-09-26 London England interview, In France story, Sicily story",
+    "year": 1984,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 1670,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "London interview, 26 Sept 1984. Radio or audio-based upload."
+  },
+  {
+    "id": "ry-ivgaGOQs",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Senate Hearings PMRC September 19 1985",
+    "year": 1985,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 3169,
+    "outlet": "U.S. Senate",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Senate PMRC hearing, 19 September 1985. Included as testimony and questioning rather than a sit-down interview. This 52-minute upload is titled as the hearings featuring Zappa's testimony and may include some surrounding hearing material; a 33-minute Zappa-focused cut exists but is not explicitly dated in its title or description."
+  },
+  {
+    "id": "dB-rbWkrzSY",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa Town Meeting - Sally Nevius - KOMO - Seattle, Washington September 29, 1985  - 1st Gen",
+    "year": 1985,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Sally Nevius"
+    ],
+    "durationSeconds": 3106,
+    "interviewer": "Sally Nevius",
+    "outlet": "KOMO",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Sally Nevius",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Televised town meeting in Seattle, 29 September 1985."
+  },
+  {
+    "id": "MLMi_ab5-30",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Baltimore Interview, August 1985",
+    "year": 1985,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 1557,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Baltimore interview, August 1985. Outlet is not named in the title or description."
+  },
+  {
+    "id": "7uZPtqx4D68",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa CBS Night Watch - Night Match Debate - Kandy Stroud - August 26, 1985 - From my Master",
+    "year": 1985,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Kandy Stroud"
+    ],
+    "durationSeconds": 1996,
+    "interviewer": "Kandy Stroud",
+    "outlet": "CBS Nightwatch",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Kandy Stroud",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Nightwatch debate, 26 August 1985."
+  },
+  {
+    "id": "hJL0fguVcTw",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa: 1985 Italian TV Be-Bop-A-Lulu interview, FZ, drugs, Jimi Hendrix",
+    "year": 1985,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 440,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Italian TV interview on Be-Bop-A-Lula, 1985."
+  },
+  {
+    "id": "-GhW-Bwc0Xc",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa CNN Crossfire - John Lofton - March 26, 1986 - From my Master",
+    "year": 1986,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "John Lofton"
+    ],
+    "durationSeconds": 1289,
+    "interviewer": "John Lofton",
+    "outlet": "Crossfire",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "John Lofton",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Replaces a 21:18 upload of the same 26 March 1986 Crossfire episode (B9856_xv8gc). This master is slightly longer and names John Lofton in the title. Crossfire hosts appearing on the program are not named in this upload's title or description, so they are not credited here."
+  },
+  {
+    "id": "iHwmkVAfyM8",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1986 Frank Zappa on Music Censorship (School Beat)",
+    "year": 1986,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 1285,
+    "outlet": "School Beat",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "A same-length 'Debate On School Beat, 1986' upload was treated as the same program and dropped. Split parts were also dropped."
+  },
+  {
+    "id": "h_4dWrPtrLk",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - interview on PMRC censorship + free speech - Tonight Show 4/3/86",
+    "year": 1986,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Johnny Carson"
+    ],
+    "durationSeconds": 618,
+    "interviewer": "Johnny Carson",
+    "outlet": "The Tonight Show",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Johnny Carson",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "3 April 1986. A slightly shorter master of the same Tonight Show appearance was dropped."
+  },
+  {
+    "id": "61ENosn3kFk",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - CBS This Morning August 5, 1986 - Frank and Sheila Benson of LA Times -Topic, Drug Use",
+    "year": 1986,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Sheila Benson"
+    ],
+    "durationSeconds": 368,
+    "interviewer": "Sheila Benson",
+    "outlet": "CBS This Morning",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Sheila Benson",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "5 August 1986. Sheila Benson of the Los Angeles Times is named in the title."
+  },
+  {
+    "id": "G1FLxheTqe0",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "John Interviews Frank Zappa (1986)",
+    "year": 1986,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 996,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Title is 'John Interviews Frank Zappa (1986)'; the interviewer's full name is not stated in the title or description."
+  },
+  {
+    "id": "SE5UDXwDuMk",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank, Moon & Dweezil Zappa - Nite Life Interview 1986",
+    "year": 1986,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Moon Zappa",
+      "Dweezil Zappa"
+    ],
+    "durationSeconds": 953,
+    "outlet": "Nite Life",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Moon Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Dweezil Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "scfWTwOYReY",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa & The Bangles – The Late Show with Joan Rivers -1986",
+    "year": 1986,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Joan Rivers"
+    ],
+    "durationSeconds": 1513,
+    "interviewer": "Joan Rivers",
+    "outlet": "The Late Show with Joan Rivers",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Joan Rivers",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Complete Late Show appearance; The Bangles also perform on this episode. A shorter 9-minute Zappa-only upload of similar billing was not added separately."
+  },
+  {
+    "id": "FEmWBKRw2_8",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1986 Frank Zappa on Night Life with David Brenner",
+    "year": 1986,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "David Brenner"
+    ],
+    "durationSeconds": 812,
+    "interviewer": "David Brenner",
+    "outlet": "Nightlife",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Brenner",
+        "role": "interviewer"
+      }
+    ]
+  },
+  {
+    "id": "fMZnlPhAu7Y",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa Nightlife with David Brenner - March 5, 1987 - From my Master",
+    "year": 1987,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "David Brenner"
+    ],
+    "durationSeconds": 983,
+    "interviewer": "David Brenner",
+    "outlet": "Nightlife",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Brenner",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "5 March 1987; a different Nightlife appearance from the 1986 episode."
+  },
+  {
+    "id": "XFt753FwOfw",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa Interview about Larry Flynt - 4/8/1987",
+    "year": 1987,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 877,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Interview about Larry Flynt, dated 4/8/1987 in the title. Outlet is not named."
+  },
+  {
+    "id": "zVo6pV_XYw4",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa CNN Crossfire - Jeff Ling - June 13, 1987 - From my Master",
+    "year": 1987,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Jeff Ling"
+    ],
+    "durationSeconds": 1333,
+    "interviewer": "Jeff Ling",
+    "outlet": "Crossfire",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jeff Ling",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "13 June 1987 Crossfire episode, distinct from the March 1986 program. Jeff Ling is named in the title."
+  },
+  {
+    "id": "nxAmK--xxOM",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa debates Tipper Gore, summer 1987",
+    "year": 1987,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Tipper Gore"
+    ],
+    "durationSeconds": 807,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Tipper Gore",
+        "role": "debate-opponent"
+      }
+    ],
+    "notes": "Televised debate with Tipper Gore, summer 1987. Not a conventional interview."
+  },
+  {
+    "id": "2AG80w8RrMw",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa The Today Show - NBC - April 1, 1988 - From my Master",
+    "year": 1988,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 365,
+    "outlet": "The Today Show",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "w_WLvAkXLss",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - This Morning, TV Appearance",
+    "year": 1988,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Harry Smith"
+    ],
+    "durationSeconds": 358,
+    "interviewer": "Harry Smith",
+    "outlet": "CBS This Morning",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Harry Smith",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "28 March 1988. Year and interviewer are in the video description."
+  },
+  {
+    "id": "6rnlGWUC44s",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa The Tonight Show with Jay Leno - June 29, 1988 - From my Master",
+    "year": 1988,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Jay Leno"
+    ],
+    "durationSeconds": 562,
+    "interviewer": "Jay Leno",
+    "outlet": "The Tonight Show",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jay Leno",
+        "role": "interviewer"
+      }
+    ]
+  },
+  {
+    "id": "0PoD4iqM5nY",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1988 Frank Zappa on Good Morning Australia",
+    "year": 1988,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 381,
+    "outlet": "Good Morning Australia",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "JizT8PR2pYs",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "FRANK ZAPPA 1988 Amsterdam Interview w/Jan Douwe Kroeske (📺VARA)",
+    "year": 1988,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Jan Douwe Kroeske"
+    ],
+    "durationSeconds": 1080,
+    "interviewer": "Jan Douwe Kroeske",
+    "outlet": "VARA",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jan Douwe Kroeske",
+        "role": "interviewer"
+      }
+    ]
+  },
+  {
+    "id": "CP7M8RMjt1U",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "The Studio Korrekt Interrogation with Frank Zappa, Stockholm 1988 (uncut)",
+    "year": 1988,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 894,
+    "outlet": "Studio Korrekt",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "j0cBQ9kidBY",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Interview, Oslo, Norway,1988",
+    "year": 1988,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 663,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Interview in Oslo, Norway, 1988. Outlet is not named in the title or description."
+  },
+  {
+    "id": "h_Ony4qKTLY",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1988 Frank Zappa on Nightflight Scandinavia",
+    "year": 1988,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 723,
+    "outlet": "Nightflight",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Nightflight Scandinavia, 1988. A same-length duplicate was dropped."
+  },
+  {
+    "id": "VR6CExfYDJs",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Composer to Composer Talks — Carl Stone with Frank Zappa (1988)",
+    "year": 1988,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Carl Stone"
+    ],
+    "durationSeconds": 3612,
+    "interviewer": "Carl Stone",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Carl Stone",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Composer-to-composer conversation. Documentary-length interview footage."
+  },
+  {
+    "id": "cgQZ5NaEkH8",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa chez Thierry Ardisson dans \"Bains de Minuit\" | INA Arditube",
+    "year": 1988,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Thierry Ardisson"
+    ],
+    "durationSeconds": 525,
+    "interviewer": "Thierry Ardisson",
+    "outlet": "Bains de Minuit",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Thierry Ardisson",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "French TV (La 5), 27 May 1988. Date and interviewer are in the video description. Official INA upload."
+  },
+  {
+    "id": "H_yqjGaUQNM",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa CNN Crossfire - November 16, 1989 - Unknown Gen  -  PLZ  post a better version if able",
+    "year": 1989,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 1253,
+    "outlet": "Crossfire",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "16 November 1989 Crossfire episode, distinct from the 1986 and 1987 programs."
+  },
+  {
+    "id": "9s9be9KLZTg",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1989 Frank Zappa on FNN - Soviet Business (November 7)",
+    "year": 1989,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 1180,
+    "outlet": "FNN",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "FNN interview on Soviet business, 7 November 1989."
+  },
+  {
+    "id": "faOjhIhYDmc",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - At Home With Frank Zappa, 1989",
+    "year": 1989,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 793,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "At Home With Frank Zappa (Synclavier / home-studio interview), 1989. Same-length subtitle/mirror uploads were dropped."
+  },
+  {
+    "id": "HSGUXX-oyDY",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "1989 Interview - The Real Frank Zappa Book (Larry King Live)",
+    "year": 1989,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Larry King"
+    ],
+    "durationSeconds": 865,
+    "interviewer": "Larry King",
+    "outlet": "Larry King Live",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Larry King",
+        "role": "interviewer"
+      }
+    ]
+  },
+  {
+    "id": "4LNHc9_Eizg",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - The Real Frank Zappa Book Interview (1989)",
+    "year": 1989,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 305,
+    "outlet": "The Today Show",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "The Real Frank Zappa Book interview on The Today Show, 7 June 1989 (date is in the video description). Distinct from the Larry King Live book interview."
+  },
+  {
+    "id": "z4lEiD5RGic",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa 'Society Pages' Interview pt. 1, 22 December 1989",
+    "year": 1989,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 5539,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Society Pages interview, 22 December 1989, part 1 of 3. Documentary-length audio interview session."
+  },
+  {
+    "id": "2FzmEsekHS4",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa 'Society Pages' Interview pt. 2, 22 December 1989",
+    "year": 1989,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 5542,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Society Pages interview, 22 December 1989, part 2 of 3."
+  },
+  {
+    "id": "UZb4v_h1eak",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa 'Society Pages' Interview pt. 3, 22 December 1989",
+    "year": 1989,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 4325,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Society Pages interview, 22 December 1989, part 3 of 3."
+  },
+  {
+    "id": "iQZJzWpUGdU",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa: the lost Interview, 1990 (Sub-Ita)",
+    "year": 1990,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Niles Lesh"
+    ],
+    "durationSeconds": 3477,
+    "interviewer": "Niles Lesh",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Niles Lesh",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "The so-called lost 1990 interview, recorded in Los Angeles in three segments (stated in the description). This upload has Italian subtitles. Split 1/7–7/7 clips of the same interview were dropped."
+  },
+  {
+    "id": "27WPY5XCAIM",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa v Praze 1.  ( jan hric 1990 )",
+    "year": 1990,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 3167,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Prague press conference, 1990 (part 1; Jan Hric upload). A 7-hour private visit recording from the same trip was not added."
+  },
+  {
+    "id": "IQg4KzPc-AQ",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa v Praze 1990 ( jan hric ) 2.",
+    "year": 1990,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 521,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Prague, 1990 (part 2 of the Jan Hric upload)."
+  },
+  {
+    "id": "OXKwQhnAc8A",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa in Prague interview 1990",
+    "year": 1990,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 264,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Short Prague interview (~4½ min), kept as a notable Havel-era appearance. May overlap thematically with the longer 1990 Prague press-conference uploads."
+  },
+  {
+    "id": "g9gTMRAYCYQ",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Interview with Frank Zappa over a long distance telephone call in 1990",
+    "year": 1990,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 1490,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Long-distance telephone interview, 1990. Radio/audio upload."
+  },
+  {
+    "id": "-GJTHDaKKgc",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa 'Society Pages' Interview 12 January 1991",
+    "year": 1991,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 4852,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Society Pages interview, 12 January 1991 (a later session than the December 1989 parts)."
+  },
+  {
+    "id": "097ey_1Im-w",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa BBC Radio 1 Interview Tue 27th Aug 1991, 22:00",
+    "year": 1991,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Nicky Campbell"
+    ],
+    "durationSeconds": 4277,
+    "interviewer": "Nicky Campbell",
+    "outlet": "BBC Radio 1",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Nicky Campbell",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Complete BBC Radio 1 interview, 27 August 1991. Interviewer is named in the video description. Radio/audio upload."
+  },
+  {
+    "id": "GyIkXl6ujAs",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Greater London Radio (GLR) Interview with Richard Skinner - 1991 (Audio)",
+    "year": 1991,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Richard Skinner"
+    ],
+    "durationSeconds": 856,
+    "interviewer": "Richard Skinner",
+    "outlet": "Greater London Radio",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Richard Skinner",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "GLR radio interview, 1991. Audio upload."
+  },
+  {
+    "id": "1r8jrGtcy-Y",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa for President, May 1991 interview",
+    "year": 1991,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Charles Amirkhanian"
+    ],
+    "durationSeconds": 3215,
+    "interviewer": "Charles Amirkhanian",
+    "outlet": "KPFA",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charles Amirkhanian",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "May 1991 interview about a possible presidential run. Interviewer and outlet are in the video description. Radio/audio upload."
+  },
+  {
+    "id": "LoayhbHElMA",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "FRANK ZAPPA; \"Turgid Flux\"- Comments on American TV Culture (1991)",
+    "year": 1991,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Geoff Steven"
+    ],
+    "durationSeconds": 2345,
+    "interviewer": "Geoff Steven",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Geoff Steven",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Documentary-length interview footage with New Zealand filmmaker Geoff Steven, on American TV culture."
+  },
+  {
+    "id": "m_xRgmtoY_8",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa Interviewed for 'The New Music' (1991)",
+    "year": 1991,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 431,
+    "outlet": "The New Music",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Slightly edited to remove music clips, per the video description."
+  },
+  {
+    "id": "uzgQZcA4FD0",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "FRANK ZAPPA: PRESS CONFERENCE YELLOW SHARK july 21 1992 Frankfurt",
+    "year": 1992,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 2724,
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Yellow Shark press conference, 21 July 1992, Frankfurt. A similar-length 1992 interview upload without a clear event name was not added separately."
+  },
+  {
+    "id": "zbTRP5C1HKs",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "The Late Show: Frank Zappa (11th March 1993)",
+    "year": 1993,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 2660,
+    "outlet": "The Late Show",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "BBC The Late Show, 11 March 1993. The uploader describes it as a Late Show documentary/profile made near the end of Zappa's life, not only a straight sit-down interview."
+  },
+  {
+    "id": "2NJN34fU690",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - The Today Show May 14, 1993 - One of Frank's Last Interviews - From My Master",
+    "year": 1993,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 727,
+    "outlet": "The Today Show",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "14 May 1993, one of Zappa's last interviews. Shorter Today Show 1993 uploads were treated as the same appearance and dropped."
+  },
+  {
+    "id": "JGBwJosLesU",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Howard Stern Interview with Moon Unit and Frank Zappa",
+    "year": 1993,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Moon Zappa",
+      "Howard Stern"
+    ],
+    "durationSeconds": 1341,
+    "interviewer": "Howard Stern",
+    "outlet": "The Howard Stern Show",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Moon Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Howard Stern",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Date 27 June 1993 is in the video description. Radio/video interview."
+  },
+  {
+    "id": "_1KlPeZxkr4",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Dutch TV special (1993)",
+    "year": 1993,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Ivo Niehe"
+    ],
+    "durationSeconds": 831,
+    "interviewer": "Ivo Niehe",
+    "outlet": "TROS",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Ivo Niehe",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Dutch TV special, 1993. Interviewer and outlet are in the video description."
+  },
+  {
+    "id": "nzJvaZVONSU",
+    "type": "interview",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa tells Charlie Rose about Pat Robertson and Iran-Contra",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 893,
+    "interviewer": "Charlie Rose",
+    "credits": [
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "notes": "Charlie Rose conversation about Pat Robertson and Iran-Contra. Year is 0 because it is not stated in the title or description; distinct from the dated February 1984 CBS Nightwatch interview."
   }
 ]
