@@ -29,7 +29,7 @@ assert(validate(concerts, ["bass"]).some((error) => error.includes("object")), "
 assert(validate(concerts, { Ada: ["guitar!"] }).some((error) => error.includes("instrument name")), "instrument shape");
 assert(validate(concerts, { Ada: ["DJ"] }).length === 0, "DJ is a valid instrument name");
 
-assert(concerts.length >= 1341, "concert count");
+assert(concerts.length >= 1636, "concert count");
 for (const id of ["0wtqnKXZlWk", "5XB7iPsCjC4", "btIIPIPDO4U", "4fPKcqx87Yc", "TAMx_nkKqDg", "C_mFOnzglU8"]) {
   assert(concerts.some((concert) => concert.id === id), id);
 }
@@ -171,7 +171,7 @@ assert(deployJob.includes("pages: write") && deployJob.includes("id-token: write
 
 assert(concerts.every((concert) => concert.type === "concert" || concert.type === "interview"), "every item has a type");
 assert(concerts.filter((concert) => concert.type === "concert").length === 1250, "concert count");
-assert(concerts.filter((concert) => concert.type === "interview").length === 91, "interview count");
+assert(concerts.filter((concert) => concert.type === "interview").length === 386, "interview count");
 assert(Catalog.itemType({}) === "concert", "missing type is concert");
 assert(Catalog.TYPES.map((type) => type.id).join() === "concert,interview");
 const interview = {

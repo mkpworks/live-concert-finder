@@ -18313,5 +18313,6220 @@
       }
     ],
     "notes": "Charlie Rose conversation about Pat Robertson and Iran-Contra. Year is 0 because it is not stated in the title or description; distinct from the dated February 1984 CBS Nightwatch interview."
+  },
+  {
+    "id": "t5dnoNa2tSQ",
+    "type": "interview",
+    "artist": "A Tribe Called Quest",
+    "title": "A Tribe Called Quest interview with Fab 5 Freddy on MTV | 1994",
+    "year": 1994,
+    "genre": "Rap/Hip-Hop",
+    "musicians": [
+      "A Tribe Called Quest"
+    ],
+    "durationSeconds": 702,
+    "credits": [
+      {
+        "name": "A Tribe Called Quest",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "KGudN5r_tlo",
+    "type": "interview",
+    "artist": "Aerosmith",
+    "title": "Steven Tyler and Joe Perry Are Happy To Be Alive | Letterman",
+    "year": 2012,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Steven Tyler",
+      "Joe Perry",
+      "David Letterman"
+    ],
+    "durationSeconds": 535,
+    "credits": [
+      {
+        "name": "Steven Tyler",
+        "role": "interviewee"
+      },
+      {
+        "name": "Joe Perry",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "aYQj7qDpTqo",
+    "type": "interview",
+    "artist": "Albert Collins",
+    "title": "Albert Collins: The 1993 \"Guitar Player\" Interview and Lesson",
+    "year": 1993,
+    "genre": "Blues",
+    "musicians": [
+      "Albert Collins",
+      "Jas Obrecht"
+    ],
+    "durationSeconds": 2872,
+    "credits": [
+      {
+        "name": "Albert Collins",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jas Obrecht",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Jas Obrecht",
+    "outlet": "Guitar Player"
+  },
+  {
+    "id": "PMno3RwFXN8",
+    "type": "interview",
+    "artist": "Albert Collins",
+    "title": "Albert Collins - Interview - 7/6/1976 - Capitol Theatre (Official)",
+    "year": 1976,
+    "genre": "Blues",
+    "musicians": [
+      "Albert Collins"
+    ],
+    "durationSeconds": 658,
+    "credits": [
+      {
+        "name": "Albert Collins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "gTEs5lzQXf4",
+    "type": "interview",
+    "artist": "Albert Collins",
+    "title": "Albert Collins- \"Mr. Collins, Mr. Collins\" / Interview 1991 [Reelin' In The Years Archive]",
+    "year": 1991,
+    "genre": "Blues",
+    "musicians": [
+      "Albert Collins"
+    ],
+    "durationSeconds": 555,
+    "credits": [
+      {
+        "name": "Albert Collins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reelin' In The Years"
+  },
+  {
+    "id": "_Qupc7kvV5o",
+    "type": "interview",
+    "artist": "Alicia Keys",
+    "title": "Alicia Keys Answers the Web's Most Searched Questions | WIRED",
+    "year": 0,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Alicia Keys"
+    ],
+    "durationSeconds": 611,
+    "credits": [
+      {
+        "name": "Alicia Keys",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "WIRED"
+  },
+  {
+    "id": "by5XILLGMII",
+    "type": "interview",
+    "artist": "Allan Holdsworth",
+    "title": "Allan Holdsworth - In-Depth Interview With Anil Prasad",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Allan Holdsworth",
+      "Anil Prasad"
+    ],
+    "durationSeconds": 2652,
+    "credits": [
+      {
+        "name": "Allan Holdsworth",
+        "role": "interviewee"
+      },
+      {
+        "name": "Anil Prasad",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Anil Prasad",
+    "outlet": "Innerviews"
+  },
+  {
+    "id": "qMVZtd7XKcQ",
+    "type": "interview",
+    "artist": "Allman Brothers Band",
+    "title": "The Derek Trucks Interview",
+    "year": 2022,
+    "genre": "Blues",
+    "musicians": [
+      "Derek Trucks",
+      "Rick Beato"
+    ],
+    "durationSeconds": 3502,
+    "credits": [
+      {
+        "name": "Derek Trucks",
+        "role": "interviewee"
+      },
+      {
+        "name": "Rick Beato",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Rick Beato",
+    "outlet": "Rick Beato"
+  },
+  {
+    "id": "3VenaGpHGJE",
+    "type": "interview",
+    "artist": "Amy Winehouse",
+    "title": "Amy Winehouse - Interview & 'In My Bed'  live | North Sea Jazz 2004",
+    "year": 2004,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Amy Winehouse"
+    ],
+    "durationSeconds": 1339,
+    "credits": [
+      {
+        "name": "Amy Winehouse",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "North Sea Jazz"
+  },
+  {
+    "id": "XBKl4IQ6l9c",
+    "type": "interview",
+    "artist": "Anoushka Shankar",
+    "title": "An Interview with Anoushka Shankar | Sound Tracks Quick Hits | PBS",
+    "year": 0,
+    "genre": "Indian Classical",
+    "musicians": [
+      "Anoushka Shankar"
+    ],
+    "durationSeconds": 488,
+    "credits": [
+      {
+        "name": "Anoushka Shankar",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "PBS"
+  },
+  {
+    "id": "KMhKHT5QSQA",
+    "type": "interview",
+    "artist": "Antibalas",
+    "title": "Interview with Amayo and Jordan McLean of Antibalas | Sound Tracks Quick Hits | PBS",
+    "year": 0,
+    "genre": "Afrobeat",
+    "musicians": [
+      "Antibalas"
+    ],
+    "durationSeconds": 522,
+    "credits": [
+      {
+        "name": "Antibalas",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "PBS"
+  },
+  {
+    "id": "C1NEvDxRHeo",
+    "type": "interview",
+    "artist": "Aretha Franklin",
+    "title": "Queen of Soul Aretha Franklin (2001 interview)",
+    "year": 2001,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Aretha Franklin",
+      "Terry Gross"
+    ],
+    "durationSeconds": 2123,
+    "credits": [
+      {
+        "name": "Aretha Franklin",
+        "role": "interviewee"
+      },
+      {
+        "name": "Terry Gross",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Terry Gross",
+    "outlet": "Fresh Air"
+  },
+  {
+    "id": "JnRoaTDUe1A",
+    "type": "interview",
+    "artist": "Armin van Buuren",
+    "title": "Armin van Buuren: Piano, Classical Music, and the Evolution of Trance | The Zane Lowe Interview",
+    "year": 0,
+    "genre": "EDM",
+    "musicians": [
+      "Armin van Buuren"
+    ],
+    "durationSeconds": 2596,
+    "credits": [
+      {
+        "name": "Armin van Buuren",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Apple Music"
+  },
+  {
+    "id": "dt5pQqxWlaE",
+    "type": "interview",
+    "artist": "Astor Piazzolla",
+    "title": "Astor Piazzolla - Zero Hour - BBC Interview 1989",
+    "year": 1989,
+    "genre": "Tango",
+    "musicians": [
+      "Astor Piazzolla"
+    ],
+    "durationSeconds": 485,
+    "credits": [
+      {
+        "name": "Astor Piazzolla",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "m_Vr6ar1fuA",
+    "type": "interview",
+    "artist": "B.B. King",
+    "title": "B.B. King, Academy Class of 2004, Full Interview",
+    "year": 2004,
+    "genre": "Blues",
+    "musicians": [
+      "B.B. King"
+    ],
+    "durationSeconds": 3914,
+    "credits": [
+      {
+        "name": "B.B. King",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Academy of Achievement"
+  },
+  {
+    "id": "PInm7cnIQdA",
+    "type": "interview",
+    "artist": "B.B. King",
+    "title": "B.B. King Interview (March 19, 1997)",
+    "year": 1997,
+    "genre": "Blues",
+    "musicians": [
+      "B.B. King"
+    ],
+    "durationSeconds": 620,
+    "credits": [
+      {
+        "name": "B.B. King",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Guitar Player"
+  },
+  {
+    "id": "oSL1uNvNvJw",
+    "type": "interview",
+    "artist": "BBC Symphony Orchestra",
+    "title": "Interview: Spitfire On the BBC Symphony Orchestra",
+    "year": 0,
+    "genre": "Orchestral",
+    "musicians": [
+      "BBC Symphony Orchestra"
+    ],
+    "durationSeconds": 1026,
+    "credits": [
+      {
+        "name": "BBC Symphony Orchestra",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "T72ZXzDAL34",
+    "type": "interview",
+    "artist": "Beastie Boys",
+    "title": "The Beastie Boys (2006 interview)",
+    "year": 2006,
+    "genre": "Rap/Hip-Hop",
+    "musicians": [
+      "Beastie Boys",
+      "Terry Gross"
+    ],
+    "durationSeconds": 2522,
+    "credits": [
+      {
+        "name": "Beastie Boys",
+        "role": "interviewee"
+      },
+      {
+        "name": "Terry Gross",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Terry Gross",
+    "outlet": "Fresh Air"
+  },
+  {
+    "id": "2ActbBt0Un8",
+    "type": "interview",
+    "artist": "BIGBANG",
+    "title": "[FULL Interview HD] BIGBANG CNN Talk Asia Interview TV broadcast 2016-09-08",
+    "year": 2016,
+    "genre": "K-pop",
+    "musicians": [
+      "BIGBANG"
+    ],
+    "durationSeconds": 1395,
+    "credits": [
+      {
+        "name": "BIGBANG",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CNN"
+  },
+  {
+    "id": "JSxIxMxaSdU",
+    "type": "interview",
+    "artist": "Bill Bruford",
+    "title": "Bill Bruford - From The Sofa (Interview With TAMA)",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Bill Bruford"
+    ],
+    "durationSeconds": 2544,
+    "credits": [
+      {
+        "name": "Bill Bruford",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "TAMA"
+  },
+  {
+    "id": "Zl52VLbfa-Y",
+    "type": "interview",
+    "artist": "Bill Bruford",
+    "title": "Yes Interviews: 3/87 - VH1 interview of Bill Bruford and Tony Levin, plus Earthworks clips",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Bill Bruford",
+      "Tony Levin"
+    ],
+    "durationSeconds": 1051,
+    "credits": [
+      {
+        "name": "Bill Bruford",
+        "role": "interviewee"
+      },
+      {
+        "name": "Tony Levin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "VH1"
+  },
+  {
+    "id": "a-l5c39x3h4",
+    "type": "interview",
+    "artist": "Billy Cobham",
+    "title": "Billy Cobham Interview",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Billy Cobham"
+    ],
+    "durationSeconds": 2770,
+    "credits": [
+      {
+        "name": "Billy Cobham",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Sweetwater"
+  },
+  {
+    "id": "LHVk2JWCCeQ",
+    "type": "interview",
+    "artist": "Black Sabbath",
+    "title": "Ozzy Osbourne Bit The Head Off A Bat | Letterman",
+    "year": 0,
+    "genre": "Metal",
+    "musicians": [
+      "Ozzy Osbourne",
+      "David Letterman"
+    ],
+    "durationSeconds": 440,
+    "credits": [
+      {
+        "name": "Ozzy Osbourne",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "nGZVUIzY6ks",
+    "type": "interview",
+    "artist": "Bootsy Collins",
+    "title": "An Interview with Bootsy Collins",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Bootsy Collins"
+    ],
+    "durationSeconds": 3288,
+    "credits": [
+      {
+        "name": "Bootsy Collins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Bootsy Collins"
+  },
+  {
+    "id": "BQKNjlYXL4U",
+    "type": "interview",
+    "artist": "Bootsy Collins",
+    "title": "Bootsy Collins Interviewed by Sweetwater",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Bootsy Collins"
+    ],
+    "durationSeconds": 2750,
+    "credits": [
+      {
+        "name": "Bootsy Collins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Sweetwater"
+  },
+  {
+    "id": "Ffu6l96c8Fs",
+    "type": "interview",
+    "artist": "Bootsy Collins",
+    "title": "Bootsy Collins + Buckethead In Conversation",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Bootsy Collins"
+    ],
+    "durationSeconds": 831,
+    "credits": [
+      {
+        "name": "Bootsy Collins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reverb"
+  },
+  {
+    "id": "ZxDdZ3vRZwc",
+    "type": "interview",
+    "artist": "Brian Eno",
+    "title": "Mike Andrews interviews Brian Eno for Riverside in 1983",
+    "year": 1983,
+    "genre": "Ambient",
+    "musicians": [
+      "Brian Eno"
+    ],
+    "durationSeconds": 651,
+    "credits": [
+      {
+        "name": "Brian Eno",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "PhkL4K7Esc0",
+    "type": "interview",
+    "artist": "Bruce Springsteen",
+    "title": "Bruce Springsteen - Apple Music ‘Letter To You’ Interview",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Bruce Springsteen"
+    ],
+    "durationSeconds": 3642,
+    "credits": [
+      {
+        "name": "Bruce Springsteen",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Apple Music"
+  },
+  {
+    "id": "XActM77Jkv8",
+    "type": "interview",
+    "artist": "Bruce Springsteen",
+    "title": "Watch: Bruce Springsteen, our complete interview",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Bruce Springsteen"
+    ],
+    "durationSeconds": 2427,
+    "credits": [
+      {
+        "name": "Bruce Springsteen",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "PBS"
+  },
+  {
+    "id": "hvQADmDO2pw",
+    "type": "interview",
+    "artist": "Bruce Springsteen",
+    "title": "Bruce Springsteen: Interview with The Boss - BBC News",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Bruce Springsteen"
+    ],
+    "durationSeconds": 1680,
+    "credits": [
+      {
+        "name": "Bruce Springsteen",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "KLtihzJ6gdw",
+    "type": "interview",
+    "artist": "Bruce Springsteen",
+    "title": "Bruce Springsteen & E Street Band on Letterman, April 5, 1995",
+    "year": 1995,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Bruce Springsteen",
+      "David Letterman"
+    ],
+    "durationSeconds": 999,
+    "credits": [
+      {
+        "name": "Bruce Springsteen",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "Lyy9R3BpeaM",
+    "type": "interview",
+    "artist": "Bruce Springsteen",
+    "title": "Bruce Springsteen Was Fed Up With \"Born In The U.S.A.\" | David Letterman",
+    "year": 2002,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Bruce Springsteen",
+      "David Letterman"
+    ],
+    "durationSeconds": 444,
+    "credits": [
+      {
+        "name": "Bruce Springsteen",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "G-3JuVFJrY8",
+    "type": "interview",
+    "artist": "Cab Calloway",
+    "title": "Cab Calloway - Interview - 3/20/1986 - unknown (Official)",
+    "year": 1986,
+    "genre": "Big Band/Swing",
+    "musicians": [
+      "Cab Calloway"
+    ],
+    "durationSeconds": 1206,
+    "credits": [
+      {
+        "name": "Cab Calloway",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "zR5VYbYFfhw",
+    "type": "interview",
+    "artist": "Captain Beefheart",
+    "title": "Fan Request: Captain Beefheart's Last Appearance With Dave | Letterman",
+    "year": 1983,
+    "genre": "Experimental",
+    "musicians": [
+      "Captain Beefheart",
+      "David Letterman"
+    ],
+    "durationSeconds": 563,
+    "credits": [
+      {
+        "name": "Captain Beefheart",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "5ZyRsgmIU2w",
+    "type": "interview",
+    "artist": "Carl Perkins",
+    "title": "Carl Perkins Sings \"Blue Suede Shoes,\" Talks Elvis | Letterman",
+    "year": 1986,
+    "genre": "Rockabilly",
+    "musicians": [
+      "Carl Perkins",
+      "David Letterman"
+    ],
+    "durationSeconds": 613,
+    "credits": [
+      {
+        "name": "Carl Perkins",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "4poUv2fV5ew",
+    "type": "interview",
+    "artist": "Charles Bradley",
+    "title": "Charles Bradley interview (part 1)",
+    "year": 2016,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Charles Bradley"
+    ],
+    "durationSeconds": 756,
+    "credits": [
+      {
+        "name": "Charles Bradley",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "FaceCulture"
+  },
+  {
+    "id": "qk62bLX_hZA",
+    "type": "interview",
+    "artist": "Clannad",
+    "title": "Moya Brennan - Interview for BBC | Irish Music Icons (Dec 2023)",
+    "year": 2023,
+    "genre": "Celtic",
+    "musicians": [
+      "Moya Brennan"
+    ],
+    "durationSeconds": 4386,
+    "credits": [
+      {
+        "name": "Moya Brennan",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "APPIAOx9x_Y",
+    "type": "interview",
+    "artist": "Curtis Mayfield",
+    "title": "Curtis Mayfield Interview (April 15, 1994)",
+    "year": 1994,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Curtis Mayfield"
+    ],
+    "durationSeconds": 556,
+    "credits": [
+      {
+        "name": "Curtis Mayfield",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "6vS9wzIc8U0",
+    "type": "interview",
+    "artist": "Dave Brubeck",
+    "title": "Dave Brubeck - His Best Interview (1959)",
+    "year": 1959,
+    "genre": "Jazz",
+    "musicians": [
+      "Dave Brubeck"
+    ],
+    "durationSeconds": 959,
+    "credits": [
+      {
+        "name": "Dave Brubeck",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Desert Island Discs"
+  },
+  {
+    "id": "B55wszD4kQ0",
+    "type": "interview",
+    "artist": "Dave Brubeck",
+    "title": "Dave Brubeck - Rare Footage Interview Brubeck - 14/07/1979 • World of Jazz",
+    "year": 1979,
+    "genre": "Jazz",
+    "musicians": [
+      "Dave Brubeck"
+    ],
+    "durationSeconds": 562,
+    "credits": [
+      {
+        "name": "Dave Brubeck",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "North Sea Jazz"
+  },
+  {
+    "id": "KjFcLywUM_A",
+    "type": "interview",
+    "artist": "David Bowie",
+    "title": "David Bowie - Charlie Rose (USA TV) - INTERVIEW ABOUT BASQUIAT - 12 August 1996",
+    "year": 1996,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 2116,
+    "credits": [
+      {
+        "name": "David Bowie",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "2ben9_0mLEs",
+    "type": "interview",
+    "artist": "David Bowie",
+    "title": "David Bowie Full Interview (1998)",
+    "year": 1998,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 1583,
+    "credits": [
+      {
+        "name": "David Bowie",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "zri74q3HDDY",
+    "type": "interview",
+    "artist": "David Bowie",
+    "title": "David Bowie: Full Interview (1995) | MTV News",
+    "year": 1995,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie"
+    ],
+    "durationSeconds": 1395,
+    "credits": [
+      {
+        "name": "David Bowie",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "jf6CbyaBpn8",
+    "type": "interview",
+    "artist": "David Bowie",
+    "title": "David Bowie 2002 Interview Parkinson Stereo HD",
+    "year": 2002,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie",
+      "Michael Parkinson"
+    ],
+    "durationSeconds": 1204,
+    "credits": [
+      {
+        "name": "David Bowie",
+        "role": "interviewee"
+      },
+      {
+        "name": "Michael Parkinson",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Michael Parkinson",
+    "outlet": "Parkinson"
+  },
+  {
+    "id": "FiK7s_0tGsg",
+    "type": "interview",
+    "artist": "David Bowie",
+    "title": "David Bowie speaks to Jeremy Paxman on BBC Newsnight (1999)",
+    "year": 1999,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie"
+    ],
+    "durationSeconds": 967,
+    "credits": [
+      {
+        "name": "David Bowie",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "RSSf3k4UU64",
+    "type": "interview",
+    "artist": "David Bowie",
+    "title": "David Bowie Interview on Dick Cavett - 1974",
+    "year": 1974,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie",
+      "Dick Cavett"
+    ],
+    "durationSeconds": 951,
+    "credits": [
+      {
+        "name": "David Bowie",
+        "role": "interviewee"
+      },
+      {
+        "name": "Dick Cavett",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Dick Cavett",
+    "outlet": "The Dick Cavett Show"
+  },
+  {
+    "id": "fK-u5vm4DzI",
+    "type": "interview",
+    "artist": "David Bowie",
+    "title": "David Bowie & Julian Schnabel Interview on Charlie Rose (1996, 'Basquiat' Film) Excerpt",
+    "year": 1996,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 772,
+    "credits": [
+      {
+        "name": "David Bowie",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "l5tFgM97gT4",
+    "type": "interview",
+    "artist": "Deep Purple",
+    "title": "A candid Ian Gillan interview from the 2001 Deep Purple USA tour",
+    "year": 2001,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Ian Gillan"
+    ],
+    "durationSeconds": 1336,
+    "credits": [
+      {
+        "name": "Ian Gillan",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Deep Purple Official"
+  },
+  {
+    "id": "sZX-6HSFTd0",
+    "type": "interview",
+    "artist": "Deep Purple",
+    "title": "Deep Purple Reunion Press Conference announcement 1984",
+    "year": 1984,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Deep Purple"
+    ],
+    "durationSeconds": 844,
+    "credits": [
+      {
+        "name": "Deep Purple",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Deep Purple Official"
+  },
+  {
+    "id": "YM7TidriOz4",
+    "type": "interview",
+    "artist": "Deep Purple",
+    "title": "DEEP PURPLE's Jon Lord interviewed in 2010 about classical, jazz & metal | Raw & Uncut",
+    "year": 2010,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jon Lord"
+    ],
+    "durationSeconds": 820,
+    "credits": [
+      {
+        "name": "Jon Lord",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "cpbSkWV27LM",
+    "type": "interview",
+    "artist": "Deep Purple",
+    "title": "Ritchie Blackmore Interview - some insight into the workings of Deep Purple",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Ritchie Blackmore"
+    ],
+    "durationSeconds": 560,
+    "credits": [
+      {
+        "name": "Ritchie Blackmore",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Deep Purple Official"
+  },
+  {
+    "id": "oXi5n2jfPa0",
+    "type": "interview",
+    "artist": "Dio",
+    "title": "MTV Headbangers Ball - Feb. 27, 1988 (Interview and live segments with Dio)",
+    "year": 1988,
+    "genre": "Metal",
+    "musicians": [
+      "Dio"
+    ],
+    "durationSeconds": 4429,
+    "credits": [
+      {
+        "name": "Dio",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "lBazyRIHGSk",
+    "type": "interview",
+    "artist": "Dio",
+    "title": "Ronnie James Dio interview with Mark Kadzielawa 1994",
+    "year": 1994,
+    "genre": "Metal",
+    "musicians": [
+      "Ronnie James Dio"
+    ],
+    "durationSeconds": 1948,
+    "credits": [
+      {
+        "name": "Ronnie James Dio",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "69 Faces of Rock"
+  },
+  {
+    "id": "U8Ln5GW-3as",
+    "type": "interview",
+    "artist": "Dio",
+    "title": "RONNIE JAMES DIO interview on religion and the Devil 2004 | Raw & Uncut",
+    "year": 2004,
+    "genre": "Metal",
+    "musicians": [
+      "Ronnie James Dio"
+    ],
+    "durationSeconds": 735,
+    "credits": [
+      {
+        "name": "Ronnie James Dio",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "LoNzTwaDDag",
+    "type": "interview",
+    "artist": "Dio",
+    "title": "Ronnie James Dio - Interview, Radio Trent, England  (1981)",
+    "year": 1981,
+    "genre": "Metal",
+    "musicians": [
+      "Ronnie James Dio"
+    ],
+    "durationSeconds": 724,
+    "credits": [
+      {
+        "name": "Ronnie James Dio",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Radio Trent"
+  },
+  {
+    "id": "_zAhnr97hvM",
+    "type": "interview",
+    "artist": "Dire Straits",
+    "title": "Mark Knopfler - Interview (Parkinson, 22.09.2000)",
+    "year": 2000,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mark Knopfler",
+      "Michael Parkinson"
+    ],
+    "durationSeconds": 600,
+    "credits": [
+      {
+        "name": "Mark Knopfler",
+        "role": "interviewee"
+      },
+      {
+        "name": "Michael Parkinson",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Michael Parkinson",
+    "outlet": "Parkinson"
+  },
+  {
+    "id": "XplFlN4zhkc",
+    "type": "interview",
+    "artist": "Dire Straits",
+    "title": "Mark Knopfler @ Letterman '96 - Cannibals & Interview",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mark Knopfler",
+      "David Letterman"
+    ],
+    "durationSeconds": 497,
+    "credits": [
+      {
+        "name": "Mark Knopfler",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "mRAiIJ0isE0",
+    "type": "interview",
+    "artist": "Dire Straits",
+    "title": "Mark Knopfler / Dire Straits - BBC Radio 1 interview - 20 June 1992",
+    "year": 1992,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mark Knopfler"
+    ],
+    "durationSeconds": 452,
+    "credits": [
+      {
+        "name": "Mark Knopfler",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 1"
+  },
+  {
+    "id": "x45R1--I27o",
+    "type": "interview",
+    "artist": "Dizzy Gillespie",
+    "title": "Dizzy Gillespie interview | Jazz | Bent Trumpet | Afternoon Plus | 1983",
+    "year": 1983,
+    "genre": "Jazz",
+    "musicians": [
+      "Dizzy Gillespie"
+    ],
+    "durationSeconds": 741,
+    "credits": [
+      {
+        "name": "Dizzy Gillespie",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Thames Television"
+  },
+  {
+    "id": "JV8ZxQUJmLU",
+    "type": "interview",
+    "artist": "Dizzy Gillespie",
+    "title": "Dizzy Gillespie Rare 1990 Interview | Charlie Rose CBS Nightwatch | Story Of Signature Bent Trumpet",
+    "year": 1990,
+    "genre": "Jazz",
+    "musicians": [
+      "Dizzy Gillespie",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 619,
+    "credits": [
+      {
+        "name": "Dizzy Gillespie",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "fU15OC4JdYg",
+    "type": "interview",
+    "artist": "Dolly Parton",
+    "title": "Remembering Dolly Parton: Her Classic 2001 Fresh Air Interview",
+    "year": 2001,
+    "genre": "Country",
+    "musicians": [
+      "Dolly Parton",
+      "Terry Gross"
+    ],
+    "durationSeconds": 2719,
+    "credits": [
+      {
+        "name": "Dolly Parton",
+        "role": "interviewee"
+      },
+      {
+        "name": "Terry Gross",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Terry Gross",
+    "outlet": "Fresh Air"
+  },
+  {
+    "id": "Bc9gTqiljLA",
+    "type": "interview",
+    "artist": "Dolly Parton",
+    "title": "Dolly Parton Answers the Web's Most Searched Questions | WIRED",
+    "year": 0,
+    "genre": "Country",
+    "musicians": [
+      "Dolly Parton"
+    ],
+    "durationSeconds": 524,
+    "credits": [
+      {
+        "name": "Dolly Parton",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "WIRED"
+  },
+  {
+    "id": "_6ISFr8xoLI",
+    "type": "interview",
+    "artist": "Dream Theater",
+    "title": "MIKE PORTNOY interviewed in 2011 about Yes, Dream Theater, and prog metal | Raw & Uncut",
+    "year": 2011,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Mike Portnoy"
+    ],
+    "durationSeconds": 593,
+    "credits": [
+      {
+        "name": "Mike Portnoy",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Apple Music"
+  },
+  {
+    "id": "llAkozqrxwI",
+    "type": "interview",
+    "artist": "Dream Theater",
+    "title": "Dream Theater interview - John Petrucci (part 1)",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "John Petrucci"
+    ],
+    "durationSeconds": 565,
+    "credits": [
+      {
+        "name": "John Petrucci",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "FaceCulture"
+  },
+  {
+    "id": "ab7OEd8IAuM",
+    "type": "interview",
+    "artist": "Duran Duran",
+    "title": "Duran Duran: The Raw & Uncut Interview - 1986",
+    "year": 1986,
+    "genre": "New Wave",
+    "musicians": [
+      "Duran Duran"
+    ],
+    "durationSeconds": 2264,
+    "credits": [
+      {
+        "name": "Duran Duran",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "3dKh4PRio8g",
+    "type": "interview",
+    "artist": "Dweezil Zappa",
+    "title": "Dweezil Zappa Teaches Frank Zappa's Improvisation Techniques | Reverb Interview",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Dweezil Zappa",
+      "Frank Zappa"
+    ],
+    "durationSeconds": 650,
+    "credits": [
+      {
+        "name": "Dweezil Zappa",
+        "role": "interviewee"
+      },
+      {
+        "name": "Frank Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reverb"
+  },
+  {
+    "id": "Q89MPFyOMfw",
+    "type": "interview",
+    "artist": "Dweezil Zappa",
+    "title": "Dweezil Zappa Interviews Les Paul on MTV 1987",
+    "year": 1987,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Dweezil Zappa"
+    ],
+    "durationSeconds": 486,
+    "credits": [
+      {
+        "name": "Dweezil Zappa",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "v-9JEftRKtU",
+    "type": "interview",
+    "artist": "Eagles",
+    "title": "Don Henley Interview w/ Charlie Rose 2001",
+    "year": 2001,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Don Henley",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 1513,
+    "credits": [
+      {
+        "name": "Don Henley",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "DLRYP9ohIes",
+    "type": "interview",
+    "artist": "Elbow",
+    "title": "Elbow interview - Guy Garvey 2005 interview",
+    "year": 2005,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Guy Garvey"
+    ],
+    "durationSeconds": 1673,
+    "credits": [
+      {
+        "name": "Guy Garvey",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "FaceCulture"
+  },
+  {
+    "id": "dunLgfk3XWI",
+    "type": "interview",
+    "artist": "Ella Fitzgerald",
+    "title": "Ella Fitzgerald Interview 1974 Brian Linehan's City Lights",
+    "year": 1974,
+    "genre": "Jazz",
+    "musicians": [
+      "Ella Fitzgerald"
+    ],
+    "durationSeconds": 1247,
+    "credits": [
+      {
+        "name": "Ella Fitzgerald",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reelin' In The Years"
+  },
+  {
+    "id": "V2aeV60Wah4",
+    "type": "interview",
+    "artist": "Elvis Costello",
+    "title": "Elvis Costello | interview | The Hoover building | What is Punk? | Good Afternoon | 1977",
+    "year": 1977,
+    "genre": "New Wave",
+    "musicians": [
+      "Elvis Costello"
+    ],
+    "durationSeconds": 454,
+    "credits": [
+      {
+        "name": "Elvis Costello",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Thames Television"
+  },
+  {
+    "id": "oI6iB6PsfVg",
+    "type": "interview",
+    "artist": "Eric Clapton",
+    "title": "CREAM   Eric Clapton PETE TOWNSHED interviews 1967 HOEPLA VPRO",
+    "year": 1967,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Eric Clapton"
+    ],
+    "durationSeconds": 661,
+    "credits": [
+      {
+        "name": "Eric Clapton",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "VPRO"
+  },
+  {
+    "id": "UVZVHx9w-e8",
+    "type": "interview",
+    "artist": "Esperanza Spalding",
+    "title": "Esperanza Spalding, Academy Class of 2014, Full Interview",
+    "year": 2014,
+    "genre": "Jazz",
+    "musicians": [
+      "Esperanza Spalding"
+    ],
+    "durationSeconds": 3380,
+    "credits": [
+      {
+        "name": "Esperanza Spalding",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Academy of Achievement"
+  },
+  {
+    "id": "fNzrG2SZWqU",
+    "type": "interview",
+    "artist": "EXO",
+    "title": "EXO on American Music + Inspiration to Fans | Exclusive Interview",
+    "year": 0,
+    "genre": "K-pop",
+    "musicians": [
+      "EXO"
+    ],
+    "durationSeconds": 435,
+    "credits": [
+      {
+        "name": "EXO",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "iHeartRadio"
+  },
+  {
+    "id": "ah7mFdr_fZ0",
+    "type": "interview",
+    "artist": "Fatboy Slim",
+    "title": "Fatboy Slim: The Raw & Uncut Interview - 1989",
+    "year": 1989,
+    "genre": "EDM",
+    "musicians": [
+      "Fatboy Slim"
+    ],
+    "durationSeconds": 1117,
+    "credits": [
+      {
+        "name": "Fatboy Slim",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "QtiAnjtYdwo",
+    "type": "interview",
+    "artist": "Fela Kuti",
+    "title": "FELA KUTI- Interview 1988 (Reelin' In The Years Archive)",
+    "year": 1988,
+    "genre": "Funk",
+    "musicians": [
+      "Fela Kuti"
+    ],
+    "durationSeconds": 1158,
+    "credits": [
+      {
+        "name": "Fela Kuti",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reelin' In The Years"
+  },
+  {
+    "id": "mKwqs1bDCnw",
+    "type": "interview",
+    "artist": "Fleetwood Mac",
+    "title": "Stevie Nicks - 03-1986 Late Night with David Letterman",
+    "year": 1986,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Stevie Nicks",
+      "David Letterman"
+    ],
+    "durationSeconds": 545,
+    "credits": [
+      {
+        "name": "Stevie Nicks",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Night with David Letterman"
+  },
+  {
+    "id": "tFC5yA65Ens",
+    "type": "interview",
+    "artist": "Freddie King",
+    "title": "Freddie King - Full Interview, Part 2 (1971)",
+    "year": 1971,
+    "genre": "Blues",
+    "musicians": [
+      "Freddie King"
+    ],
+    "durationSeconds": 3582,
+    "credits": [
+      {
+        "name": "Freddie King",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Guitar Player"
+  },
+  {
+    "id": "HZGq0cOTaSo",
+    "type": "interview",
+    "artist": "Freddie King",
+    "title": "Freddie King - Full Interview, Part 1 (1971)",
+    "year": 1971,
+    "genre": "Blues",
+    "musicians": [
+      "Freddie King"
+    ],
+    "durationSeconds": 3490,
+    "credits": [
+      {
+        "name": "Freddie King",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "0BdI5zNHTJs",
+    "type": "interview",
+    "artist": "Genesis",
+    "title": "Genesis: The Raw & Uncut Interview - 1986",
+    "year": 1986,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Genesis"
+    ],
+    "durationSeconds": 1216,
+    "credits": [
+      {
+        "name": "Genesis",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "52v0Mw7ZnLc",
+    "type": "interview",
+    "artist": "Genesis",
+    "title": "Phil Collins Reveals the Truth About “Sussudio” | David Letterman",
+    "year": 1985,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Phil Collins",
+      "David Letterman"
+    ],
+    "durationSeconds": 566,
+    "credits": [
+      {
+        "name": "Phil Collins",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "k-u96dUGMqk",
+    "type": "interview",
+    "artist": "Genesis",
+    "title": "Phil Collins humbles his success - Letterman Invisible Touch",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Phil Collins",
+      "David Letterman"
+    ],
+    "durationSeconds": 432,
+    "credits": [
+      {
+        "name": "Phil Collins",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "ICnAjdEc9JQ",
+    "type": "interview",
+    "artist": "George Clinton",
+    "title": "George Clinton on David Letterman  (1986)",
+    "year": 1986,
+    "genre": "Funk",
+    "musicians": [
+      "George Clinton",
+      "David Letterman"
+    ],
+    "durationSeconds": 432,
+    "credits": [
+      {
+        "name": "George Clinton",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "bBZs2RPNRR8",
+    "type": "interview",
+    "artist": "George Duke",
+    "title": "Interview with George Duke - North Sea Jazz Festival   - 1999",
+    "year": 1999,
+    "genre": "Fusion",
+    "musicians": [
+      "George Duke"
+    ],
+    "durationSeconds": 862,
+    "credits": [
+      {
+        "name": "George Duke",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "North Sea Jazz"
+  },
+  {
+    "id": "f3PlrtnOHnU",
+    "type": "interview",
+    "artist": "George Jones",
+    "title": "George Jones Interview with Charlie Rose (1996)",
+    "year": 1996,
+    "genre": "Country",
+    "musicians": [
+      "George Jones",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 1120,
+    "credits": [
+      {
+        "name": "George Jones",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "DOsJrEjvSkg",
+    "type": "interview",
+    "artist": "Gilberto Gil",
+    "title": "BBC - Hard Talk - Gilberto Gil",
+    "year": 0,
+    "genre": "MPB/Bossa",
+    "musicians": [
+      "Gilberto Gil"
+    ],
+    "durationSeconds": 1499,
+    "credits": [
+      {
+        "name": "Gilberto Gil",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "T96DDbCC1lw",
+    "type": "interview",
+    "artist": "Gillian Welch",
+    "title": "Gillian Welch interview with KEXP's Greg Vandy",
+    "year": 2009,
+    "genre": "Folk",
+    "musicians": [
+      "Gillian Welch"
+    ],
+    "durationSeconds": 715,
+    "credits": [
+      {
+        "name": "Gillian Welch",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "KEXP"
+  },
+  {
+    "id": "pwiWR0OwVPk",
+    "type": "interview",
+    "artist": "Ginger Baker",
+    "title": "Ginger Baker+Jack Bruce on Letterman",
+    "year": 0,
+    "genre": "Jazz",
+    "musicians": [
+      "Ginger Baker",
+      "Jack Bruce",
+      "David Letterman"
+    ],
+    "durationSeconds": 1102,
+    "credits": [
+      {
+        "name": "Ginger Baker",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jack Bruce",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "6JgnZAz_GF0",
+    "type": "interview",
+    "artist": "Gong",
+    "title": "Gong - Interviewed by Marc Riley : BBC Radio 6 session /  November 13th 2023 / \"Riley & Coe Show\"",
+    "year": 2023,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Gong"
+    ],
+    "durationSeconds": 511,
+    "credits": [
+      {
+        "name": "Gong",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "zV7QOrTyKW8",
+    "type": "interview",
+    "artist": "Grateful Dead",
+    "title": "Jerry Garcia: The Complete 1985 \"Frets\" Interview (HD Audio)",
+    "year": 1985,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Jas Obrecht"
+    ],
+    "durationSeconds": 5024,
+    "credits": [
+      {
+        "name": "Jerry Garcia",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jas Obrecht",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Jas Obrecht",
+    "outlet": "Jas Obrecht / Guitar Player"
+  },
+  {
+    "id": "SkqmYt-yln8",
+    "type": "interview",
+    "artist": "Grateful Dead",
+    "title": "Jerry Garcia interview in 1983 with Nina Blackwood (first MTV interview) [HD Remaster]",
+    "year": 1983,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia"
+    ],
+    "durationSeconds": 1802,
+    "credits": [
+      {
+        "name": "Jerry Garcia",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "4skH27r5dLc",
+    "type": "interview",
+    "artist": "Grateful Dead",
+    "title": "Jerry Garcia and Bob Weir on Letterman, April 13, 1982",
+    "year": 1982,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "David Letterman"
+    ],
+    "durationSeconds": 1253,
+    "credits": [
+      {
+        "name": "Jerry Garcia",
+        "role": "interviewee"
+      },
+      {
+        "name": "Bob Weir",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "hQDW4AwhoPc",
+    "type": "interview",
+    "artist": "Grateful Dead",
+    "title": "Bob Weir interview - London 1972",
+    "year": 1972,
+    "genre": "Jam Band",
+    "musicians": [
+      "Bob Weir"
+    ],
+    "durationSeconds": 1063,
+    "credits": [
+      {
+        "name": "Bob Weir",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "kTVNfIwHyHA",
+    "type": "interview",
+    "artist": "Grateful Dead",
+    "title": "Jerry Garcia & Bob Weir Were Terrible At Woodstock | Letterman",
+    "year": 1987,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "David Letterman"
+    ],
+    "durationSeconds": 440,
+    "credits": [
+      {
+        "name": "Jerry Garcia",
+        "role": "interviewee"
+      },
+      {
+        "name": "Bob Weir",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "jmdN5FG-n_o",
+    "type": "interview",
+    "artist": "Green Day",
+    "title": "Green Day Answer The Web's Most Searched Questions",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Green Day"
+    ],
+    "durationSeconds": 488,
+    "credits": [
+      {
+        "name": "Green Day",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "WIRED"
+  },
+  {
+    "id": "jAHFYrWxXyM",
+    "type": "interview",
+    "artist": "Herbie Hancock",
+    "title": "Herbie Hancock & Wayne Shorter - Interview - 8/15/2004 - Newport Jazz Festival (Official)",
+    "year": 2004,
+    "genre": "Fusion",
+    "musicians": [
+      "Herbie Hancock",
+      "Wayne Shorter"
+    ],
+    "durationSeconds": 853,
+    "credits": [
+      {
+        "name": "Herbie Hancock",
+        "role": "interviewee"
+      },
+      {
+        "name": "Wayne Shorter",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "LfKDZIVoSms",
+    "type": "interview",
+    "artist": "Herbie Hancock",
+    "title": "Herbie Hancock's 1994 PBS Interview with Charlie Rose",
+    "year": 1994,
+    "genre": "Fusion",
+    "musicians": [
+      "Herbie Hancock",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 676,
+    "credits": [
+      {
+        "name": "Herbie Hancock",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "29mx2bYvrJk",
+    "type": "interview",
+    "artist": "Herbie Hancock",
+    "title": "Herbie Hancock on Letterman, December 11, 1984",
+    "year": 1984,
+    "genre": "Fusion",
+    "musicians": [
+      "Herbie Hancock",
+      "David Letterman"
+    ],
+    "durationSeconds": 484,
+    "credits": [
+      {
+        "name": "Herbie Hancock",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "3a4SUCBNw_4",
+    "type": "interview",
+    "artist": "Herbie Hancock",
+    "title": "Herbie Hancock - Interview - 8/14/1988 - Newport Casino (Official)",
+    "year": 1988,
+    "genre": "Fusion",
+    "musicians": [
+      "Herbie Hancock"
+    ],
+    "durationSeconds": 472,
+    "credits": [
+      {
+        "name": "Herbie Hancock",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "1lcuUYjA4rY",
+    "type": "interview",
+    "artist": "Horace Silver",
+    "title": "Horace Silver - Interview Part 2 (1969)",
+    "year": 1969,
+    "genre": "Jazz",
+    "musicians": [
+      "Horace Silver"
+    ],
+    "durationSeconds": 3525,
+    "credits": [
+      {
+        "name": "Horace Silver",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "4h8ktOXzIxA",
+    "type": "interview",
+    "artist": "Iggy Pop",
+    "title": "Iggy Pop live for 6 Music (Full performance & interview)",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Iggy Pop"
+    ],
+    "durationSeconds": 3064,
+    "credits": [
+      {
+        "name": "Iggy Pop",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "U8hCkQwKA00",
+    "type": "interview",
+    "artist": "Iggy Pop",
+    "title": "Iggy Pop: The Raw & Uncut Interview - 1990",
+    "year": 1990,
+    "genre": "Punk",
+    "musicians": [
+      "Iggy Pop"
+    ],
+    "durationSeconds": 1780,
+    "credits": [
+      {
+        "name": "Iggy Pop",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "PqDC7F4dBsM",
+    "type": "interview",
+    "artist": "Iggy Pop",
+    "title": "Iggy Pop Talks About His Trailer Trash Childhood, Meeting David Bowie | Letterman",
+    "year": 1982,
+    "genre": "Punk",
+    "musicians": [
+      "David Bowie",
+      "Iggy Pop",
+      "David Letterman"
+    ],
+    "durationSeconds": 673,
+    "credits": [
+      {
+        "name": "David Bowie",
+        "role": "interviewee"
+      },
+      {
+        "name": "Iggy Pop",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "wONoxYjfNQo",
+    "type": "interview",
+    "artist": "Iggy Pop",
+    "title": "IGGY POP interviewed in 2011 about the 1970s and the blues  | Raw & Uncut",
+    "year": 2011,
+    "genre": "Punk",
+    "musicians": [
+      "Iggy Pop"
+    ],
+    "durationSeconds": 606,
+    "credits": [
+      {
+        "name": "Iggy Pop",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "ujK_UO3Q1W4",
+    "type": "interview",
+    "artist": "Iggy Pop",
+    "title": "Iggy Pop @ The David Letterman Show",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Iggy Pop",
+      "David Letterman"
+    ],
+    "durationSeconds": 480,
+    "credits": [
+      {
+        "name": "Iggy Pop",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "6uqAIBoS60M",
+    "type": "interview",
+    "artist": "Inspiral Carpets",
+    "title": "Inspiral Carpets interview & Two Worlds Collide on MTV 120 Minutes with Lewis Largent (1994.02.27)",
+    "year": 1994,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Inspiral Carpets"
+    ],
+    "durationSeconds": 445,
+    "credits": [
+      {
+        "name": "Inspiral Carpets",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "NWiBlkoRE4o",
+    "type": "interview",
+    "artist": "Iron Maiden",
+    "title": "Bruce Dickinson of Iron Maiden in studio with Eddie Trunk on Trunk Nation. Aug 2025. FULL INTERVIEW",
+    "year": 2025,
+    "genre": "Metal",
+    "musicians": [
+      "Bruce Dickinson",
+      "Eddie Trunk"
+    ],
+    "durationSeconds": 4746,
+    "credits": [
+      {
+        "name": "Bruce Dickinson",
+        "role": "interviewee"
+      },
+      {
+        "name": "Eddie Trunk",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Eddie Trunk",
+    "outlet": "Eddie Trunk"
+  },
+  {
+    "id": "AXg-YGnRGdI",
+    "type": "interview",
+    "artist": "Iron Maiden",
+    "title": "Iron Maiden Bruce Dickinson Interview - Friday Rock Show 1988",
+    "year": 1988,
+    "genre": "Metal",
+    "musicians": [
+      "Bruce Dickinson"
+    ],
+    "durationSeconds": 4433,
+    "credits": [
+      {
+        "name": "Bruce Dickinson",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 1"
+  },
+  {
+    "id": "NhuoF5LxL7Q",
+    "type": "interview",
+    "artist": "Iron Maiden",
+    "title": "Iron Maiden: The Raw & Uncut Interview - 1988",
+    "year": 1988,
+    "genre": "Metal",
+    "musicians": [
+      "Iron Maiden"
+    ],
+    "durationSeconds": 1757,
+    "credits": [
+      {
+        "name": "Iron Maiden",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "GE4eClPloP4",
+    "type": "interview",
+    "artist": "Isaac Hayes",
+    "title": "Isaac Hayes Interview (December 15, 1987)",
+    "year": 1987,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Isaac Hayes"
+    ],
+    "durationSeconds": 792,
+    "credits": [
+      {
+        "name": "Isaac Hayes",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "pZaHz0jfink",
+    "type": "interview",
+    "artist": "Isaac Hayes",
+    "title": "Conan O'Brien 'Isaac Hayes 6/12/03",
+    "year": 2003,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Isaac Hayes",
+      "Conan O'Brien"
+    ],
+    "durationSeconds": 497,
+    "credits": [
+      {
+        "name": "Isaac Hayes",
+        "role": "interviewee"
+      },
+      {
+        "name": "Conan O'Brien",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Conan O'Brien",
+    "outlet": "Conan"
+  },
+  {
+    "id": "vKzuwItNgJ0",
+    "type": "interview",
+    "artist": "Itzhak Perlman",
+    "title": "Itzhak Perlman Lost A $20,000 Violin Then Found It In A Pawn Shop For $15 | Letterman",
+    "year": 0,
+    "genre": "Klezmer",
+    "musicians": [
+      "Itzhak Perlman",
+      "David Letterman"
+    ],
+    "durationSeconds": 971,
+    "credits": [
+      {
+        "name": "Itzhak Perlman",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "Eq4ucm88X2E",
+    "type": "interview",
+    "artist": "Jack Bruce",
+    "title": "Jack Bruce - Interview (B.A. in Music, 30th Aug 1982)",
+    "year": 1982,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jack Bruce"
+    ],
+    "durationSeconds": 451,
+    "credits": [
+      {
+        "name": "Jack Bruce",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "8DjcVPYKBpY",
+    "type": "interview",
+    "artist": "James Brown",
+    "title": "James Brown: The Raw & Uncut Interview - 1987",
+    "year": 1987,
+    "genre": "Funk",
+    "musicians": [
+      "James Brown"
+    ],
+    "durationSeconds": 1275,
+    "credits": [
+      {
+        "name": "James Brown",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "V4m_dv5Z7hg",
+    "type": "interview",
+    "artist": "James Brown",
+    "title": "James Brown on David Letterman",
+    "year": 1982,
+    "genre": "Funk",
+    "musicians": [
+      "James Brown",
+      "David Letterman"
+    ],
+    "durationSeconds": 801,
+    "credits": [
+      {
+        "name": "James Brown",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Night with David Letterman"
+  },
+  {
+    "id": "miwzvkESBI8",
+    "type": "interview",
+    "artist": "James Brown",
+    "title": "James Brown on Letterman `82 (IMPROVED AUDIO)",
+    "year": 1982,
+    "genre": "Funk",
+    "musicians": [
+      "James Brown",
+      "David Letterman"
+    ],
+    "durationSeconds": 788,
+    "credits": [
+      {
+        "name": "James Brown",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Night with David Letterman"
+  },
+  {
+    "id": "5u5j_SoWCLM",
+    "type": "interview",
+    "artist": "James Brown",
+    "title": "James Brown • Interview (TAMI Show/Prison/MC Hammer ) • 1991 [Reelin' In The Years Archive]",
+    "year": 1991,
+    "genre": "Funk",
+    "musicians": [
+      "James Brown"
+    ],
+    "durationSeconds": 752,
+    "credits": [
+      {
+        "name": "James Brown",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reelin' In The Years"
+  },
+  {
+    "id": "65jOTwJ8gWc",
+    "type": "interview",
+    "artist": "James Brown",
+    "title": "1971: JAMES BROWN Interview | Late Night Line-Up | Classic Celebrity Interviews | BBC Archive",
+    "year": 1971,
+    "genre": "Funk",
+    "musicians": [
+      "James Brown"
+    ],
+    "durationSeconds": 542,
+    "credits": [
+      {
+        "name": "James Brown",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "s6BDDM4H3sQ",
+    "type": "interview",
+    "artist": "Jeff Beck",
+    "title": "Jeff Beck: The Complete 1980 \"Guitar Player\" Interview (HD Audio)",
+    "year": 1980,
+    "genre": "Fusion",
+    "musicians": [
+      "Jeff Beck",
+      "Jas Obrecht"
+    ],
+    "durationSeconds": 3943,
+    "credits": [
+      {
+        "name": "Jeff Beck",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jas Obrecht",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Jas Obrecht",
+    "outlet": "Guitar Player"
+  },
+  {
+    "id": "fT5VwduJW7E",
+    "type": "interview",
+    "artist": "Jerry Lee Lewis",
+    "title": "Jerry Lee Lewis - BBC Interview 1972",
+    "year": 1972,
+    "genre": "Rockabilly",
+    "musicians": [
+      "Jerry Lee Lewis"
+    ],
+    "durationSeconds": 426,
+    "credits": [
+      {
+        "name": "Jerry Lee Lewis",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "-swGfUIrsx8",
+    "type": "interview",
+    "artist": "Jimi Hendrix",
+    "title": "Jimi Hendrix Experience Interview CBC television  7 September 1968",
+    "year": 1968,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jimi Hendrix"
+    ],
+    "durationSeconds": 1036,
+    "credits": [
+      {
+        "name": "Jimi Hendrix",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CBC"
+  },
+  {
+    "id": "x2GBWYXknSU",
+    "type": "interview",
+    "artist": "Joe Zawinul",
+    "title": "Joe Zawinul - In-Depth Interview With Anil Prasad",
+    "year": 1997,
+    "genre": "Fusion",
+    "musicians": [
+      "Joe Zawinul",
+      "Anil Prasad"
+    ],
+    "durationSeconds": 1641,
+    "credits": [
+      {
+        "name": "Joe Zawinul",
+        "role": "interviewee"
+      },
+      {
+        "name": "Anil Prasad",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Anil Prasad",
+    "outlet": "Innerviews"
+  },
+  {
+    "id": "D7azFdeCyV4",
+    "type": "interview",
+    "artist": "Joe Zawinul",
+    "title": "Joe Zawinul - Interview - 8/16/1997 - Newport Jazz Festival (Official)",
+    "year": 1997,
+    "genre": "Fusion",
+    "musicians": [
+      "Joe Zawinul"
+    ],
+    "durationSeconds": 586,
+    "credits": [
+      {
+        "name": "Joe Zawinul",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "Hhzln7wrXxw",
+    "type": "interview",
+    "artist": "John Scofield",
+    "title": "GearFest 2018 Interview with John Scofield",
+    "year": 2018,
+    "genre": "Fusion",
+    "musicians": [
+      "John Scofield"
+    ],
+    "durationSeconds": 939,
+    "credits": [
+      {
+        "name": "John Scofield",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Sweetwater"
+  },
+  {
+    "id": "oClwcycxMaQ",
+    "type": "interview",
+    "artist": "Johnny Winter",
+    "title": "Johnny Winter - Interview - 11/4/1984 - Rock Influence (Official)",
+    "year": 1984,
+    "genre": "Blues",
+    "musicians": [
+      "Johnny Winter"
+    ],
+    "durationSeconds": 785,
+    "credits": [
+      {
+        "name": "Johnny Winter",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "ZzWyed2RdSM",
+    "type": "interview",
+    "artist": "Joni Mitchell",
+    "title": "Joni Mitchell on a life in music (2004 interview) | Fresh Air",
+    "year": 2004,
+    "genre": "Folk",
+    "musicians": [
+      "Joni Mitchell",
+      "Terry Gross"
+    ],
+    "durationSeconds": 2592,
+    "credits": [
+      {
+        "name": "Joni Mitchell",
+        "role": "interviewee"
+      },
+      {
+        "name": "Terry Gross",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Terry Gross",
+    "outlet": "Fresh Air"
+  },
+  {
+    "id": "ZAszSJnTKaA",
+    "type": "interview",
+    "artist": "Joy Division",
+    "title": "Joy Division - Transmission, Interview, She's Lost Control (live @ BBC) Remastered 720p",
+    "year": 1979,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Joy Division"
+    ],
+    "durationSeconds": 685,
+    "credits": [
+      {
+        "name": "Joy Division",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "DyGVCxKeQIQ",
+    "type": "interview",
+    "artist": "Judas Priest",
+    "title": "Judas Priest interview -  The Friday Rock Show - 5 April, 1991- Forgotten Classic",
+    "year": 1991,
+    "genre": "Metal",
+    "musicians": [
+      "Judas Priest"
+    ],
+    "durationSeconds": 5156,
+    "credits": [
+      {
+        "name": "Judas Priest",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 1"
+  },
+  {
+    "id": "B4E0KRRtgWw",
+    "type": "interview",
+    "artist": "Judas Priest",
+    "title": "Judas Priest - VH1 Friday Rock Show interview 2001",
+    "year": 2001,
+    "genre": "Metal",
+    "musicians": [
+      "Judas Priest"
+    ],
+    "durationSeconds": 593,
+    "credits": [
+      {
+        "name": "Judas Priest",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "VH1"
+  },
+  {
+    "id": "Hu4Pz9PjolI",
+    "type": "interview",
+    "artist": "Kendrick Lamar",
+    "title": "Kendrick Lamar Talks About ‘u,’ His Depression & Suicidal Thoughts (Pt. 2) | MTV News",
+    "year": 0,
+    "genre": "Rap/Hip-Hop",
+    "musicians": [
+      "Kendrick Lamar"
+    ],
+    "durationSeconds": 640,
+    "credits": [
+      {
+        "name": "Kendrick Lamar",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "lnE0vfgDebs",
+    "type": "interview",
+    "artist": "King Crimson",
+    "title": "Trey Gunn Interview: New Album with David Forlano, Select Habits of Invertebrates - Yesshift E 212",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Trey Gunn"
+    ],
+    "durationSeconds": 2724,
+    "credits": [
+      {
+        "name": "Trey Gunn",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Guitar Player"
+  },
+  {
+    "id": "WAaKDn4KsJs",
+    "type": "interview",
+    "artist": "King Crimson",
+    "title": "Robert Fripp - Interview: Toad's Place (New Haven , Ct. March 4, 1982)",
+    "year": 1982,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Robert Fripp"
+    ],
+    "durationSeconds": 673,
+    "credits": [
+      {
+        "name": "Robert Fripp",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "fguPiixjK00",
+    "type": "interview",
+    "artist": "Kraftwerk",
+    "title": "Ralf Hütter Interviewed By Andrew Collins BBC 6 8/7/2003",
+    "year": 2003,
+    "genre": "Experimental",
+    "musicians": [
+      "Ralf Hütter"
+    ],
+    "durationSeconds": 1789,
+    "credits": [
+      {
+        "name": "Ralf Hütter",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "4VIe2EKSPxc",
+    "type": "interview",
+    "artist": "Laraaji",
+    "title": "Laraaji - Interview & Performance (Live on KEXP at Home)",
+    "year": 2021,
+    "genre": "Ambient",
+    "musicians": [
+      "Laraaji"
+    ],
+    "durationSeconds": 2744,
+    "credits": [
+      {
+        "name": "Laraaji",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "KEXP"
+  },
+  {
+    "id": "W-LFd-PQd6E",
+    "type": "interview",
+    "artist": "Laurie Anderson",
+    "title": "Laurie Anderson & Lou Reed Interviewed by Charlie Rose (2003) - Part One",
+    "year": 2003,
+    "genre": "Experimental",
+    "musicians": [
+      "Laurie Anderson",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 821,
+    "credits": [
+      {
+        "name": "Laurie Anderson",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "PQD0kswIWkc",
+    "type": "interview",
+    "artist": "Lauryn Hill",
+    "title": "Lauryn Hill, Academy Class of 2000, Full Interview",
+    "year": 2000,
+    "genre": "Rap/Hip-Hop",
+    "musicians": [
+      "Lauryn Hill"
+    ],
+    "durationSeconds": 2398,
+    "credits": [
+      {
+        "name": "Lauryn Hill",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Academy of Achievement"
+  },
+  {
+    "id": "7pV_9wXlOZ8",
+    "type": "interview",
+    "artist": "Led Zeppelin",
+    "title": "Jimmy Page In Conversation (BBC Dec 2012) *Full Interview*",
+    "year": 2012,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jimmy Page"
+    ],
+    "durationSeconds": 1511,
+    "credits": [
+      {
+        "name": "Jimmy Page",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "ALuaRjG9udI",
+    "type": "interview",
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin 2014 Reissues | Dave Lewis interview on BBC Radio",
+    "year": 2014,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Dave"
+    ],
+    "durationSeconds": 1211,
+    "credits": [
+      {
+        "name": "Dave",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "2HXD4LevHZ0",
+    "type": "interview",
+    "artist": "Led Zeppelin",
+    "title": "1975: ROBERT PLANT on LED ZEPPELIN | Old Grey Whistle Test | Classic Music Interview | BBC Archive",
+    "year": 1975,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Robert Plant"
+    ],
+    "durationSeconds": 677,
+    "credits": [
+      {
+        "name": "Robert Plant",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Old Grey Whistle Test"
+  },
+  {
+    "id": "GNRPbEwBrts",
+    "type": "interview",
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin 2007 - Jimmy Page Interview (BBC)",
+    "year": 2007,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jimmy Page"
+    ],
+    "durationSeconds": 624,
+    "credits": [
+      {
+        "name": "Jimmy Page",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "N2ydtC-0nc8",
+    "type": "interview",
+    "artist": "Led Zeppelin",
+    "title": "Robert Plant and Peter Grant BBC Interview 1976",
+    "year": 1976,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Robert Plant"
+    ],
+    "durationSeconds": 503,
+    "credits": [
+      {
+        "name": "Robert Plant",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "hGdiqe1eHGg",
+    "type": "interview",
+    "artist": "Led Zeppelin",
+    "title": "Robert Plant interview - BBC Breakfast Sep 10th 2014",
+    "year": 2014,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Robert Plant"
+    ],
+    "durationSeconds": 476,
+    "credits": [
+      {
+        "name": "Robert Plant",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "01J6JGe6-Nw",
+    "type": "interview",
+    "artist": "Leonard Cohen",
+    "title": "Leonard Cohen interviewed by Charlie Rose, 1988",
+    "year": 1988,
+    "genre": "Folk",
+    "musicians": [
+      "Leonard Cohen",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 840,
+    "credits": [
+      {
+        "name": "Leonard Cohen",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "KtrWr-fAWLk",
+    "type": "interview",
+    "artist": "Level 42",
+    "title": "Level 42 - Mark King Interview - 2012 - The One Show - BBC One",
+    "year": 2012,
+    "genre": "Funk",
+    "musicians": [
+      "Mark King"
+    ],
+    "durationSeconds": 534,
+    "credits": [
+      {
+        "name": "Mark King",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC One"
+  },
+  {
+    "id": "mURl40voj8w",
+    "type": "interview",
+    "artist": "Little Feat",
+    "title": "Little Feat - VH1 Take it to the Bridge 1995 Interview and Live",
+    "year": 1995,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Little Feat"
+    ],
+    "durationSeconds": 432,
+    "credits": [
+      {
+        "name": "Little Feat",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "VH1"
+  },
+  {
+    "id": "op0Ica0I-80",
+    "type": "interview",
+    "artist": "Luther Allison",
+    "title": "Luther Allison: A 1996 Interview With Solo Guitar Performances!",
+    "year": 1996,
+    "genre": "Blues",
+    "musicians": [
+      "Luther Allison",
+      "Jas Obrecht"
+    ],
+    "durationSeconds": 5300,
+    "credits": [
+      {
+        "name": "Luther Allison",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jas Obrecht",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Jas Obrecht",
+    "outlet": "Guitar Player"
+  },
+  {
+    "id": "KVo7nlF219E",
+    "type": "interview",
+    "artist": "Lynyrd Skynyrd",
+    "title": "1977 BBC Capitol Interview, Ronnie Van Zant, Allen Collins & Steve Gaines",
+    "year": 1977,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Ronnie Van Zant"
+    ],
+    "durationSeconds": 1482,
+    "credits": [
+      {
+        "name": "Ronnie Van Zant",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "JohR87CVsms",
+    "type": "interview",
+    "artist": "Lynyrd Skynyrd",
+    "title": "England, Fall 1975 BBC Interview of Ronnie Van Zant & Leon Wilkeson",
+    "year": 1975,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Ronnie Van Zant"
+    ],
+    "durationSeconds": 671,
+    "credits": [
+      {
+        "name": "Ronnie Van Zant",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "2VztpLagxcg",
+    "type": "interview",
+    "artist": "Lynyrd Skynyrd",
+    "title": "Lynyrd Skynyrd Interview (April 18, 2008)",
+    "year": 2008,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Lynyrd Skynyrd"
+    ],
+    "durationSeconds": 524,
+    "credits": [
+      {
+        "name": "Lynyrd Skynyrd",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "-FYRCsPQH5I",
+    "type": "interview",
+    "artist": "Maceo Parker",
+    "title": "Maceo Parker - Interview - 8/16/1992 - Newport Jazz Festival (Official)",
+    "year": 1992,
+    "genre": "Funk",
+    "musicians": [
+      "Maceo Parker"
+    ],
+    "durationSeconds": 517,
+    "credits": [
+      {
+        "name": "Maceo Parker",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "QBpMKXRQa0A",
+    "type": "interview",
+    "artist": "Maxwell",
+    "title": "Maxwell Interview at The Breakfast Club Power 105.1 (04/08/2016)",
+    "year": 2016,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Maxwell"
+    ],
+    "durationSeconds": 2213,
+    "credits": [
+      {
+        "name": "Maxwell",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Breakfast Club"
+  },
+  {
+    "id": "8UoDOhL98RE",
+    "type": "interview",
+    "artist": "McCoy Tyner",
+    "title": "McCoy Tyner, Ron Carter, Cedar Walter, James Moody - Interview - 8/15/2004 - Newport (Official)",
+    "year": 2004,
+    "genre": "Jazz",
+    "musicians": [
+      "McCoy Tyner",
+      "Ron Carter"
+    ],
+    "durationSeconds": 2098,
+    "credits": [
+      {
+        "name": "McCoy Tyner",
+        "role": "interviewee"
+      },
+      {
+        "name": "Ron Carter",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "rwicCv6jTkU",
+    "type": "interview",
+    "artist": "McCoy Tyner",
+    "title": "McCoy Tyner - In-Depth Interview With Anil Prasad",
+    "year": 2000,
+    "genre": "Jazz",
+    "musicians": [
+      "McCoy Tyner",
+      "Anil Prasad"
+    ],
+    "durationSeconds": 1901,
+    "credits": [
+      {
+        "name": "McCoy Tyner",
+        "role": "interviewee"
+      },
+      {
+        "name": "Anil Prasad",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Anil Prasad",
+    "outlet": "Innerviews"
+  },
+  {
+    "id": "XWjQipw0l4Y",
+    "type": "interview",
+    "artist": "Megadeth",
+    "title": "Long Megadeth Interview On The VH1 Rock Show Episode With Anthrax Host Scott Ian | 2001",
+    "year": 2001,
+    "genre": "Metal",
+    "musicians": [
+      "Scott Ian"
+    ],
+    "durationSeconds": 1424,
+    "credits": [
+      {
+        "name": "Scott Ian",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "VH1"
+  },
+  {
+    "id": "vMc24819DXk",
+    "type": "interview",
+    "artist": "Metallica",
+    "title": "Metallica: ...And Justice for All Interview with David Fricke",
+    "year": 0,
+    "genre": "Metal",
+    "musicians": [
+      "Metallica"
+    ],
+    "durationSeconds": 5044,
+    "credits": [
+      {
+        "name": "Metallica",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "-ry7MHHWj_k",
+    "type": "interview",
+    "artist": "Metallica",
+    "title": "Metallica - MTV News Interviews (1986) [ReMaster Of Puppets DVD]",
+    "year": 1986,
+    "genre": "Metal",
+    "musicians": [
+      "Metallica"
+    ],
+    "durationSeconds": 2257,
+    "credits": [
+      {
+        "name": "Metallica",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "CWdrQOfcFnw",
+    "type": "interview",
+    "artist": "Metallica",
+    "title": "Metallica: The Raw & Uncut Interview - 1991",
+    "year": 1991,
+    "genre": "Metal",
+    "musicians": [
+      "Metallica"
+    ],
+    "durationSeconds": 1252,
+    "credits": [
+      {
+        "name": "Metallica",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "NHuwFVUG9K8",
+    "type": "interview",
+    "artist": "Metallica",
+    "title": "Much Music Interview with Metallica's James & Lars (1998) [TV Broadcast]",
+    "year": 1998,
+    "genre": "Metal",
+    "musicians": [
+      "Metallica"
+    ],
+    "durationSeconds": 1055,
+    "credits": [
+      {
+        "name": "Metallica",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MuchMusic"
+  },
+  {
+    "id": "L9SByuJW32Y",
+    "type": "interview",
+    "artist": "Michael Jackson",
+    "title": "ABC PrimeTime LIVE - Diane Sawyer interviews Michael Jackson & Lisa Marie Presley (1995)",
+    "year": 1995,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Michael Jackson",
+      "Lisa"
+    ],
+    "durationSeconds": 3502,
+    "credits": [
+      {
+        "name": "Michael Jackson",
+        "role": "interviewee"
+      },
+      {
+        "name": "Lisa",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "ABC PrimeTime Live"
+  },
+  {
+    "id": "T3HpWUJOSGs",
+    "type": "interview",
+    "artist": "Miles Davis",
+    "title": "Miles Davis 1986 Interview on \"Sidran On Record\" with Ben Sidran, Malibu, California Edited",
+    "year": 1986,
+    "genre": "Jazz",
+    "musicians": [
+      "Miles Davis"
+    ],
+    "durationSeconds": 2309,
+    "credits": [
+      {
+        "name": "Miles Davis",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "NPR"
+  },
+  {
+    "id": "5Ei3OzG9DtQ",
+    "type": "interview",
+    "artist": "Motörhead",
+    "title": "Lemmy Kilmister Interview with Jim Ladd, 1-18-2011",
+    "year": 2011,
+    "genre": "Metal",
+    "musicians": [
+      "Motörhead"
+    ],
+    "durationSeconds": 2906,
+    "credits": [
+      {
+        "name": "Motörhead",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Jim Ladd"
+  },
+  {
+    "id": "07iJliMUWuU",
+    "type": "interview",
+    "artist": "Motörhead",
+    "title": "Lemmy - Motörhead Raw & Uncut Interview | 1992",
+    "year": 1992,
+    "genre": "Metal",
+    "musicians": [
+      "Lemmy"
+    ],
+    "durationSeconds": 1928,
+    "credits": [
+      {
+        "name": "Lemmy",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "9gnb9DIlK5U",
+    "type": "interview",
+    "artist": "Motörhead",
+    "title": "Motorhead interview with Mark Kadzielawa 1996",
+    "year": 1996,
+    "genre": "Metal",
+    "musicians": [
+      "Motörhead"
+    ],
+    "durationSeconds": 1237,
+    "credits": [
+      {
+        "name": "Motörhead",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "69 Faces of Rock"
+  },
+  {
+    "id": "_hcjx-i7rWk",
+    "type": "interview",
+    "artist": "Motörhead",
+    "title": "LEMMY 2005 Interview for Headbanger's Journey | Raw & Uncut",
+    "year": 2005,
+    "genre": "Metal",
+    "musicians": [
+      "Lemmy"
+    ],
+    "durationSeconds": 740,
+    "credits": [
+      {
+        "name": "Lemmy",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "lgbHv-VQkTs",
+    "type": "interview",
+    "artist": "Motörhead",
+    "title": "MOTORHEAD's Phil “Philthy Animal” Taylor interviewed in 2010 | Raw & Uncut",
+    "year": 2010,
+    "genre": "Metal",
+    "musicians": [
+      "Motörhead"
+    ],
+    "durationSeconds": 546,
+    "credits": [
+      {
+        "name": "Motörhead",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "qTDfhWTA29I",
+    "type": "interview",
+    "artist": "Muddy Waters",
+    "title": "Muddy Waters- Interview 1979 [RITY Archives]",
+    "year": 1979,
+    "genre": "Blues",
+    "musicians": [
+      "Muddy Waters"
+    ],
+    "durationSeconds": 434,
+    "credits": [
+      {
+        "name": "Muddy Waters",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reelin' In The Years"
+  },
+  {
+    "id": "Ho8gYQ_fw60",
+    "type": "interview",
+    "artist": "New Order",
+    "title": "Bernard Sumner XFM Interview 2007: Control (Audio)",
+    "year": 2007,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Bernard Sumner"
+    ],
+    "durationSeconds": 3002,
+    "credits": [
+      {
+        "name": "Bernard Sumner",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "XFM"
+  },
+  {
+    "id": "57EgXtuo81w",
+    "type": "interview",
+    "artist": "New Order",
+    "title": "Bernard Sumner radio interview, September 2014",
+    "year": 2014,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Bernard Sumner"
+    ],
+    "durationSeconds": 1672,
+    "credits": [
+      {
+        "name": "Bernard Sumner",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "6gWoGCQJDeI",
+    "type": "interview",
+    "artist": "New Order",
+    "title": "New Order- Interview/\"Blue Monday\" w/false start on Countdown 1983",
+    "year": 1983,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "New Order"
+    ],
+    "durationSeconds": 452,
+    "credits": [
+      {
+        "name": "New Order",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "bTPyJHFNmKU",
+    "type": "interview",
+    "artist": "Nile Rodgers",
+    "title": "Nile Rodgers BBC interview",
+    "year": 2011,
+    "genre": "Funk",
+    "musicians": [
+      "Nile Rodgers"
+    ],
+    "durationSeconds": 481,
+    "credits": [
+      {
+        "name": "Nile Rodgers",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "eW3E_Myja_k",
+    "type": "interview",
+    "artist": "Nina Kraviz",
+    "title": "Nina Kraviz | RBMA Lecture 2018",
+    "year": 2018,
+    "genre": "Techno",
+    "musicians": [
+      "Nina Kraviz"
+    ],
+    "durationSeconds": 6537,
+    "credits": [
+      {
+        "name": "Nina Kraviz",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Red Bull Music Academy"
+  },
+  {
+    "id": "gFsoiFB71zY",
+    "type": "interview",
+    "artist": "Nirvana",
+    "title": "NIRVANA 12-10-1993 MTV interview with Kurt Loder (FULL)",
+    "year": 1993,
+    "genre": "Grunge",
+    "musicians": [
+      "Nirvana"
+    ],
+    "durationSeconds": 3127,
+    "credits": [
+      {
+        "name": "Nirvana",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "NjQtkxRD8ds",
+    "type": "interview",
+    "artist": "Nirvana",
+    "title": "Nirvana - MTV 1993 Interview (Legendas)",
+    "year": 1993,
+    "genre": "Grunge",
+    "musicians": [
+      "Nirvana"
+    ],
+    "durationSeconds": 1599,
+    "credits": [
+      {
+        "name": "Nirvana",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "3Mc1HIAGJLE",
+    "type": "interview",
+    "artist": "Oasis",
+    "title": "Oasis - Noise & Confusion Interview - 13th October 2001",
+    "year": 2001,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Oasis"
+    ],
+    "durationSeconds": 2967,
+    "credits": [
+      {
+        "name": "Oasis",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "VH1"
+  },
+  {
+    "id": "oeAPQQ37-TQ",
+    "type": "interview",
+    "artist": "Oasis",
+    "title": "BBC interview with Noel Gallagher of Oasis",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Noel Gallagher"
+    ],
+    "durationSeconds": 429,
+    "credits": [
+      {
+        "name": "Noel Gallagher",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "ZhVtYnn_7VU",
+    "type": "interview",
+    "artist": "Oasis",
+    "title": "Noel Gallagher’s High Flying Birds - Noel Gallagher and Matt Morgan Q&A",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Noel Gallagher"
+    ],
+    "durationSeconds": 516,
+    "credits": [
+      {
+        "name": "Noel Gallagher",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "HPhX3CeSH_w",
+    "type": "interview",
+    "artist": "Ozric Tentacles",
+    "title": "Ozric Tentacles Interview with BLACK BOOK",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Ozric Tentacles"
+    ],
+    "durationSeconds": 1036,
+    "credits": [
+      {
+        "name": "Ozric Tentacles",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Ozric Tentacles Official"
+  },
+  {
+    "id": "6rQUkap-aWA",
+    "type": "interview",
+    "artist": "Ozric Tentacles",
+    "title": "Interview with Ed Wynne (OZRIC TENTACLES) 2024 - Mystery Tour Radio Show",
+    "year": 2024,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Ed Wynne"
+    ],
+    "durationSeconds": 508,
+    "credits": [
+      {
+        "name": "Ed Wynne",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "1op4ci1719g",
+    "type": "interview",
+    "artist": "Pat Metheny",
+    "title": "Pat Metheny - Interview, Live, Guitar Synth, \"Tell It All\" video OGWT 1984",
+    "year": 1984,
+    "genre": "Fusion",
+    "musicians": [
+      "Pat Metheny"
+    ],
+    "durationSeconds": 873,
+    "credits": [
+      {
+        "name": "Pat Metheny",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Old Grey Whistle Test"
+  },
+  {
+    "id": "DwgU2zo4D6s",
+    "type": "interview",
+    "artist": "Paul Simon",
+    "title": "Paul Simon - Interview - 7/6/1986 (Official)",
+    "year": 1986,
+    "genre": "Singer-Songwriter",
+    "musicians": [
+      "Paul Simon"
+    ],
+    "durationSeconds": 3008,
+    "credits": [
+      {
+        "name": "Paul Simon",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "TQ1vk-RDc9A",
+    "type": "interview",
+    "artist": "Paul Simon",
+    "title": "Paul Simon Talks About Art Garfunkel | Letterman",
+    "year": 1982,
+    "genre": "Singer-Songwriter",
+    "musicians": [
+      "Art Garfunkel",
+      "Paul Simon",
+      "David Letterman"
+    ],
+    "durationSeconds": 995,
+    "credits": [
+      {
+        "name": "Art Garfunkel",
+        "role": "interviewee"
+      },
+      {
+        "name": "Paul Simon",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "ZpuuIpsgaPQ",
+    "type": "interview",
+    "artist": "Pearl Jam",
+    "title": "Pearl Jam: The ‘Dark Matter’ Interview | Apple Music",
+    "year": 0,
+    "genre": "Grunge",
+    "musicians": [
+      "Pearl Jam"
+    ],
+    "durationSeconds": 4066,
+    "credits": [
+      {
+        "name": "Pearl Jam",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Apple Music"
+  },
+  {
+    "id": "c5xeDNQFCFY",
+    "type": "interview",
+    "artist": "Pearl Jam",
+    "title": "Eddie Vedder & Sean Penn: Into The Wild (Charlie Rose, 9/21/2007)",
+    "year": 2007,
+    "genre": "Grunge",
+    "musicians": [
+      "Eddie Vedder",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 3251,
+    "credits": [
+      {
+        "name": "Eddie Vedder",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "bOn08fuJx88",
+    "type": "interview",
+    "artist": "Pearl Jam",
+    "title": "Eddie Vedder's First Appearance History on Letterman, Jan.-Feb. 1996",
+    "year": 1996,
+    "genre": "Grunge",
+    "musicians": [
+      "Eddie Vedder",
+      "Howard Stern"
+    ],
+    "durationSeconds": 741,
+    "credits": [
+      {
+        "name": "Eddie Vedder",
+        "role": "interviewee"
+      },
+      {
+        "name": "Howard Stern",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Howard Stern",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "TE2xp4icUfs",
+    "type": "interview",
+    "artist": "Pennywise",
+    "title": "Pennywise Interview - Red Bull Sound Space at KROQ",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Pennywise"
+    ],
+    "durationSeconds": 604,
+    "credits": [
+      {
+        "name": "Pennywise",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "KROQ"
+  },
+  {
+    "id": "13p3rhiIV5A",
+    "type": "interview",
+    "artist": "Peter Gabriel",
+    "title": "Peter Gabriel, Academy Class of 2017, Full Interview",
+    "year": 2017,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Gabriel"
+    ],
+    "durationSeconds": 3118,
+    "credits": [
+      {
+        "name": "Peter Gabriel",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Academy of Achievement"
+  },
+  {
+    "id": "Ab9ild5Hyj0",
+    "type": "interview",
+    "artist": "Peter Gabriel",
+    "title": "TV Live: Peter Gabriel  - Interview and \"Red Rain\" (Letterman 2011)",
+    "year": 2011,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Gabriel",
+      "David Letterman"
+    ],
+    "durationSeconds": 640,
+    "credits": [
+      {
+        "name": "Peter Gabriel",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "Y6XoMYp01FY",
+    "type": "interview",
+    "artist": "Peter Gabriel",
+    "title": "Peter Gabriel Interview by NPR, March 14, 2010 (audio)",
+    "year": 2010,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Gabriel"
+    ],
+    "durationSeconds": 635,
+    "credits": [
+      {
+        "name": "Peter Gabriel",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "NPR"
+  },
+  {
+    "id": "W0jglmde8ec",
+    "type": "interview",
+    "artist": "Peter Gabriel",
+    "title": "05. PETER GABRIEL * 2011 11 09 * San Jacinto * NEW YORK * LATE SHOW WITH LETTERMAN * USA  (Video)",
+    "year": 2011,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Gabriel",
+      "David Letterman"
+    ],
+    "durationSeconds": 438,
+    "credits": [
+      {
+        "name": "Peter Gabriel",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "OT_KFCidz_s",
+    "type": "interview",
+    "artist": "Pink Floyd",
+    "title": "David Gilmour: The Studio Interview 2025",
+    "year": 2025,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Gilmour",
+      "Rick Beato"
+    ],
+    "durationSeconds": 6703,
+    "credits": [
+      {
+        "name": "David Gilmour",
+        "role": "interviewee"
+      },
+      {
+        "name": "Rick Beato",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Rick Beato",
+    "outlet": "Rick Beato"
+  },
+  {
+    "id": "5Lqcm2Ug5Kg",
+    "type": "interview",
+    "artist": "Pink Floyd",
+    "title": "Roger Waters BBC Radio Interview of Pink Floyd The Wall Part 1 in 1979 Friday Rock Show Tommy Vance",
+    "year": 1979,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Roger Waters"
+    ],
+    "durationSeconds": 3486,
+    "credits": [
+      {
+        "name": "Roger Waters",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "T8Z5VnoTACg",
+    "type": "interview",
+    "artist": "Pink Floyd",
+    "title": "Pink Floyd \"The Wall\" BBC radio interview from 1979",
+    "year": 1979,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Pink Floyd"
+    ],
+    "durationSeconds": 2434,
+    "credits": [
+      {
+        "name": "Pink Floyd",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 1"
+  },
+  {
+    "id": "Fq2LpfJizUk",
+    "type": "interview",
+    "artist": "Pink Floyd",
+    "title": "BBC Hardtalk: Roger Waters",
+    "year": 2014,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Roger Waters"
+    ],
+    "durationSeconds": 2253,
+    "credits": [
+      {
+        "name": "Roger Waters",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "6Dn3m6I-JOE",
+    "type": "interview",
+    "artist": "Pink Floyd",
+    "title": "Roger Waters - Saturday Live BBC 1 Interview (1984)",
+    "year": 1984,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Roger Waters"
+    ],
+    "durationSeconds": 1013,
+    "credits": [
+      {
+        "name": "Roger Waters",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "m8mg7CxAYUM",
+    "type": "interview",
+    "artist": "Prince",
+    "title": "Prince Rogers Nelson's entire 1999 CNN interview (Larry King Live)",
+    "year": 1999,
+    "genre": "Funk",
+    "musicians": [
+      "Prince"
+    ],
+    "durationSeconds": 2280,
+    "credits": [
+      {
+        "name": "Prince",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CNN"
+  },
+  {
+    "id": "rfp8mVTTYE8",
+    "type": "interview",
+    "artist": "Public Enemy",
+    "title": "Public Enemy pioneer Chuck D (1997 interview)",
+    "year": 1997,
+    "genre": "Rap/Hip-Hop",
+    "musicians": [
+      "Chuck D",
+      "Terry Gross"
+    ],
+    "durationSeconds": 1607,
+    "credits": [
+      {
+        "name": "Chuck D",
+        "role": "interviewee"
+      },
+      {
+        "name": "Terry Gross",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Terry Gross",
+    "outlet": "Fresh Air"
+  },
+  {
+    "id": "ustH92AJNTk",
+    "type": "interview",
+    "artist": "Public Enemy",
+    "title": "Public Enemy • “Brothers Gonna Work It Out”/Interview/“911 Is A Joke” • 1990 [RITY Archive]",
+    "year": 1990,
+    "genre": "Rap/Hip-Hop",
+    "musicians": [
+      "Public Enemy"
+    ],
+    "durationSeconds": 695,
+    "credits": [
+      {
+        "name": "Public Enemy",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reelin' In The Years"
+  },
+  {
+    "id": "oJ7aDfzThUY",
+    "type": "interview",
+    "artist": "Queen",
+    "title": "Queen Interview with Tom Browne, BBC Radio 1, 1977 (Full Interview)",
+    "year": 1977,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Queen"
+    ],
+    "durationSeconds": 3697,
+    "credits": [
+      {
+        "name": "Queen",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 1"
+  },
+  {
+    "id": "9Mdb6Hz8YY0",
+    "type": "interview",
+    "artist": "Queen",
+    "title": "Queen For An Hour (1989 Radio 1 Interview)",
+    "year": 1989,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Queen"
+    ],
+    "durationSeconds": 3290,
+    "credits": [
+      {
+        "name": "Queen",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 1"
+  },
+  {
+    "id": "J_z-szEjuzc",
+    "type": "interview",
+    "artist": "Queen",
+    "title": "Brian May on Fresh Air with Terry Gross NPR interview 28 July 2010 broadcast 3 Aug 2010",
+    "year": 2010,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Brian May",
+      "Terry Gross"
+    ],
+    "durationSeconds": 2158,
+    "credits": [
+      {
+        "name": "Brian May",
+        "role": "interviewee"
+      },
+      {
+        "name": "Terry Gross",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Terry Gross",
+    "outlet": "Fresh Air"
+  },
+  {
+    "id": "RV1kIO6u1mM",
+    "type": "interview",
+    "artist": "Queen",
+    "title": "A Musical Prostitute: Freddie Mercury Interview (1984)",
+    "year": 1984,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Freddie Mercury"
+    ],
+    "durationSeconds": 934,
+    "credits": [
+      {
+        "name": "Freddie Mercury",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Queen Official"
+  },
+  {
+    "id": "VAYp281y0CQ",
+    "type": "interview",
+    "artist": "Queen",
+    "title": "Freddie Mercury interviewed by Molly Meldrum 1977 (19 minutes)",
+    "year": 1977,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Freddie Mercury"
+    ],
+    "durationSeconds": 1132,
+    "credits": [
+      {
+        "name": "Freddie Mercury",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "EOETHlgD9GQ",
+    "type": "interview",
+    "artist": "Rainbow",
+    "title": "BBC interview with Rainbow Riots",
+    "year": 0,
+    "genre": "Metal",
+    "musicians": [
+      "Rainbow"
+    ],
+    "durationSeconds": 454,
+    "credits": [
+      {
+        "name": "Rainbow",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "2v9cCJXf1To",
+    "type": "interview",
+    "artist": "Rammstein",
+    "title": "RAMMSTEIN keyboardist 2010 Flake interview about shock rock | Raw & Uncut",
+    "year": 2010,
+    "genre": "Metal",
+    "musicians": [
+      "Rammstein"
+    ],
+    "durationSeconds": 561,
+    "credits": [
+      {
+        "name": "Rammstein",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Apple Music"
+  },
+  {
+    "id": "2JDO4M31cUk",
+    "type": "interview",
+    "artist": "Rancid",
+    "title": "Rancid Interview By Matt Pinfield (MTV 120 Minutes) 11/95",
+    "year": 1995,
+    "genre": "Punk",
+    "musicians": [
+      "Rancid"
+    ],
+    "durationSeconds": 1037,
+    "credits": [
+      {
+        "name": "Rancid",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "XUmVRrqwCCg",
+    "type": "interview",
+    "artist": "Ravi Shankar",
+    "title": "Ravi Shankar | Moner Kotha | মনের কথা | Interview Session By Doordarshan | 1995 | Rare HD",
+    "year": 1995,
+    "genre": "Indian Classical",
+    "musicians": [
+      "Ravi Shankar"
+    ],
+    "durationSeconds": 5568,
+    "credits": [
+      {
+        "name": "Ravi Shankar",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Doordarshan"
+  },
+  {
+    "id": "aQMbR_Uojek",
+    "type": "interview",
+    "artist": "Ravi Shankar",
+    "title": "Ravi Shankar | Face To Face | Interview Session 1999 | Rare ~ Remastered HD | BBC Television",
+    "year": 1999,
+    "genre": "Indian Classical",
+    "musicians": [
+      "Ravi Shankar"
+    ],
+    "durationSeconds": 1398,
+    "credits": [
+      {
+        "name": "Ravi Shankar",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "5iRHr9ZGSSw",
+    "type": "interview",
+    "artist": "Ray Charles",
+    "title": "FULL 'The Genius' Ray Charles 1972 Interview | The Dick Cavett Show",
+    "year": 1972,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Ray Charles",
+      "Dick Cavett"
+    ],
+    "durationSeconds": 1350,
+    "credits": [
+      {
+        "name": "Ray Charles",
+        "role": "interviewee"
+      },
+      {
+        "name": "Dick Cavett",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Dick Cavett",
+    "outlet": "The Dick Cavett Show"
+  },
+  {
+    "id": "ZWlw3XxiXXY",
+    "type": "interview",
+    "artist": "Return to Forever",
+    "title": "Sweetwater Minute - Vol. 193, Chick Corea Interview",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Chick Corea"
+    ],
+    "durationSeconds": 1549,
+    "credits": [
+      {
+        "name": "Chick Corea",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Sweetwater"
+  },
+  {
+    "id": "YqajuOmb9NQ",
+    "type": "interview",
+    "artist": "Return to Forever",
+    "title": "Interview with Chick Corea 2005",
+    "year": 2005,
+    "genre": "Fusion",
+    "musicians": [
+      "Chick Corea"
+    ],
+    "durationSeconds": 998,
+    "credits": [
+      {
+        "name": "Chick Corea",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "0wx9X1sVKaU",
+    "type": "interview",
+    "artist": "Ricky Skaggs",
+    "title": "Ricky Skaggs Interview",
+    "year": 0,
+    "genre": "Bluegrass",
+    "musicians": [
+      "Ricky Skaggs"
+    ],
+    "durationSeconds": 3622,
+    "credits": [
+      {
+        "name": "Ricky Skaggs",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Sweetwater"
+  },
+  {
+    "id": "cafQSbndAQA",
+    "type": "interview",
+    "artist": "Robert Cray",
+    "title": "Robert Cray interview (part 1)",
+    "year": 2014,
+    "genre": "Blues",
+    "musicians": [
+      "Robert Cray"
+    ],
+    "durationSeconds": 627,
+    "credits": [
+      {
+        "name": "Robert Cray",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "FaceCulture"
+  },
+  {
+    "id": "usYPtd0sWCU",
+    "type": "interview",
+    "artist": "Roy Hargrove",
+    "title": "Roy Hargrove - Interview - 8/11/2001 - Newport Jazz Festival (Official)",
+    "year": 2001,
+    "genre": "Jazz",
+    "musicians": [
+      "Roy Hargrove"
+    ],
+    "durationSeconds": 727,
+    "credits": [
+      {
+        "name": "Roy Hargrove",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "lPrvAAqOh4k",
+    "type": "interview",
+    "artist": "Rush",
+    "title": "Rush's Alex Lifeson: The Complete 1985 \"Power Windows\" Interview",
+    "year": 1985,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Alex Lifeson",
+      "Jas Obrecht"
+    ],
+    "durationSeconds": 3615,
+    "credits": [
+      {
+        "name": "Alex Lifeson",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jas Obrecht",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Jas Obrecht",
+    "outlet": "Guitar Player"
+  },
+  {
+    "id": "ThLBuEosdFk",
+    "type": "interview",
+    "artist": "Rush",
+    "title": "Rush’s Alex Lifeson: The Complete 1984 “Grace Under Pressure” Interview",
+    "year": 1984,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Alex Lifeson",
+      "Jas Obrecht"
+    ],
+    "durationSeconds": 3179,
+    "credits": [
+      {
+        "name": "Alex Lifeson",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jas Obrecht",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Jas Obrecht",
+    "outlet": "Guitar Player"
+  },
+  {
+    "id": "i0HfcXiud3A",
+    "type": "interview",
+    "artist": "Rush",
+    "title": "Rush - Geddy Lee Interview on BBC Radio 1 (14 June 1980)",
+    "year": 1980,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Geddy Lee"
+    ],
+    "durationSeconds": 473,
+    "credits": [
+      {
+        "name": "Geddy Lee",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 1"
+  },
+  {
+    "id": "34wk_onk50E",
+    "type": "interview",
+    "artist": "Rush",
+    "title": "Geddy Lee from Rush Interview at Abbey Road Studios",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Geddy Lee"
+    ],
+    "durationSeconds": 2436,
+    "credits": [
+      {
+        "name": "Geddy Lee",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "J4cwG6vYbtc",
+    "type": "interview",
+    "artist": "Santana",
+    "title": "Santana 60 Minutes Interview - UNBELIEVABLE (2019)",
+    "year": 2019,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Santana",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 826,
+    "credits": [
+      {
+        "name": "Santana",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "hoG8yWHIFd4",
+    "type": "interview",
+    "artist": "Skrillex",
+    "title": "BBC - Sound of 2012 - Skrillex Interview",
+    "year": 2012,
+    "genre": "EDM",
+    "musicians": [
+      "Skrillex"
+    ],
+    "durationSeconds": 492,
+    "credits": [
+      {
+        "name": "Skrillex",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "96lnnKn1Hos",
+    "type": "interview",
+    "artist": "Social Distortion",
+    "title": "Social Distortion interview: In-N-Out Burger Sound Space at KROQ",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Social Distortion"
+    ],
+    "durationSeconds": 1061,
+    "credits": [
+      {
+        "name": "Social Distortion",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "KROQ"
+  },
+  {
+    "id": "NJ2nQIL6xqc",
+    "type": "interview",
+    "artist": "Solomon Burke",
+    "title": "Solomon Burke- Interview - 1987 [Reelin' In The Years Archives]",
+    "year": 1987,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Solomon Burke"
+    ],
+    "durationSeconds": 1459,
+    "credits": [
+      {
+        "name": "Solomon Burke",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reelin' In The Years"
+  },
+  {
+    "id": "5ye-G9rbtqc",
+    "type": "interview",
+    "artist": "Sonic Youth",
+    "title": "Sonic Youth - I'm Not Wearing Any Fucking Bowtie - Interview",
+    "year": 0,
+    "genre": "Experimental",
+    "musicians": [
+      "Sonic Youth"
+    ],
+    "durationSeconds": 440,
+    "credits": [
+      {
+        "name": "Sonic Youth",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Pitchfork"
+  },
+  {
+    "id": "-pYcjfzixME",
+    "type": "interview",
+    "artist": "Sonny Rollins",
+    "title": "Sonny Rollins, Academy Class of 2006, Full Interview",
+    "year": 2006,
+    "genre": "Jazz",
+    "musicians": [
+      "Sonny Rollins"
+    ],
+    "durationSeconds": 3473,
+    "credits": [
+      {
+        "name": "Sonny Rollins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Academy of Achievement"
+  },
+  {
+    "id": "JGpYfvX1J_g",
+    "type": "interview",
+    "artist": "Sonny Rollins",
+    "title": "Sonny Rollins Returns | Broken Record",
+    "year": 2024,
+    "genre": "Jazz",
+    "musicians": [
+      "Sonny Rollins",
+      "Malcolm Gladwell"
+    ],
+    "durationSeconds": 3406,
+    "credits": [
+      {
+        "name": "Sonny Rollins",
+        "role": "interviewee"
+      },
+      {
+        "name": "Malcolm Gladwell",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Malcolm Gladwell",
+    "outlet": "Broken Record"
+  },
+  {
+    "id": "tZQ0Awp1veY",
+    "type": "interview",
+    "artist": "Soundgarden",
+    "title": "Chris Cornell: Full Interview (2009)",
+    "year": 2009,
+    "genre": "Grunge",
+    "musicians": [
+      "Chris Cornell"
+    ],
+    "durationSeconds": 761,
+    "credits": [
+      {
+        "name": "Chris Cornell",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CBC"
+  },
+  {
+    "id": "62HTBdBNsQA",
+    "type": "interview",
+    "artist": "Soundgarden",
+    "title": "Chris Cornell Interview 2011 with Howard Stern.",
+    "year": 2011,
+    "genre": "Grunge",
+    "musicians": [
+      "Chris Cornell",
+      "Howard Stern"
+    ],
+    "durationSeconds": 625,
+    "credits": [
+      {
+        "name": "Chris Cornell",
+        "role": "interviewee"
+      },
+      {
+        "name": "Howard Stern",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Howard Stern",
+    "outlet": "The Howard Stern Show"
+  },
+  {
+    "id": "CkkdKjUgAVk",
+    "type": "interview",
+    "artist": "Spyro Gyra",
+    "title": "Spyro Gyra - Interview - 8/18/1989 - Newport Casino (Official)",
+    "year": 1989,
+    "genre": "Fusion",
+    "musicians": [
+      "Spyro Gyra"
+    ],
+    "durationSeconds": 503,
+    "credits": [
+      {
+        "name": "Spyro Gyra",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "Gadclj2F3V8",
+    "type": "interview",
+    "artist": "Steely Dan",
+    "title": "Donald Fagen (of Steely Dan) interview on NPR - September 20, 1988",
+    "year": 1988,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Donald Fagen"
+    ],
+    "durationSeconds": 1704,
+    "credits": [
+      {
+        "name": "Donald Fagen",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "NPR"
+  },
+  {
+    "id": "bOra_5u1oRo",
+    "type": "interview",
+    "artist": "Steely Dan",
+    "title": "Walter Becker, BBC Radio Ulster Interview 2008 (R.I.P. Walter)",
+    "year": 2008,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Walter Becker"
+    ],
+    "durationSeconds": 901,
+    "credits": [
+      {
+        "name": "Walter Becker",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "Dg0d5eGHl8E",
+    "type": "interview",
+    "artist": "Steely Dan",
+    "title": "Steely Dan on Letterman, October 20, 1995, Upgraded and Expanded",
+    "year": 1995,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Steely Dan",
+      "David Letterman"
+    ],
+    "durationSeconds": 683,
+    "credits": [
+      {
+        "name": "Steely Dan",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "Rn_kh4yMvTo",
+    "type": "interview",
+    "artist": "Steve Vai",
+    "title": "Steve Vai: The 1986 \"Eat 'Em and Smile\" Interview",
+    "year": 1986,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Steve Vai",
+      "Jas Obrecht"
+    ],
+    "durationSeconds": 7826,
+    "credits": [
+      {
+        "name": "Steve Vai",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jas Obrecht",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Jas Obrecht",
+    "outlet": "Guitar Player"
+  },
+  {
+    "id": "32A2yznymgw",
+    "type": "interview",
+    "artist": "Steve Vai",
+    "title": "Steve Vai Interviewed by Terry Bozzio (2022 The Art Of Drumming Interview - Part 2 of 4)",
+    "year": 2022,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Terry Bozzio",
+      "Steve Vai"
+    ],
+    "durationSeconds": 1468,
+    "credits": [
+      {
+        "name": "Terry Bozzio",
+        "role": "interviewee"
+      },
+      {
+        "name": "Steve Vai",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Drum Channel"
+  },
+  {
+    "id": "5RZj2pNeFMU",
+    "type": "interview",
+    "artist": "Stevie Ray Vaughan",
+    "title": "Stevie Ray Vaughan - Late Night With David Letterman 1990 (FULL TAPE)",
+    "year": 1990,
+    "genre": "Blues",
+    "musicians": [
+      "Stevie Ray Vaughan",
+      "David Letterman"
+    ],
+    "durationSeconds": 704,
+    "credits": [
+      {
+        "name": "Stevie Ray Vaughan",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Night with David Letterman"
+  },
+  {
+    "id": "QzToQnl0pKM",
+    "type": "interview",
+    "artist": "Stevie Wonder",
+    "title": "Stevie Wonder Pretends to Not Be Stevie Wonder | David Letterman",
+    "year": 2015,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Stevie Wonder",
+      "David Letterman"
+    ],
+    "durationSeconds": 643,
+    "credits": [
+      {
+        "name": "Stevie Wonder",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "ykezvBZd35w",
+    "type": "interview",
+    "artist": "Stevie Wonder",
+    "title": "Stevie Wonder- \"I Was Made To Love Her\"/Interview 1967 [Reelin' In The Years Archives]",
+    "year": 1967,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Stevie Wonder"
+    ],
+    "durationSeconds": 424,
+    "credits": [
+      {
+        "name": "Stevie Wonder",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reelin' In The Years"
+  },
+  {
+    "id": "INviI43PTaA",
+    "type": "interview",
+    "artist": "Sting",
+    "title": "Sting - The Parkinson Show - Music & Interview (BBC1 - November 1 2001)",
+    "year": 2001,
+    "genre": "Singer-Songwriter",
+    "musicians": [
+      "Sting",
+      "Michael Parkinson"
+    ],
+    "durationSeconds": 2691,
+    "credits": [
+      {
+        "name": "Sting",
+        "role": "interviewee"
+      },
+      {
+        "name": "Michael Parkinson",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Michael Parkinson",
+    "outlet": "Parkinson"
+  },
+  {
+    "id": "KIciktS2NOg",
+    "type": "interview",
+    "artist": "Sting",
+    "title": "Sting - Later with Bob Costas - Music & Interview (March 30 1993)",
+    "year": 1993,
+    "genre": "Singer-Songwriter",
+    "musicians": [
+      "Sting",
+      "Bob Costas"
+    ],
+    "durationSeconds": 2552,
+    "credits": [
+      {
+        "name": "Sting",
+        "role": "interviewee"
+      },
+      {
+        "name": "Bob Costas",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Bob Costas",
+    "outlet": "Later with Bob Costas"
+  },
+  {
+    "id": "GHOHuAzf9kY",
+    "type": "interview",
+    "artist": "Sting",
+    "title": "Sting interviewed by Charlie Rose (2012)",
+    "year": 2012,
+    "genre": "Singer-Songwriter",
+    "musicians": [
+      "Sting",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 545,
+    "credits": [
+      {
+        "name": "Sting",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "4j6q8Wbk_Uc",
+    "type": "interview",
+    "artist": "Stray Cats",
+    "title": "Brian Setzer - Interview (Part 1) - 11/4/1984 - Rock Influence (Official)",
+    "year": 1984,
+    "genre": "Rockabilly",
+    "musicians": [
+      "Brian Setzer"
+    ],
+    "durationSeconds": 1599,
+    "credits": [
+      {
+        "name": "Brian Setzer",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "VWquKcRyVsQ",
+    "type": "interview",
+    "artist": "System of a Down",
+    "title": "System Of A Down interview for MTV UK in August 2001",
+    "year": 2001,
+    "genre": "Metal",
+    "musicians": [
+      "System of a Down"
+    ],
+    "durationSeconds": 1526,
+    "credits": [
+      {
+        "name": "System of a Down",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "nql7dax8BdM",
+    "type": "interview",
+    "artist": "Talking Heads",
+    "title": "1997 06 29 Bernie Worrell interview.",
+    "year": 1997,
+    "genre": "New Wave",
+    "musicians": [
+      "Bernie Worrell"
+    ],
+    "durationSeconds": 2239,
+    "credits": [
+      {
+        "name": "Bernie Worrell",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Bernie Worrell Official"
+  },
+  {
+    "id": "twGE7C-ufn4",
+    "type": "interview",
+    "artist": "Talking Heads",
+    "title": "David Byrne (Talking Heads) 1997 Interview with Charlie Rose",
+    "year": 1997,
+    "genre": "New Wave",
+    "musicians": [
+      "David Byrne",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 823,
+    "credits": [
+      {
+        "name": "David Byrne",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "sLZGdiXOSWQ",
+    "type": "interview",
+    "artist": "Talking Heads",
+    "title": "David Byrne Answers the Web's Most Searched Questions | WIRED",
+    "year": 0,
+    "genre": "New Wave",
+    "musicians": [
+      "David Byrne"
+    ],
+    "durationSeconds": 731,
+    "credits": [
+      {
+        "name": "David Byrne",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "WIRED"
+  },
+  {
+    "id": "_qQexzocPDA",
+    "type": "interview",
+    "artist": "Talking Heads",
+    "title": "David Byrne: The creative genius - BBC Newsnight",
+    "year": 0,
+    "genre": "New Wave",
+    "musicians": [
+      "David Byrne"
+    ],
+    "durationSeconds": 600,
+    "credits": [
+      {
+        "name": "David Byrne",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "zSjf0kqHGzI",
+    "type": "interview",
+    "artist": "Talking Heads",
+    "title": "David Byrne - True Stories interview (Letterman, 1986)",
+    "year": 1986,
+    "genre": "New Wave",
+    "musicians": [
+      "David Byrne",
+      "David Letterman"
+    ],
+    "durationSeconds": 568,
+    "credits": [
+      {
+        "name": "David Byrne",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Night with David Letterman"
+  },
+  {
+    "id": "D8oxbwx2xAI",
+    "type": "interview",
+    "artist": "Talking Heads",
+    "title": "Talking Heads - Burning Down the House live and Interview -  Letterman 1983 (Higher Quality)",
+    "year": 1983,
+    "genre": "New Wave",
+    "musicians": [
+      "Talking Heads",
+      "David Letterman"
+    ],
+    "durationSeconds": 499,
+    "credits": [
+      {
+        "name": "Talking Heads",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "SSQIiXztRJw",
+    "type": "interview",
+    "artist": "Tangerine Dream",
+    "title": "Tangerine Dream interview with 69 Faces of Rock 2026",
+    "year": 2026,
+    "genre": "Ambient",
+    "musicians": [
+      "Tangerine Dream"
+    ],
+    "durationSeconds": 2500,
+    "credits": [
+      {
+        "name": "Tangerine Dream",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "69 Faces of Rock"
+  },
+  {
+    "id": "7rnhRA9_Z4A",
+    "type": "interview",
+    "artist": "Tanya Tucker",
+    "title": "Tanya Tucker Interview  (Charlie Rose 1997)",
+    "year": 1997,
+    "genre": "Country",
+    "musicians": [
+      "Tanya Tucker",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 1008,
+    "credits": [
+      {
+        "name": "Tanya Tucker",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "1p5-oikCHpk",
+    "type": "interview",
+    "artist": "Temple of the Dog",
+    "title": "The Matt Cameron Interview: Soundgarden, Pearl Jam & Temple of the Dog",
+    "year": 2022,
+    "genre": "Grunge",
+    "musicians": [
+      "Matt Cameron",
+      "Rick Beato"
+    ],
+    "durationSeconds": 3344,
+    "credits": [
+      {
+        "name": "Matt Cameron",
+        "role": "interviewee"
+      },
+      {
+        "name": "Rick Beato",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Rick Beato",
+    "outlet": "Rick Beato"
+  },
+  {
+    "id": "Ihdhx7QfW5E",
+    "type": "interview",
+    "artist": "Terry Riley",
+    "title": "Terry Riley - Interview With Anil Prasad Part 1 of 2",
+    "year": 2013,
+    "genre": "Experimental",
+    "musicians": [
+      "Terry Riley",
+      "Anil Prasad"
+    ],
+    "durationSeconds": 5195,
+    "credits": [
+      {
+        "name": "Terry Riley",
+        "role": "interviewee"
+      },
+      {
+        "name": "Anil Prasad",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Anil Prasad",
+    "outlet": "Innerviews"
+  },
+  {
+    "id": "qukNGG3bXek",
+    "type": "interview",
+    "artist": "The Allman Brothers Band",
+    "title": "Gregg Allman on Letterman. January 25, 1982",
+    "year": 1982,
+    "genre": "Blues",
+    "musicians": [
+      "Gregg Allman",
+      "David Letterman"
+    ],
+    "durationSeconds": 755,
+    "credits": [
+      {
+        "name": "Gregg Allman",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "KsmVYw8gd5c",
+    "type": "interview",
+    "artist": "The Allman Brothers Band",
+    "title": "Gregg Allman (and Redd Foxx) on Letterman, November 18, 1987",
+    "year": 1987,
+    "genre": "Blues",
+    "musicians": [
+      "Gregg Allman",
+      "David Letterman"
+    ],
+    "durationSeconds": 460,
+    "credits": [
+      {
+        "name": "Gregg Allman",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "ptrYNzmma64",
+    "type": "interview",
+    "artist": "The Band",
+    "title": "Levon Helm on Letterman, January 6 and 11, 1983",
+    "year": 1983,
+    "genre": "Folk",
+    "musicians": [
+      "The Band",
+      "Levon Helm",
+      "David Letterman"
+    ],
+    "durationSeconds": 1960,
+    "credits": [
+      {
+        "name": "The Band",
+        "role": "interviewee"
+      },
+      {
+        "name": "Levon Helm",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "KVey5eGRZqk",
+    "type": "interview",
+    "artist": "The Band",
+    "title": "An Interview with Levon Helm | Sound Tracks Quick Hits | PBS",
+    "year": 2012,
+    "genre": "Folk",
+    "musicians": [
+      "The Band",
+      "Levon Helm"
+    ],
+    "durationSeconds": 792,
+    "credits": [
+      {
+        "name": "The Band",
+        "role": "interviewee"
+      },
+      {
+        "name": "Levon Helm",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "PBS"
+  },
+  {
+    "id": "lQbJkZ9pu2I",
+    "type": "interview",
+    "artist": "The Beach Boys",
+    "title": "Brian Wilson - Charlie Rose Interview (11.29.2005)",
+    "year": 2005,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Brian Wilson",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 3214,
+    "credits": [
+      {
+        "name": "Brian Wilson",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "xJ05J3Qes9E",
+    "type": "interview",
+    "artist": "The Clash",
+    "title": "THE CLASH - BBC RADIO 4 - FRONT ROW - 9 AUGUST 2013 - FULL INTERVIEW",
+    "year": 2013,
+    "genre": "Punk",
+    "musicians": [
+      "The Clash"
+    ],
+    "durationSeconds": 1686,
+    "credits": [
+      {
+        "name": "The Clash",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 4"
+  },
+  {
+    "id": "shHYow1Eg10",
+    "type": "interview",
+    "artist": "The Clash",
+    "title": "Joe Strummer - Interview, MTV Spotlight 1989",
+    "year": 1989,
+    "genre": "Punk",
+    "musicians": [
+      "Joe Strummer"
+    ],
+    "durationSeconds": 901,
+    "credits": [
+      {
+        "name": "Joe Strummer",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "bLFA1BlTeUE",
+    "type": "interview",
+    "artist": "The Cure",
+    "title": "The Cure - Robert Smith Interview - Songs of A Lost World",
+    "year": 0,
+    "genre": "New Wave",
+    "musicians": [
+      "Robert Smith"
+    ],
+    "durationSeconds": 6117,
+    "credits": [
+      {
+        "name": "Robert Smith",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Apple Music"
+  },
+  {
+    "id": "-O206GP8PXM",
+    "type": "interview",
+    "artist": "The Cure",
+    "title": "Robert Smith (The Cure) - Interview 2024 - 'Rock Show' 🇬🇧 BBC Radio 1",
+    "year": 2024,
+    "genre": "New Wave",
+    "musicians": [
+      "Robert Smith"
+    ],
+    "durationSeconds": 2166,
+    "credits": [
+      {
+        "name": "Robert Smith",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 1"
+  },
+  {
+    "id": "k70tFv1l6O0",
+    "type": "interview",
+    "artist": "The Highwaymen",
+    "title": "Kris Kristofferson Full Interview with Charlie Rose from 9/1/1999",
+    "year": 1999,
+    "genre": "Country",
+    "musicians": [
+      "Kris Kristofferson",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 1859,
+    "credits": [
+      {
+        "name": "Kris Kristofferson",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "5R6R_qijuX8",
+    "type": "interview",
+    "artist": "The Misfits",
+    "title": "The Misfits interview at Coachella 2025",
+    "year": 2025,
+    "genre": "Punk",
+    "musicians": [
+      "The Misfits"
+    ],
+    "durationSeconds": 434,
+    "credits": [
+      {
+        "name": "The Misfits",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "KROQ"
+  },
+  {
+    "id": "D_3LqyV1A7g",
+    "type": "interview",
+    "artist": "The Police",
+    "title": "Andy Summers Almost Fell Out Of An Airplane | Letterman",
+    "year": 0,
+    "genre": "New Wave",
+    "musicians": [
+      "Andy Summers",
+      "David Letterman"
+    ],
+    "durationSeconds": 625,
+    "credits": [
+      {
+        "name": "Andy Summers",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "zc7RRs2Aj3A",
+    "type": "interview",
+    "artist": "The Rolling Stones",
+    "title": "Mick Jagger 2002 — Charlie Rose Interview,",
+    "year": 2002,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mick Jagger",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 2948,
+    "credits": [
+      {
+        "name": "Mick Jagger",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "eTayu0B42iU",
+    "type": "interview",
+    "artist": "The Rolling Stones",
+    "title": "Mick Jagger & Ronnie Wood's Tracks Of My Years - 10 songs that tell The Rolling Stones life & career",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mick Jagger"
+    ],
+    "durationSeconds": 2069,
+    "credits": [
+      {
+        "name": "Mick Jagger",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "02JO1iuTGkU",
+    "type": "interview",
+    "artist": "The Rolling Stones",
+    "title": "ROLLING STONES Charlie Watts interview (Later with Bob Costas, TV 1993)",
+    "year": 1993,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Charlie Watts",
+      "Bob Costas"
+    ],
+    "durationSeconds": 1184,
+    "credits": [
+      {
+        "name": "Charlie Watts",
+        "role": "interviewee"
+      },
+      {
+        "name": "Bob Costas",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Bob Costas",
+    "outlet": "Later with Bob Costas"
+  },
+  {
+    "id": "QFqy5ykMqJk",
+    "type": "interview",
+    "artist": "The Rolling Stones",
+    "title": "The Rolling Stones' Keith Richards on drugs & rock 'n' roll - Newsnight archives (1982)",
+    "year": 1982,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Keith Richards"
+    ],
+    "durationSeconds": 958,
+    "credits": [
+      {
+        "name": "Keith Richards",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "eijoMG7srxM",
+    "type": "interview",
+    "artist": "The Rolling Stones",
+    "title": "The Rolling Stones on 60 Minutes / 2002 Ed Bradley interview (Subtitulo en Castellano)",
+    "year": 2002,
+    "genre": "Classic Rock",
+    "musicians": [
+      "The Rolling Stones"
+    ],
+    "durationSeconds": 880,
+    "credits": [
+      {
+        "name": "The Rolling Stones",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "yNKQ30hHetU",
+    "type": "interview",
+    "artist": "The Rolling Stones",
+    "title": "ROLLING STONES Keith Richards interview Sunday Morning TV 2010",
+    "year": 2010,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Keith Richards"
+    ],
+    "durationSeconds": 649,
+    "credits": [
+      {
+        "name": "Keith Richards",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "ouJY75hhOcM",
+    "type": "interview",
+    "artist": "The Rolling Stones",
+    "title": "ROLLING STONES Keith Richards interview Old Grey Whistle Test 1974  #rollingstones",
+    "year": 1974,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Keith Richards"
+    ],
+    "durationSeconds": 563,
+    "credits": [
+      {
+        "name": "Keith Richards",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Old Grey Whistle Test"
+  },
+  {
+    "id": "d2mXQ1Wg_zM",
+    "type": "interview",
+    "artist": "The Rolling Stones",
+    "title": "Keith Richards - brilliant 10-min interview (1992)",
+    "year": 1992,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Keith Richards"
+    ],
+    "durationSeconds": 556,
+    "credits": [
+      {
+        "name": "Keith Richards",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "R0bY1v_5O0c",
+    "type": "interview",
+    "artist": "The Rolling Stones",
+    "title": "Mick Jagger - interview + group & solo video footage, \"Whistle Test\" Special, BBC, UK TV, 1985",
+    "year": 1985,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mick Jagger"
+    ],
+    "durationSeconds": 3427,
+    "credits": [
+      {
+        "name": "Mick Jagger",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Old Grey Whistle Test"
+  },
+  {
+    "id": "ArAzCIIBPXk",
+    "type": "interview",
+    "artist": "The Rolling Stones",
+    "title": "Mick Jagger - interview with Janice Long, BBC Radio 1, UK, 24 March 1986",
+    "year": 1986,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mick Jagger"
+    ],
+    "durationSeconds": 1384,
+    "credits": [
+      {
+        "name": "Mick Jagger",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 1"
+  },
+  {
+    "id": "uCqUk3vMm0c",
+    "type": "interview",
+    "artist": "The Smiths",
+    "title": "The Smiths - Recording Meat Is Murder, The Old Grey Whistle Test, BBC 2, UK - 12 Feb 1985",
+    "year": 1985,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "The Smiths"
+    ],
+    "durationSeconds": 550,
+    "credits": [
+      {
+        "name": "The Smiths",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Old Grey Whistle Test"
+  },
+  {
+    "id": "ky6_cUn-454",
+    "type": "interview",
+    "artist": "The Stone Roses",
+    "title": "The Stone Roses: The Raw & Uncut Interview - 1989",
+    "year": 1989,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "The Stone Roses"
+    ],
+    "durationSeconds": 986,
+    "credits": [
+      {
+        "name": "The Stone Roses",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "gFzW9eNH2sY",
+    "type": "interview",
+    "artist": "The Who",
+    "title": "Pete Townshend On Roger Daltrey, Reuniting The Who | David Letterman",
+    "year": 1989,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Pete Townshend",
+      "Roger Daltrey",
+      "David Letterman"
+    ],
+    "durationSeconds": 614,
+    "credits": [
+      {
+        "name": "Pete Townshend",
+        "role": "interviewee"
+      },
+      {
+        "name": "Roger Daltrey",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "Ldli9i_Mwpk",
+    "type": "interview",
+    "artist": "The Who",
+    "title": "Pete Townshend On How He Got His Trademark Windmill Move | Letterman",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Pete Townshend",
+      "David Letterman"
+    ],
+    "durationSeconds": 574,
+    "credits": [
+      {
+        "name": "Pete Townshend",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "M3-CniE3kQc",
+    "type": "interview",
+    "artist": "The Who",
+    "title": "The Who - interview 1966",
+    "year": 1966,
+    "genre": "Classic Rock",
+    "musicians": [
+      "The Who"
+    ],
+    "durationSeconds": 511,
+    "credits": [
+      {
+        "name": "The Who",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "UgtEeU_DDWY",
+    "type": "interview",
+    "artist": "Tina Turner",
+    "title": "Tina Turner talks about her life in music (1997 CNN interview)",
+    "year": 1997,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Tina Turner"
+    ],
+    "durationSeconds": 1988,
+    "credits": [
+      {
+        "name": "Tina Turner",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CNN"
+  },
+  {
+    "id": "CEdeGqYH9PQ",
+    "type": "interview",
+    "artist": "Tina Turner",
+    "title": "Tina Turner on Letterman, May 31, 1984",
+    "year": 1984,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Tina Turner",
+      "David Letterman"
+    ],
+    "durationSeconds": 903,
+    "credits": [
+      {
+        "name": "Tina Turner",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "ThGey2EXaKs",
+    "type": "interview",
+    "artist": "Tina Turner",
+    "title": "Tina Turner Talks About Mick Jagger & David Bowie | Letterman",
+    "year": 1984,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "David Bowie",
+      "Tina Turner",
+      "Mick Jagger",
+      "David Letterman"
+    ],
+    "durationSeconds": 678,
+    "credits": [
+      {
+        "name": "David Bowie",
+        "role": "interviewee"
+      },
+      {
+        "name": "Tina Turner",
+        "role": "interviewee"
+      },
+      {
+        "name": "Mick Jagger",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "xKl8tSQFlJg",
+    "type": "interview",
+    "artist": "Tom Petty",
+    "title": "Tom Petty & The Heartbreakers 1978 06 08 BBC Televison - Old Grey Whistle Test",
+    "year": 1978,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Tom Petty"
+    ],
+    "durationSeconds": 3362,
+    "credits": [
+      {
+        "name": "Tom Petty",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Old Grey Whistle Test"
+  },
+  {
+    "id": "ejN7aSLiiG0",
+    "type": "interview",
+    "artist": "Tom Waits",
+    "title": "Interview with Tom Waits, 1979",
+    "year": 1979,
+    "genre": "Singer-Songwriter",
+    "musicians": [
+      "Tom Waits",
+      "David Letterman"
+    ],
+    "durationSeconds": 1331,
+    "credits": [
+      {
+        "name": "Tom Waits",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "lCa9uX6IpfM",
+    "type": "interview",
+    "artist": "TWICE",
+    "title": "TWICE Answer the Web's Most Searched Questions | WIRED",
+    "year": 0,
+    "genre": "K-pop",
+    "musicians": [
+      "TWICE"
+    ],
+    "durationSeconds": 594,
+    "credits": [
+      {
+        "name": "TWICE",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "WIRED"
+  },
+  {
+    "id": "aAUU2gwH7L0",
+    "type": "interview",
+    "artist": "Vilayat Khan",
+    "title": "Vilayat Khan   Doordarshan Interview",
+    "year": 0,
+    "genre": "Indian Classical",
+    "musicians": [
+      "Vilayat Khan"
+    ],
+    "durationSeconds": 1689,
+    "credits": [
+      {
+        "name": "Vilayat Khan",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Doordarshan"
+  },
+  {
+    "id": "6btFyOxNfgE",
+    "type": "interview",
+    "artist": "Waylon Jennings",
+    "title": "Waylon Jennings Interview Part 1, American Singer-Songwriter & Country Music Outlaw",
+    "year": 0,
+    "genre": "Country",
+    "musicians": [
+      "Waylon Jennings"
+    ],
+    "durationSeconds": 1667,
+    "credits": [
+      {
+        "name": "Waylon Jennings",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "PBS"
+  },
+  {
+    "id": "XBTEtS1s674",
+    "type": "interview",
+    "artist": "Wayne Shorter",
+    "title": "Wayne Shorter - Interview - 8/11/2001 - Newport Jazz Festival (Official)",
+    "year": 2001,
+    "genre": "Fusion",
+    "musicians": [
+      "Wayne Shorter"
+    ],
+    "durationSeconds": 475,
+    "credits": [
+      {
+        "name": "Wayne Shorter",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "dkNxXI1dSl8",
+    "type": "interview",
+    "artist": "Whitney Houston",
+    "title": "Whitney Houston The Raw & Uncut Interview   Part 1   1991",
+    "year": 1991,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Whitney Houston"
+    ],
+    "durationSeconds": 942,
+    "credits": [
+      {
+        "name": "Whitney Houston",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "BPRcdhSrupI",
+    "type": "interview",
+    "artist": "Willie Nelson",
+    "title": "Willie Nelson On Weed, Writing \"Crazy\" and More | David Letterman",
+    "year": 0,
+    "genre": "Country",
+    "musicians": [
+      "Willie Nelson",
+      "David Letterman"
+    ],
+    "durationSeconds": 461,
+    "credits": [
+      {
+        "name": "Willie Nelson",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "09unkUlX9DA",
+    "type": "interview",
+    "artist": "Wilson Pickett",
+    "title": "Wilson Pickett on Letterman, January 15, 1986",
+    "year": 1986,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Wilson Pickett",
+      "David Letterman"
+    ],
+    "durationSeconds": 527,
+    "credits": [
+      {
+        "name": "Wilson Pickett",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "gU81nj9a4RM",
+    "type": "interview",
+    "artist": "Wilson Pickett",
+    "title": "Wilson Pickett - Interview | North Sea Jazz 1996",
+    "year": 1996,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Wilson Pickett"
+    ],
+    "durationSeconds": 481,
+    "credits": [
+      {
+        "name": "Wilson Pickett",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "North Sea Jazz"
+  },
+  {
+    "id": "XU_0oXgEpyg",
+    "type": "interview",
+    "artist": "Wu-Tang Clan",
+    "title": "Wu-Tang Clan Answer the Web's Most Searched Questions | WIRED",
+    "year": 0,
+    "genre": "Rap/Hip-Hop",
+    "musicians": [
+      "Wu-Tang Clan"
+    ],
+    "durationSeconds": 721,
+    "credits": [
+      {
+        "name": "Wu-Tang Clan",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "WIRED"
+  },
+  {
+    "id": "zG_AtuJvDSg",
+    "type": "interview",
+    "artist": "Wynton Marsalis",
+    "title": "Wynton Marsalis, Academy Class of 1988, Full Interview",
+    "year": 1988,
+    "genre": "Jazz",
+    "musicians": [
+      "Wynton Marsalis"
+    ],
+    "durationSeconds": 5473,
+    "credits": [
+      {
+        "name": "Wynton Marsalis",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Academy of Achievement"
+  },
+  {
+    "id": "AqD5uIjpI5U",
+    "type": "interview",
+    "artist": "Yes",
+    "title": "Steve Howe - Interview Part 1 - 7/6/1984 - unknown (Official)",
+    "year": 1984,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Steve Howe"
+    ],
+    "durationSeconds": 1736,
+    "credits": [
+      {
+        "name": "Steve Howe",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "tNd5jLBBTlY",
+    "type": "interview",
+    "artist": "Yes",
+    "title": "Yes Interviews: 1987 - Jon Anderson and Trevor Rabin Interviewed on Much Music with Laurie Brown",
+    "year": 1987,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Jon Anderson",
+      "Trevor Rabin"
+    ],
+    "durationSeconds": 797,
+    "credits": [
+      {
+        "name": "Jon Anderson",
+        "role": "interviewee"
+      },
+      {
+        "name": "Trevor Rabin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MuchMusic"
+  },
+  {
+    "id": "xRT4TOo88YY",
+    "type": "interview",
+    "artist": "Yes",
+    "title": "Yes Interviews: 1983 - Eddie Jobson - Night Flight Interview",
+    "year": 1983,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Eddie Jobson"
+    ],
+    "durationSeconds": 678,
+    "credits": [
+      {
+        "name": "Eddie Jobson",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Night Flight"
   }
 ]
