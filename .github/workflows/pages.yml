@@ -1,5 +1,6 @@
 # Deploys the static site to GitHub Pages.
 # Settings > Pages > Source must be "GitHub Actions".
+# A push to main publishes the assembled site.
 
 name: Deploy static site to Pages
 
