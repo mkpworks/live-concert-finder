@@ -161,9 +161,13 @@ for (const ref of ["css/styles.css", "js/catalog.js", "js/app.js", "favicon.svg"
   assert(bundle.includes(ref), "missing " + ref);
 }
 const workflow = fs.readFileSync(path.join(root, ".github/workflows/pages.yml"), "utf8");
-for (const name of ["actions/configure-pages", "actions/upload-pages-artifact", "actions/deploy-pages", "scripts/validate-data.js"]) {
+for (const name of ["actions/configure-pages", "actions/upload-pages-artifact", "actions/deploy-pages", "scripts/validate-data.js", "workflow_dispatch", "needs: build"]) {
   assert(workflow.includes(name), name);
 }
+const deployJob = workflow.split(/\n {2}deploy:\n/)[1] || "";
+assert(deployJob.length > 0, "deploy job");
+assert(!deployJob.includes("actions/upload-pages-artifact"), "deploy job only deploys");
+assert(deployJob.includes("pages: write") && deployJob.includes("id-token: write"), "deploy permissions");
 
 assert(concerts.some((concert) => concert.year === 0), "unknown years stay in the data");
 assert(!fs.readFileSync(path.join(root, "js/app.js"), "utf8").includes("Year unknown"), "unknown years render blank");
