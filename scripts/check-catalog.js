@@ -173,7 +173,7 @@ assert(deployJob.includes("pages: write") && deployJob.includes("id-token: write
 
 assert(concerts.every((concert) => concert.type === "concert" || concert.type === "interview"), "every item has a type");
 assert(concerts.filter((concert) => concert.type === "concert").length === 1250, "concert count");
-assert(concerts.filter((concert) => concert.type === "interview").length === 526, "interview count");
+assert(concerts.filter((concert) => concert.type === "interview").length === 659, "interview count");
 assert(Catalog.itemType({}) === "concert", "missing type is concert");
 assert(Catalog.TYPES.map((type) => type.id).join() === "concert,interview");
 const interview = {

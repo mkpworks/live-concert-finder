@@ -24969,25 +24969,6 @@
     "outlet": "BBC"
   },
   {
-    "id": "K-zRRGIc8vw",
-    "type": "interview",
-    "artist": "Bob Dylan",
-    "title": "60 Minutes Asked Bob Dylan Who He Made a Bargain With — His Answer Left Ed Bradley Frozen",
-    "year": 2004,
-    "genre": "Folk",
-    "musicians": [
-      "Bob Dylan"
-    ],
-    "durationSeconds": 1216,
-    "credits": [
-      {
-        "name": "Bob Dylan",
-        "role": "interviewee"
-      }
-    ],
-    "outlet": "60 Minutes"
-  },
-  {
     "id": "smDt4wT1Qk0",
     "type": "interview",
     "artist": "Bob Dylan",
@@ -25848,26 +25829,28 @@
   {
     "id": "kBOOMkqsGo0",
     "type": "interview",
-    "artist": "Joni Mitchell",
+    "artist": "Pat Metheny Group",
     "title": "Lyle Mays Interview: Lyle Smiles - Music Metheny & Magic",
-    "year": 0,
-    "genre": "Folk",
+    "year": 2007,
+    "genre": "Fusion",
     "musicians": [
-      "Joni Mitchell",
-      "Lyle Mays"
+      "Lyle Mays",
+      "Richard Niles"
     ],
     "durationSeconds": 765,
     "credits": [
       {
-        "name": "Joni Mitchell",
+        "name": "Lyle Mays",
         "role": "interviewee"
       },
       {
-        "name": "Lyle Mays",
-        "role": "interviewee"
+        "name": "Richard Niles",
+        "role": "interviewer"
       }
     ],
-    "outlet": "BBC Radio 2"
+    "outlet": "BBC Radio 2",
+    "interviewer": "Richard Niles",
+    "notes": "Richard Niles interviewed Lyle Mays in Los Angeles for the BBC Radio 2 series 'What Is Melody?' (2007), about first meeting Pat Metheny and writing The Way Up. Previously misfiled under Joni Mitchell."
   },
   {
     "id": "Z8rPz6GL3aQ",
@@ -26002,31 +25985,6 @@
         "role": "interviewee"
       }
     ]
-  },
-  {
-    "id": "HEoCxJKLFyo",
-    "type": "interview",
-    "artist": "Michael Jackson",
-    "title": "The Charlie Rose Show: Remembering Michael Jackson / Kathryn Bigelow (The Hurt Locker) (PBS 2009)",
-    "year": 2009,
-    "genre": "Soul/R&B",
-    "musicians": [
-      "Michael Jackson",
-      "Charlie Rose"
-    ],
-    "durationSeconds": 3205,
-    "credits": [
-      {
-        "name": "Michael Jackson",
-        "role": "interviewee"
-      },
-      {
-        "name": "Charlie Rose",
-        "role": "interviewer"
-      }
-    ],
-    "interviewer": "Charlie Rose",
-    "outlet": "Charlie Rose"
   },
   {
     "id": "Z0bV7OhY2Gg",
@@ -26354,26 +26312,22 @@
   {
     "id": "ALHcXi8lj0U",
     "type": "interview",
-    "artist": "Peter Gabriel",
+    "artist": "Tony Levin",
     "title": "Peter Gabriel by Tony Levin, Interview",
     "year": 0,
     "genre": "Progressive Rock",
     "musicians": [
-      "Peter Gabriel",
       "Tony Levin"
     ],
     "durationSeconds": 2419,
     "credits": [
       {
-        "name": "Peter Gabriel",
-        "role": "interviewee"
-      },
-      {
         "name": "Tony Levin",
         "role": "interviewee"
       }
     ],
-    "outlet": "Make Weird Music"
+    "outlet": "Make Weird Music",
+    "notes": "Make Weird Music interview with Tony Levin about his Peter Gabriel print collection, not an interview with Peter Gabriel."
   },
   {
     "id": "MqSWpMT-RVo",
@@ -26964,25 +26918,6 @@
     "outlet": "BBC"
   },
   {
-    "id": "rUvwfOqHhPo",
-    "type": "interview",
-    "artist": "Terry Bozzio",
-    "title": "Best Of Terry Bozzio's Drum Channel Q&A",
-    "year": 0,
-    "genre": "Classic Rock",
-    "musicians": [
-      "Terry Bozzio"
-    ],
-    "durationSeconds": 541,
-    "credits": [
-      {
-        "name": "Terry Bozzio",
-        "role": "interviewee"
-      }
-    ],
-    "outlet": "Drum Channel"
-  },
-  {
     "id": "mMONfhKgwQU",
     "type": "interview",
     "artist": "Terry Bozzio",
@@ -27549,5 +27484,2846 @@
       }
     ],
     "outlet": "Wolfgang's"
+  },
+  {
+    "id": "VEKqm_ZphUo",
+    "type": "interview",
+    "artist": "Soft Machine",
+    "title": "John Etheridge of Soft Machine - The ProgCast with Gregg Bendian",
+    "year": 2026,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "John Etheridge",
+      "Gregg Bendian"
+    ],
+    "durationSeconds": 7757,
+    "credits": [
+      {
+        "name": "John Etheridge",
+        "role": "interviewee"
+      },
+      {
+        "name": "Gregg Bendian",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Gregg Bendian",
+    "outlet": "The ProgCast"
+  },
+  {
+    "id": "5icic8TypTA",
+    "type": "interview",
+    "artist": "Soft Machine",
+    "title": "John Etheridge Interview (Soft Machine) - The Hidden Track",
+    "year": 2025,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "John Etheridge"
+    ],
+    "durationSeconds": 4184,
+    "credits": [
+      {
+        "name": "John Etheridge",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Hidden Track"
+  },
+  {
+    "id": "6mipoF_fhGM",
+    "type": "interview",
+    "artist": "Soft Machine",
+    "title": "The Soft Machine - Interview + Live (1969)",
+    "year": 1969,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Soft Machine"
+    ],
+    "durationSeconds": 912,
+    "credits": [
+      {
+        "name": "Soft Machine",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Tienerklanken",
+    "notes": "Belgian TV (Tienerklanken), 9 September 1969; interview plus live performance."
+  },
+  {
+    "id": "VA_SekA7OCg",
+    "type": "interview",
+    "artist": "Soft Machine",
+    "title": "Mike Ratledge reminisces about Soft Machine",
+    "year": 1974,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Mike Ratledge"
+    ],
+    "durationSeconds": 295,
+    "credits": [
+      {
+        "name": "Mike Ratledge",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "WMSN",
+    "notes": "Mike Ratledge interviewed for WMSN radio in 1974; later recut as a short film by Aymeric Leroy."
+  },
+  {
+    "id": "vEF2rXYHLDw",
+    "type": "interview",
+    "artist": "John McLaughlin",
+    "title": "John McLaughlin Interview",
+    "year": 2021,
+    "genre": "Fusion",
+    "musicians": [
+      "John McLaughlin"
+    ],
+    "durationSeconds": 4312,
+    "credits": [
+      {
+        "name": "John McLaughlin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Guitar Moderne"
+  },
+  {
+    "id": "KHh0I6q5zXc",
+    "type": "interview",
+    "artist": "John McLaughlin",
+    "title": "John McLaughlin on Music, Miles, and the Mystical: A Deep Dive into the Spirit of Jazz",
+    "year": 2025,
+    "genre": "Fusion",
+    "musicians": [
+      "John McLaughlin",
+      "Michael Fagien"
+    ],
+    "durationSeconds": 2222,
+    "credits": [
+      {
+        "name": "John McLaughlin",
+        "role": "interviewee"
+      },
+      {
+        "name": "Michael Fagien",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Michael Fagien",
+    "outlet": "JAZZIZ"
+  },
+  {
+    "id": "b52d2hjrs5U",
+    "type": "interview",
+    "artist": "John McLaughlin",
+    "title": "Paul Reed Smith Interviews John McLaughlin | Shakti 50th Anniversary | PRS Guitars",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "John McLaughlin",
+      "Paul Reed Smith"
+    ],
+    "durationSeconds": 1242,
+    "credits": [
+      {
+        "name": "John McLaughlin",
+        "role": "interviewee"
+      },
+      {
+        "name": "Paul Reed Smith",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Paul Reed Smith",
+    "outlet": "PRS Guitars",
+    "notes": "Already in curate pool; ensuring PRS source is attached."
+  },
+  {
+    "id": "SPYW_ANx58M",
+    "type": "interview",
+    "artist": "John McLaughlin",
+    "title": "NPR Music Interview: John McLaughlin: On Coltrane And Spirituality In Music",
+    "year": 2011,
+    "genre": "Fusion",
+    "musicians": [
+      "John McLaughlin",
+      "Liane Hansen"
+    ],
+    "durationSeconds": 652,
+    "credits": [
+      {
+        "name": "John McLaughlin",
+        "role": "interviewee"
+      },
+      {
+        "name": "Liane Hansen",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Liane Hansen",
+    "outlet": "NPR",
+    "notes": "NPR Weekend Edition Sunday, 2 January 2011, hosted by Liane Hansen."
+  },
+  {
+    "id": "jIcrMxT3phM",
+    "type": "interview",
+    "artist": "John McLaughlin",
+    "title": "John McLaughlin: Interview (1975)",
+    "year": 1975,
+    "genre": "Fusion",
+    "musicians": [
+      "John McLaughlin"
+    ],
+    "durationSeconds": 519,
+    "credits": [
+      {
+        "name": "John McLaughlin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Iltatähti",
+    "notes": "Finnish Broadcasting Company (YLE) music show Iltatähti, 9 September 1975."
+  },
+  {
+    "id": "ugB3gj7v6ZA",
+    "type": "interview",
+    "artist": "Pat Metheny Group",
+    "title": "Pat Metheny Group Chile 1987 - Interview",
+    "year": 1987,
+    "genre": "Fusion",
+    "musicians": [
+      "Pat Metheny Group"
+    ],
+    "durationSeconds": 427,
+    "credits": [
+      {
+        "name": "Pat Metheny Group",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Pat Metheny Group interview, Chile 1987."
+  },
+  {
+    "id": "QEgalcH_-b4",
+    "type": "interview",
+    "artist": "Pat Metheny",
+    "title": "The Pat Metheny Interview",
+    "year": 2021,
+    "genre": "Fusion",
+    "musicians": [
+      "Pat Metheny",
+      "Rick Beato"
+    ],
+    "durationSeconds": 6417,
+    "credits": [
+      {
+        "name": "Pat Metheny",
+        "role": "interviewee"
+      },
+      {
+        "name": "Rick Beato",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Rick Beato",
+    "outlet": "Rick Beato"
+  },
+  {
+    "id": "lfwghiz_yTI",
+    "type": "interview",
+    "artist": "Pat Metheny",
+    "title": "Ron Carter's Complete Interview with Pat Metheny #roncarterbassist",
+    "year": 2021,
+    "genre": "Fusion",
+    "musicians": [
+      "Pat Metheny",
+      "Ron Carter"
+    ],
+    "durationSeconds": 1530,
+    "credits": [
+      {
+        "name": "Pat Metheny",
+        "role": "interviewee"
+      },
+      {
+        "name": "Ron Carter",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Ron Carter",
+    "outlet": "Ron Carter"
+  },
+  {
+    "id": "NPTHxABzQdg",
+    "type": "interview",
+    "artist": "Pat Metheny",
+    "title": "Pat Metheny 2018 NEA Jazz Master Interview and Acceptance Speech",
+    "year": 2018,
+    "genre": "Fusion",
+    "musicians": [
+      "Pat Metheny"
+    ],
+    "durationSeconds": 657,
+    "credits": [
+      {
+        "name": "Pat Metheny",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "NEA Jazz Masters"
+  },
+  {
+    "id": "ib3SqQ0aOFQ",
+    "type": "interview",
+    "artist": "Pat Metheny",
+    "title": "Pat Metheny Interview May 1983",
+    "year": 1983,
+    "genre": "Fusion",
+    "musicians": [
+      "Pat Metheny"
+    ],
+    "durationSeconds": 1901,
+    "credits": [
+      {
+        "name": "Pat Metheny",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Archival interview, May 1983."
+  },
+  {
+    "id": "7ly2t9eV9Kk",
+    "type": "interview",
+    "artist": "Pat Metheny",
+    "title": "Pat Metheny Interview - Feb 2002",
+    "year": 2002,
+    "genre": "Fusion",
+    "musicians": [
+      "Pat Metheny"
+    ],
+    "durationSeconds": 1440,
+    "credits": [
+      {
+        "name": "Pat Metheny",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Archival interview dated February 2002."
+  },
+  {
+    "id": "FWxdMiZ5-zI",
+    "type": "interview",
+    "artist": "Snarky Puppy",
+    "title": "Michael League: Building Snarky Puppy & GroundUP, \"Lingus,\" Cory Henry, David Crosby, Jazz Fusion",
+    "year": 2026,
+    "genre": "Fusion",
+    "musicians": [
+      "Michael League",
+      "Elmo Lovano"
+    ],
+    "durationSeconds": 8507,
+    "credits": [
+      {
+        "name": "Michael League",
+        "role": "interviewee"
+      },
+      {
+        "name": "Elmo Lovano",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Elmo Lovano",
+    "outlet": "Go with Elmo Lovano"
+  },
+  {
+    "id": "EOF9CkVlX68",
+    "type": "interview",
+    "artist": "Snarky Puppy",
+    "title": "The Michael League Interview: The Secret of Snarky Puppy",
+    "year": 2023,
+    "genre": "Fusion",
+    "musicians": [
+      "Michael League"
+    ],
+    "durationSeconds": 4902,
+    "credits": [
+      {
+        "name": "Michael League",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Scott's Bass Lessons"
+  },
+  {
+    "id": "cFpj1sa6RrI",
+    "type": "interview",
+    "artist": "Snarky Puppy",
+    "title": "Michael League - 12 Qwestions - Full Interview | Qwest TV",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Michael League"
+    ],
+    "durationSeconds": 1286,
+    "credits": [
+      {
+        "name": "Michael League",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "North Sea Jazz"
+  },
+  {
+    "id": "61rQmKrEZqI",
+    "type": "interview",
+    "artist": "Medeski Martin & Wood",
+    "title": "Interview: Medeski Martin & Wood",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Medeski Martin & Wood"
+    ],
+    "durationSeconds": 587,
+    "credits": [
+      {
+        "name": "Medeski Martin & Wood",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "JAZZ.FM91"
+  },
+  {
+    "id": "-LhnG0NSUP0",
+    "type": "interview",
+    "artist": "Medeski Martin & Wood",
+    "title": "Billy Martin on Finding Harmony in Rhythm and Life",
+    "year": 2025,
+    "genre": "Fusion",
+    "musicians": [
+      "Billy Martin"
+    ],
+    "durationSeconds": 4676,
+    "credits": [
+      {
+        "name": "Billy Martin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Slowdown"
+  },
+  {
+    "id": "_gAEAHS89EM",
+    "type": "interview",
+    "artist": "The Fall",
+    "title": "The Fall - Interview, Bombast and Cruiser's Creek",
+    "year": 1985,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "The Fall"
+    ],
+    "durationSeconds": 729,
+    "credits": [
+      {
+        "name": "The Fall",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Tube",
+    "notes": "The Tube, Channel 4, 8 November 1985; interview plus 'Bombast' and 'Cruiser's Creek'."
+  },
+  {
+    "id": "1pQG-H8uBtM",
+    "type": "interview",
+    "artist": "The Fall",
+    "title": "THE FALL ( Band )  - Mark E Smith  interview  - The Fall  - September 2002",
+    "year": 2002,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Mark E. Smith"
+    ],
+    "durationSeconds": 2626,
+    "credits": [
+      {
+        "name": "Mark E. Smith",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Mark E. Smith interview, September 2002."
+  },
+  {
+    "id": "IapnG3RnOv0",
+    "type": "interview",
+    "artist": "The Fall",
+    "title": "The Fall interview London 1988",
+    "year": 1988,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "The Fall"
+    ],
+    "durationSeconds": 442,
+    "credits": [
+      {
+        "name": "The Fall",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "London interview, 1988."
+  },
+  {
+    "id": "vbbjN9oP7Ik",
+    "type": "interview",
+    "artist": "The Fall",
+    "title": "Mark E Smith of The Fall on BBC Culture Show March 2007",
+    "year": 2007,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "The Fall"
+    ],
+    "durationSeconds": 594,
+    "credits": [
+      {
+        "name": "The Fall",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "Q0EBqE6OPHM",
+    "type": "interview",
+    "artist": "The Fall",
+    "title": "The Fall 1989 Interview & Deadbeat Descendant (Snub TV BBC)",
+    "year": 1989,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "The Fall"
+    ],
+    "durationSeconds": 498,
+    "credits": [
+      {
+        "name": "The Fall",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "bmer24PZMKU",
+    "type": "interview",
+    "artist": "Cream",
+    "title": "Cream Interview 1968 Rare",
+    "year": 1968,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Cream"
+    ],
+    "durationSeconds": 1181,
+    "credits": [
+      {
+        "name": "Cream",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "1968 archival interview."
+  },
+  {
+    "id": "zJ-L9NgpgtA",
+    "type": "interview",
+    "artist": "Cream",
+    "title": "Cream - The Interviews Royal Albert Hall 2005 Part 1",
+    "year": 2005,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Eric Clapton",
+      "Jack Bruce",
+      "Ginger Baker"
+    ],
+    "durationSeconds": 601,
+    "credits": [
+      {
+        "name": "Eric Clapton",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jack Bruce",
+        "role": "interviewee"
+      },
+      {
+        "name": "Ginger Baker",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Royal Albert Hall 2005 reunion interviews, part 1."
+  },
+  {
+    "id": "GWSX1I1rqIA",
+    "type": "interview",
+    "artist": "Cream",
+    "title": "Eric Clapton (Cream) • Interview (Blues/Beatles/Hendrix/Rascals) • 1967 [RITY Archive]",
+    "year": 1967,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Eric Clapton"
+    ],
+    "durationSeconds": 323,
+    "credits": [
+      {
+        "name": "Eric Clapton",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reelin' In The Years"
+  },
+  {
+    "id": "ErjeQTdgn-Q",
+    "type": "interview",
+    "artist": "ZZ Top",
+    "title": "Billy F Gibbons: A Lifetime With ZZ Top - A Rare Sit Down #getonthebus #zztop #rocknroll",
+    "year": 2026,
+    "genre": "Blues",
+    "musicians": [
+      "Billy Gibbons"
+    ],
+    "durationSeconds": 1192,
+    "credits": [
+      {
+        "name": "Billy Gibbons",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Get On The Bus"
+  },
+  {
+    "id": "4alli39aJ4Y",
+    "type": "interview",
+    "artist": "ZZ Top",
+    "title": "ZZ Top interviewed on Countdown, 1984",
+    "year": 1984,
+    "genre": "Blues",
+    "musicians": [
+      "ZZ Top"
+    ],
+    "durationSeconds": 754,
+    "credits": [
+      {
+        "name": "ZZ Top",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Countdown"
+  },
+  {
+    "id": "1x_kg6pOvGU",
+    "type": "interview",
+    "artist": "ZZ Top",
+    "title": "Rig Rundown - ZZ Top's Billy Gibbons and Dusty Hill [2015]",
+    "year": 2015,
+    "genre": "Blues",
+    "musicians": [
+      "Billy Gibbons",
+      "Dusty Hill"
+    ],
+    "durationSeconds": 1924,
+    "credits": [
+      {
+        "name": "Billy Gibbons",
+        "role": "interviewee"
+      },
+      {
+        "name": "Dusty Hill",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Premier Guitar"
+  },
+  {
+    "id": "zpkqrzKkxEU",
+    "type": "interview",
+    "artist": "ZZ Top",
+    "title": "ZZ Top's Billy Gibbons on His Love for Fast Cars and Loud Music",
+    "year": 0,
+    "genre": "Blues",
+    "musicians": [
+      "Billy Gibbons"
+    ],
+    "durationSeconds": 707,
+    "credits": [
+      {
+        "name": "Billy Gibbons",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "kyiAPuM9cUU",
+    "type": "interview",
+    "artist": "ZZ Top",
+    "title": "ZZ Top is \"Goin' 50\"",
+    "year": 0,
+    "genre": "Blues",
+    "musicians": [
+      "ZZ Top"
+    ],
+    "durationSeconds": 432,
+    "credits": [
+      {
+        "name": "ZZ Top",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CBS Sunday Morning"
+  },
+  {
+    "id": "KKOZkef_hpA",
+    "type": "interview",
+    "artist": "ZZ Top",
+    "title": "Billy F Gibbons on How ZZ Top Adopted The Beard Look | The Big Interview",
+    "year": 0,
+    "genre": "Blues",
+    "musicians": [
+      "ZZ Top"
+    ],
+    "durationSeconds": 255,
+    "credits": [
+      {
+        "name": "ZZ Top",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "AXS TV"
+  },
+  {
+    "id": "3Ik-dVhv3Oc",
+    "type": "interview",
+    "artist": "ZZ Top",
+    "title": "ZZ Top interviewed on The Old Grey Whistle Test, 1987",
+    "year": 1987,
+    "genre": "Blues",
+    "musicians": [
+      "ZZ Top"
+    ],
+    "durationSeconds": 254,
+    "credits": [
+      {
+        "name": "ZZ Top",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Old Grey Whistle Test"
+  },
+  {
+    "id": "cl5Dy35u1AY",
+    "type": "interview",
+    "artist": "ZZ Top",
+    "title": "Billy Gibbons of ZZ Top | Guitar Moves Interview",
+    "year": 2013,
+    "genre": "Blues",
+    "musicians": [
+      "Billy Gibbons"
+    ],
+    "durationSeconds": 893,
+    "credits": [
+      {
+        "name": "Billy Gibbons",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "2xvkNHYnVHM",
+    "type": "interview",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Flea’s wild path from childhood to Chili Peppers | Fresh Air",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Flea"
+    ],
+    "durationSeconds": 2558,
+    "credits": [
+      {
+        "name": "Flea",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Fresh Air"
+  },
+  {
+    "id": "rHDQLQ90Tmk",
+    "type": "interview",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Red Hot Chili Peppers | The Howard Stern Show (Part 2)",
+    "year": 2022,
+    "genre": "Funk",
+    "musicians": [
+      "Red Hot Chili Peppers",
+      "Howard Stern"
+    ],
+    "durationSeconds": 3857,
+    "credits": [
+      {
+        "name": "Red Hot Chili Peppers",
+        "role": "interviewee"
+      },
+      {
+        "name": "Howard Stern",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Howard Stern",
+    "outlet": "The Howard Stern Show"
+  },
+  {
+    "id": "GbUyrM1ECU4",
+    "type": "interview",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Red Hot Chili Peppers: ‘Unlimited Love’ Interview with Anthony Kiedis | Apple Music",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Anthony Kiedis"
+    ],
+    "durationSeconds": 3394,
+    "credits": [
+      {
+        "name": "Anthony Kiedis",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Apple Music"
+  },
+  {
+    "id": "dRlT6CSeMek",
+    "type": "interview",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Red Hot Chili Peppers - Anthony Kiedis - BBC Radio 2 Interview 05/09/2016",
+    "year": 2016,
+    "genre": "Funk",
+    "musicians": [
+      "Anthony Kiedis"
+    ],
+    "durationSeconds": 514,
+    "credits": [
+      {
+        "name": "Anthony Kiedis",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 2"
+  },
+  {
+    "id": "UDMz-Sgxx1k",
+    "type": "interview",
+    "artist": "Earth, Wind & Fire",
+    "title": "Philip Bailey | Earth Wind & Fire | Full Interview & Music | 2019",
+    "year": 2019,
+    "genre": "Funk",
+    "musicians": [
+      "Philip Bailey"
+    ],
+    "durationSeconds": 5921,
+    "credits": [
+      {
+        "name": "Philip Bailey",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "TheLeapTV"
+  },
+  {
+    "id": "_aQwpc-xtbc",
+    "type": "interview",
+    "artist": "Earth, Wind & Fire",
+    "title": "Verdine White (Earth, Wind & Fire) | The Magnificent Others with Billy Corgan",
+    "year": 2026,
+    "genre": "Funk",
+    "musicians": [
+      "Verdine White",
+      "Billy Corgan"
+    ],
+    "durationSeconds": 4970,
+    "credits": [
+      {
+        "name": "Verdine White",
+        "role": "interviewee"
+      },
+      {
+        "name": "Billy Corgan",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Billy Corgan",
+    "outlet": "The Magnificent Others"
+  },
+  {
+    "id": "GeCtiWT2t50",
+    "type": "interview",
+    "artist": "Earth, Wind & Fire",
+    "title": "Earth, Wind & Fire on Timeless Music, Legacy & Generations Grooving Together | #RollinWithRoland",
+    "year": 2026,
+    "genre": "Funk",
+    "musicians": [
+      "Earth, Wind & Fire",
+      "Roland S. Martin"
+    ],
+    "durationSeconds": 4744,
+    "credits": [
+      {
+        "name": "Earth, Wind & Fire",
+        "role": "interviewee"
+      },
+      {
+        "name": "Roland S. Martin",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Roland S. Martin",
+    "outlet": "Rollin' With Roland"
+  },
+  {
+    "id": "WWomC1TugHI",
+    "type": "interview",
+    "artist": "Earth, Wind & Fire",
+    "title": "Earth, Wind & Fire's Philip Bailey On A.I., Using Music To Heal The World, And More",
+    "year": 2023,
+    "genre": "Funk",
+    "musicians": [
+      "Philip Bailey"
+    ],
+    "durationSeconds": 1050,
+    "credits": [
+      {
+        "name": "Philip Bailey",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "AfroTech"
+  },
+  {
+    "id": "7QxtDS8JdL0",
+    "type": "interview",
+    "artist": "Earth, Wind & Fire",
+    "title": "Earth Wind & Fife CBS 1988 interview From Soul to Soul. The Hearth of Message Music",
+    "year": 1988,
+    "genre": "Funk",
+    "musicians": [
+      "Earth, Wind & Fire"
+    ],
+    "durationSeconds": 661,
+    "credits": [
+      {
+        "name": "Earth, Wind & Fire",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CBS"
+  },
+  {
+    "id": "vlDdGmmIh8Q",
+    "type": "interview",
+    "artist": "Earth, Wind & Fire",
+    "title": "Earth Wind & Fire: Our music has been \"a spiritual journey\"",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Earth, Wind & Fire"
+    ],
+    "durationSeconds": 397,
+    "credits": [
+      {
+        "name": "Earth, Wind & Fire",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CBS Mornings"
+  },
+  {
+    "id": "e5_7i9-lFpA",
+    "type": "interview",
+    "artist": "Earth, Wind & Fire",
+    "title": "Earth Wind & Fire Interview 1993 (The Arsenio Hall Show)",
+    "year": 1993,
+    "genre": "Funk",
+    "musicians": [
+      "Earth, Wind & Fire"
+    ],
+    "durationSeconds": 317,
+    "credits": [
+      {
+        "name": "Earth, Wind & Fire",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Arsenio Hall Show"
+  },
+  {
+    "id": "uMf83ofyFUk",
+    "type": "interview",
+    "artist": "Earth, Wind & Fire",
+    "title": "Maurice White interview - Fantasy / Earth, Wind & Fire",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Maurice White"
+    ],
+    "durationSeconds": 2563,
+    "credits": [
+      {
+        "name": "Maurice White",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Maurice White interview associated with Fantasy / Earth, Wind & Fire."
+  },
+  {
+    "id": "gixYk2qE8qk",
+    "type": "interview",
+    "artist": "Earth, Wind & Fire",
+    "title": "Earth, Wind & Fire’s 1970s “Denver Connection” interview.",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Earth, Wind & Fire"
+    ],
+    "durationSeconds": 571,
+    "credits": [
+      {
+        "name": "Earth, Wind & Fire",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Archival interview on Earth, Wind & Fire's 1970s Denver connection."
+  },
+  {
+    "id": "O4k4sy1-bII",
+    "type": "interview",
+    "artist": "Earth, Wind & Fire",
+    "title": "Earth, Wind & Fire On The Longevity Of Their Music Legacy & Maurice White’s Impact",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Maurice White"
+    ],
+    "durationSeconds": 382,
+    "credits": [
+      {
+        "name": "Maurice White",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Breakfast Club"
+  },
+  {
+    "id": "OIRsOXVO2TI",
+    "type": "interview",
+    "artist": "Earth, Wind & Fire",
+    "title": "EBONY Moment - Maurice White of Earth, Wind, and Fire",
+    "year": 2000,
+    "genre": "Funk",
+    "musicians": [
+      "Maurice White",
+      "Michael Parkinson"
+    ],
+    "durationSeconds": 264,
+    "credits": [
+      {
+        "name": "Maurice White",
+        "role": "interviewee"
+      },
+      {
+        "name": "Michael Parkinson",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Michael Parkinson",
+    "outlet": "Ebony",
+    "notes": "Ebony Moment interview with Maurice White."
+  },
+  {
+    "id": "SmizvyIw2YY",
+    "type": "interview",
+    "artist": "Bob Marley & The Wailers",
+    "title": "Bob Marley Interview with Earl Chin from (Rockers TV)/Cut version - September 2, 1980",
+    "year": 1980,
+    "genre": "Reggae",
+    "musicians": [
+      "Bob Marley",
+      "Earl Chin"
+    ],
+    "durationSeconds": 3458,
+    "credits": [
+      {
+        "name": "Bob Marley",
+        "role": "interviewee"
+      },
+      {
+        "name": "Earl Chin",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Earl Chin",
+    "outlet": "Rockers TV",
+    "notes": "2 September 1980; cut version of the Earl Chin / Rockers TV interview."
+  },
+  {
+    "id": "WFOwhMCpy-w",
+    "type": "interview",
+    "artist": "Bob Marley & The Wailers",
+    "title": "Bob Marley: 12/11/1979 @ Atlanta, Georgia *Interview with Gary Anderson for CCTV*",
+    "year": 1979,
+    "genre": "Reggae",
+    "musicians": [
+      "Bob Marley",
+      "Gary Anderson"
+    ],
+    "durationSeconds": 965,
+    "credits": [
+      {
+        "name": "Bob Marley",
+        "role": "interviewee"
+      },
+      {
+        "name": "Gary Anderson",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Gary Anderson",
+    "outlet": "CCTV",
+    "notes": "Atlanta, 11 December 1979, interview with Gary Anderson for CCTV."
+  },
+  {
+    "id": "zstEAjhH0yc",
+    "type": "interview",
+    "artist": "Bob Marley & The Wailers",
+    "title": "Bob Marley interviewed by Bruce Morrow (NBC News), NYC, March 16, 1978",
+    "year": 1978,
+    "genre": "Reggae",
+    "musicians": [
+      "Bob Marley",
+      "Bruce Morrow"
+    ],
+    "durationSeconds": 226,
+    "credits": [
+      {
+        "name": "Bob Marley",
+        "role": "interviewee"
+      },
+      {
+        "name": "Bruce Morrow",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Bruce Morrow",
+    "outlet": "NBC News",
+    "notes": "New York City, 16 March 1978."
+  },
+  {
+    "id": "5jb6uWo6SY8",
+    "type": "interview",
+    "artist": "Bob Marley & The Wailers",
+    "title": "Bob Marley and The Wailers - Interview UCLA 1979",
+    "year": 1979,
+    "genre": "Reggae",
+    "musicians": [
+      "Bob Marley"
+    ],
+    "durationSeconds": 2261,
+    "credits": [
+      {
+        "name": "Bob Marley",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "UCLA interview, 1979."
+  },
+  {
+    "id": "E7bSqj_3Q5g",
+    "type": "interview",
+    "artist": "Bob Marley & The Wailers",
+    "title": "Bob Marley Interview",
+    "year": 0,
+    "genre": "Reggae",
+    "musicians": [
+      "Bob Marley",
+      "Gil Noble"
+    ],
+    "durationSeconds": 1587,
+    "credits": [
+      {
+        "name": "Bob Marley",
+        "role": "interviewee"
+      },
+      {
+        "name": "Gil Noble",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Gil Noble",
+    "notes": "Interviewed by Gil Noble."
+  },
+  {
+    "id": "ld_UuPVPWNQ",
+    "type": "interview",
+    "artist": "Bob Marley & The Wailers",
+    "title": "Bob Marley Interview (1979)",
+    "year": 1979,
+    "genre": "Reggae",
+    "musicians": [
+      "Bob Marley"
+    ],
+    "durationSeconds": 730,
+    "credits": [
+      {
+        "name": "Bob Marley",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "1979 interview about the Survival album."
+  },
+  {
+    "id": "J5lhAx3DLos",
+    "type": "interview",
+    "artist": "Bob Marley & The Wailers",
+    "title": "Bob Marley New Zealand Interview (1979) HD",
+    "year": 1979,
+    "genre": "Reggae",
+    "musicians": [
+      "Bob Marley"
+    ],
+    "durationSeconds": 377,
+    "credits": [
+      {
+        "name": "Bob Marley",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "New Zealand interview, 1979."
+  },
+  {
+    "id": "dJEv59OloZU",
+    "type": "interview",
+    "artist": "Bob Marley & The Wailers",
+    "title": "Bob Marley interview on 60 Minutes - Original Unedited",
+    "year": 1980,
+    "genre": "Reggae",
+    "musicians": [
+      "Bob Marley"
+    ],
+    "durationSeconds": 773,
+    "credits": [
+      {
+        "name": "Bob Marley",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "60 Minutes",
+    "notes": "Original unedited 60 Minutes interview."
+  },
+  {
+    "id": "OUtEX1noBU0",
+    "type": "interview",
+    "artist": "Bob Marley & The Wailers",
+    "title": "Bob Marley - Interview: 60 Minutes with George Negus '79 (Footage)",
+    "year": 1979,
+    "genre": "Reggae",
+    "musicians": [
+      "Bob Marley"
+    ],
+    "durationSeconds": 564,
+    "credits": [
+      {
+        "name": "Bob Marley",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "60 Minutes",
+    "notes": "George Negus, 1979."
+  },
+  {
+    "id": "oBCIXAHwohA",
+    "type": "interview",
+    "artist": "Billy Cobham",
+    "title": "BILLY COBHAM INTERVIEW | Miles, Mahavishnu and Peter Gabriel!",
+    "year": 2023,
+    "genre": "Fusion",
+    "musicians": [
+      "Billy Cobham"
+    ],
+    "durationSeconds": 4045,
+    "credits": [
+      {
+        "name": "Billy Cobham",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Andy Edwards"
+  },
+  {
+    "id": "oyRQkxBPEV8",
+    "type": "interview",
+    "artist": "Billy Cobham",
+    "title": "Billy Cobham | Drummer for Miles Davis, Mahavishnu Orchestra | Full Interview",
+    "year": 2023,
+    "genre": "Fusion",
+    "musicians": [
+      "Billy Cobham"
+    ],
+    "durationSeconds": 3778,
+    "credits": [
+      {
+        "name": "Billy Cobham",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Vibe Chamber",
+    "notes": "Streamed live 4 August 2023."
+  },
+  {
+    "id": "us6xWgGz1fw",
+    "type": "interview",
+    "artist": "Billy Cobham",
+    "title": "Dr. Jazz Talks #613: Samo Šalamon & Billy Cobham interview",
+    "year": 2025,
+    "genre": "Fusion",
+    "musicians": [
+      "Billy Cobham",
+      "Samo Šalamon"
+    ],
+    "durationSeconds": 3363,
+    "credits": [
+      {
+        "name": "Billy Cobham",
+        "role": "interviewee"
+      },
+      {
+        "name": "Samo Šalamon",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Samo Šalamon",
+    "outlet": "Dr. Jazz Talks"
+  },
+  {
+    "id": "SfWlbOOBFXk",
+    "type": "interview",
+    "artist": "Billy Cobham",
+    "title": "Billy Cobham talks about the Miles Davis Jack Johnson and Big Fun sessions",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Billy Cobham"
+    ],
+    "durationSeconds": 263,
+    "credits": [
+      {
+        "name": "Billy Cobham",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "EmnZblAl06Y",
+    "type": "interview",
+    "artist": "Peter Tosh",
+    "title": "Peter Tosh - Interview with Earl Chin for Rockers TV [1979]",
+    "year": 1979,
+    "genre": "Reggae",
+    "musicians": [
+      "Peter Tosh",
+      "Earl Chin"
+    ],
+    "durationSeconds": 736,
+    "credits": [
+      {
+        "name": "Peter Tosh",
+        "role": "interviewee"
+      },
+      {
+        "name": "Earl Chin",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Earl Chin",
+    "outlet": "Rockers TV"
+  },
+  {
+    "id": "91fcHxlWQTM",
+    "type": "interview",
+    "artist": "Peter Tosh",
+    "title": "peter tosh interview with daniel calderon rogers tv 1979",
+    "year": 1979,
+    "genre": "Reggae",
+    "musicians": [
+      "Peter Tosh",
+      "Daniel Calderon"
+    ],
+    "durationSeconds": 619,
+    "credits": [
+      {
+        "name": "Peter Tosh",
+        "role": "interviewee"
+      },
+      {
+        "name": "Daniel Calderon",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Daniel Calderon",
+    "outlet": "Rogers TV"
+  },
+  {
+    "id": "qlQ328FAXHg",
+    "type": "interview",
+    "artist": "Peter Tosh",
+    "title": "Peter Tosh Interview 1983 (FULL)",
+    "year": 1983,
+    "genre": "Reggae",
+    "musicians": [
+      "Peter Tosh",
+      "Roger Steffens",
+      "Hank Holmes"
+    ],
+    "durationSeconds": 3853,
+    "credits": [
+      {
+        "name": "Peter Tosh",
+        "role": "interviewee"
+      },
+      {
+        "name": "Roger Steffens",
+        "role": "interviewer"
+      },
+      {
+        "name": "Hank Holmes",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Roger Steffens, Hank Holmes",
+    "notes": "Hollywood, 1983, interviewed by Roger Steffens and Hank Holmes."
+  },
+  {
+    "id": "v5_SxH55Ndo",
+    "type": "interview",
+    "artist": "Peter Tosh",
+    "title": "Peter Tosh: 1981/08/19 @ Los Angeles, CA *interview*",
+    "year": 1981,
+    "genre": "Reggae",
+    "musicians": [
+      "Peter Tosh"
+    ],
+    "durationSeconds": 1715,
+    "credits": [
+      {
+        "name": "Peter Tosh",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Los Angeles, 19 August 1981."
+  },
+  {
+    "id": "SFKKVQ1HSaM",
+    "type": "interview",
+    "artist": "Peter Tosh",
+    "title": "Peter Tosh - 1983 Interview Manhattan for New Jersey TV Station RARE",
+    "year": 1983,
+    "genre": "Reggae",
+    "musicians": [
+      "Peter Tosh"
+    ],
+    "durationSeconds": 587,
+    "credits": [
+      {
+        "name": "Peter Tosh",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Manhattan interview for a New Jersey TV station, 1983."
+  },
+  {
+    "id": "KG2YQHZ3xIM",
+    "type": "interview",
+    "artist": "Seun Kuti",
+    "title": "Seun Kuti on Fela Kuti, Elon Musk, Michael Jackson, Flea, Politics & Music (Full Interview)",
+    "year": 2026,
+    "genre": "Afrobeat",
+    "musicians": [
+      "Seun Kuti"
+    ],
+    "durationSeconds": 2996,
+    "credits": [
+      {
+        "name": "Seun Kuti",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Snow Milk"
+  },
+  {
+    "id": "9wsMeqH2IB8",
+    "type": "interview",
+    "artist": "Zakir Hussain",
+    "title": "Zakir Hussain - Kronos' Fifty for the Future Composer Interview",
+    "year": 0,
+    "genre": "Indian Classical",
+    "musicians": [
+      "Zakir Hussain"
+    ],
+    "durationSeconds": 1713,
+    "credits": [
+      {
+        "name": "Zakir Hussain",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "Mq6h6nCDZBw",
+    "type": "interview",
+    "artist": "Zakir Hussain",
+    "title": "Rendezvous with Simi Garewal - Zakir Hussain & Antonia (1998)",
+    "year": 1998,
+    "genre": "Indian Classical",
+    "musicians": [
+      "Zakir Hussain"
+    ],
+    "durationSeconds": 1394,
+    "credits": [
+      {
+        "name": "Zakir Hussain",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "NAVg8BKE4lA",
+    "type": "interview",
+    "artist": "Caravan",
+    "title": "Interview with Caravan – Who do you think we are?",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Caravan"
+    ],
+    "durationSeconds": 4805,
+    "credits": [
+      {
+        "name": "Caravan",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "X5vJijPczsE",
+    "type": "interview",
+    "artist": "Whitesnake",
+    "title": "Whitesnake: The Raw & Uncut Interview - 1989",
+    "year": 1989,
+    "genre": "Metal",
+    "musicians": [
+      "Whitesnake"
+    ],
+    "durationSeconds": 1171,
+    "credits": [
+      {
+        "name": "Whitesnake",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Raw & Uncut"
+  },
+  {
+    "id": "ChyenxICqV4",
+    "type": "interview",
+    "artist": "Victor Wooten",
+    "title": "Victor Wooten on Developing Your Musicianship",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Victor Wooten"
+    ],
+    "durationSeconds": 2013,
+    "credits": [
+      {
+        "name": "Victor Wooten",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Sweetwater"
+  },
+  {
+    "id": "a8yvtl-BP8o",
+    "type": "interview",
+    "artist": "Joe Bonamassa",
+    "title": "Joe Bonamassa & Andy Fuchs on tone, speakers, blown ears & Joe's Fuchs signature amp",
+    "year": 0,
+    "genre": "Blues",
+    "musicians": [
+      "Joe Bonamassa"
+    ],
+    "durationSeconds": 2753,
+    "credits": [
+      {
+        "name": "Joe Bonamassa",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Guitar World"
+  },
+  {
+    "id": "rCSJb9Pv2qc",
+    "type": "interview",
+    "artist": "Gary Clark Jr.",
+    "title": "Gary and Eve: How Gary Clark Jr. Learned to Play",
+    "year": 0,
+    "genre": "Blues",
+    "musicians": [
+      "Gary Clark Jr."
+    ],
+    "durationSeconds": 636,
+    "credits": [
+      {
+        "name": "Gary Clark Jr.",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "WGTxVLInjG4",
+    "type": "interview",
+    "artist": "Bonnie Raitt",
+    "title": "Bonnie Raitt: ‘Just Like That,’ Albums That Shaped Her, and Embracing Uncertainty | Apple Music",
+    "year": 0,
+    "genre": "Blues",
+    "musicians": [
+      "Bonnie Raitt"
+    ],
+    "durationSeconds": 3610,
+    "credits": [
+      {
+        "name": "Bonnie Raitt",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Apple Music"
+  },
+  {
+    "id": "73CR21-2Q88",
+    "type": "interview",
+    "artist": "Bonnie Raitt",
+    "title": "Charlie Rose interviews Bonnie Raitt",
+    "year": 2016,
+    "genre": "Blues",
+    "musicians": [
+      "Bonnie Raitt",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 1303,
+    "credits": [
+      {
+        "name": "Bonnie Raitt",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "mpOer2cUrXA",
+    "type": "interview",
+    "artist": "Bonnie Raitt",
+    "title": "Bonnie Raitt - career, struggles and success - Later with Bob Costas 9/4/89",
+    "year": 1989,
+    "genre": "Blues",
+    "musicians": [
+      "Bonnie Raitt",
+      "Bob Costas"
+    ],
+    "durationSeconds": 1248,
+    "credits": [
+      {
+        "name": "Bonnie Raitt",
+        "role": "interviewee"
+      },
+      {
+        "name": "Bob Costas",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Bob Costas",
+    "outlet": "Later with Bob Costas"
+  },
+  {
+    "id": "t1-eiicsugA",
+    "type": "interview",
+    "artist": "Bonnie Raitt",
+    "title": "The First Time: Bonnie Raitt & Brandi Carlile",
+    "year": 0,
+    "genre": "Blues",
+    "musicians": [
+      "Bonnie Raitt"
+    ],
+    "durationSeconds": 355,
+    "credits": [
+      {
+        "name": "Bonnie Raitt",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "gzJLlvQtTxY",
+    "type": "interview",
+    "artist": "Creedence Clearwater Revival",
+    "title": "Extended interview: John Fogerty",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "John Fogerty"
+    ],
+    "durationSeconds": 1304,
+    "credits": [
+      {
+        "name": "John Fogerty",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CBS Sunday Morning"
+  },
+  {
+    "id": "mQuMdDRlBKM",
+    "type": "interview",
+    "artist": "Creedence Clearwater Revival",
+    "title": "Creedence Clearwater Revival- Interview 1972 [Reelin' In The Years Archive]",
+    "year": 1972,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Creedence Clearwater Revival"
+    ],
+    "durationSeconds": 524,
+    "credits": [
+      {
+        "name": "Creedence Clearwater Revival",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reelin' In The Years"
+  },
+  {
+    "id": "vtU8dx5O2Sk",
+    "type": "interview",
+    "artist": "Creedence Clearwater Revival",
+    "title": "John Fogerty Talks About Why Creedence Clearwater Revival Broke Up",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "John Fogerty"
+    ],
+    "durationSeconds": 516,
+    "credits": [
+      {
+        "name": "John Fogerty",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "AXS TV"
+  },
+  {
+    "id": "EeF3RUo5axU",
+    "type": "interview",
+    "artist": "Creedence Clearwater Revival",
+    "title": "John Fogerty Exposes CCR Betrayals & Lawsuits in Raw Interview",
+    "year": 2015,
+    "genre": "Classic Rock",
+    "musicians": [
+      "John Fogerty"
+    ],
+    "durationSeconds": 2302,
+    "credits": [
+      {
+        "name": "John Fogerty",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "m5HXUSgJV_I",
+    "type": "interview",
+    "artist": "Parliament-Funkadelic",
+    "title": "Bernie Worrell on Parliament-Funkadelic, Synthesizers and P-Funk | Red Bull Music Academy",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Bernie Worrell"
+    ],
+    "durationSeconds": 8161,
+    "credits": [
+      {
+        "name": "Bernie Worrell",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Red Bull Music Academy"
+  },
+  {
+    "id": "A7MlcvfcGW8",
+    "type": "interview",
+    "artist": "George Clinton",
+    "title": "George Clinton on a Life Dedicated to Funk | Red Bull Music Academy",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "George Clinton"
+    ],
+    "durationSeconds": 4452,
+    "credits": [
+      {
+        "name": "George Clinton",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Red Bull Music Academy"
+  },
+  {
+    "id": "M17t4RUeWVE",
+    "type": "interview",
+    "artist": "George Clinton",
+    "title": "George Clinton On His Encounter With Aliens, The Rise Of A.I. & Virtual Reality + More",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "George Clinton"
+    ],
+    "durationSeconds": 397,
+    "credits": [
+      {
+        "name": "George Clinton",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Breakfast Club"
+  },
+  {
+    "id": "DzDjt1RdDeI",
+    "type": "interview",
+    "artist": "Tower of Power",
+    "title": "Interview - Tower of Power Look Back at The Early Years of the Band",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Tower of Power"
+    ],
+    "durationSeconds": 581,
+    "credits": [
+      {
+        "name": "Tower of Power",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "iHeartRadio"
+  },
+  {
+    "id": "rTR5CdeyAvU",
+    "type": "interview",
+    "artist": "Duke Ellington",
+    "title": "Parkinson - Duke Ellington (BBC)",
+    "year": 0,
+    "genre": "Jazz",
+    "musicians": [
+      "Duke Ellington",
+      "Michael Parkinson"
+    ],
+    "durationSeconds": 3723,
+    "credits": [
+      {
+        "name": "Duke Ellington",
+        "role": "interviewee"
+      },
+      {
+        "name": "Michael Parkinson",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Michael Parkinson",
+    "outlet": "Parkinson"
+  },
+  {
+    "id": "J4VWEwUp7qU",
+    "type": "interview",
+    "artist": "Duke Ellington",
+    "title": "Jazz Star Duke Ellington Discusses His Sleeping Habits | The Dick Cavett Show",
+    "year": 1971,
+    "genre": "Jazz",
+    "musicians": [
+      "Duke Ellington",
+      "Dick Cavett"
+    ],
+    "durationSeconds": 505,
+    "credits": [
+      {
+        "name": "Duke Ellington",
+        "role": "interviewee"
+      },
+      {
+        "name": "Dick Cavett",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Dick Cavett",
+    "outlet": "The Dick Cavett Show"
+  },
+  {
+    "id": "6k-2cbC5gEA",
+    "type": "interview",
+    "artist": "Ginger Baker",
+    "title": "Rare 1978 interview Ginger Baker (Cream, Blind Faith, Hawkwind)",
+    "year": 1978,
+    "genre": "Jazz",
+    "musicians": [
+      "Ginger Baker"
+    ],
+    "durationSeconds": 457,
+    "credits": [
+      {
+        "name": "Ginger Baker",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "1978 interview; Baker discusses Cream, Blind Faith and Hawkwind."
+  },
+  {
+    "id": "XbY_OvnbsSc",
+    "type": "interview",
+    "artist": "Eric Clapton",
+    "title": "Eric Clapton Interview London 1998",
+    "year": 1998,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Eric Clapton"
+    ],
+    "durationSeconds": 559,
+    "credits": [
+      {
+        "name": "Eric Clapton",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "60 Minutes"
+  },
+  {
+    "id": "2zBEHf525jU",
+    "type": "interview",
+    "artist": "Tony Levin",
+    "title": "Tony Levin on Robert Fripp's Photo Policy",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Tony Levin"
+    ],
+    "durationSeconds": 699,
+    "credits": [
+      {
+        "name": "Tony Levin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Make Weird Music"
+  },
+  {
+    "id": "C4zn0kW2XZk",
+    "type": "interview",
+    "artist": "Terry Bozzio",
+    "title": "Mike Portnoy & Terry Bozzio Talk About Frank Zappa",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Terry Bozzio",
+      "Mike Portnoy"
+    ],
+    "durationSeconds": 191,
+    "credits": [
+      {
+        "name": "Terry Bozzio",
+        "role": "interviewee"
+      },
+      {
+        "name": "Mike Portnoy",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Drum Channel"
+  },
+  {
+    "id": "KAPsKv1Ed30",
+    "type": "interview",
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin Reflect on Their Legacy Ahead of Kennedy Center Honors l Charlie Rose Rewind",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Led Zeppelin",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 1212,
+    "credits": [
+      {
+        "name": "Led Zeppelin",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "1wzK80zvBec",
+    "type": "interview",
+    "artist": "Jeff Beck",
+    "title": "Jeff Beck interview in July 1969",
+    "year": 1969,
+    "genre": "Fusion",
+    "musicians": [
+      "Jeff Beck"
+    ],
+    "durationSeconds": 1811,
+    "credits": [
+      {
+        "name": "Jeff Beck",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "4HEGdL_BnyA",
+    "type": "interview",
+    "artist": "Jeff Beck",
+    "title": "Jeff Beck interview in early 1973",
+    "year": 1973,
+    "genre": "Fusion",
+    "musicians": [
+      "Jeff Beck"
+    ],
+    "durationSeconds": 1316,
+    "credits": [
+      {
+        "name": "Jeff Beck",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "kyhf7mzd5sY",
+    "type": "interview",
+    "artist": "Metallica",
+    "title": "Charlie Rose (Napster 2000) - Chuck D and Lars Ulrich (Upgraded Audio).",
+    "year": 2000,
+    "genre": "Metal",
+    "musicians": [
+      "Lars Ulrich",
+      "Chuck D",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 1388,
+    "credits": [
+      {
+        "name": "Lars Ulrich",
+        "role": "interviewee"
+      },
+      {
+        "name": "Chuck D",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "V5e6Eh4Jjwk",
+    "type": "interview",
+    "artist": "Jaco Pastorius",
+    "title": "Jaco Pastorius Interview WLRN",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Jaco Pastorius",
+      "Ed Bell"
+    ],
+    "durationSeconds": 2235,
+    "credits": [
+      {
+        "name": "Jaco Pastorius",
+        "role": "interviewee"
+      },
+      {
+        "name": "Ed Bell",
+        "role": "interviewer"
+      }
+    ],
+    "outlet": "WLRN",
+    "notes": "Archival 1980s WLRN interview with Ed Bell; interview starts at 23:15. Year not specific enough to set."
+  },
+  {
+    "id": "YfDVF33wlIw",
+    "type": "interview",
+    "artist": "Pearl Jam",
+    "title": "Eddie Vedder: 'Earthling' and Working with Chad Smith, Josh Klinghoffer & Andrew Watt | Apple Music",
+    "year": 0,
+    "genre": "Grunge",
+    "musicians": [
+      "Eddie Vedder",
+      "Chad Smith"
+    ],
+    "durationSeconds": 4459,
+    "credits": [
+      {
+        "name": "Eddie Vedder",
+        "role": "interviewee"
+      },
+      {
+        "name": "Chad Smith",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Apple Music"
+  },
+  {
+    "id": "IQyUtUvpP2k",
+    "type": "interview",
+    "artist": "Happy Mondays",
+    "title": "Shaun Ryder",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Shaun Ryder"
+    ],
+    "durationSeconds": 3206,
+    "credits": [
+      {
+        "name": "Shaun Ryder",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "Tpq1TDmnGz0",
+    "type": "interview",
+    "artist": "Janis Joplin",
+    "title": "Janis Joplin’s Final Interview: 2 Months Before Her Tragic Passing | The Dick Cavett Show",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Janis Joplin",
+      "Dick Cavett"
+    ],
+    "durationSeconds": 532,
+    "credits": [
+      {
+        "name": "Janis Joplin",
+        "role": "interviewee"
+      },
+      {
+        "name": "Dick Cavett",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Dick Cavett",
+    "outlet": "The Dick Cavett Show"
+  },
+  {
+    "id": "-nlR_WiKvBo",
+    "type": "interview",
+    "artist": "ZZ Top",
+    "title": "Billy Gibbons on His Friendship with Jimi Hendrix and Prince",
+    "year": 0,
+    "genre": "Blues",
+    "musicians": [
+      "Billy Gibbons"
+    ],
+    "durationSeconds": 481,
+    "credits": [
+      {
+        "name": "Billy Gibbons",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "AXS TV",
+    "notes": "Billy Gibbons on friendships with Hendrix and Prince; previously misfiled under Jimi Hendrix."
+  },
+  {
+    "id": "NeGe_pvCwX4",
+    "type": "interview",
+    "artist": "Tom Petty",
+    "title": "Tom Petty- RARE- PRO-Interview & Live in  Asbury Park, NJ (1992)  4K HD",
+    "year": 1992,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Tom Petty"
+    ],
+    "durationSeconds": 2211,
+    "credits": [
+      {
+        "name": "Tom Petty",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "j_wCceYdsts",
+    "type": "interview",
+    "artist": "George Clinton",
+    "title": "George Clinton on His Legacy, Discovering Bootsy Collins, and More | The Rolling Stone Interview",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "George Clinton"
+    ],
+    "durationSeconds": 2795,
+    "credits": [
+      {
+        "name": "George Clinton",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone",
+    "notes": "Rolling Stone interview with George Clinton; previously misfiled under Bootsy Collins."
+  },
+  {
+    "id": "uX_P8Nu5dbY",
+    "type": "interview",
+    "artist": "Eddie Palmieri",
+    "title": "Eddie Palmieri sobre grabar con Bad Bunny: “Depende de él, yo estoy listo para lo que sea”",
+    "year": 0,
+    "genre": "Latin/Salsa",
+    "musicians": [
+      "Eddie Palmieri"
+    ],
+    "durationSeconds": 2318,
+    "credits": [
+      {
+        "name": "Eddie Palmieri",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CNN"
+  },
+  {
+    "id": "DgmSETjTogo",
+    "type": "interview",
+    "artist": "Joan Baez",
+    "title": "Joan Baez - Interview - 11/4/1984 - Rock Influence (Official)",
+    "year": 1984,
+    "genre": "Folk",
+    "musicians": [
+      "Joan Baez"
+    ],
+    "durationSeconds": 1354,
+    "credits": [
+      {
+        "name": "Joan Baez",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "0aY2WyqHKPU",
+    "type": "interview",
+    "artist": "Joan Baez",
+    "title": "Joan Baez, revealing secrets",
+    "year": 0,
+    "genre": "Folk",
+    "musicians": [
+      "Joan Baez"
+    ],
+    "durationSeconds": 487,
+    "credits": [
+      {
+        "name": "Joan Baez",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CBS Sunday Morning"
+  },
+  {
+    "id": "2gmsRtD-s3A",
+    "type": "interview",
+    "artist": "Joan Baez",
+    "title": "Joan Baez - Interview (Sunday, CBC TV, 1967).flv",
+    "year": 1967,
+    "genre": "Folk",
+    "musicians": [
+      "Joan Baez"
+    ],
+    "durationSeconds": 300,
+    "credits": [
+      {
+        "name": "Joan Baez",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CBC"
+  },
+  {
+    "id": "3fkSCt1R2Vw",
+    "type": "interview",
+    "artist": "Joan Baez",
+    "title": "Interview with Joan Baez at Kalvøya Norway 1978",
+    "year": 1978,
+    "genre": "Folk",
+    "musicians": [
+      "Joan Baez"
+    ],
+    "durationSeconds": 466,
+    "credits": [
+      {
+        "name": "Joan Baez",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "wZXEZ3iTuvM",
+    "type": "interview",
+    "artist": "Joan Baez",
+    "title": "Joan Baez interview in San Diego 1965",
+    "year": 1965,
+    "genre": "Folk",
+    "musicians": [
+      "Joan Baez"
+    ],
+    "durationSeconds": 247,
+    "credits": [
+      {
+        "name": "Joan Baez",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "5FnA6dDLXS0",
+    "type": "interview",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Flea | Questlove Show",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Flea",
+      "Questlove"
+    ],
+    "durationSeconds": 5206,
+    "credits": [
+      {
+        "name": "Flea",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "iHeartRadio",
+    "notes": "Flea on The Questlove Show; previously misfiled under D'Angelo."
+  },
+  {
+    "id": "wZ_mtgJbV7w",
+    "type": "interview",
+    "artist": "Beastie Boys",
+    "title": "Charlie Rose - A conversation with Beastie Boys (2007)",
+    "year": 2007,
+    "genre": "Rap/Hip-Hop",
+    "musicians": [
+      "Beastie Boys",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 1834,
+    "credits": [
+      {
+        "name": "Beastie Boys",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "UgfjBGhXT0E",
+    "type": "interview",
+    "artist": "Bunny Wailer",
+    "title": "Bunny Wailer meets David Rodigan - Blackheart Man",
+    "year": 0,
+    "genre": "Reggae",
+    "musicians": [
+      "Bunny Wailer"
+    ],
+    "durationSeconds": 936,
+    "credits": [
+      {
+        "name": "Bunny Wailer",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 1"
+  },
+  {
+    "id": "NbovcK1HWfg",
+    "type": "interview",
+    "artist": "Merle Haggard",
+    "title": "Merle Haggard on Watching Johnny Cash Perform in Prison",
+    "year": 0,
+    "genre": "Country",
+    "musicians": [
+      "Merle Haggard"
+    ],
+    "durationSeconds": 495,
+    "credits": [
+      {
+        "name": "Merle Haggard",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "AXS TV"
+  },
+  {
+    "id": "qaptkrzgTQo",
+    "type": "interview",
+    "artist": "ZZ Top",
+    "title": "ZZ Top's Billy Gibbons Talks About Texas Culture",
+    "year": 0,
+    "genre": "Blues",
+    "musicians": [
+      "Billy Gibbons"
+    ],
+    "durationSeconds": 491,
+    "credits": [
+      {
+        "name": "Billy Gibbons",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "AXS TV",
+    "notes": "Billy Gibbons talks about Texas; previously misfiled under the band Culture."
+  },
+  {
+    "id": "4YDr2WPwO60",
+    "type": "interview",
+    "artist": "Eminem",
+    "title": "Full Interview: Eminem about Kamikaze, MGK's diss, Joe Budden, Tyler the Creator and more (2018)",
+    "year": 2018,
+    "genre": "Rap/Hip-Hop",
+    "musicians": [
+      "Eminem"
+    ],
+    "durationSeconds": 3352,
+    "credits": [
+      {
+        "name": "Eminem",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "YMWS9WI9Rmg",
+    "type": "interview",
+    "artist": "Tanya Tucker",
+    "title": "Tanya Tucker  (Dan Rather - The Big Interview)  2016",
+    "year": 2016,
+    "genre": "Country",
+    "musicians": [
+      "Tanya Tucker"
+    ],
+    "durationSeconds": 3165,
+    "credits": [
+      {
+        "name": "Tanya Tucker",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "chvav5-hO0A",
+    "type": "interview",
+    "artist": "Israel Vibration",
+    "title": "Israel Vibration - Interview & Freestyle for Party Time Reggae Radio - 15 JUIN 2015",
+    "year": 2015,
+    "genre": "Reggae",
+    "musicians": [
+      "Israel Vibration"
+    ],
+    "durationSeconds": 1164,
+    "credits": [
+      {
+        "name": "Israel Vibration",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "uw3c_V8yW8k",
+    "type": "interview",
+    "artist": "Robert Wyatt",
+    "title": "Robert Wyatt and Elvis Costello `Loose Talk' May 1983",
+    "year": 1983,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Robert Wyatt",
+      "Elvis Costello"
+    ],
+    "durationSeconds": 637,
+    "credits": [
+      {
+        "name": "Robert Wyatt",
+        "role": "interviewee"
+      },
+      {
+        "name": "Elvis Costello",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Robert Wyatt and Elvis Costello on Loose Talk, May 1983; previously filed only under Costello."
+  },
+  {
+    "id": "DS2ZADpB0Fk",
+    "type": "interview",
+    "artist": "Public Enemy",
+    "title": "Chuck D (Public Enemy) Interview 1992 Jonathan Ross Show Channel 4",
+    "year": 1992,
+    "genre": "Rap/Hip-Hop",
+    "musicians": [
+      "Chuck D"
+    ],
+    "durationSeconds": 634,
+    "credits": [
+      {
+        "name": "Chuck D",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "JkP7yZ9HYLU",
+    "type": "interview",
+    "artist": "Lee \"Scratch\" Perry",
+    "title": "Lee \"Scratch\" Perry: 'I gave Bob Marley reggae as a present'",
+    "year": 0,
+    "genre": "Reggae",
+    "musicians": [
+      "Lee \"Scratch\" Perry"
+    ],
+    "durationSeconds": 454,
+    "credits": [
+      {
+        "name": "Lee \"Scratch\" Perry",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "djiX_3QDQJo",
+    "type": "interview",
+    "artist": "Earth, Wind & Fire",
+    "title": "\"TRUTH IN RHYTHM\" - Philip Bailey (Earth, Wind and Fire)",
+    "year": 2019,
+    "genre": "Funk",
+    "musicians": [
+      "Philip Bailey",
+      "Scott Goldfine"
+    ],
+    "durationSeconds": 2644,
+    "credits": [
+      {
+        "name": "Philip Bailey",
+        "role": "interviewee"
+      },
+      {
+        "name": "Scott Goldfine",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Scott Goldfine",
+    "outlet": "Truth in Rhythm",
+    "notes": "Truth in Rhythm episode 100, hosted by Scott Goldfine."
+  },
+  {
+    "id": "EL18xRpwUoI",
+    "type": "interview",
+    "artist": "John McLaughlin",
+    "title": "Sounds: Donnie interviewing John McLaughlin and Paco De Lucia (1983)",
+    "year": 1982,
+    "genre": "Fusion",
+    "musicians": [
+      "John McLaughlin",
+      "Paco de Lucía",
+      "Donnie Sutherland"
+    ],
+    "durationSeconds": 433,
+    "credits": [
+      {
+        "name": "John McLaughlin",
+        "role": "interviewee"
+      },
+      {
+        "name": "Paco de Lucía",
+        "role": "interviewee"
+      },
+      {
+        "name": "Donnie Sutherland",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Donnie Sutherland",
+    "outlet": "Sounds",
+    "notes": "Donnie Sutherland interviews John McLaughlin and Paco de Lucía for the Australian TV show Sounds (Seven Network). Title says 1983; uploader description dates it to 1982."
+  },
+  {
+    "id": "WxXUEeFWRuk",
+    "type": "interview",
+    "artist": "Johnny Cash",
+    "title": "Johnny Cash - On The Record (1997 TV Interview)",
+    "year": 1997,
+    "genre": "Country",
+    "musicians": [
+      "Johnny Cash"
+    ],
+    "durationSeconds": 2655,
+    "credits": [
+      {
+        "name": "Johnny Cash",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "On The Record",
+    "notes": "On The Record TV interview, 22 October 1997."
+  },
+  {
+    "id": "BUH-FbhS-A4",
+    "type": "interview",
+    "artist": "Keith Jarrett",
+    "title": "Keith Jarrett - 1979? Interview and solo piano at home",
+    "year": 1979,
+    "genre": "Jazz",
+    "musicians": [
+      "Keith Jarrett"
+    ],
+    "durationSeconds": 1254,
+    "credits": [
+      {
+        "name": "Keith Jarrett",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Home interview and solo piano; year is approximate (source label 1979?)."
+  },
+  {
+    "id": "oGVubCer2c4",
+    "type": "interview",
+    "artist": "Marcus Miller",
+    "title": "Marcus Miller on Miles Davis’ comeback, the making of “We Want Miles” and “Tutu”",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Marcus Miller"
+    ],
+    "durationSeconds": 423,
+    "credits": [
+      {
+        "name": "Marcus Miller",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "SFJAZZ",
+    "notes": "Marcus Miller on Miles Davis's early-1980s comeback and the making of We Want Miles and Tutu."
+  },
+  {
+    "id": "IyrK3hA9318",
+    "type": "interview",
+    "artist": "Robert Wyatt",
+    "title": "Robert Wyatt on French Television 1975",
+    "year": 1975,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Robert Wyatt"
+    ],
+    "durationSeconds": 922,
+    "credits": [
+      {
+        "name": "Robert Wyatt",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "French television, 1975: interview plus performances of Sea Song and Alifib."
+  },
+  {
+    "id": "ObUR1VeGxyU",
+    "type": "interview",
+    "artist": "Robert Wyatt",
+    "title": "Rare Robert Wyatt interview at home 1994 (part 1/2)",
+    "year": 1994,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Robert Wyatt"
+    ],
+    "durationSeconds": 464,
+    "credits": [
+      {
+        "name": "Robert Wyatt",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Arte",
+    "notes": "Interview at home, originally broadcast on Arte in 1994, part 1 of 2."
+  },
+  {
+    "id": "5NzyYT5TrmU",
+    "type": "interview",
+    "artist": "Sarah Vaughan",
+    "title": "Sarah Vaughan Interview 1974",
+    "year": 1974,
+    "genre": "Jazz",
+    "musicians": [
+      "Sarah Vaughan",
+      "James Day"
+    ],
+    "durationSeconds": 1745,
+    "credits": [
+      {
+        "name": "Sarah Vaughan",
+        "role": "interviewee"
+      },
+      {
+        "name": "James Day",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "James Day",
+    "outlet": "Day at Night",
+    "notes": "James Day interviews Sarah Vaughan on the public-TV series Day at Night, 7 March 1974."
+  },
+  {
+    "id": "YVDusy1-orE",
+    "type": "interview",
+    "artist": "Terry Bozzio",
+    "title": "Terry Bozzio in Australia - interview & concepts (ca1990s)",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Terry Bozzio"
+    ],
+    "durationSeconds": 1523,
+    "credits": [
+      {
+        "name": "Terry Bozzio",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Interview and drum concepts, Australia, circa 1990s. From Bozzio's official channel."
+  },
+  {
+    "id": "qpQv8r7-AMA",
+    "type": "interview",
+    "artist": "The Fall",
+    "title": "Sounds: Donnie interviewing Mark E. Smith and Marc Riley of The Fall (1982)",
+    "year": 1982,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Mark E. Smith",
+      "Marc Riley",
+      "Donnie Sutherland"
+    ],
+    "durationSeconds": 312,
+    "credits": [
+      {
+        "name": "Mark E. Smith",
+        "role": "interviewee"
+      },
+      {
+        "name": "Marc Riley",
+        "role": "interviewee"
+      },
+      {
+        "name": "Donnie Sutherland",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Donnie Sutherland",
+    "outlet": "Sounds",
+    "notes": "Donnie Sutherland interviews Mark E. Smith and Marc Riley for Sounds, 1982."
+  },
+  {
+    "id": "cI3YSv9b5Fk",
+    "type": "interview",
+    "artist": "The Fall",
+    "title": "The Fall - Mark E Smith Interview (1983)",
+    "year": 1983,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Mark E. Smith"
+    ],
+    "durationSeconds": 283,
+    "credits": [
+      {
+        "name": "Mark E. Smith",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Mark E. Smith interview, 1983."
+  },
+  {
+    "id": "rtBt7NPrnmU",
+    "type": "interview",
+    "artist": "Peter Tosh",
+    "title": "Peter Tosh Interview, 1977 Eugene, Oregon",
+    "year": 1977,
+    "genre": "Reggae",
+    "musicians": [
+      "Peter Tosh"
+    ],
+    "durationSeconds": 2378,
+    "credits": [
+      {
+        "name": "Peter Tosh",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Peter Tosh interview, Eugene, Oregon, 1977."
+  },
+  {
+    "id": "SHuuXQmc0K4",
+    "type": "interview",
+    "artist": "Bob Marley & The Wailers",
+    "title": "Bob Marley interview Steve Gilbert part 1",
+    "year": 1980,
+    "genre": "Reggae",
+    "musicians": [
+      "Bob Marley",
+      "Steve Gilbert"
+    ],
+    "durationSeconds": 893,
+    "credits": [
+      {
+        "name": "Bob Marley",
+        "role": "interviewee"
+      },
+      {
+        "name": "Steve Gilbert",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Steve Gilbert",
+    "notes": "Miami, 14 September 1980, interview with Steve Gilbert, part 1."
   }
 ]
