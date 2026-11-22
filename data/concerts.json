@@ -19340,12 +19340,12 @@
     "year": 1984,
     "genre": "Classic Rock",
     "musicians": [
-      "Deep Purple"
+      "Ritchie Blackmore"
     ],
     "durationSeconds": 844,
     "credits": [
       {
-        "name": "Deep Purple",
+        "name": "Ritchie Blackmore",
         "role": "interviewee"
       }
     ],
@@ -21214,25 +21214,6 @@
     "outlet": "BBC"
   },
   {
-    "id": "ALuaRjG9udI",
-    "type": "interview",
-    "artist": "Led Zeppelin",
-    "title": "Led Zeppelin 2014 Reissues | Dave Lewis interview on BBC Radio",
-    "year": 2014,
-    "genre": "Classic Rock",
-    "musicians": [
-      "Dave"
-    ],
-    "durationSeconds": 1211,
-    "credits": [
-      {
-        "name": "Dave",
-        "role": "interviewee"
-      }
-    ],
-    "outlet": "BBC"
-  },
-  {
     "id": "2HXD4LevHZ0",
     "type": "interview",
     "artist": "Led Zeppelin",
@@ -21278,12 +21259,17 @@
     "year": 1976,
     "genre": "Classic Rock",
     "musicians": [
-      "Robert Plant"
+      "Robert Plant",
+      "Peter Grant"
     ],
     "durationSeconds": 503,
     "credits": [
       {
         "name": "Robert Plant",
+        "role": "interviewee"
+      },
+      {
+        "name": "Peter Grant",
         "role": "interviewee"
       }
     ],
@@ -21404,12 +21390,22 @@
     "year": 1977,
     "genre": "Classic Rock",
     "musicians": [
-      "Ronnie Van Zant"
+      "Ronnie Van Zant",
+      "Allen Collins",
+      "Steve Gaines"
     ],
     "durationSeconds": 1482,
     "credits": [
       {
         "name": "Ronnie Van Zant",
+        "role": "interviewee"
+      },
+      {
+        "name": "Allen Collins",
+        "role": "interviewee"
+      },
+      {
+        "name": "Steve Gaines",
         "role": "interviewee"
       }
     ],
@@ -21423,12 +21419,17 @@
     "year": 1975,
     "genre": "Classic Rock",
     "musicians": [
-      "Ronnie Van Zant"
+      "Ronnie Van Zant",
+      "Leon Wilkeson"
     ],
     "durationSeconds": 671,
     "credits": [
       {
         "name": "Ronnie Van Zant",
+        "role": "interviewee"
+      },
+      {
+        "name": "Leon Wilkeson",
         "role": "interviewee"
       }
     ],
@@ -21548,16 +21549,22 @@
     "year": 2001,
     "genre": "Metal",
     "musicians": [
+      "Dave Mustaine",
       "Scott Ian"
     ],
     "durationSeconds": 1424,
     "credits": [
       {
-        "name": "Scott Ian",
+        "name": "Dave Mustaine",
         "role": "interviewee"
+      },
+      {
+        "name": "Scott Ian",
+        "role": "interviewer"
       }
     ],
-    "outlet": "VH1"
+    "outlet": "VH1",
+    "interviewer": "Scott Ian"
   },
   {
     "id": "vMc24819DXk",
@@ -21586,12 +21593,27 @@
     "year": 1986,
     "genre": "Metal",
     "musicians": [
-      "Metallica"
+      "James Hetfield",
+      "Lars Ulrich",
+      "Kirk Hammett",
+      "Jason Newsted"
     ],
     "durationSeconds": 2257,
     "credits": [
       {
-        "name": "Metallica",
+        "name": "James Hetfield",
+        "role": "interviewee"
+      },
+      {
+        "name": "Lars Ulrich",
+        "role": "interviewee"
+      },
+      {
+        "name": "Kirk Hammett",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jason Newsted",
         "role": "interviewee"
       }
     ],
@@ -21624,12 +21646,17 @@
     "year": 1998,
     "genre": "Metal",
     "musicians": [
-      "Metallica"
+      "James Hetfield",
+      "Lars Ulrich"
     ],
     "durationSeconds": 1055,
     "credits": [
       {
-        "name": "Metallica",
+        "name": "James Hetfield",
+        "role": "interviewee"
+      },
+      {
+        "name": "Lars Ulrich",
         "role": "interviewee"
       }
     ],
@@ -21644,7 +21671,8 @@
     "genre": "Soul/R&B",
     "musicians": [
       "Michael Jackson",
-      "Lisa"
+      "Lisa Marie Presley",
+      "Diane Sawyer"
     ],
     "durationSeconds": 3502,
     "credits": [
@@ -21653,11 +21681,16 @@
         "role": "interviewee"
       },
       {
-        "name": "Lisa",
+        "name": "Lisa Marie Presley",
         "role": "interviewee"
+      },
+      {
+        "name": "Diane Sawyer",
+        "role": "interviewer"
       }
     ],
-    "outlet": "ABC PrimeTime Live"
+    "outlet": "ABC PrimeTime Live",
+    "interviewer": "Diane Sawyer"
   },
   {
     "id": "T3HpWUJOSGs",
@@ -21686,12 +21719,12 @@
     "year": 2011,
     "genre": "Metal",
     "musicians": [
-      "Motörhead"
+      "Lemmy"
     ],
     "durationSeconds": 2906,
     "credits": [
       {
-        "name": "Motörhead",
+        "name": "Lemmy",
         "role": "interviewee"
       }
     ],
@@ -21724,12 +21757,12 @@
     "year": 1996,
     "genre": "Metal",
     "musicians": [
-      "Motörhead"
+      "Lemmy"
     ],
     "durationSeconds": 1237,
     "credits": [
       {
-        "name": "Motörhead",
+        "name": "Lemmy",
         "role": "interviewee"
       }
     ],
@@ -22131,31 +22164,6 @@
     "outlet": "Charlie Rose"
   },
   {
-    "id": "bOn08fuJx88",
-    "type": "interview",
-    "artist": "Pearl Jam",
-    "title": "Eddie Vedder's First Appearance History on Letterman, Jan.-Feb. 1996",
-    "year": 1996,
-    "genre": "Grunge",
-    "musicians": [
-      "Eddie Vedder",
-      "Howard Stern"
-    ],
-    "durationSeconds": 741,
-    "credits": [
-      {
-        "name": "Eddie Vedder",
-        "role": "interviewee"
-      },
-      {
-        "name": "Howard Stern",
-        "role": "interviewer"
-      }
-    ],
-    "interviewer": "Howard Stern",
-    "outlet": "Late Show with David Letterman"
-  },
-  {
     "id": "TE2xp4icUfs",
     "type": "interview",
     "artist": "Pennywise",
@@ -22314,12 +22322,12 @@
     "year": 1979,
     "genre": "Classic Rock",
     "musicians": [
-      "Pink Floyd"
+      "Roger Waters"
     ],
     "durationSeconds": 2434,
     "credits": [
       {
-        "name": "Pink Floyd",
+        "name": "Roger Waters",
         "role": "interviewee"
       }
     ],
@@ -23692,16 +23700,38 @@
     "year": 2013,
     "genre": "Punk",
     "musicians": [
-      "The Clash"
+      "Mick Jones",
+      "Paul Simonon",
+      "Topper Headon",
+      "Joe Strummer",
+      "John Wilson"
     ],
     "durationSeconds": 1686,
     "credits": [
       {
-        "name": "The Clash",
+        "name": "Mick Jones",
         "role": "interviewee"
+      },
+      {
+        "name": "Paul Simonon",
+        "role": "interviewee"
+      },
+      {
+        "name": "Topper Headon",
+        "role": "interviewee"
+      },
+      {
+        "name": "Joe Strummer",
+        "role": "interviewee"
+      },
+      {
+        "name": "John Wilson",
+        "role": "interviewer"
       }
     ],
-    "outlet": "BBC Radio 4"
+    "outlet": "BBC Radio 4 Front Row",
+    "interviewer": "John Wilson",
+    "notes": "BBC Radio 4 Front Row, 9 August 2013. John Wilson talks with Mick Jones, Paul Simonon and Topper Headon; includes a 1999 archive interview with Joe Strummer."
   },
   {
     "id": "shHYow1Eg10",
@@ -23862,12 +23892,17 @@
     "year": 0,
     "genre": "Classic Rock",
     "musicians": [
-      "Mick Jagger"
+      "Mick Jagger",
+      "Ronnie Wood"
     ],
     "durationSeconds": 2069,
     "credits": [
       {
         "name": "Mick Jagger",
+        "role": "interviewee"
+      },
+      {
+        "name": "Ronnie Wood",
         "role": "interviewee"
       }
     ],
@@ -23925,16 +23960,22 @@
     "year": 2002,
     "genre": "Classic Rock",
     "musicians": [
-      "The Rolling Stones"
+      "The Rolling Stones",
+      "Ed Bradley"
     ],
     "durationSeconds": 880,
     "credits": [
       {
         "name": "The Rolling Stones",
         "role": "interviewee"
+      },
+      {
+        "name": "Ed Bradley",
+        "role": "interviewer"
       }
     ],
-    "outlet": "Rolling Stone"
+    "outlet": "60 Minutes",
+    "interviewer": "Ed Bradley"
   },
   {
     "id": "yNKQ30hHetU",
@@ -24039,12 +24080,12 @@
     "year": 1985,
     "genre": "Manchester/Madchester",
     "musicians": [
-      "The Smiths"
+      "Morrissey"
     ],
     "durationSeconds": 550,
     "credits": [
       {
-        "name": "The Smiths",
+        "name": "Morrissey",
         "role": "interviewee"
       }
     ],
@@ -24249,7 +24290,7 @@
     "genre": "Singer-Songwriter",
     "musicians": [
       "Tom Waits",
-      "David Letterman"
+      "Phil Ranstrom"
     ],
     "durationSeconds": 1331,
     "credits": [
@@ -24258,12 +24299,12 @@
         "role": "interviewee"
       },
       {
-        "name": "David Letterman",
+        "name": "Phil Ranstrom",
         "role": "interviewer"
       }
     ],
-    "interviewer": "David Letterman",
-    "outlet": "Late Show with David Letterman"
+    "interviewer": "Phil Ranstrom",
+    "notes": "Student-video interview by Phil Ranstrom (SIU), not a Letterman appearance. The description states it was recorded before Letterman/Fallon/Conan."
   },
   {
     "id": "lCa9uX6IpfM",
@@ -24528,5 +24569,2985 @@
       }
     ],
     "outlet": "Night Flight"
+  },
+  {
+    "id": "Gz6z7FpbUaE",
+    "type": "interview",
+    "artist": "808 State",
+    "title": "A Guy Called Gerald talks “Voodoo Ray” and 808 State | Red Bull Music Academy",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "808 State"
+    ],
+    "durationSeconds": 5361,
+    "credits": [
+      {
+        "name": "808 State",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Red Bull Music Academy"
+  },
+  {
+    "id": "8RWctL6Pk6A",
+    "type": "interview",
+    "artist": "A Tribe Called Quest",
+    "title": "Q-Tip on Tribe cuts, J Dilla, and the Zulu Nation | Red Bull Music Academy",
+    "year": 0,
+    "genre": "Rap/Hip-Hop",
+    "musicians": [
+      "Q-Tip"
+    ],
+    "durationSeconds": 7598,
+    "credits": [
+      {
+        "name": "Q-Tip",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Red Bull Music Academy"
+  },
+  {
+    "id": "BNiami24_WA",
+    "type": "interview",
+    "artist": "Adrian Belew",
+    "title": "Adrian Belew Interview (1999)",
+    "year": 1999,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Adrian Belew",
+      "John Broughton"
+    ],
+    "durationSeconds": 1781,
+    "credits": [
+      {
+        "name": "Adrian Belew",
+        "role": "interviewee"
+      },
+      {
+        "name": "John Broughton",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "John Broughton",
+    "notes": "Recorded in 1999 for John Broughton's radio program."
+  },
+  {
+    "id": "1WKGd0lfKSs",
+    "type": "interview",
+    "artist": "Adrian Belew",
+    "title": "Adrian Belew - Exclusive BEAT Tour Interview",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Adrian Belew"
+    ],
+    "durationSeconds": 1169,
+    "credits": [
+      {
+        "name": "Adrian Belew",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Premier Guitar"
+  },
+  {
+    "id": "0OpYQ7GM614",
+    "type": "interview",
+    "artist": "Adrian Belew",
+    "title": "Adrian Belew Guitar Radio Show Interview",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Adrian Belew"
+    ],
+    "durationSeconds": 1660,
+    "credits": [
+      {
+        "name": "Adrian Belew",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Guitar Radio Show"
+  },
+  {
+    "id": "eUyQJVVufEM",
+    "type": "interview",
+    "artist": "Adrian Belew",
+    "title": "Adrian Belew Interview",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Adrian Belew"
+    ],
+    "durationSeconds": 584,
+    "credits": [
+      {
+        "name": "Adrian Belew",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "VPRO"
+  },
+  {
+    "id": "7sj36mxwHCw",
+    "type": "interview",
+    "artist": "Aerosmith",
+    "title": "Aerosmith - interview London 1993 HD",
+    "year": 1993,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Aerosmith"
+    ],
+    "durationSeconds": 1257,
+    "credits": [
+      {
+        "name": "Aerosmith",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "gxA3gSDMTNE",
+    "type": "interview",
+    "artist": "Aerosmith",
+    "title": "Aerosmith Interview: Steve Tyler & Joe Perry - Music from Another Dimension!",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Steven Tyler",
+      "Joe Perry"
+    ],
+    "durationSeconds": 789,
+    "credits": [
+      {
+        "name": "Steven Tyler",
+        "role": "interviewee"
+      },
+      {
+        "name": "Joe Perry",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Absolute Radio"
+  },
+  {
+    "id": "VIo2qd3HUzM",
+    "type": "interview",
+    "artist": "Ali Akbar Khan",
+    "title": "Dr ALI AKBAR KHAN, the legendary Sarod Maestro interviewed by Pankaj Saha in Santiniketan",
+    "year": 0,
+    "genre": "Indian Classical",
+    "musicians": [
+      "Ali Akbar Khan"
+    ],
+    "durationSeconds": 2647,
+    "credits": [
+      {
+        "name": "Ali Akbar Khan",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "H4IS6wI42nk",
+    "type": "interview",
+    "artist": "Alison Krauss & Union Station",
+    "title": "Alison Krauss on CBS Sunday Morning (1994)",
+    "year": 1994,
+    "genre": "Bluegrass",
+    "musicians": [
+      "Alison Krauss"
+    ],
+    "durationSeconds": 512,
+    "credits": [
+      {
+        "name": "Alison Krauss",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CBS Sunday Morning"
+  },
+  {
+    "id": "hJ5mdKHNaiQ",
+    "type": "interview",
+    "artist": "Alison Krauss & Union Station",
+    "title": "Alison Krauss | Interview | TimesTalks",
+    "year": 0,
+    "genre": "Bluegrass",
+    "musicians": [
+      "Alison Krauss"
+    ],
+    "durationSeconds": 3335,
+    "credits": [
+      {
+        "name": "Alison Krauss",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "New York Times"
+  },
+  {
+    "id": "Dbq_rvn1iVg",
+    "type": "interview",
+    "artist": "Arlo Guthrie",
+    "title": "Arlo Guthrie interview on Woody and Bob Dylan Later 7/15/91 Alice's Restaurant",
+    "year": 1991,
+    "genre": "Folk",
+    "musicians": [
+      "Arlo Guthrie",
+      "Bob Dylan",
+      "Bob Costas"
+    ],
+    "durationSeconds": 1340,
+    "credits": [
+      {
+        "name": "Arlo Guthrie",
+        "role": "interviewee"
+      },
+      {
+        "name": "Bob Dylan",
+        "role": "interviewee"
+      },
+      {
+        "name": "Bob Costas",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Bob Costas",
+    "outlet": "Later with Bob Costas"
+  },
+  {
+    "id": "WeO5OTGOjj8",
+    "type": "interview",
+    "artist": "B.B. King",
+    "title": "B.B. King, Academy Class of 2004, Full Interview",
+    "year": 2004,
+    "genre": "Blues",
+    "musicians": [
+      "B.B. King"
+    ],
+    "durationSeconds": 3911,
+    "credits": [
+      {
+        "name": "B.B. King",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Academy of Achievement"
+  },
+  {
+    "id": "xNkpwMSOtoc",
+    "type": "interview",
+    "artist": "Bill Bruford",
+    "title": "1984: BILL BRUFORD on the SIMMONS ELECTRONIC DRUM KIT | Micro Live | Retro Tech | BBC Archive",
+    "year": 1984,
+    "genre": "Fusion",
+    "musicians": [
+      "Bill Bruford"
+    ],
+    "durationSeconds": 473,
+    "credits": [
+      {
+        "name": "Bill Bruford",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "QkaVKLE8bgo",
+    "type": "interview",
+    "artist": "Billy Cobham",
+    "title": "The Art Of Drumming – Terry Bozzio interviews Billy Cobham (Part 1 of 2)",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Billy Cobham",
+      "Terry Bozzio"
+    ],
+    "durationSeconds": 1363,
+    "credits": [
+      {
+        "name": "Billy Cobham",
+        "role": "interviewee"
+      },
+      {
+        "name": "Terry Bozzio",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Drum Channel"
+  },
+  {
+    "id": "L7K62OY8eRc",
+    "type": "interview",
+    "artist": "Bob Dylan",
+    "title": "Bob Dylan on what New York City means to him | 60 Minutes Archive",
+    "year": 1968,
+    "genre": "Folk",
+    "musicians": [
+      "Bob Dylan"
+    ],
+    "durationSeconds": 275,
+    "credits": [
+      {
+        "name": "Bob Dylan",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "60 Minutes"
+  },
+  {
+    "id": "X5txXKeiTWg",
+    "type": "interview",
+    "artist": "Bob Dylan",
+    "title": "Bob Dylan interview from 1984. With Bert Kleinman & Artie Mogul",
+    "year": 1984,
+    "genre": "Folk",
+    "musicians": [
+      "Bob Dylan",
+      "Bert Kleinman",
+      "Artie Mogull"
+    ],
+    "durationSeconds": 2827,
+    "credits": [
+      {
+        "name": "Bob Dylan",
+        "role": "interviewee"
+      },
+      {
+        "name": "Bert Kleinman",
+        "role": "interviewer"
+      },
+      {
+        "name": "Artie Mogull",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Bert Kleinman, Artie Mogull",
+    "outlet": "The Interview (New York Times)",
+    "notes": "Recorded in a New York hotel suite, 30 July 1984, and later broadcast with music beds; this upload is the interview tape only."
+  },
+  {
+    "id": "guqnTi4Ajf0",
+    "type": "interview",
+    "artist": "Bob Dylan",
+    "title": "A complete unknown? A conversation with BOB DYLAN, 1986",
+    "year": 1986,
+    "genre": "Folk",
+    "musicians": [
+      "Bob Dylan"
+    ],
+    "durationSeconds": 1664,
+    "credits": [
+      {
+        "name": "Bob Dylan",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "EZgmJ0WTByw",
+    "type": "interview",
+    "artist": "Bob Dylan",
+    "title": "Meet Bob Dylan, 1986 - Part 1 of 4",
+    "year": 1986,
+    "genre": "Folk",
+    "musicians": [
+      "Bob Dylan"
+    ],
+    "durationSeconds": 600,
+    "credits": [
+      {
+        "name": "Bob Dylan",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "K-zRRGIc8vw",
+    "type": "interview",
+    "artist": "Bob Dylan",
+    "title": "60 Minutes Asked Bob Dylan Who He Made a Bargain With — His Answer Left Ed Bradley Frozen",
+    "year": 2004,
+    "genre": "Folk",
+    "musicians": [
+      "Bob Dylan"
+    ],
+    "durationSeconds": 1216,
+    "credits": [
+      {
+        "name": "Bob Dylan",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "60 Minutes"
+  },
+  {
+    "id": "smDt4wT1Qk0",
+    "type": "interview",
+    "artist": "Bob Dylan",
+    "title": "Bob Dylan Interview | Mary Travers and Friend Radio Show",
+    "year": 0,
+    "genre": "Folk",
+    "musicians": [
+      "Bob Dylan",
+      "Mary Travers"
+    ],
+    "durationSeconds": 813,
+    "credits": [
+      {
+        "name": "Bob Dylan",
+        "role": "interviewee"
+      },
+      {
+        "name": "Mary Travers",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Mary Travers",
+    "outlet": "Mary Travers and Friend"
+  },
+  {
+    "id": "dyKfZHgkhMI",
+    "type": "interview",
+    "artist": "Bootsy Collins",
+    "title": "The Bass Sounds of Bootsy Collins | Reverb",
+    "year": 0,
+    "genre": "Funk",
+    "musicians": [
+      "Bootsy Collins"
+    ],
+    "durationSeconds": 792,
+    "credits": [
+      {
+        "name": "Bootsy Collins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reverb"
+  },
+  {
+    "id": "a1qhEYP7b9A",
+    "type": "interview",
+    "artist": "Buddy Guy",
+    "title": "Buddy Guy | Green Room Tales | House of Blues",
+    "year": 2001,
+    "genre": "Blues",
+    "musicians": [
+      "Buddy Guy"
+    ],
+    "durationSeconds": 1350,
+    "credits": [
+      {
+        "name": "Buddy Guy",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "81d4-R-VEzU",
+    "type": "interview",
+    "artist": "Buddy Guy",
+    "title": "Blues legend Buddy Guy's not-quite-farewell tour",
+    "year": 0,
+    "genre": "Blues",
+    "musicians": [
+      "Buddy Guy"
+    ],
+    "durationSeconds": 478,
+    "credits": [
+      {
+        "name": "Buddy Guy",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CBS Sunday Morning"
+  },
+  {
+    "id": "KLrQ8oYPwtU",
+    "type": "interview",
+    "artist": "Buddy Guy",
+    "title": "Blues Legend, Buddy Guy on His Incredible Life Story and The Future of Blues",
+    "year": 0,
+    "genre": "Blues",
+    "musicians": [
+      "Buddy Guy"
+    ],
+    "durationSeconds": 1633,
+    "credits": [
+      {
+        "name": "Buddy Guy",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Sweetwater"
+  },
+  {
+    "id": "T9Nb1RnPlrY",
+    "type": "interview",
+    "artist": "Buddy Guy",
+    "title": "Buddy Guy on the Magic of the Blues | The Big Interview",
+    "year": 0,
+    "genre": "Blues",
+    "musicians": [
+      "Buddy Guy"
+    ],
+    "durationSeconds": 561,
+    "credits": [
+      {
+        "name": "Buddy Guy",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "AXS TV"
+  },
+  {
+    "id": "Lk2QF8fKy7Y",
+    "type": "interview",
+    "artist": "Buzzcocks",
+    "title": "Buzzcocks - Pete Shelley - Interview by Stuart Newman",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Pete Shelley"
+    ],
+    "durationSeconds": 916,
+    "credits": [
+      {
+        "name": "Pete Shelley",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "tVu84c6-gxs",
+    "type": "interview",
+    "artist": "Can",
+    "title": "Damo Suzuki talks Instant Composing and Spiritual Music | Red Bull Music Academy",
+    "year": 0,
+    "genre": "Experimental",
+    "musicians": [
+      "Damo Suzuki"
+    ],
+    "durationSeconds": 4931,
+    "credits": [
+      {
+        "name": "Damo Suzuki",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Red Bull Music Academy"
+  },
+  {
+    "id": "htQXu2OECaY",
+    "type": "interview",
+    "artist": "Can",
+    "title": "Jaki Liebezeit Interview (Drums Off Chaos) at Kilkenny Arts Festival",
+    "year": 0,
+    "genre": "Experimental",
+    "musicians": [
+      "Jaki Liebezeit"
+    ],
+    "durationSeconds": 240,
+    "credits": [
+      {
+        "name": "Jaki Liebezeit",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "WIRED"
+  },
+  {
+    "id": "KD0KnL0J8CM",
+    "type": "interview",
+    "artist": "Cannonball Adderley",
+    "title": "Cannonball Adderley Radio Interview (1968)",
+    "year": 1968,
+    "genre": "Jazz",
+    "musicians": [
+      "Cannonball Adderley"
+    ],
+    "durationSeconds": 811,
+    "credits": [
+      {
+        "name": "Cannonball Adderley",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "WEz96kCMDV0",
+    "type": "interview",
+    "artist": "Charles Mingus",
+    "title": "Charles Mingus on Phil Elwood's Radio Show (1965)",
+    "year": 1965,
+    "genre": "Jazz",
+    "musicians": [
+      "Charles Mingus"
+    ],
+    "durationSeconds": 5822,
+    "credits": [
+      {
+        "name": "Charles Mingus",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "tLf6KZmJyrA",
+    "type": "interview",
+    "artist": "David Bowie",
+    "title": "1999: DAVID BOWIE: Internet is the new rock n roll | Newsnight | Classic Interview | BBC Archive",
+    "year": 1999,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie"
+    ],
+    "durationSeconds": 905,
+    "credits": [
+      {
+        "name": "David Bowie",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "8DZamnusfyI",
+    "type": "interview",
+    "artist": "Willie Dixon",
+    "title": "Willie Dixon - Interview - 7/6/1984 - Rock Influence (Official)",
+    "year": 1984,
+    "genre": "Blues",
+    "musicians": [
+      "Willie Dixon"
+    ],
+    "durationSeconds": 1128,
+    "credits": [
+      {
+        "name": "Willie Dixon",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "pTMJ-quK5Ss",
+    "type": "interview",
+    "artist": "Eddie Palmieri",
+    "title": "Eddie Palmieri & Tito Puente: Newport Jazz Festival  Interview with Bill Boggs",
+    "year": 2000,
+    "genre": "Latin/Salsa",
+    "musicians": [
+      "Eddie Palmieri",
+      "Tito Puente"
+    ],
+    "durationSeconds": 1151,
+    "credits": [
+      {
+        "name": "Eddie Palmieri",
+        "role": "interviewee"
+      },
+      {
+        "name": "Tito Puente",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "zKpkR8scmks",
+    "type": "interview",
+    "artist": "Fareed Ayaz and Abu Muhammad",
+    "title": "HUM DEKHEIN GEY | Interview with Fareed Ayaz and Abu Muhammad Qawwal | 12 April 2019 | 92NewsHD",
+    "year": 2019,
+    "genre": "Qawwali",
+    "musicians": [
+      "Fareed Ayaz and Abu Muhammad"
+    ],
+    "durationSeconds": 2540,
+    "credits": [
+      {
+        "name": "Fareed Ayaz and Abu Muhammad",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "itq9OXjKP34",
+    "type": "interview",
+    "artist": "Flatt & Scruggs",
+    "title": "Lester Flatt Interviewed by Pete Kuykendall, Culpeper, Va,  14 July , 1970",
+    "year": 1970,
+    "genre": "Bluegrass",
+    "musicians": [
+      "Lester Flatt"
+    ],
+    "durationSeconds": 3183,
+    "credits": [
+      {
+        "name": "Lester Flatt",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "VX1gTynyHFk",
+    "type": "interview",
+    "artist": "Gary Moore",
+    "title": "RARE FOOTAGE: Gary Moore interview by Tomi Lindblom (2004) / Finland",
+    "year": 2004,
+    "genre": "Blues",
+    "musicians": [
+      "Gary Moore"
+    ],
+    "durationSeconds": 980,
+    "credits": [
+      {
+        "name": "Gary Moore",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "O0ezXKr1hBU",
+    "type": "interview",
+    "artist": "George Clinton",
+    "title": "George Clinton on Letterman, July 24, 1986 (full, stereo)",
+    "year": 1986,
+    "genre": "Funk",
+    "musicians": [
+      "George Clinton",
+      "David Letterman"
+    ],
+    "durationSeconds": 432,
+    "credits": [
+      {
+        "name": "George Clinton",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "xaAE3WEnk9I",
+    "type": "interview",
+    "artist": "Ginger Baker",
+    "title": "BBC 1 interview with Ginger Baker and Herman Rarebell",
+    "year": 0,
+    "genre": "Jazz",
+    "musicians": [
+      "Ginger Baker"
+    ],
+    "durationSeconds": 192,
+    "credits": [
+      {
+        "name": "Ginger Baker",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "qYl1Pvj7LQw",
+    "type": "interview",
+    "artist": "Happy Mondays",
+    "title": "Happy Mondays MTV News 1990 | MTV Vault",
+    "year": 1990,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Happy Mondays"
+    ],
+    "durationSeconds": 314,
+    "credits": [
+      {
+        "name": "Happy Mondays",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "uP_BfK0otvU",
+    "type": "interview",
+    "artist": "Happy Mondays",
+    "title": "Shaun Ryder Banned From Live TV After This Interview l TFI Friday (1996)",
+    "year": 1996,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Shaun Ryder"
+    ],
+    "durationSeconds": 257,
+    "credits": [
+      {
+        "name": "Shaun Ryder",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "wSduzSQ7UD8",
+    "type": "interview",
+    "artist": "Hawkwind",
+    "title": "DESERTFEST MEETS: HAWKWIND",
+    "year": 2018,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Dave Brock"
+    ],
+    "durationSeconds": 253,
+    "credits": [
+      {
+        "name": "Dave Brock",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Desertfest",
+    "notes": "Dave Brock interviewed at Desertfest 2018."
+  },
+  {
+    "id": "TE-Az9KHdco",
+    "type": "interview",
+    "artist": "Hawkwind",
+    "title": "Show 9   Nik Turner  We Talk Music – Spirituality Pyramids – and his new album “Space Fusion Odyssey",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Nik Turner"
+    ],
+    "durationSeconds": 5521,
+    "credits": [
+      {
+        "name": "Nik Turner",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "We Talk Music"
+  },
+  {
+    "id": "C85BsCbXtz8",
+    "type": "interview",
+    "artist": "Inspiral Carpets",
+    "title": "Inspiral Carpets Talk BRITPOP, Madchester And Slapping Mark E. Smith",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Inspiral Carpets"
+    ],
+    "durationSeconds": 1243,
+    "credits": [
+      {
+        "name": "Inspiral Carpets",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Virgin Radio UK"
+  },
+  {
+    "id": "QXM5BV6QSeI",
+    "type": "interview",
+    "artist": "Iron Maiden",
+    "title": "Bruce Dickinson on Iron Maiden & His Memoir \"What Does This Button Do?\" | Charlie Rose Rewind",
+    "year": 0,
+    "genre": "Metal",
+    "musicians": [
+      "Bruce Dickinson",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 984,
+    "credits": [
+      {
+        "name": "Bruce Dickinson",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "ZOkk6QFwIX0",
+    "type": "interview",
+    "artist": "Jaco Pastorius",
+    "title": "Jaco Pastorius Interview on WLRN Radio - no music",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Jaco Pastorius",
+      "Ed Bell"
+    ],
+    "durationSeconds": 730,
+    "credits": [
+      {
+        "name": "Jaco Pastorius",
+        "role": "interviewee"
+      },
+      {
+        "name": "Ed Bell",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Ed Bell",
+    "outlet": "WLRN",
+    "notes": "Ed Bell interview on WLRN's Fusion, recorded in the 1980s. This is the no-music edit."
+  },
+  {
+    "id": "YtF6yVqOj7k",
+    "type": "interview",
+    "artist": "James",
+    "title": "James BBC Radio 5 Interview with Tim Booth and Jim Glennie",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Tim Booth",
+      "Jim Glennie"
+    ],
+    "durationSeconds": 2465,
+    "credits": [
+      {
+        "name": "Jim Glennie",
+        "role": "interviewee"
+      },
+      {
+        "name": "Tim Booth",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "CmgSzbdL1So",
+    "type": "interview",
+    "artist": "Janis Joplin",
+    "title": "Janis Joplin bitches about European audiences",
+    "year": 1969,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Janis Joplin",
+      "Dick Cavett"
+    ],
+    "durationSeconds": 462,
+    "credits": [
+      {
+        "name": "Janis Joplin",
+        "role": "interviewee"
+      },
+      {
+        "name": "Dick Cavett",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Dick Cavett",
+    "outlet": "The Dick Cavett Show"
+  },
+  {
+    "id": "V71B5fFSg1E",
+    "type": "interview",
+    "artist": "Janis Joplin",
+    "title": "Janis Joplin On Attending Her Upcoming High School Reunion | The Dick Cavett Show",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Janis Joplin",
+      "Dick Cavett"
+    ],
+    "durationSeconds": 320,
+    "credits": [
+      {
+        "name": "Janis Joplin",
+        "role": "interviewee"
+      },
+      {
+        "name": "Dick Cavett",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Dick Cavett",
+    "outlet": "The Dick Cavett Show"
+  },
+  {
+    "id": "irJ4QsacyyY",
+    "type": "interview",
+    "artist": "Janis Joplin",
+    "title": "Janis Joplin's FINAL Interview | The Dick Cavett Show",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Janis Joplin",
+      "Dick Cavett"
+    ],
+    "durationSeconds": 532,
+    "credits": [
+      {
+        "name": "Janis Joplin",
+        "role": "interviewee"
+      },
+      {
+        "name": "Dick Cavett",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Dick Cavett",
+    "outlet": "The Dick Cavett Show"
+  },
+  {
+    "id": "zWNRIpKHh_c",
+    "type": "interview",
+    "artist": "Janis Joplin",
+    "title": "Janis Joplin on The Dick Cavett Show (LEGENDADO)",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Janis Joplin",
+      "Dick Cavett"
+    ],
+    "durationSeconds": 462,
+    "credits": [
+      {
+        "name": "Janis Joplin",
+        "role": "interviewee"
+      },
+      {
+        "name": "Dick Cavett",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Dick Cavett",
+    "outlet": "The Dick Cavett Show"
+  },
+  {
+    "id": "RzWlQCTMuNY",
+    "type": "interview",
+    "artist": "Jeff Mills",
+    "title": "Interview with Jeff Mills | Dolby Atmos House at ADE 2025",
+    "year": 2025,
+    "genre": "Techno",
+    "musicians": [
+      "Jeff Mills"
+    ],
+    "durationSeconds": 1113,
+    "credits": [
+      {
+        "name": "Jeff Mills",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "av7Ej8FGwZs",
+    "type": "interview",
+    "artist": "John Coltrane",
+    "title": "John Coltrane 1966 Interview",
+    "year": 1966,
+    "genre": "Jazz",
+    "musicians": [
+      "John Coltrane",
+      "Frank Kofsky"
+    ],
+    "durationSeconds": 3511,
+    "credits": [
+      {
+        "name": "John Coltrane",
+        "role": "interviewee"
+      },
+      {
+        "name": "Frank Kofsky",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Frank Kofsky",
+    "notes": "1966 interview conducted by Frank Kofsky."
+  },
+  {
+    "id": "m31lkx1nyOM",
+    "type": "interview",
+    "artist": "John McLaughlin",
+    "title": "JOHN MCLAUGHLIN - JAZZ LIBRARY INTERVIEW - 2008",
+    "year": 2008,
+    "genre": "Fusion",
+    "musicians": [
+      "John McLaughlin"
+    ],
+    "durationSeconds": 2869,
+    "credits": [
+      {
+        "name": "John McLaughlin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "DveoZRW58y8",
+    "type": "interview",
+    "artist": "Johnny Marr",
+    "title": "Johnny Marr Interview  -  Isaac Brock - The Smiths  -  2007",
+    "year": 2007,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Johnny Marr"
+    ],
+    "durationSeconds": 577,
+    "credits": [
+      {
+        "name": "Johnny Marr",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "99X",
+    "notes": "Backstage at 99X Mistletoe Jam, 16 December 2007."
+  },
+  {
+    "id": "QS3AehjMy5Y",
+    "type": "interview",
+    "artist": "Johnny Marr",
+    "title": "Johnny Marr chats on Later with Jools - 11 Oct '26",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Johnny Marr",
+      "Jools Holland"
+    ],
+    "durationSeconds": 458,
+    "credits": [
+      {
+        "name": "Johnny Marr",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jools Holland",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Jools Holland",
+    "outlet": "Later... with Jools Holland"
+  },
+  {
+    "id": "PpGsEb-sPFY",
+    "type": "interview",
+    "artist": "Johnny Marr",
+    "title": "Johnny Marr on a decade as a solo artist  | Radio X",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Johnny Marr"
+    ],
+    "durationSeconds": 3479,
+    "credits": [
+      {
+        "name": "Johnny Marr",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Radio X"
+  },
+  {
+    "id": "VlhQfKc84j4",
+    "type": "interview",
+    "artist": "Johnny Marr",
+    "title": "Johnny Marr on Chrissie Hynde, Kirsty MacColl and Bernard Sumner | Indie Icons Only, Pt 8",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Bernard Sumner",
+      "Chrissie Hynde",
+      "Johnny Marr"
+    ],
+    "durationSeconds": 608,
+    "credits": [
+      {
+        "name": "Bernard Sumner",
+        "role": "interviewee"
+      },
+      {
+        "name": "Chrissie Hynde",
+        "role": "interviewee"
+      },
+      {
+        "name": "Johnny Marr",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "7VRh2qyqsRk",
+    "type": "interview",
+    "artist": "Johnny Marr",
+    "title": "Johnny Marr on jamming with Sir Paul McCartney at 23 | Indie Icons Only, Pt 7",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Johnny Marr"
+    ],
+    "durationSeconds": 1109,
+    "credits": [
+      {
+        "name": "Johnny Marr",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "J2-zBfHVdvc",
+    "type": "interview",
+    "artist": "Johnny Marr",
+    "title": "Johnny Marr talks about Rough Trade and The Smiths",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Johnny Marr"
+    ],
+    "durationSeconds": 271,
+    "credits": [
+      {
+        "name": "Johnny Marr",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "QXuBUhZyiA0",
+    "type": "interview",
+    "artist": "Johnny Marr",
+    "title": "Johnny Marr | Questlove Supreme",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Johnny Marr",
+      "Questlove"
+    ],
+    "durationSeconds": 5751,
+    "credits": [
+      {
+        "name": "Johnny Marr",
+        "role": "interviewee"
+      },
+      {
+        "name": "Questlove",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "iHeartRadio"
+  },
+  {
+    "id": "kBOOMkqsGo0",
+    "type": "interview",
+    "artist": "Joni Mitchell",
+    "title": "Lyle Mays Interview: Lyle Smiles - Music Metheny & Magic",
+    "year": 0,
+    "genre": "Folk",
+    "musicians": [
+      "Joni Mitchell",
+      "Lyle Mays"
+    ],
+    "durationSeconds": 765,
+    "credits": [
+      {
+        "name": "Joni Mitchell",
+        "role": "interviewee"
+      },
+      {
+        "name": "Lyle Mays",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 2"
+  },
+  {
+    "id": "Z8rPz6GL3aQ",
+    "type": "interview",
+    "artist": "Joy Division",
+    "title": "Peter Hook of Joy Division & New Order on Finding his Tone  | Reverb Interview",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Peter Hook"
+    ],
+    "durationSeconds": 205,
+    "credits": [
+      {
+        "name": "Peter Hook",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reverb"
+  },
+  {
+    "id": "MUxmJNGb0Zg",
+    "type": "interview",
+    "artist": "Kamasi Washington",
+    "title": "Kamasi Washington on Fearless Movement, fatherhood & John Coltrane",
+    "year": 0,
+    "genre": "Jazz",
+    "musicians": [
+      "Kamasi Washington",
+      "John Coltrane"
+    ],
+    "durationSeconds": 2172,
+    "credits": [
+      {
+        "name": "Kamasi Washington",
+        "role": "interviewee"
+      },
+      {
+        "name": "John Coltrane",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CBC"
+  },
+  {
+    "id": "TKdUlJukHmU",
+    "type": "interview",
+    "artist": "King Crimson",
+    "title": "Robert Fripp interview Feb 1984",
+    "year": 1984,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Robert Fripp"
+    ],
+    "durationSeconds": 1271,
+    "credits": [
+      {
+        "name": "Robert Fripp",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Video Music Channel"
+  },
+  {
+    "id": "bfrHU0xkb8s",
+    "type": "interview",
+    "artist": "LTJ Bukem",
+    "title": "LTJ Bukem, jungle musician, producer and dj, comprehensive interview, 1996",
+    "year": 1996,
+    "genre": "Drum & Bass",
+    "musicians": [
+      "LTJ Bukem"
+    ],
+    "durationSeconds": 3176,
+    "credits": [
+      {
+        "name": "LTJ Bukem",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "kli69Q3NkBw",
+    "type": "interview",
+    "artist": "LTJ Bukem",
+    "title": "MC Conrad (†) und LTJ Bukem on their cooperation,  interview 1996",
+    "year": 1996,
+    "genre": "Drum & Bass",
+    "musicians": [
+      "LTJ Bukem"
+    ],
+    "durationSeconds": 1519,
+    "credits": [
+      {
+        "name": "LTJ Bukem",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "QdFNLmEnLZM",
+    "type": "interview",
+    "artist": "Maceo Parker",
+    "title": "Maceo Parker — Interview by Mat Ninat | Paris 2000 (Dial Maceo Tour)",
+    "year": 2000,
+    "genre": "Funk",
+    "musicians": [
+      "Maceo Parker"
+    ],
+    "durationSeconds": 669,
+    "credits": [
+      {
+        "name": "Maceo Parker",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "cSc2L4z0hZY",
+    "type": "interview",
+    "artist": "Maynard Ferguson",
+    "title": "Interview with Maynard Ferguson, May 8, 1998.",
+    "year": 1998,
+    "genre": "Big Band/Swing",
+    "musicians": [
+      "Maynard Ferguson"
+    ],
+    "durationSeconds": 2704,
+    "credits": [
+      {
+        "name": "Maynard Ferguson",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "HEoCxJKLFyo",
+    "type": "interview",
+    "artist": "Michael Jackson",
+    "title": "The Charlie Rose Show: Remembering Michael Jackson / Kathryn Bigelow (The Hurt Locker) (PBS 2009)",
+    "year": 2009,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Michael Jackson",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 3205,
+    "credits": [
+      {
+        "name": "Michael Jackson",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "Z0bV7OhY2Gg",
+    "type": "interview",
+    "artist": "Motörhead",
+    "title": "1982: LEMMY and the New Wave of British HEAVY METAL | Riverside | Classic BBC Music | BBC Archive",
+    "year": 1982,
+    "genre": "Metal",
+    "musicians": [
+      "Lemmy"
+    ],
+    "durationSeconds": 517,
+    "credits": [
+      {
+        "name": "Lemmy",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "UIJQSedFNs4",
+    "type": "interview",
+    "artist": "Motörhead",
+    "title": "Motörhead - Interview with Lemmy about \"The Wörld Is Yours\" (2010)",
+    "year": 2010,
+    "genre": "Metal",
+    "musicians": [
+      "Lemmy"
+    ],
+    "durationSeconds": 376,
+    "credits": [
+      {
+        "name": "Lemmy",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "Lcq8IFdAz7Q",
+    "type": "interview",
+    "artist": "Motörhead",
+    "title": "Lemmy | Guitar Moves Interview",
+    "year": 2016,
+    "genre": "Metal",
+    "musicians": [
+      "Lemmy",
+      "Matt Sweeney"
+    ],
+    "durationSeconds": 580,
+    "credits": [
+      {
+        "name": "Lemmy",
+        "role": "interviewee"
+      },
+      {
+        "name": "Matt Sweeney",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Matt Sweeney",
+    "outlet": "Guitar Moves"
+  },
+  {
+    "id": "FRLGOjFD3TE",
+    "type": "interview",
+    "artist": "New Order",
+    "title": "New Order - APB Interview - 20th March 1988",
+    "year": 1988,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Bernard Sumner",
+      "Peter Hook",
+      "Stephen Morris",
+      "Gillian Gilbert"
+    ],
+    "durationSeconds": 1259,
+    "credits": [
+      {
+        "name": "Bernard Sumner",
+        "role": "interviewee"
+      },
+      {
+        "name": "Peter Hook",
+        "role": "interviewee"
+      },
+      {
+        "name": "Stephen Morris",
+        "role": "interviewee"
+      },
+      {
+        "name": "Gillian Gilbert",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Channel 4",
+    "notes": "All Points Bulletin, Channel 4, 20 March 1988."
+  },
+  {
+    "id": "8r9CR4DOGXQ",
+    "type": "interview",
+    "artist": "New Order",
+    "title": "New Order interview London 1989 HD",
+    "year": 1989,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "New Order"
+    ],
+    "durationSeconds": 372,
+    "credits": [
+      {
+        "name": "New Order",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "p9P6JRmBsYY",
+    "type": "interview",
+    "artist": "New Order",
+    "title": "NEW ORDER / JOY DIVISION - Peter Hook interview from swedish TV show \"Eighties\" - 29 June 2012",
+    "year": 2012,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Peter Hook"
+    ],
+    "durationSeconds": 875,
+    "credits": [
+      {
+        "name": "Peter Hook",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Eighties (Swedish TV)"
+  },
+  {
+    "id": "Lrlbmd6cSlQ",
+    "type": "interview",
+    "artist": "New Order",
+    "title": "Peter Hook talks about Morrissey, and his legal fight with New Order, October 2013",
+    "year": 2013,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Peter Hook",
+      "Morrissey"
+    ],
+    "durationSeconds": 995,
+    "credits": [
+      {
+        "name": "Peter Hook",
+        "role": "interviewee"
+      },
+      {
+        "name": "Morrissey",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "PxEPpFj3eBg",
+    "type": "interview",
+    "artist": "New Order",
+    "title": "Peter Hook on Joy Division, New Order & Blue Monday.",
+    "year": 2023,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Peter Hook",
+      "Sarah Champion"
+    ],
+    "durationSeconds": 741,
+    "credits": [
+      {
+        "name": "Peter Hook",
+        "role": "interviewee"
+      },
+      {
+        "name": "Sarah Champion",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Sarah Champion",
+    "outlet": "Absolute Radio",
+    "notes": "Recorded ahead of the Isle of Wight Festival 2023."
+  },
+  {
+    "id": "oh5QceTRzME",
+    "type": "interview",
+    "artist": "New Order",
+    "title": "Kay meets...Joy Division's Peter Hook as he speaks about his depression",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Peter Hook",
+      "Kay Burley"
+    ],
+    "durationSeconds": 1324,
+    "credits": [
+      {
+        "name": "Peter Hook",
+        "role": "interviewee"
+      },
+      {
+        "name": "Kay Burley",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Kay Burley",
+    "outlet": "Sky News"
+  },
+  {
+    "id": "JZKmihCrp8I",
+    "type": "interview",
+    "artist": "Oasis",
+    "title": "Oasis – 'Definitely Maybe' - Noel Gallagher In Conversation With John Robb [Full Interview]",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Noel Gallagher"
+    ],
+    "durationSeconds": 1688,
+    "credits": [
+      {
+        "name": "Noel Gallagher",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "nI93SZwfL5M",
+    "type": "interview",
+    "artist": "Pat Metheny",
+    "title": "PAT METHENY-WHISTLE TEST INTERVIEW+MUSIC-BBC 2-1984",
+    "year": 1984,
+    "genre": "Fusion",
+    "musicians": [
+      "Pat Metheny"
+    ],
+    "durationSeconds": 869,
+    "credits": [
+      {
+        "name": "Pat Metheny",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Old Grey Whistle Test"
+  },
+  {
+    "id": "L-l4cui_Fwc",
+    "type": "interview",
+    "artist": "Pat Metheny",
+    "title": "Pat Metheny: Melody, Modern Jazz & The Power of Possibility | Interview w/ Joel Harrison",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Pat Metheny"
+    ],
+    "durationSeconds": 1823,
+    "credits": [
+      {
+        "name": "Pat Metheny",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "L2EO3aXTWwg",
+    "type": "interview",
+    "artist": "Patti Smith",
+    "title": "Patti Smith Interview: Advice to the Young | Louisiana Channel",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Patti Smith"
+    ],
+    "durationSeconds": 363,
+    "credits": [
+      {
+        "name": "Patti Smith",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "b6nIhaagnbA",
+    "type": "interview",
+    "artist": "Patti Smith",
+    "title": "Patti Smith Interview: I Will Always Live Like Peter Pan",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Patti Smith"
+    ],
+    "durationSeconds": 4269,
+    "credits": [
+      {
+        "name": "Patti Smith",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "JmEaX5NlSV0",
+    "type": "interview",
+    "artist": "Patti Smith",
+    "title": "Patti Smith on the ‘sacred wounds’ of grief",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Patti Smith"
+    ],
+    "durationSeconds": 2385,
+    "credits": [
+      {
+        "name": "Patti Smith",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CNN"
+  },
+  {
+    "id": "ALHcXi8lj0U",
+    "type": "interview",
+    "artist": "Peter Gabriel",
+    "title": "Peter Gabriel by Tony Levin, Interview",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Gabriel",
+      "Tony Levin"
+    ],
+    "durationSeconds": 2419,
+    "credits": [
+      {
+        "name": "Peter Gabriel",
+        "role": "interviewee"
+      },
+      {
+        "name": "Tony Levin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Make Weird Music"
+  },
+  {
+    "id": "MqSWpMT-RVo",
+    "type": "interview",
+    "artist": "Phish",
+    "title": "Phish - Interview with David Byrne - Full Raw video",
+    "year": 1998,
+    "genre": "Jam Band",
+    "musicians": [
+      "David Byrne"
+    ],
+    "durationSeconds": 2236,
+    "credits": [
+      {
+        "name": "David Byrne",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "PBS"
+  },
+  {
+    "id": "0buQoB3bkc4",
+    "type": "interview",
+    "artist": "Phish",
+    "title": "Trey Anastasio on Howard Stern (Part 1) 11.2.26",
+    "year": 2026,
+    "genre": "Jam Band",
+    "musicians": [
+      "Trey Anastasio",
+      "Howard Stern"
+    ],
+    "durationSeconds": 5525,
+    "credits": [
+      {
+        "name": "Trey Anastasio",
+        "role": "interviewee"
+      },
+      {
+        "name": "Howard Stern",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Howard Stern",
+    "outlet": "The Howard Stern Show"
+  },
+  {
+    "id": "B-XNfP7MPi8",
+    "type": "interview",
+    "artist": "Phish",
+    "title": "Full interview: Catching up with Phish ahead of four night residency at Las Vegas's Sphere",
+    "year": 0,
+    "genre": "Jam Band",
+    "musicians": [
+      "Phish"
+    ],
+    "durationSeconds": 1417,
+    "credits": [
+      {
+        "name": "Phish",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "CBS Mornings"
+  },
+  {
+    "id": "y5wCxa4w6ZE",
+    "type": "interview",
+    "artist": "Phish",
+    "title": "Trey Anastasio - Charlie Rose Interview",
+    "year": 0,
+    "genre": "Jam Band",
+    "musicians": [
+      "Trey Anastasio",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 1263,
+    "credits": [
+      {
+        "name": "Trey Anastasio",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "G-pKsCdKuUU",
+    "type": "interview",
+    "artist": "Phish",
+    "title": "Trey Anastasio @ The Charlie Rose Show",
+    "year": 0,
+    "genre": "Jam Band",
+    "musicians": [
+      "Trey Anastasio",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 735,
+    "credits": [
+      {
+        "name": "Trey Anastasio",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "rFcCuGb5pO4",
+    "type": "interview",
+    "artist": "Porcupine Tree",
+    "title": "Interview Porcupine Tree",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Porcupine Tree"
+    ],
+    "durationSeconds": 338,
+    "credits": [
+      {
+        "name": "Porcupine Tree",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "FaceCulture"
+  },
+  {
+    "id": "xEQE39AxDMI",
+    "type": "interview",
+    "artist": "Radiohead",
+    "title": "Radiohead - pop-TEN Interview, Japan (June 1995)",
+    "year": 1995,
+    "genre": "Experimental",
+    "musicians": [
+      "Radiohead"
+    ],
+    "durationSeconds": 429,
+    "credits": [
+      {
+        "name": "Radiohead",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "HcaCXPbAaCM",
+    "type": "interview",
+    "artist": "Radiohead",
+    "title": "Radiohead An Interview With Jonny & Colin Greenwood",
+    "year": 2000,
+    "genre": "Experimental",
+    "musicians": [
+      "Radiohead"
+    ],
+    "durationSeconds": 3228,
+    "credits": [
+      {
+        "name": "Radiohead",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "KCRW"
+  },
+  {
+    "id": "3i5anvlr_GM",
+    "type": "interview",
+    "artist": "Radiohead",
+    "title": "(2019/09/11) BBC Radio 6 - ANIMA Interview - Thom Yorke",
+    "year": 2019,
+    "genre": "Experimental",
+    "musicians": [
+      "Radiohead"
+    ],
+    "durationSeconds": 1626,
+    "credits": [
+      {
+        "name": "Radiohead",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "Dd00syp_uyA",
+    "type": "interview",
+    "artist": "Radiohead",
+    "title": "For Radiohead's Jonny Greenwood, there are no rules to composing for film (2022 interview)",
+    "year": 2022,
+    "genre": "Experimental",
+    "musicians": [
+      "Radiohead",
+      "Terry Gross"
+    ],
+    "durationSeconds": 1983,
+    "credits": [
+      {
+        "name": "Radiohead",
+        "role": "interviewee"
+      },
+      {
+        "name": "Terry Gross",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Terry Gross",
+    "outlet": "Fresh Air"
+  },
+  {
+    "id": "YK4Fmrlqz3I",
+    "type": "interview",
+    "artist": "Radiohead",
+    "title": "A Conversation With Ed O'Brien Of Radiohead – That Pedal Show",
+    "year": 0,
+    "genre": "Experimental",
+    "musicians": [
+      "Radiohead"
+    ],
+    "durationSeconds": 4730,
+    "credits": [
+      {
+        "name": "Radiohead",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Sweetwater"
+  },
+  {
+    "id": "8N3PmjcvYtY",
+    "type": "interview",
+    "artist": "Radiohead",
+    "title": "Harry Styles & Thom Yorke | Musicians on Musicians",
+    "year": 0,
+    "genre": "Experimental",
+    "musicians": [
+      "Radiohead"
+    ],
+    "durationSeconds": 3475,
+    "credits": [
+      {
+        "name": "Radiohead",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "4Sesas6xrNk",
+    "type": "interview",
+    "artist": "Radiohead",
+    "title": "Thom Yorke Interview BBC Radio 4",
+    "year": 0,
+    "genre": "Experimental",
+    "musicians": [
+      "Radiohead"
+    ],
+    "durationSeconds": 3150,
+    "credits": [
+      {
+        "name": "Radiohead",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 4"
+  },
+  {
+    "id": "RBuj29gFvsM",
+    "type": "interview",
+    "artist": "Radiohead",
+    "title": "Thom Yorke: ANIMA Interview",
+    "year": 0,
+    "genre": "Experimental",
+    "musicians": [
+      "Radiohead"
+    ],
+    "durationSeconds": 2231,
+    "credits": [
+      {
+        "name": "Radiohead",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Apple Music"
+  },
+  {
+    "id": "kLklA260RF4",
+    "type": "interview",
+    "artist": "Ramones",
+    "title": "The Ramones Interview (1978)",
+    "year": 1978,
+    "genre": "Punk",
+    "musicians": [
+      "Ramones"
+    ],
+    "durationSeconds": 331,
+    "credits": [
+      {
+        "name": "Ramones",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "PBS"
+  },
+  {
+    "id": "N5hr2Uek1o0",
+    "type": "interview",
+    "artist": "Ramones",
+    "title": "The Ramones Announce Their Retirement on the Howard Stern Show in 1996",
+    "year": 1996,
+    "genre": "Punk",
+    "musicians": [
+      "Ramones",
+      "Howard Stern"
+    ],
+    "durationSeconds": 226,
+    "credits": [
+      {
+        "name": "Ramones",
+        "role": "interviewee"
+      },
+      {
+        "name": "Howard Stern",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Howard Stern",
+    "outlet": "The Howard Stern Show"
+  },
+  {
+    "id": "4la0lm_VQwQ",
+    "type": "interview",
+    "artist": "Ramones",
+    "title": "The Ramones on The Howard Stern Show (1997)",
+    "year": 1997,
+    "genre": "Punk",
+    "musicians": [
+      "Ramones",
+      "Howard Stern"
+    ],
+    "durationSeconds": 2898,
+    "credits": [
+      {
+        "name": "Ramones",
+        "role": "interviewee"
+      },
+      {
+        "name": "Howard Stern",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Howard Stern",
+    "outlet": "The Howard Stern Show"
+  },
+  {
+    "id": "DvhceA83OH8",
+    "type": "interview",
+    "artist": "Robert Wyatt",
+    "title": "ROBERT WYATT BBC Radio 3 Late Junction At Home With Robert Wyatt, Verity Sharp 17th October 2017",
+    "year": 2017,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Robert Wyatt"
+    ],
+    "durationSeconds": 5279,
+    "credits": [
+      {
+        "name": "Robert Wyatt",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "yScb6wbQRRE",
+    "type": "interview",
+    "artist": "Robert Wyatt",
+    "title": "The Canterbury Scene: An Interview with Robert Wyatt - BBC South",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Robert Wyatt"
+    ],
+    "durationSeconds": 285,
+    "credits": [
+      {
+        "name": "Robert Wyatt",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "Kxg5ntJ22RU",
+    "type": "interview",
+    "artist": "Slayer",
+    "title": "MTV: Headbanger's Ball - Tom Araya & Kerry King (Slayer) (Interview by Riki Rachtman) (1990) [HD]",
+    "year": 1990,
+    "genre": "Metal",
+    "musicians": [
+      "Kerry King",
+      "Tom Araya"
+    ],
+    "durationSeconds": 413,
+    "credits": [
+      {
+        "name": "Kerry King",
+        "role": "interviewee"
+      },
+      {
+        "name": "Tom Araya",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "3RCj1fb_vqQ",
+    "type": "interview",
+    "artist": "Stanley Clarke",
+    "title": "Stanley Clarke on David Letterman 1986",
+    "year": 1986,
+    "genre": "Fusion",
+    "musicians": [
+      "Stanley Clarke",
+      "David Letterman"
+    ],
+    "durationSeconds": 242,
+    "credits": [
+      {
+        "name": "Stanley Clarke",
+        "role": "interviewee"
+      },
+      {
+        "name": "David Letterman",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "David Letterman",
+    "outlet": "Late Show with David Letterman"
+  },
+  {
+    "id": "JKR0Ks_7XTg",
+    "type": "interview",
+    "artist": "Stanley Clarke",
+    "title": "Stanley Clarke - Interview - 8/17/2003 - Newport Jazz Festival",
+    "year": 2003,
+    "genre": "Fusion",
+    "musicians": [
+      "Stanley Clarke"
+    ],
+    "durationSeconds": 832,
+    "credits": [
+      {
+        "name": "Stanley Clarke",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
+  },
+  {
+    "id": "pS_y5uwIibY",
+    "type": "interview",
+    "artist": "Stanley Clarke",
+    "title": "Interview Stanley Clarke",
+    "year": 2015,
+    "genre": "Fusion",
+    "musicians": [
+      "Stanley Clarke"
+    ],
+    "durationSeconds": 968,
+    "credits": [
+      {
+        "name": "Stanley Clarke",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "North Sea Jazz"
+  },
+  {
+    "id": "Fj5yYGT4OMU",
+    "type": "interview",
+    "artist": "Stanley Clarke",
+    "title": "QLS Mini: Stanley Clarke on His New Album, Book, Electric Lady & More | Questlove Show",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Stanley Clarke",
+      "Questlove"
+    ],
+    "durationSeconds": 1325,
+    "credits": [
+      {
+        "name": "Stanley Clarke",
+        "role": "interviewee"
+      },
+      {
+        "name": "Questlove",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "iHeartRadio"
+  },
+  {
+    "id": "ix9Rd_tGN0k",
+    "type": "interview",
+    "artist": "Steve Hillage",
+    "title": "The Canterbury Scene: An Interview with Steve Hillage & Daevid Allen - BBC South",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Steve Hillage",
+      "Daevid Allen"
+    ],
+    "durationSeconds": 226,
+    "credits": [
+      {
+        "name": "Steve Hillage",
+        "role": "interviewee"
+      },
+      {
+        "name": "Daevid Allen",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "S_0LDq4n7hI",
+    "type": "interview",
+    "artist": "Supertramp",
+    "title": "Bob Harris interviews Roger Hodgson & John Helliwell at Village Studios, Los Angeles",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Roger Hodgson"
+    ],
+    "durationSeconds": 702,
+    "credits": [
+      {
+        "name": "Roger Hodgson",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The Old Grey Whistle Test"
+  },
+  {
+    "id": "cqG9s1NUZsU",
+    "type": "interview",
+    "artist": "Swans",
+    "title": "Swans 1995 - 97, interview with Michael Gira",
+    "year": 1995,
+    "genre": "Experimental",
+    "musicians": [
+      "Michael Gira"
+    ],
+    "durationSeconds": 484,
+    "credits": [
+      {
+        "name": "Michael Gira",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "aRBtHjD9Kn4",
+    "type": "interview",
+    "artist": "Johnny Marr",
+    "title": "Johnny Marr on Television, Talking Heads, and Andy Rourke’s iconic basslines | Indie Icons Only pt 1",
+    "year": 0,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Johnny Marr"
+    ],
+    "durationSeconds": 1410,
+    "credits": [
+      {
+        "name": "Johnny Marr",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "rUvwfOqHhPo",
+    "type": "interview",
+    "artist": "Terry Bozzio",
+    "title": "Best Of Terry Bozzio's Drum Channel Q&A",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Terry Bozzio"
+    ],
+    "durationSeconds": 541,
+    "credits": [
+      {
+        "name": "Terry Bozzio",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Drum Channel"
+  },
+  {
+    "id": "mMONfhKgwQU",
+    "type": "interview",
+    "artist": "Terry Bozzio",
+    "title": "Interview: Terry Bozzio",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Terry Bozzio"
+    ],
+    "durationSeconds": 2649,
+    "credits": [
+      {
+        "name": "Terry Bozzio",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Make Weird Music"
+  },
+  {
+    "id": "d8jFuUVPeOE",
+    "type": "interview",
+    "artist": "Terry Bozzio",
+    "title": "The Art Of Drumming – Terry Bozzio interviews Steve Vai (Part 1 of 4)",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Terry Bozzio",
+      "Steve Vai"
+    ],
+    "durationSeconds": 1475,
+    "credits": [
+      {
+        "name": "Terry Bozzio",
+        "role": "interviewee"
+      },
+      {
+        "name": "Steve Vai",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Drum Channel"
+  },
+  {
+    "id": "IpxV1Vpxa9Q",
+    "type": "interview",
+    "artist": "Terry Riley",
+    "title": "Terry Riley on Coltrane, Repetition and Composition | Red Bull Music Academy",
+    "year": 0,
+    "genre": "Experimental",
+    "musicians": [
+      "Terry Riley"
+    ],
+    "durationSeconds": 2453,
+    "credits": [
+      {
+        "name": "Terry Riley",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Red Bull Music Academy"
+  },
+  {
+    "id": "B7-ZJyYvrzw",
+    "type": "interview",
+    "artist": "The B-52's",
+    "title": "The B-52's interview England 1987",
+    "year": 1987,
+    "genre": "New Wave",
+    "musicians": [
+      "The B-52's"
+    ],
+    "durationSeconds": 461,
+    "credits": [
+      {
+        "name": "The B-52's",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "W6LinS__2ak",
+    "type": "interview",
+    "artist": "The Beach Boys",
+    "title": "Brian Wilson on The Beach Boys + Songwriting. Charlie Rose Global Conversations with The Beach Boys",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Brian Wilson",
+      "Charlie Rose"
+    ],
+    "durationSeconds": 4088,
+    "credits": [
+      {
+        "name": "Brian Wilson",
+        "role": "interviewee"
+      },
+      {
+        "name": "Charlie Rose",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Charlie Rose",
+    "outlet": "Charlie Rose"
+  },
+  {
+    "id": "P5zGvZSdZM4",
+    "type": "interview",
+    "artist": "The Charlatans",
+    "title": "The Charlatans * MTV 120 Minutes - 1992 * Interview",
+    "year": 1992,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "The Charlatans"
+    ],
+    "durationSeconds": 396,
+    "credits": [
+      {
+        "name": "The Charlatans",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "_jrsCyRXaac",
+    "type": "interview",
+    "artist": "The Charlatans",
+    "title": "Tim Burgess (Charlatans) - Records In My Life (2020 Interview)",
+    "year": 2020,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Tim Burgess"
+    ],
+    "durationSeconds": 1284,
+    "credits": [
+      {
+        "name": "Tim Burgess",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "9uwU-YvQC6I",
+    "type": "interview",
+    "artist": "The Prodigy",
+    "title": "The Prodigy | In Conversation",
+    "year": 0,
+    "genre": "EDM",
+    "musicians": [
+      "The Prodigy"
+    ],
+    "durationSeconds": 1578,
+    "credits": [
+      {
+        "name": "The Prodigy",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "ew2bBNYwiSM",
+    "type": "interview",
+    "artist": "The Rolling Stones",
+    "title": "Keith Richards on New Music, Old Friendships & the Future of the Rolling Stones | Billboard Cover",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Keith Richards"
+    ],
+    "durationSeconds": 1684,
+    "credits": [
+      {
+        "name": "Keith Richards",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Rolling Stone"
+  },
+  {
+    "id": "PPkNOrvx6FI",
+    "type": "interview",
+    "artist": "The Smiths",
+    "title": "🎙️ The Smiths Interview - 1983",
+    "year": 1983,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Morrissey",
+      "Bob Pearce"
+    ],
+    "durationSeconds": 961,
+    "credits": [
+      {
+        "name": "Morrissey",
+        "role": "interviewee"
+      },
+      {
+        "name": "Bob Pearce",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Bob Pearce",
+    "outlet": "Red Door Records"
+  },
+  {
+    "id": "XK9XsK2MLyE",
+    "type": "interview",
+    "artist": "The Smiths",
+    "title": "🎙️ The Smiths Interview - August 1983",
+    "year": 1983,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Morrissey"
+    ],
+    "durationSeconds": 707,
+    "credits": [
+      {
+        "name": "Morrissey",
+        "role": "interviewee"
+      }
+    ],
+    "interviewer": "Danish Radio",
+    "outlet": "Danish Radio"
+  },
+  {
+    "id": "bUA53itR9U4",
+    "type": "interview",
+    "artist": "The Smiths",
+    "title": "🎙️ The Smiths Interview - April 7, 1985",
+    "year": 1985,
+    "genre": "Manchester/Madchester",
+    "musicians": [
+      "Morrissey"
+    ],
+    "durationSeconds": 2118,
+    "credits": [
+      {
+        "name": "Morrissey",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Australian Radio",
+    "notes": "Baktabak interview recorded for Australian radio, 7 April 1985."
+  },
+  {
+    "id": "9LYkboIA91Y",
+    "type": "interview",
+    "artist": "Tony Levin",
+    "title": "Tony Levin Interview | Liquid Tension Experiment 3 | Thomann",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Tony Levin"
+    ],
+    "durationSeconds": 2147,
+    "credits": [
+      {
+        "name": "Tony Levin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Thomann"
+  },
+  {
+    "id": "UvQ9QngB7zg",
+    "type": "interview",
+    "artist": "Tony Levin",
+    "title": "Tony Levin on Beat Tour Rehearsals",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Tony Levin"
+    ],
+    "durationSeconds": 444,
+    "credits": [
+      {
+        "name": "Tony Levin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Make Weird Music"
+  },
+  {
+    "id": "78hlYpydv5g",
+    "type": "interview",
+    "artist": "Tony Levin",
+    "title": "Tony Levin on The Chapman Stick | Reverb Interview",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Tony Levin"
+    ],
+    "durationSeconds": 284,
+    "credits": [
+      {
+        "name": "Tony Levin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Reverb"
+  },
+  {
+    "id": "N3pJdFQdEHI",
+    "type": "interview",
+    "artist": "Tony Levin",
+    "title": "Tony Levin Photography Interview",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Tony Levin"
+    ],
+    "durationSeconds": 828,
+    "credits": [
+      {
+        "name": "Tony Levin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Make Weird Music"
+  },
+  {
+    "id": "sVjtKRjoU24",
+    "type": "interview",
+    "artist": "Tony Levin",
+    "title": "Tony Levin | What’s on Your Pedalboard: Beat Edition",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Tony Levin"
+    ],
+    "durationSeconds": 401,
+    "credits": [
+      {
+        "name": "Tony Levin",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Sweetwater"
+  },
+  {
+    "id": "YPicSJU-ie0",
+    "type": "interview",
+    "artist": "Tool",
+    "title": "Tool Interview 1994 MTV News Europe",
+    "year": 1994,
+    "genre": "Metal",
+    "musicians": [
+      "Tool"
+    ],
+    "durationSeconds": 229,
+    "credits": [
+      {
+        "name": "Tool",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "tQG_L3M_-oI",
+    "type": "interview",
+    "artist": "Tool",
+    "title": "Tool Interview - Full Band (TV 2001) HQ",
+    "year": 2001,
+    "genre": "Metal",
+    "musicians": [
+      "Maynard James Keenan",
+      "Adam Jones",
+      "Danny Carey",
+      "Justin Chancellor"
+    ],
+    "durationSeconds": 1355,
+    "credits": [
+      {
+        "name": "Maynard James Keenan",
+        "role": "interviewee"
+      },
+      {
+        "name": "Adam Jones",
+        "role": "interviewee"
+      },
+      {
+        "name": "Danny Carey",
+        "role": "interviewee"
+      },
+      {
+        "name": "Justin Chancellor",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Channel V"
+  },
+  {
+    "id": "Ji7-GQnnFRE",
+    "type": "interview",
+    "artist": "Tool",
+    "title": "Tool Interview On MTV - Lateralus (19-04-01)",
+    "year": 2001,
+    "genre": "Metal",
+    "musicians": [
+      "Tool"
+    ],
+    "durationSeconds": 414,
+    "credits": [
+      {
+        "name": "Tool",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "kf0JnYcUgrE",
+    "type": "interview",
+    "artist": "Tool",
+    "title": "Maynard James Keenan On His Process of Writing Music",
+    "year": 2025,
+    "genre": "Metal",
+    "musicians": [
+      "Maynard James Keenan",
+      "Rick Beato"
+    ],
+    "durationSeconds": 4288,
+    "credits": [
+      {
+        "name": "Maynard James Keenan",
+        "role": "interviewee"
+      },
+      {
+        "name": "Rick Beato",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Rick Beato",
+    "outlet": "Rick Beato"
+  },
+  {
+    "id": "doRPGY6b7WQ",
+    "type": "interview",
+    "artist": "Tool",
+    "title": "Maynard James Keenan & Daniel P Carter - Messy Lunch at Caia, Notting Hill",
+    "year": 0,
+    "genre": "Metal",
+    "musicians": [
+      "Maynard James Keenan"
+    ],
+    "durationSeconds": 2762,
+    "credits": [
+      {
+        "name": "Maynard James Keenan",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC Radio 1"
+  },
+  {
+    "id": "i-bt9qd5y0Q",
+    "type": "interview",
+    "artist": "UK",
+    "title": "Eddie Jobson talks, 1978 Polydor interview",
+    "year": 1978,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Eddie Jobson"
+    ],
+    "durationSeconds": 459,
+    "credits": [
+      {
+        "name": "Eddie Jobson",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Polydor",
+    "notes": "Excerpt from the Polydor 'MIG25' UK radio special, 1978."
+  },
+  {
+    "id": "8wwwA4ELZeg",
+    "type": "interview",
+    "artist": "UK",
+    "title": "U.K. 1978 radio interview Eddie Jobson John Wetton",
+    "year": 1978,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Eddie Jobson",
+      "John Wetton"
+    ],
+    "durationSeconds": 596,
+    "credits": [
+      {
+        "name": "Eddie Jobson",
+        "role": "interviewee"
+      },
+      {
+        "name": "John Wetton",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Polydor",
+    "notes": "Excerpt from the Polydor 'MIG25' UK radio special, 1978."
+  },
+  {
+    "id": "BOlNaR4hkFE",
+    "type": "interview",
+    "artist": "Van der Graaf Generator",
+    "title": "Peter Hammill 2007 interview (part 1)",
+    "year": 2007,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Hammill"
+    ],
+    "durationSeconds": 369,
+    "credits": [
+      {
+        "name": "Peter Hammill",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "FaceCulture"
+  },
+  {
+    "id": "PkekyltlM_M",
+    "type": "interview",
+    "artist": "Weather Report",
+    "title": "Weather Report 11/03/1984 The South bank show #Zawinul #Shorter #Pastorius",
+    "year": 1984,
+    "genre": "Fusion",
+    "musicians": [
+      "Joe Zawinul",
+      "Wayne Shorter",
+      "Jaco Pastorius"
+    ],
+    "durationSeconds": 2783,
+    "credits": [
+      {
+        "name": "Joe Zawinul",
+        "role": "interviewee"
+      },
+      {
+        "name": "Wayne Shorter",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jaco Pastorius",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "The South Bank Show"
+  },
+  {
+    "id": "5yOLDH3DiWE",
+    "type": "interview",
+    "artist": "Yes",
+    "title": "Steve Howe - Interview Part 2 - 7/6/1984 - unknown (Official)",
+    "year": 1984,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Steve Howe"
+    ],
+    "durationSeconds": 1402,
+    "credits": [
+      {
+        "name": "Steve Howe",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Wolfgang's"
   }
 ]
