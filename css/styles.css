@@ -393,7 +393,9 @@ kbd {
   text-transform: uppercase;
 }
 .type-badge.is-interview { color: var(--teal); }
-.byline { margin: 6px 0 0; color: var(--teal); font-size: 0.92rem; }
+.byline,
+.credits { margin: 6px 0 0; color: var(--teal); font-size: 0.92rem; }
+.credits { color: var(--muted); }
 .chip-role {
   color: var(--faint);
   font-size: 12px;

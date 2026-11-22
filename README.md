@@ -36,25 +36,27 @@ Append an object to `data/concerts.json`:
 - `musicians` is the lineup, in the order it should be shown. Spell a name the same way everywhere, including in `data/musicians.json`.
 - `durationSeconds` is the length of the YouTube video.
 - Optional `notes` is a short string. Use `"audio-only"` or `"partial"` when that applies. The page labels those two, and shows any other note as written.
-- Optional `type` is a category id. Leave it off, or set `"concert"`, for a concert. The known ids and their labels live in `TYPES` inside `js/catalog.js`. Adding a category such as lessons is one new object there; the Type filter and the data check both read that list. A missing `type` is treated as `concert`.
+- `type` is required. Current values are `"concert"` and `"interview"`. Labels for the Type filter live in `TYPES` inside `js/catalog.js`. Adding a category such as lessons is one new object there. The data check accepts any short lowercase type token, so the file can gain a type before the filter lists it. If `type` is missing at runtime, the page treats the item as a concert. See `SCHEMA.md` for the full field list.
 
-An interview uses the same fields. `artist` is the main subject. `musicians` is the lineup and may be names or `{ "name", "role" }` entries (`interviewee`, `interviewer`, and so on). Optional `interviewer` and `outlet` are strings and belong only on interviews.
+An interview uses the same core fields. `artist` is the main subject. `musicians` stays a list of names. Optional `credits` is `[{ "name", "role" }]`, with roles such as `"interviewee"` and `"interviewer"`. Optional `interviewer` and `outlet` are strings. On an artist or musician page, concerts and interviews stay in one list unless the Type filter hides one of them.
 
 ```json
 {
   "id": "youtubeVideoId",
   "type": "interview",
-  "artist": "Herbie Hancock",
-  "title": "Herbie Hancock in conversation",
-  "year": 1984,
-  "genre": "Jazz",
-  "musicians": [
-    { "name": "Herbie Hancock", "role": "interviewee" },
-    { "name": "Host Name", "role": "interviewer" }
+  "artist": "Frank Zappa",
+  "title": "Frank Zappa on Crossfire 1986",
+  "year": 1986,
+  "genre": "Classic Rock",
+  "musicians": ["Frank Zappa", "Robert Novak", "Tom Braden"],
+  "credits": [
+    { "name": "Frank Zappa", "role": "interviewee" },
+    { "name": "Robert Novak", "role": "interviewer" },
+    { "name": "Tom Braden", "role": "interviewer" }
   ],
-  "interviewer": "Host Name",
-  "outlet": "NPR",
-  "durationSeconds": 1800
+  "interviewer": "Robert Novak, Tom Braden",
+  "outlet": "Crossfire",
+  "durationSeconds": 1278
 }
 ```
 

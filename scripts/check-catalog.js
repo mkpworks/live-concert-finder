@@ -29,7 +29,7 @@ assert(validate(concerts, ["bass"]).some((error) => error.includes("object")), "
 assert(validate(concerts, { Ada: ["guitar!"] }).some((error) => error.includes("instrument name")), "instrument shape");
 assert(validate(concerts, { Ada: ["DJ"] }).length === 0, "DJ is a valid instrument name");
 
-assert(concerts.length >= 1251, "concert count");
+assert(concerts.length >= 1255, "concert count");
 for (const id of ["0wtqnKXZlWk", "5XB7iPsCjC4", "btIIPIPDO4U", "4fPKcqx87Yc", "TAMx_nkKqDg", "C_mFOnzglU8"]) {
   assert(concerts.some((concert) => concert.id === id), id);
 }
@@ -169,8 +169,10 @@ assert(deployJob.length > 0, "deploy job");
 assert(!deployJob.includes("actions/upload-pages-artifact"), "deploy job only deploys");
 assert(deployJob.includes("pages: write") && deployJob.includes("id-token: write"), "deploy permissions");
 
-assert(concerts.every((concert) => concert.type === undefined || concert.type === "concert"), "current file stays concerts");
-assert(concerts.every((concert) => Catalog.itemType(concert) === "concert"), "missing type is concert");
+assert(concerts.every((concert) => concert.type === "concert" || concert.type === "interview"), "every item has a type");
+assert(concerts.filter((concert) => concert.type === "concert").length === 1250, "concert count");
+assert(concerts.filter((concert) => concert.type === "interview").length === 5, "interview count");
+assert(Catalog.itemType({}) === "concert", "missing type is concert");
 assert(Catalog.TYPES.map((type) => type.id).join() === "concert,interview");
 const interview = {
   id: "bbbbbbbbbbb",
@@ -179,7 +181,8 @@ const interview = {
   title: "Pat Metheny interview",
   year: 1991,
   genre: "Jazz",
-  musicians: [{ name: "Pat Metheny", role: "interviewee" }, { name: "Terry Gross", role: "interviewer" }],
+  musicians: ["Pat Metheny", "Terry Gross"],
+  credits: [{ name: "Pat Metheny", role: "interviewee" }, { name: "Terry Gross", role: "interviewer" }],
   interviewer: "Terry Gross",
   outlet: "Fresh Air",
   durationSeconds: 1800,
@@ -191,7 +194,11 @@ assert(!Catalog.matches(concerts[0], { type: "interview" }, typedIndex));
 assert(Catalog.matches(concerts[0], { type: "concert" }, typedIndex));
 assert(Catalog.matches(interview, { musician: "Pat Metheny" }, typedIndex));
 assert(Catalog.matches(interview, { instrument: "guitar" }, typedIndex), "interview matches a lineup instrument");
-const hostOnly = Object.assign({}, interview, { id: "ccccccccccc", musicians: [{ name: "Terry Gross", role: "interviewer" }] });
+const hostOnly = Object.assign({}, interview, {
+  id: "ccccccccccc",
+  musicians: ["Terry Gross"],
+  credits: [{ name: "Terry Gross", role: "interviewer" }],
+});
 assert(!Catalog.matches(hostOnly, { instrument: "guitar" }, Catalog.buildIndex(typed.concat([hostOnly]), musicians)));
 const patGroups = Catalog.groupConcerts(
   Catalog.sortConcerts(typed.filter((item) => Catalog.lineup(item).some((entry) => entry.name === "Pat Metheny")), "artist"),
@@ -203,11 +210,24 @@ const pat = patGroups.find((group) => group.key === "Pat Metheny");
 assert(pat && pat.items.some((item) => Catalog.itemType(item) === "interview") && pat.items.some((item) => Catalog.itemType(item) === "concert"));
 const bare = Object.assign({}, concerts[0], { id: "ddddddddddd" });
 delete bare.type;
-assert(validate([bare], musicians).length === 0, "missing type validates");
-assert(validate([Object.assign({}, bare, { type: "lesson" })], musicians).some((error) => error.includes("type")), "unknown type");
-assert(validate([Object.assign({}, bare, { outlet: "NPR" })], musicians).some((error) => error.includes("outlet")), "outlet only on interviews");
+assert(validate([bare], musicians).some((error) => error.includes("type")), "type is required");
+assert(validate([Object.assign({}, bare, { type: "lesson" })], musicians).length === 0, "a new lowercase type is allowed");
+assert(validate([Object.assign({}, bare, { type: "concert", outlet: " " })], musicians).some((error) => error.includes("outlet")));
 assert(validate([interview], musicians).length === 0, "interview validates");
 assert(validate([Object.assign({}, interview, { interviewer: " " })], musicians).some((error) => error.includes("interviewer")));
+assert(validate([Object.assign({}, interview, { musicians: [{ name: "Pat Metheny" }] })], musicians).some((error) => error.includes("string")), "musicians stay strings");
+const zappaItems = Catalog.sortConcerts(concerts.filter((item) => item.artist === "Frank Zappa"), "year");
+const zappaGroups = Catalog.groupConcerts(zappaItems, "artist", "year", { index, musician: "All", query: "" });
+const zappa = zappaGroups.find((group) => group.key === "Frank Zappa");
+assert(zappa && zappa.items.some((item) => item.type === "concert") && zappa.items.filter((item) => item.type === "interview").length === 5, "artist page mixes both types");
+assert(zappa.items.map((item) => item.id).join("|") === Catalog.sortConcerts(zappa.items, "year").map((item) => item.id).join("|"), "artist page is one sorted list");
+const zappaConcertsOnly = Catalog.groupConcerts(
+  Catalog.sortConcerts(concerts.filter((item) => item.artist === "Frank Zappa" && Catalog.matches(item, { type: "concert" }, index)), "year"),
+  "artist",
+  "year",
+  { index, musician: "All", query: "" }
+).find((group) => group.key === "Frank Zappa");
+assert(zappaConcertsOnly && zappaConcertsOnly.items.every((item) => item.type === "concert") && !zappaConcertsOnly.items.some((item) => item.type === "interview"), "type filter hides interviews");
 assert(concerts.some((concert) => concert.year === 0), "unknown years stay in the data");
 assert(!fs.readFileSync(path.join(root, "js/app.js"), "utf8").includes("Year unknown"), "unknown years render blank");
 const started = process.hrtime.bigint();

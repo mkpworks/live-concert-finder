@@ -3,11 +3,9 @@
 const fs = require("fs");
 const path = require("path");
 
-const { TYPES } = require("../js/catalog.js");
-
 const ID_RE = /^[A-Za-z0-9_-]{11}$/;
 const INSTRUMENT_RE = /^[A-Za-z0-9]+(?:[ /-][A-Za-z0-9]+)*$/;
-const TYPE_IDS = new Set(TYPES.map((type) => type.id));
+const TYPE_RE = /^[a-z]+(?:-[a-z]+)*$/;
 
 function isPlainObject(value) {
   return Boolean(value) && typeof value === "object" && !Array.isArray(value);
@@ -49,37 +47,57 @@ function validate(concerts, musicians) {
     if (!Number.isInteger(concert.durationSeconds) || concert.durationSeconds <= 0) {
       errors.push(where + " durationSeconds must be a positive whole number");
     }
-    if (concert.type !== undefined && !TYPE_IDS.has(concert.type)) {
-      errors.push(where + " type must be one of " + [...TYPE_IDS].join(", "));
+    if (typeof concert.type !== "string" || !TYPE_RE.test(concert.type)) {
+      errors.push(where + " type must be a lowercase category (e.g. concert, interview, lesson)");
     }
-    const type = TYPE_IDS.has(concert.type) ? concert.type : "concert";
     if (!Array.isArray(concert.musicians) || concert.musicians.length === 0) {
       errors.push(where + " musicians must be a non-empty list");
     } else {
       const names = new Set();
-      concert.musicians.forEach((entry, nameIndex) => {
-        const name = typeof entry === "string" ? entry : entry && entry.name;
+      concert.musicians.forEach((name, nameIndex) => {
         if (typeof name !== "string" || !name.trim()) {
-          errors.push(where + " musicians[" + nameIndex + "] must be a name or { name, role }");
+          errors.push(where + " musicians[" + nameIndex + "] must be a non-empty string");
           return;
-        }
-        if (entry && typeof entry === "object" && entry.role !== undefined && (typeof entry.role !== "string" || !entry.role.trim())) {
-          errors.push(where + " musicians[" + nameIndex + "].role must be a non-empty string when present");
         }
         if (names.has(name)) errors.push(where + " lists " + name + " more than once");
         names.add(name);
       });
     }
-    for (const field of ["interviewer", "outlet"]) {
-      if (concert[field] === undefined) continue;
-      if (typeof concert[field] !== "string" || !concert[field].trim()) {
-        errors.push(where + " " + field + " must be a non-empty string when present");
-      } else if (type !== "interview") {
-        errors.push(where + " " + field + " is only for interviews");
-      }
-    }
     if (concert.notes !== undefined && (typeof concert.notes !== "string" || !concert.notes.trim())) {
       errors.push(where + " notes must be a non-empty string when present");
+    }
+    for (const field of ["interviewer", "outlet"]) {
+      if (concert[field] !== undefined && (typeof concert[field] !== "string" || !concert[field].trim())) {
+        errors.push(where + " " + field + " must be a non-empty string when present");
+      }
+    }
+    if (concert.credits !== undefined) {
+      if (!Array.isArray(concert.credits) || concert.credits.length === 0) {
+        errors.push(where + " credits must be a non-empty list when present");
+      } else {
+        const credited = new Set();
+        const lineup = new Set(Array.isArray(concert.musicians) ? concert.musicians : []);
+        concert.credits.forEach((credit, creditIndex) => {
+          const cWhere = where + " credits[" + creditIndex + "]";
+          if (!isPlainObject(credit)) {
+            errors.push(cWhere + " must be an object");
+            return;
+          }
+          if (typeof credit.name !== "string" || !credit.name.trim()) {
+            errors.push(cWhere + " name is required");
+          } else if (credited.has(credit.name)) {
+            errors.push(cWhere + " repeats " + credit.name);
+          } else {
+            credited.add(credit.name);
+            if (lineup.size && !lineup.has(credit.name)) {
+              errors.push(cWhere + " " + credit.name + " must also appear in musicians");
+            }
+          }
+          if (typeof credit.role !== "string" || !TYPE_RE.test(credit.role)) {
+            errors.push(cWhere + " role must be a lowercase word (e.g. interviewee, interviewer, instructor)");
+          }
+        });
+      }
     }
   });
 
@@ -136,7 +154,10 @@ function main() {
   }
   const uncovered = [];
   const seen = new Set();
+  const byType = {};
   for (const concert of concerts) {
+    const typeName = concert.type || "unknown";
+    byType[typeName] = (byType[typeName] || 0) + 1;
     for (const name of concert.musicians) {
       if (seen.has(name)) continue;
       seen.add(name);
@@ -144,7 +165,8 @@ function main() {
     }
   }
   uncovered.sort((a, b) => a.localeCompare(b, "en", { sensitivity: "base" }));
-  console.log("OK: " + concerts.length + " concerts, " + Object.keys(musicians).length + " musician instrument lists");
+  const typeSummary = Object.keys(byType).sort().map((typeName) => byType[typeName] + " " + typeName + (byType[typeName] === 1 ? "" : "s")).join(", ");
+  console.log("OK: " + concerts.length + " items (" + typeSummary + "), " + Object.keys(musicians).length + " musician instrument lists");
   if (uncovered.length) {
     console.log("Musicians without instruments (" + uncovered.length + "): " + uncovered.join(", "));
   }

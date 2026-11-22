@@ -127,6 +127,10 @@
     if (concert.outlet) bylineBits.push(concert.outlet);
     if (concert.interviewer) bylineBits.push("Interviewed by " + concert.interviewer);
     const byline = bylineBits.length ? '<p class="byline">' + esc(bylineBits.join(" · ")) + "</p>" : "";
+    const creditList = Catalog.creditsFor(concert);
+    const creditsHtml = creditList.length
+      ? '<p class="credits">' + creditList.map((credit) => esc(credit.role ? credit.name + " · " + credit.role : credit.name)).join("<span class=\"credits-gap\"> · </span>") + "</p>"
+      : "";
     const people = Catalog.lineup(concert);
     let sharedHtml = "";
     if (Array.isArray(shared)) {
@@ -153,7 +157,8 @@
             note +
           "</p>" +
           byline +
-          '<div class="chips">' + people.map((person) => musicianChip(person.name, false, person.role)).join("") + "</div>" +
+          creditsHtml +
+          '<div class="chips">' + people.map((person) => musicianChip(person.name, false)).join("") + "</div>" +
           sharedHtml +
           pivotHtml +
         "</div>" +

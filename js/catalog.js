@@ -23,16 +23,26 @@
     return "concert";
   }
 
+  function creditsFor(item) {
+    if (!item || !Array.isArray(item.credits)) return [];
+    const credits = [];
+    for (const credit of item.credits) {
+      if (!credit || typeof credit.name !== "string" || !credit.name.trim()) continue;
+      credits.push({
+        name: credit.name,
+        role: typeof credit.role === "string" ? credit.role.trim() : "",
+      });
+    }
+    return credits;
+  }
+
   function lineup(item) {
     if (!item || !Array.isArray(item.musicians)) return [];
+    const roles = {};
+    for (const credit of creditsFor(item)) roles[credit.name] = credit.role;
     const entries = [];
-    for (const entry of item.musicians) {
-      if (typeof entry === "string") {
-        if (entry.trim()) entries.push({ name: entry, role: "" });
-      } else if (entry && typeof entry === "object" && typeof entry.name === "string" && entry.name.trim()) {
-        const role = typeof entry.role === "string" ? entry.role.trim() : "";
-        entries.push({ name: entry.name, role });
-      }
+    for (const name of item.musicians) {
+      if (typeof name === "string" && name.trim()) entries.push({ name, role: roles[name] || "" });
     }
     return entries;
   }
@@ -245,6 +255,7 @@
     typeInfo,
     itemType,
     lineup,
+    creditsFor,
     countByType,
     formatDuration,
     decadeOf,
