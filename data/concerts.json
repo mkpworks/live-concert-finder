@@ -1115,7 +1115,11 @@
     "genre": "Classic Rock",
     "musicians": [
       "Jerry Garcia",
-      "Bob Weir"
+      "Bob Weir",
+      "Phil Lesh",
+      "Bill Kreutzmann",
+      "Keith Godchaux",
+      "Donna Godchaux"
     ],
     "durationSeconds": 2163
   },
@@ -5798,7 +5802,8 @@
       "David Byrne",
       "Tina Weymouth",
       "Chris Frantz",
-      "Jerry Harrison"
+      "Jerry Harrison",
+      "Bernie Worrell"
     ],
     "durationSeconds": 7287
   },
@@ -6098,7 +6103,14 @@
     "year": 1978,
     "genre": "Experimental",
     "musicians": [
-      "Frank Zappa"
+      "Frank Zappa",
+      "Ike Willis",
+      "Denny Walley",
+      "Tommy Mars",
+      "Peter Wolf",
+      "Ed Mann",
+      "Arthur Barrow",
+      "Vinnie Colaiuta"
     ],
     "durationSeconds": 6127
   },
@@ -10596,5 +10608,4441 @@
       "Damo Suzuki"
     ],
     "durationSeconds": 3097
+  },
+  {
+    "id": "4ttbQLfRGdc",
+    "artist": "Adrian Belew",
+    "title": "Adrian Belew - Live At Rockpalast 2008 (Full Concert Video)",
+    "year": 2008,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Adrian Belew"
+    ],
+    "durationSeconds": 3566
+  },
+  {
+    "id": "hYVH9QsVS2c",
+    "artist": "Adrian Belew",
+    "title": "Adrian Belew full concert rockpalast 11-03-2008",
+    "year": 2008,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Adrian Belew"
+    ],
+    "durationSeconds": 3559
+  },
+  {
+    "id": "7kHMAHdWSQ8",
+    "artist": "Adrian Belew",
+    "title": "Adrian Belew Power Trio - Full Show - \"E\" Tour - Oct 17, 2009",
+    "year": 2009,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Adrian Belew"
+    ],
+    "durationSeconds": 5442
+  },
+  {
+    "id": "rkMTrlrkIwo",
+    "artist": "Adrian Belew",
+    "title": "Adrian Belew Power Trio Live (2018)",
+    "year": 2018,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Adrian Belew"
+    ],
+    "durationSeconds": 6720
+  },
+  {
+    "id": "Kuw4unET_7Y",
+    "artist": "Aerosmith",
+    "title": "Aerosmith Live Houston 1977",
+    "year": 1977,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Steven Tyler",
+      "Joe Perry"
+    ],
+    "durationSeconds": 3612
+  },
+  {
+    "id": "JqvMQO8mIbc",
+    "artist": "Aerosmith",
+    "title": "Aerosmith Rocks Donington 2014 HD",
+    "year": 2014,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Steven Tyler",
+      "Joe Perry"
+    ],
+    "durationSeconds": 6282
+  },
+  {
+    "id": "PvEs8KvcBmY",
+    "artist": "Allan Holdsworth",
+    "title": "Allan Holdsworth live in Tokyo 1984 + Interviews",
+    "year": 1984,
+    "genre": "Fusion",
+    "musicians": [
+      "Allan Holdsworth"
+    ],
+    "durationSeconds": 4894
+  },
+  {
+    "id": "rDwCb4SnGmU",
+    "artist": "Allan Holdsworth",
+    "title": "Allan Holdsworth Frankfurt 1997 HQ Audio full gig",
+    "year": 1997,
+    "genre": "Fusion",
+    "musicians": [
+      "Allan Holdsworth"
+    ],
+    "durationSeconds": 2976
+  },
+  {
+    "id": "9Ea-MJTnEPM",
+    "artist": "Allan Holdsworth",
+    "title": "Allan Holdsworth Leverkusen 2010 Full Footage",
+    "year": 2010,
+    "genre": "Fusion",
+    "musicians": [
+      "Allan Holdsworth"
+    ],
+    "durationSeconds": 3679
+  },
+  {
+    "id": "7UUkucVI5Ys",
+    "artist": "B.B. King",
+    "title": "B.B. King - Full Concert [HD] | Live at North Sea Jazz Festival 2000",
+    "year": 2000,
+    "genre": "Blues",
+    "musicians": [
+      "B.B. King"
+    ],
+    "durationSeconds": 4566
+  },
+  {
+    "id": "VDe_Wl1zSsk",
+    "artist": "B.B. King",
+    "title": "B.B. King - Full Concert [HD] | Live at North Sea Jazz Festival 2009",
+    "year": 2009,
+    "genre": "Blues",
+    "musicians": [
+      "B.B. King"
+    ],
+    "durationSeconds": 4695
+  },
+  {
+    "id": "EoKveGgMlF0",
+    "artist": "B.B. King",
+    "title": "JAZZLE B.B. King: Live at the Royal Albert Hall 2011 Blu-ray",
+    "year": 2011,
+    "genre": "Blues",
+    "musicians": [
+      "B.B. King"
+    ],
+    "durationSeconds": 3680
+  },
+  {
+    "id": "y45TBqIwXUs",
+    "artist": "BBM",
+    "title": "Gary Moore, BBM Jack Bruce, Ginger Baker - Live at the Rockpalast 93'",
+    "year": 1993,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jack Bruce",
+      "Ginger Baker",
+      "Gary Moore"
+    ],
+    "durationSeconds": 2603
+  },
+  {
+    "id": "LM8MvUHGJp4",
+    "artist": "BEAT",
+    "title": "BEAT (ADRIAN BELEW-STEVE VAI-TONY LEVIN-TERRY BOZZIO)- FULL SHOW@Reading, PA 11/14/26",
+    "year": 2026,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Adrian Belew",
+      "Steve Vai",
+      "Tony Levin",
+      "Terry Bozzio"
+    ],
+    "durationSeconds": 6501
+  },
+  {
+    "id": "BM-6fINOavQ",
+    "artist": "BEAT",
+    "title": "BEAT performing the music of KING CRIMSON live in Düsseldorf, June 11 2026 - FULL CONCERT",
+    "year": 2026,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Adrian Belew",
+      "Steve Vai",
+      "Tony Levin",
+      "Danny Carey"
+    ],
+    "durationSeconds": 7184
+  },
+  {
+    "id": "bZNJz0722W4",
+    "artist": "Bill Bruford",
+    "title": "Bruford - Rock Goes To College (Full Show, March 7, 1979)",
+    "year": 1979,
+    "genre": "Fusion",
+    "musicians": [
+      "Bill Bruford",
+      "Allan Holdsworth"
+    ],
+    "durationSeconds": 2564
+  },
+  {
+    "id": "0rfCvrQQiTY",
+    "artist": "Bill Bruford",
+    "title": "Bruford Live @ The Venue 8/5/79",
+    "year": 1979,
+    "genre": "Fusion",
+    "musicians": [
+      "Bill Bruford",
+      "Allan Holdsworth"
+    ],
+    "durationSeconds": 4815
+  },
+  {
+    "id": "i_0hgcrlkAA",
+    "artist": "Bill Bruford",
+    "title": "Bill Bruford's Earthworks - Live in Santiago de Chile 2002 (Full Show)",
+    "year": 2002,
+    "genre": "Fusion",
+    "musicians": [
+      "Bill Bruford"
+    ],
+    "durationSeconds": 4272
+  },
+  {
+    "id": "myLY4Sbl5xM",
+    "artist": "Black Sabbath",
+    "title": "Black Sabbath-{LIVE} 2/21/1974 Rhode Island",
+    "year": 1974,
+    "genre": "Metal",
+    "musicians": [
+      "Ozzy Osbourne",
+      "Tony Iommi",
+      "Geezer Butler",
+      "Bill Ward"
+    ],
+    "durationSeconds": 5472
+  },
+  {
+    "id": "3fj0NVTXT3o",
+    "artist": "Black Sabbath",
+    "title": "Black Sabbath - Live From the 1978 Never Say Die Tour - Full Concert",
+    "year": 1978,
+    "genre": "Metal",
+    "musicians": [
+      "Ozzy Osbourne",
+      "Tony Iommi",
+      "Geezer Butler",
+      "Bill Ward"
+    ],
+    "durationSeconds": 3414
+  },
+  {
+    "id": "e0eMNtNlrOA",
+    "artist": "Black Sabbath",
+    "title": "Black Sabbath – Live at Hammersmith Odeon (1978 Full Concert)",
+    "year": 1978,
+    "genre": "Metal",
+    "musicians": [
+      "Ozzy Osbourne",
+      "Tony Iommi",
+      "Geezer Butler",
+      "Bill Ward"
+    ],
+    "durationSeconds": 3145
+  },
+  {
+    "id": "IMoAGa-fgGY",
+    "artist": "Bob Dylan",
+    "title": "Bob Dylan - Paris, Pavillon de Paris - 06 july 1978 - Full concert",
+    "year": 1978,
+    "genre": "Folk",
+    "musicians": [
+      "Bob Dylan"
+    ],
+    "durationSeconds": 8738
+  },
+  {
+    "id": "xleF6uiRQHU",
+    "artist": "Bob Dylan",
+    "title": "Bob Dylan - Seattle November 10 , 1978 - Full concert",
+    "year": 1978,
+    "genre": "Folk",
+    "musicians": [
+      "Bob Dylan"
+    ],
+    "durationSeconds": 8163
+  },
+  {
+    "id": "DKTilZxrBlQ",
+    "artist": "Bob Dylan",
+    "title": "Bob Dylan - Austin, 24 Feb 2002 (full concert video)",
+    "year": 2002,
+    "genre": "Folk",
+    "musicians": [
+      "Bob Dylan"
+    ],
+    "durationSeconds": 8057
+  },
+  {
+    "id": "79FibeilkPk",
+    "artist": "Bruce Springsteen",
+    "title": "Bruce Springsteen - Legendary Cleveland Night (1978) - Official Soundboard (HD AUDIO)",
+    "year": 1978,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Bruce Springsteen"
+    ],
+    "durationSeconds": 10423
+  },
+  {
+    "id": "osBlhC1P010",
+    "artist": "Bruce Springsteen",
+    "title": "Bruce Springsteen - Live In Passaic 20/09/1978 - Full Concert [HD AI Colorized Version]",
+    "year": 1978,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Bruce Springsteen"
+    ],
+    "durationSeconds": 10785
+  },
+  {
+    "id": "edCybrLZ0yg",
+    "artist": "Bruce Springsteen",
+    "title": "Bruce Springsteen - Live In Hartford 08/05/2000 - Full Concert (4K Remastered)",
+    "year": 2000,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Bruce Springsteen"
+    ],
+    "durationSeconds": 8799
+  },
+  {
+    "id": "iHpoah6bSHo",
+    "artist": "Buddy Guy",
+    "title": "Buddy Guy - Full Concert [HD] | Live at The Newport Jazz Festival (1994)",
+    "year": 1994,
+    "genre": "Blues",
+    "musicians": [
+      "Buddy Guy"
+    ],
+    "durationSeconds": 2899
+  },
+  {
+    "id": "uMI2Cub3Tfs",
+    "artist": "Buddy Guy",
+    "title": "Buddy Guy / Solana Beach 4-2-95 / full show",
+    "year": 1995,
+    "genre": "Blues",
+    "musicians": [
+      "Buddy Guy"
+    ],
+    "durationSeconds": 6877
+  },
+  {
+    "id": "a21qAXTqafQ",
+    "artist": "Buddy Guy",
+    "title": "Buddy Guy - Full Concert [HD] | Live at North Sea Jazz Festival 2002",
+    "year": 2002,
+    "genre": "Blues",
+    "musicians": [
+      "Buddy Guy"
+    ],
+    "durationSeconds": 4628
+  },
+  {
+    "id": "gIpzlS2xsUc",
+    "artist": "Can",
+    "title": "Can - Live 1973 - Paris Bataclan - Remastered",
+    "year": 1973,
+    "genre": "Experimental",
+    "musicians": [
+      "Can"
+    ],
+    "durationSeconds": 1297
+  },
+  {
+    "id": "DtN_dfRftU8",
+    "artist": "Can",
+    "title": "CAN BBC Radio 1: 'In Concert' FM",
+    "year": 0,
+    "genre": "Experimental",
+    "musicians": [
+      "Can"
+    ],
+    "durationSeconds": 5145
+  },
+  {
+    "id": "549qyiiRzQ4",
+    "artist": "Captain Beefheart",
+    "title": "Captain Beefheart & The Magic Band - Live at the Royal Albert Hall 03/27/72 (High Quality)",
+    "year": 1972,
+    "genre": "Experimental",
+    "musicians": [
+      "Don Van Vliet"
+    ],
+    "durationSeconds": 5490
+  },
+  {
+    "id": "aL5x3ybIrjk",
+    "artist": "Captain Beefheart",
+    "title": "Captain Beefheart & the Magic Band - Beatclub 1972",
+    "year": 1972,
+    "genre": "Experimental",
+    "musicians": [
+      "Don Van Vliet"
+    ],
+    "durationSeconds": 1770
+  },
+  {
+    "id": "I7f7gBv0TjE",
+    "artist": "Captain Beefheart",
+    "title": "Captain Beefheart and the Magic Band in Paris, 1980",
+    "year": 1980,
+    "genre": "Experimental",
+    "musicians": [
+      "Don Van Vliet"
+    ],
+    "durationSeconds": 1639
+  },
+  {
+    "id": "eIN-1R4XiW0",
+    "artist": "Charles Mingus",
+    "title": "Charles Mingus Sextet, at the Konserthuset Stockholm, Sweden, April 13th, 1964 Colorized",
+    "year": 1964,
+    "genre": "Jazz",
+    "musicians": [
+      "Charles Mingus"
+    ],
+    "durationSeconds": 1898
+  },
+  {
+    "id": "fZNC7sZS6qI",
+    "artist": "Charles Mingus",
+    "title": "Dave Brubeck, Jimmy Smith, Cannonball Adderley and Charles Mingus live • 31-10-1971 • World of Jazz",
+    "year": 1971,
+    "genre": "Jazz",
+    "musicians": [
+      "Charles Mingus"
+    ],
+    "durationSeconds": 3852
+  },
+  {
+    "id": "jymB8IZl9nk",
+    "artist": "Chuck Mangione",
+    "title": "CHUCK MANGIONE Quartet featuring TONY LEVIN & STEVE GADD, Montreux, 1972 | THE JAZZ LIBRARY",
+    "year": 1972,
+    "genre": "Jazz",
+    "musicians": [
+      "Chuck Mangione",
+      "Tony Levin",
+      "Steve Gadd"
+    ],
+    "durationSeconds": 3607
+  },
+  {
+    "id": "bGNcUqfDfrk",
+    "artist": "Cream",
+    "title": "Cream - Madison Square Garden - 11/2/1968 Complete Concert",
+    "year": 1968,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Eric Clapton",
+      "Jack Bruce",
+      "Ginger Baker"
+    ],
+    "durationSeconds": 4832
+  },
+  {
+    "id": "eX072PEsLsQ",
+    "artist": "Cream",
+    "title": "Cream – Royal Albert Hall 2005 Full Concert Legendary Reunion",
+    "year": 2005,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Eric Clapton",
+      "Jack Bruce",
+      "Ginger Baker"
+    ],
+    "durationSeconds": 7543
+  },
+  {
+    "id": "uE6u0YZHB14",
+    "artist": "Creedence Clearwater Revival",
+    "title": "CCR - \"The Lost Oakland Broadcast\" - Complete Show - 1080p",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "John Fogerty"
+    ],
+    "durationSeconds": 3171
+  },
+  {
+    "id": "teO--o7T4GQ",
+    "artist": "David Bowie",
+    "title": "David Bowie Tokyo 12 12 1978 full video",
+    "year": 1978,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie",
+      "Adrian Belew",
+      "Carlos Alomar",
+      "Simon House"
+    ],
+    "durationSeconds": 3631
+  },
+  {
+    "id": "L9EVdLeBkSI",
+    "artist": "David Bowie",
+    "title": "David Bowie | Live on Musikladen Extra | Complete Show | Bremen | 29 May 1978 | 2025 Restoration",
+    "year": 1978,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie",
+      "Adrian Belew",
+      "Carlos Alomar",
+      "Simon House"
+    ],
+    "durationSeconds": 3341
+  },
+  {
+    "id": "DwLmJwkg1OQ",
+    "artist": "David Bowie",
+    "title": "David Bowie - Edmonton (Canada) - WHOLE CONCERT - 07 August 1983 - Serious Moonlight Tour",
+    "year": 1983,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie",
+      "Earl Slick",
+      "Carlos Alomar"
+    ],
+    "durationSeconds": 6765
+  },
+  {
+    "id": "_6r4qbfylrk",
+    "artist": "David Bowie",
+    "title": "David Bowie - Glass Spider Live 1987 At Sydney, DVD PAL Enhanced",
+    "year": 1987,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie",
+      "Peter Frampton",
+      "Carlos Alomar"
+    ],
+    "durationSeconds": 6247
+  },
+  {
+    "id": "H0IRT0akDoY",
+    "artist": "David Bowie",
+    "title": "David Bowie - Manchester 14 July 1987 - Complete Show - Glass Spider Tour",
+    "year": 1987,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie",
+      "Peter Frampton",
+      "Carlos Alomar"
+    ],
+    "durationSeconds": 8106
+  },
+  {
+    "id": "XSUa0VlbGt4",
+    "artist": "David Bowie",
+    "title": "David Bowie - Glastonbury Festival 2000 (Full Concert)",
+    "year": 2000,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie",
+      "Earl Slick",
+      "Mike Garson",
+      "Gail Ann Dorsey"
+    ],
+    "durationSeconds": 6508
+  },
+  {
+    "id": "0VXOGjX2IIc",
+    "artist": "David Bowie",
+    "title": "David Bowie - Frankfurt (Germany) Festhalle - PRIVATE FILM 18 October 2003 - Reality Tour",
+    "year": 2003,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Bowie",
+      "Earl Slick",
+      "Mike Garson",
+      "Gail Ann Dorsey"
+    ],
+    "durationSeconds": 8015
+  },
+  {
+    "id": "kjCi-t5hT58",
+    "artist": "Deep Purple",
+    "title": "\"DEEP PURPLE\" Perfoming Live in Denmark 1972©",
+    "year": 1972,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Ritchie Blackmore",
+      "Ian Gillan",
+      "Roger Glover",
+      "Jon Lord",
+      "Ian Paice"
+    ],
+    "durationSeconds": 5840
+  },
+  {
+    "id": "pwdJvGcPXQI",
+    "artist": "Deep Purple",
+    "title": "DEEP PURPLE - Live Paris 1985 (Full)",
+    "year": 1985,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Ritchie Blackmore",
+      "Ian Gillan",
+      "Roger Glover",
+      "Jon Lord",
+      "Ian Paice"
+    ],
+    "durationSeconds": 6193
+  },
+  {
+    "id": "WkCU6ECtchQ",
+    "artist": "Deep Purple",
+    "title": "Deep Purple: Come Hell Or High Water | Full Concert",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Ritchie Blackmore",
+      "Ian Gillan",
+      "Roger Glover",
+      "Jon Lord",
+      "Ian Paice"
+    ],
+    "durationSeconds": 6616
+  },
+  {
+    "id": "xtf4R6KyALU",
+    "artist": "Dio",
+    "title": "DIO Full Show Sacred Hearth Live At The Spectrum Philadelphia 1986 HD",
+    "year": 1986,
+    "genre": "Metal",
+    "musicians": [
+      "Ronnie James Dio"
+    ],
+    "durationSeconds": 6039
+  },
+  {
+    "id": "m3h4XO5hjxY",
+    "artist": "Dio",
+    "title": "RJ DIO - LiVE!! MASTER of The MOON TOUR, Los Angeles 10/30/2004 ✖",
+    "year": 2004,
+    "genre": "Metal",
+    "musicians": [
+      "Ronnie James Dio"
+    ],
+    "durationSeconds": 5790
+  },
+  {
+    "id": "hsAzywhVPP8",
+    "artist": "Dio",
+    "title": "Dio - Heaven and Hell - Radio City Music Hall live Rock concert Full HD",
+    "year": 0,
+    "genre": "Metal",
+    "musicians": [
+      "Ronnie James Dio"
+    ],
+    "durationSeconds": 6930
+  },
+  {
+    "id": "IfPF4qtJyaw",
+    "artist": "Dire Straits",
+    "title": "Dire Straits - FULL CONCERT (Rockpop In Concert, 1980)",
+    "year": 1980,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mark Knopfler"
+    ],
+    "durationSeconds": 3311
+  },
+  {
+    "id": "dVUjkBmrMZI",
+    "artist": "Dire Straits",
+    "title": "Dire Straits - Live Wembley 1985",
+    "year": 1985,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mark Knopfler"
+    ],
+    "durationSeconds": 5164
+  },
+  {
+    "id": "9hz0MLS1unY",
+    "artist": "Dire Straits",
+    "title": "Dire Straits Sydney 1986 [HD Audio] 60fps",
+    "year": 1986,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mark Knopfler"
+    ],
+    "durationSeconds": 7988
+  },
+  {
+    "id": "3_TOgf1jdXI",
+    "artist": "Dream Theater",
+    "title": "Dream Theater - Once In a LIVEtime (Full Concert) 1998",
+    "year": 1998,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "John Petrucci",
+      "Mike Portnoy",
+      "John Myung",
+      "Jordan Rudess",
+      "James LaBrie"
+    ],
+    "durationSeconds": 12101
+  },
+  {
+    "id": "9dqcGMGztbI",
+    "artist": "Dream Theater",
+    "title": "Dream Theater - Quarantième (Live in Paris, 2024)",
+    "year": 2024,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "John Petrucci",
+      "Mike Portnoy",
+      "John Myung",
+      "Jordan Rudess",
+      "James LaBrie"
+    ],
+    "durationSeconds": 10466
+  },
+  {
+    "id": "LWLrF1LpfqQ",
+    "artist": "Dream Theater",
+    "title": "Live Scenes From New York (Full Concert) - Dream Theater - (Subtítulos en Español)",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "John Petrucci",
+      "Mike Portnoy",
+      "John Myung",
+      "Jordan Rudess",
+      "James LaBrie"
+    ],
+    "durationSeconds": 5556
+  },
+  {
+    "id": "ar5TVLEwALE",
+    "artist": "Dweezil Zappa",
+    "title": "Dweezil Zappa (plays Frank Zappa) Live 2025 🡆 Full Show 🡄 Jan 15 ⬘ Houston House of Blues",
+    "year": 2025,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Dweezil Zappa"
+    ],
+    "durationSeconds": 8769
+  },
+  {
+    "id": "gKvGnWZ3Yak",
+    "artist": "Eagles",
+    "title": "The Eagles - BBC in Concert 1973",
+    "year": 1973,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Don Henley",
+      "Glenn Frey"
+    ],
+    "durationSeconds": 1967
+  },
+  {
+    "id": "GK-5ZsgX-k8",
+    "artist": "Eagles",
+    "title": "The Eagles with Linda Ronstadt & Jackson Browne - Don Kirshner's Rock Concert 1974 (upscaled to 4k)",
+    "year": 1974,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Don Henley",
+      "Glenn Frey"
+    ],
+    "durationSeconds": 4088
+  },
+  {
+    "id": "3FE70D5mRp0",
+    "artist": "Eric Clapton",
+    "title": "ERIC CLAPTON Live at Budokan, Tokyo, 2001 (Full Concert)",
+    "year": 2001,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Eric Clapton"
+    ],
+    "durationSeconds": 7201
+  },
+  {
+    "id": "MKGYSjyBxMo",
+    "artist": "Eric Clapton",
+    "title": "Eric Clapton and Steve Winwood - Live from Madison Square Garden [2008] BDrip 720p",
+    "year": 2008,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Eric Clapton"
+    ],
+    "durationSeconds": 8365
+  },
+  {
+    "id": "eO7oknTaltE",
+    "artist": "Eric Clapton",
+    "title": "Eric Clapton - Tokyo, Japan (Budokan) - Feb 25 2009 - Full Concert",
+    "year": 2009,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Eric Clapton"
+    ],
+    "durationSeconds": 6897
+  },
+  {
+    "id": "EIGeglNI6GI",
+    "artist": "Fleetwood Mac",
+    "title": "Fleetwood Mac - Rumours in Japan 1977",
+    "year": 1977,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Stevie Nicks",
+      "Lindsey Buckingham",
+      "Christine McVie",
+      "John McVie",
+      "Mick Fleetwood"
+    ],
+    "durationSeconds": 4271
+  },
+  {
+    "id": "OozjtNYGxuA",
+    "artist": "Fleetwood Mac",
+    "title": "Fleetwood Mac Live in Concert [ Mirage Tour '82 ]ᴴᴰ",
+    "year": 1982,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Stevie Nicks",
+      "Lindsey Buckingham",
+      "Christine McVie",
+      "John McVie",
+      "Mick Fleetwood"
+    ],
+    "durationSeconds": 4625
+  },
+  {
+    "id": "1FEf5843egU",
+    "artist": "Frank Zappa",
+    "title": "FRANK ZAPPA 1968-10-20 Concertgebouw, Amsterdam",
+    "year": 1968,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Ian Underwood",
+      "Don Preston",
+      "Jimmy Carl Black",
+      "Roy Estrada"
+    ],
+    "durationSeconds": 4691
+  },
+  {
+    "id": "4T2-2QdNRAU",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Live in Paris 1968 [Full Concert]",
+    "year": 1968,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Ian Underwood",
+      "Don Preston",
+      "Jimmy Carl Black",
+      "Roy Estrada"
+    ],
+    "durationSeconds": 3042
+  },
+  {
+    "id": "-yQnuxGY8Is",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa And Don Cherry - Live in Copenhagen 1968 [Full Concert]",
+    "year": 1968,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Ian Underwood",
+      "Don Preston",
+      "Jimmy Carl Black",
+      "Roy Estrada",
+      "Don Cherry"
+    ],
+    "durationSeconds": 3724
+  },
+  {
+    "id": "HwSn9T7v5Kw",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa and the Mothers - 1968 10 03 - Tivoli Gardens, Copenhagen, Denmark",
+    "year": 1968,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Ian Underwood",
+      "Don Preston",
+      "Jimmy Carl Black",
+      "Roy Estrada"
+    ],
+    "durationSeconds": 6411
+  },
+  {
+    "id": "dfGr23WeE5I",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa in Amougies - Festival Actuel 1969 (VIDEO)",
+    "year": 1969,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Ian Underwood",
+      "Don Preston",
+      "Jimmy Carl Black",
+      "Roy Estrada"
+    ],
+    "durationSeconds": 10102
+  },
+  {
+    "id": "i_Y3pm9BbWI",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa & the Mothers - Live at the Fillmore West, 11/06/1970 (Full Concert)",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Howard Kaylan",
+      "Mark Volman",
+      "Jeff Simmons",
+      "Aynsley Dunbar",
+      "George Duke",
+      "Ian Underwood"
+    ],
+    "durationSeconds": 3786
+  },
+  {
+    "id": "Ewh2JqBHzkw",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - 1970 06 28 - Bath Festival of Blues and Progressive Music, Shepton Mallet, UK",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Howard Kaylan",
+      "Mark Volman",
+      "Jeff Simmons",
+      "Aynsley Dunbar",
+      "George Duke",
+      "Ian Underwood"
+    ],
+    "durationSeconds": 4494
+  },
+  {
+    "id": "9lpFeopjJhI",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa Montreux 1971 (the famous concert with the fire)",
+    "year": 1971,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Howard Kaylan",
+      "Mark Volman",
+      "Aynsley Dunbar",
+      "Don Preston",
+      "Ian Underwood",
+      "Jim Pons"
+    ],
+    "durationSeconds": 4982
+  },
+  {
+    "id": "qXzG-T7RYN4",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa & the Petit Wazoo Orchestra Live! - 1972 11 12 - Palace Theatre, Providence, RI",
+    "year": 1972,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Tony Duran",
+      "Malcolm McNab",
+      "Dave Parlato",
+      "Jim Gordon"
+    ],
+    "durationSeconds": 7161
+  },
+  {
+    "id": "nAk-AJ9WxP0",
+    "artist": "Frank Zappa",
+    "title": "FRANK ZAPPA 21st August 1973 - Stockholm, Video and Audio improved 1080p 50FPS",
+    "year": 1973,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Jean-Luc Ponty",
+      "George Duke",
+      "Ian Underwood",
+      "Ruth Underwood",
+      "Bruce Fowler",
+      "Tom Fowler",
+      "Ralph Humphrey"
+    ],
+    "durationSeconds": 4529
+  },
+  {
+    "id": "PArXy7qhIOM",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - 1973 05 09 - Capitol Theatre, Passaic, NJ",
+    "year": 1973,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Jean-Luc Ponty",
+      "George Duke",
+      "Ian Underwood",
+      "Ruth Underwood",
+      "Bruce Fowler",
+      "Tom Fowler",
+      "Ralph Humphrey"
+    ],
+    "durationSeconds": 11232
+  },
+  {
+    "id": "iaSgY5p_dW8",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa and the Mothers with Jean-Luc Ponty - 1973 06 28 - Festival Hall, Melbourne, Australia",
+    "year": 1973,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Jean-Luc Ponty",
+      "George Duke",
+      "Ian Underwood",
+      "Ruth Underwood",
+      "Bruce Fowler",
+      "Tom Fowler",
+      "Ralph Humphrey"
+    ],
+    "durationSeconds": 8588
+  },
+  {
+    "id": "2Gdw7lFYdCw",
+    "artist": "Frank Zappa",
+    "title": "Cheaper Than Cheep: Live Concert Film (1974)",
+    "year": 1974,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "George Duke",
+      "Napoleon Murphy Brock",
+      "Ruth Underwood",
+      "Tom Fowler",
+      "Chester Thompson"
+    ],
+    "durationSeconds": 7390
+  },
+  {
+    "id": "eHUw7o9NQsg",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Live At Ima Auditorium 5/10/1974 - Full Show",
+    "year": 1974,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "George Duke",
+      "Napoleon Murphy Brock",
+      "Ruth Underwood",
+      "Tom Fowler",
+      "Chester Thompson"
+    ],
+    "durationSeconds": 5691
+  },
+  {
+    "id": "VlujBK31XAw",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Philadelphia, November 17 1974 - Full show",
+    "year": 1974,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "George Duke",
+      "Napoleon Murphy Brock",
+      "Ruth Underwood",
+      "Tom Fowler",
+      "Chester Thompson"
+    ],
+    "durationSeconds": 9356
+  },
+  {
+    "id": "i1xSEBT533A",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - 1975 09 17 Royce Hall UCLA",
+    "year": 1975,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa"
+    ],
+    "durationSeconds": 5743
+  },
+  {
+    "id": "MC9zTF5g1s4",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - 1976 12 26 - The Palladium, New York, NY",
+    "year": 1976,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Ray White",
+      "Eddie Jobson",
+      "Patrick O'Hearn",
+      "Terry Bozzio"
+    ],
+    "durationSeconds": 7564
+  },
+  {
+    "id": "lWYgrreRRbw",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa Detroit 1976-11-19 (complete concert)",
+    "year": 1976,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Ray White",
+      "Eddie Jobson",
+      "Patrick O'Hearn",
+      "Terry Bozzio"
+    ],
+    "durationSeconds": 6630
+  },
+  {
+    "id": "rlAZxpKLSPU",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - 1977 09 18 - Fox Theatre, Atlanta, GA",
+    "year": 1977,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Adrian Belew",
+      "Terry Bozzio",
+      "Patrick O'Hearn",
+      "Tommy Mars",
+      "Peter Wolf",
+      "Ed Mann"
+    ],
+    "durationSeconds": 7879
+  },
+  {
+    "id": "K8pvqbHmsOg",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Pawtucket, October 23, 1977 - Full Show",
+    "year": 1977,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Adrian Belew",
+      "Terry Bozzio",
+      "Patrick O'Hearn",
+      "Tommy Mars",
+      "Peter Wolf",
+      "Ed Mann"
+    ],
+    "durationSeconds": 7580
+  },
+  {
+    "id": "0TYYrQ82sWM",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa Halloween NYC 10 / 31 / 1977 AUD",
+    "year": 1977,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Adrian Belew",
+      "Terry Bozzio",
+      "Patrick O'Hearn",
+      "Tommy Mars",
+      "Peter Wolf",
+      "Ed Mann"
+    ],
+    "durationSeconds": 11145
+  },
+  {
+    "id": "IIkUXKRthsA",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Halloween - 1978 10 31 - The Palladium, New York, NY",
+    "year": 1978,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Ike Willis",
+      "Denny Walley",
+      "Tommy Mars",
+      "Peter Wolf",
+      "Ed Mann",
+      "Arthur Barrow",
+      "Vinnie Colaiuta"
+    ],
+    "durationSeconds": 13919
+  },
+  {
+    "id": "QPyklF0Gngo",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - 1980 12 11 (Early) - Civic Auditorium, Santa Monica, CA",
+    "year": 1980,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Steve Vai",
+      "Ike Willis",
+      "Ray White",
+      "Arthur Barrow",
+      "Tommy Mars"
+    ],
+    "durationSeconds": 6514
+  },
+  {
+    "id": "7NGhGoedVcY",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Paris 1980 (Definitive Merge, Full Show)",
+    "year": 1980,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Ike Willis",
+      "Ray White",
+      "Arthur Barrow",
+      "Tommy Mars",
+      "Vinnie Colaiuta"
+    ],
+    "durationSeconds": 8374
+  },
+  {
+    "id": "kUZeNT6GJXs",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - 1981 11 17 - The Ritz, New York, NY",
+    "year": 1981,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Steve Vai",
+      "Ike Willis",
+      "Ray White",
+      "Scott Thunes",
+      "Chad Wackerman",
+      "Tommy Mars",
+      "Robert Martin",
+      "Ed Mann"
+    ],
+    "durationSeconds": 10272
+  },
+  {
+    "id": "B8F3RwIyFGE",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa Pistoia July 8 1982 Full Show",
+    "year": 1982,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Steve Vai",
+      "Ike Willis",
+      "Ray White",
+      "Scott Thunes",
+      "Chad Wackerman",
+      "Tommy Mars",
+      "Robert Martin",
+      "Ed Mann"
+    ],
+    "durationSeconds": 7300
+  },
+  {
+    "id": "Aqwd58ltJGc",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Live in NY ( The Pier, 26 Aout 1984 )",
+    "year": 1984,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Ike Willis",
+      "Ray White",
+      "Napoleon Murphy Brock",
+      "Scott Thunes",
+      "Chad Wackerman",
+      "Allan Zavod",
+      "Robert Martin"
+    ],
+    "durationSeconds": 3393
+  },
+  {
+    "id": "UD5y5SbQaos",
+    "artist": "Frank Zappa",
+    "title": "Frank Zappa - Live in Barcelona 1988 (Full Show - Remastered - Stereo)",
+    "year": 1988,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Frank Zappa",
+      "Ike Willis",
+      "Mike Keneally",
+      "Scott Thunes",
+      "Chad Wackerman",
+      "Ed Mann",
+      "Robert Martin",
+      "Bruce Fowler"
+    ],
+    "durationSeconds": 7745
+  },
+  {
+    "id": "Kb_QIfoI9ko",
+    "artist": "Genesis",
+    "title": "Genesis - Live at the Lyceum Theatre 1980 Full Concert HD",
+    "year": 1980,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Phil Collins",
+      "Tony Banks",
+      "Mike Rutherford"
+    ],
+    "durationSeconds": 8695
+  },
+  {
+    "id": "RlHAl1V2sB4",
+    "artist": "Genesis",
+    "title": "Genesis Live 27th September 1982 London Marquee Club Full Show",
+    "year": 1982,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Phil Collins",
+      "Tony Banks",
+      "Mike Rutherford"
+    ],
+    "durationSeconds": 7343
+  },
+  {
+    "id": "8BFHphqNIp8",
+    "artist": "Genesis",
+    "title": "Genesis - The Mama Tour Live 1984 Full Concert HD",
+    "year": 1984,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Phil Collins",
+      "Tony Banks",
+      "Mike Rutherford"
+    ],
+    "durationSeconds": 6132
+  },
+  {
+    "id": "4NSWWFhTrk0",
+    "artist": "Genesis",
+    "title": "Genesis Live At Wembley Stadium 1987 Dvd Full",
+    "year": 1987,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Phil Collins",
+      "Tony Banks",
+      "Mike Rutherford"
+    ],
+    "durationSeconds": 6895
+  },
+  {
+    "id": "garuaYDWm0I",
+    "artist": "Genesis",
+    "title": "Genesis - The Way We Walk Live 1992 Full Concert HD",
+    "year": 1992,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Phil Collins",
+      "Tony Banks",
+      "Mike Rutherford"
+    ],
+    "durationSeconds": 8017
+  },
+  {
+    "id": "8k48nMyzfyo",
+    "artist": "George Duke",
+    "title": "George Duke Band ft. Stanley Clarke - Full Concert [HD] | Live at North Sea Jazz Festival 2005",
+    "year": 2005,
+    "genre": "Fusion",
+    "musicians": [
+      "George Duke"
+    ],
+    "durationSeconds": 6359
+  },
+  {
+    "id": "NS5YlCLpdBw",
+    "artist": "George Duke",
+    "title": "George Duke & Chaka Khan - Full Concert - Live at the North Sea Jazz Festival 2009",
+    "year": 2009,
+    "genre": "Fusion",
+    "musicians": [
+      "George Duke"
+    ],
+    "durationSeconds": 4644
+  },
+  {
+    "id": "qq-tQ097y80",
+    "artist": "George Duke",
+    "title": "GEORGE DUKE LIVE 2013",
+    "year": 2013,
+    "genre": "Fusion",
+    "musicians": [
+      "George Duke"
+    ],
+    "durationSeconds": 8092
+  },
+  {
+    "id": "pbL1mkPMeA8",
+    "artist": "Ginger Baker",
+    "title": "Ginger Baker - Jonas Hellborg Group - Budapest, Globe, 1992.",
+    "year": 1992,
+    "genre": "Jazz",
+    "musicians": [
+      "Ginger Baker",
+      "Jonas Hellborg"
+    ],
+    "durationSeconds": 3420
+  },
+  {
+    "id": "AwBtJm7JiDI",
+    "artist": "Ginger Baker Trio",
+    "title": "Ginger Baker Trio - Charlie Haden - Bill Frisell / live 1995",
+    "year": 1995,
+    "genre": "Jazz",
+    "musicians": [
+      "Ginger Baker",
+      "Charlie Haden",
+      "Bill Frisell"
+    ],
+    "durationSeconds": 3278
+  },
+  {
+    "id": "GOyH2L82bcU",
+    "artist": "Ginger Baker's Air Force",
+    "title": "Ginger Baker's Air Force: What A Day | Live In Germany 1970 | Full Performance",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Ginger Baker"
+    ],
+    "durationSeconds": 4251
+  },
+  {
+    "id": "RrtkbEv4oFQ",
+    "artist": "Grateful Dead",
+    "title": "Grateful Dead - 5/8/77 - Ithaca, NY - Complete Show (soundboard)",
+    "year": 1977,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "Phil Lesh",
+      "Bill Kreutzmann",
+      "Mickey Hart",
+      "Keith Godchaux",
+      "Donna Godchaux"
+    ],
+    "durationSeconds": 10803
+  },
+  {
+    "id": "TQWrWyG26Zc",
+    "artist": "Grateful Dead",
+    "title": "Grateful Dead - Cornell 5/8/77 - Full Show [4K] - Dead Air Visual Experience",
+    "year": 1977,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "Phil Lesh",
+      "Bill Kreutzmann",
+      "Mickey Hart",
+      "Keith Godchaux",
+      "Donna Godchaux"
+    ],
+    "durationSeconds": 10990
+  },
+  {
+    "id": "wPgEMp8mJyg",
+    "artist": "Grateful Dead",
+    "title": "Grateful Dead - Memorial Coliseum (Tuscaloosa, AL) 5/17/1977 (Complete Show)",
+    "year": 1977,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "Phil Lesh",
+      "Bill Kreutzmann",
+      "Mickey Hart",
+      "Keith Godchaux",
+      "Donna Godchaux"
+    ],
+    "durationSeconds": 12567
+  },
+  {
+    "id": "nkgE3cSvFW0",
+    "artist": "Grateful Dead",
+    "title": "GRATEFUL DEAD - Giza, Egypt September 1978 full show",
+    "year": 1978,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "Phil Lesh",
+      "Bill Kreutzmann",
+      "Mickey Hart",
+      "Keith Godchaux",
+      "Donna Godchaux"
+    ],
+    "durationSeconds": 10748
+  },
+  {
+    "id": "Son3uEYsixU",
+    "artist": "Grateful Dead",
+    "title": "Grateful Dead 4/12/78 | Full Concert, Duke University, Durham, NC",
+    "year": 1978,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "Phil Lesh",
+      "Bill Kreutzmann",
+      "Mickey Hart",
+      "Keith Godchaux",
+      "Donna Godchaux"
+    ],
+    "durationSeconds": 10835
+  },
+  {
+    "id": "aEmJlxYAxps",
+    "artist": "Grateful Dead",
+    "title": "Grateful Dead - Dead Ahead (New York, NY October 1980) [Full Concert]",
+    "year": 1980,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "Phil Lesh",
+      "Bill Kreutzmann",
+      "Mickey Hart",
+      "Brent Mydland"
+    ],
+    "durationSeconds": 10084
+  },
+  {
+    "id": "0zcunwheIsA",
+    "artist": "Grateful Dead",
+    "title": "Grateful Dead - Live at Shoreline 9/29/89 [Full Concert]",
+    "year": 1989,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "Phil Lesh",
+      "Bill Kreutzmann",
+      "Mickey Hart",
+      "Brent Mydland"
+    ],
+    "durationSeconds": 9290
+  },
+  {
+    "id": "A8rVM8GlD4c",
+    "artist": "Grateful Dead",
+    "title": "Grateful Dead - Truckin' Up to Buffalo (Live at Orchard Park, NY 7/4/89) [Full Concert]",
+    "year": 1989,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "Phil Lesh",
+      "Bill Kreutzmann",
+      "Mickey Hart",
+      "Brent Mydland"
+    ],
+    "durationSeconds": 9544
+  },
+  {
+    "id": "XIPgoUJ1Ngg",
+    "artist": "Grateful Dead",
+    "title": "Grateful Dead [1080p HD Remaster] October 9, 1989, Hampton Coliseum Hampton, VA (Full Show 2-cam)",
+    "year": 1989,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "Phil Lesh",
+      "Bill Kreutzmann",
+      "Mickey Hart",
+      "Brent Mydland"
+    ],
+    "durationSeconds": 10503
+  },
+  {
+    "id": "fPryHMn3zeM",
+    "artist": "Grateful Dead",
+    "title": "Grateful Dead Knickerbocker Arena Full Show - 6 22 1995",
+    "year": 1995,
+    "genre": "Jam Band",
+    "musicians": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "Phil Lesh",
+      "Bill Kreutzmann",
+      "Mickey Hart",
+      "Brent Mydland"
+    ],
+    "durationSeconds": 10570
+  },
+  {
+    "id": "WkClz6-aOEY",
+    "artist": "Hawkwind",
+    "title": "Hawkwind - Live in Leicester 1975 [Full Concert]",
+    "year": 1975,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Dave Brock"
+    ],
+    "durationSeconds": 5651
+  },
+  {
+    "id": "j3MRLWav_Vc",
+    "artist": "Hawkwind",
+    "title": "Hawkwind - Thrilling Atomhenge (Colston Hall, 1976)",
+    "year": 1976,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Dave Brock"
+    ],
+    "durationSeconds": 5449
+  },
+  {
+    "id": "8SF-PfGeW-Q",
+    "artist": "Hawkwind",
+    "title": "Hawkwind - Live in Edinburgh 1979 [Full Concert]",
+    "year": 1979,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Dave Brock"
+    ],
+    "durationSeconds": 5128
+  },
+  {
+    "id": "N0C5Yg9nLMc",
+    "artist": "Hawkwind",
+    "title": "The Heaviest Space Rock Concert Ever Recorded | Hawkwind Live (1990)",
+    "year": 1990,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Dave Brock"
+    ],
+    "durationSeconds": 3115
+  },
+  {
+    "id": "W5UEs2YaCZ8",
+    "artist": "Herbie Hancock",
+    "title": "Herbie Hancock - Full Concert [HD] | Live at North Sea Jazz Festival 1996",
+    "year": 1996,
+    "genre": "Fusion",
+    "musicians": [
+      "Herbie Hancock"
+    ],
+    "durationSeconds": 4267
+  },
+  {
+    "id": "80qCVBHueZw",
+    "artist": "Herbie Hancock",
+    "title": "[FULL HD] Herbie Hancock Concert in Paris, 2023",
+    "year": 2023,
+    "genre": "Fusion",
+    "musicians": [
+      "Herbie Hancock"
+    ],
+    "durationSeconds": 7343
+  },
+  {
+    "id": "UES44tPrESA",
+    "artist": "Herbie Hancock",
+    "title": "HERBIE HANCOCK live in Stuttgart, July 5 2025 - FULL CONCERT",
+    "year": 2025,
+    "genre": "Fusion",
+    "musicians": [
+      "Herbie Hancock"
+    ],
+    "durationSeconds": 6148
+  },
+  {
+    "id": "Y2YBgIrLkTc",
+    "artist": "Iggy Pop",
+    "title": "Iggy Pop - Live Bizarre Festival - Aug.17 1996 (Exclusive WDR 2023 HD 1080).-",
+    "year": 1996,
+    "genre": "Punk",
+    "musicians": [
+      "Iggy Pop"
+    ],
+    "durationSeconds": 4157
+  },
+  {
+    "id": "sonancSQHHw",
+    "artist": "Iggy Pop",
+    "title": "Iggy Pop live @ Canal Plus 2016",
+    "year": 2016,
+    "genre": "Punk",
+    "musicians": [
+      "Iggy Pop"
+    ],
+    "durationSeconds": 6628
+  },
+  {
+    "id": "U0ZgaMrU90s",
+    "artist": "Iggy Pop",
+    "title": "Iggy Pop, live in Berlin 2025 (Full Concert) - ARTE Concert",
+    "year": 2025,
+    "genre": "Punk",
+    "musicians": [
+      "Iggy Pop"
+    ],
+    "durationSeconds": 5186
+  },
+  {
+    "id": "XECqZcIO1fU",
+    "artist": "Iron Maiden",
+    "title": "Iron Maiden - Live After Death 1985",
+    "year": 1985,
+    "genre": "Metal",
+    "musicians": [
+      "Bruce Dickinson",
+      "Steve Harris",
+      "Dave Murray",
+      "Adrian Smith",
+      "Nicko McBrain"
+    ],
+    "durationSeconds": 5338
+  },
+  {
+    "id": "MKGET6NfxBE",
+    "artist": "Iron Maiden",
+    "title": "Iron Maiden - Seventh Son of a Seventh Son Tour 1988 Full Setlist",
+    "year": 1988,
+    "genre": "Metal",
+    "musicians": [
+      "Bruce Dickinson",
+      "Steve Harris",
+      "Dave Murray",
+      "Adrian Smith",
+      "Nicko McBrain"
+    ],
+    "durationSeconds": 5741
+  },
+  {
+    "id": "3GQ4fIOJfcA",
+    "artist": "Iron Maiden",
+    "title": "Iron Maiden - En Vivo! [HD] ( Full Concert ) 1080p",
+    "year": 0,
+    "genre": "Metal",
+    "musicians": [
+      "Bruce Dickinson",
+      "Steve Harris",
+      "Dave Murray",
+      "Adrian Smith",
+      "Janick Gers",
+      "Nicko McBrain"
+    ],
+    "durationSeconds": 6960
+  },
+  {
+    "id": "oVhsspoV47U",
+    "artist": "Jack Bruce",
+    "title": "Jack Bruce - Live At Rockpalast 1980 (Full Concert Video)",
+    "year": 1980,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jack Bruce"
+    ],
+    "durationSeconds": 6289
+  },
+  {
+    "id": "VNeYYrCWq4g",
+    "artist": "Jack Bruce & Robin Trower",
+    "title": "Jack Bruce & Robin Trower - Seven Moons Live (2009) [Complete DVD]",
+    "year": 2009,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jack Bruce",
+      "Robin Trower"
+    ],
+    "durationSeconds": 5077
+  },
+  {
+    "id": "rXVQKDZ22Lc",
+    "artist": "Jaco Pastorius",
+    "title": "Jaco Pastorius, Kazumi Watanabe – Word Of Mouth Band 1983 Japan Tour",
+    "year": 1983,
+    "genre": "Fusion",
+    "musicians": [
+      "Jaco Pastorius"
+    ],
+    "durationSeconds": 6467
+  },
+  {
+    "id": "xgznZZ-qcnA",
+    "artist": "James Brown",
+    "title": "James Brown - Full Concert [HD] | Live at The Ritz (1986)",
+    "year": 1986,
+    "genre": "Funk",
+    "musicians": [
+      "James Brown"
+    ],
+    "durationSeconds": 5120
+  },
+  {
+    "id": "_muNh5C_AYY",
+    "artist": "James Brown",
+    "title": "James Brown - Full Concert [HD] | Live at North Sea Jazz Festival 2004",
+    "year": 2004,
+    "genre": "Funk",
+    "musicians": [
+      "James Brown"
+    ],
+    "durationSeconds": 5262
+  },
+  {
+    "id": "CiB48WuMtxc",
+    "artist": "Janis Joplin",
+    "title": "JANIS JOPLIN - \"LIVE\" 1969/1970 #janisjoplin",
+    "year": 1969,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Janis Joplin"
+    ],
+    "durationSeconds": 4095
+  },
+  {
+    "id": "toeCghsYhcY",
+    "artist": "Janis Joplin",
+    "title": "Janis Joplin w/ Big Brother & The Holding Co. - Reunion Concert - Fillmore West, S.F. 04/04/1970",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Janis Joplin"
+    ],
+    "durationSeconds": 5986
+  },
+  {
+    "id": "Y8uR-yzJYWM",
+    "artist": "Janis Joplin",
+    "title": "JANIS JOPLIN at WOODSTOCK (audio)",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Janis Joplin"
+    ],
+    "durationSeconds": 4464
+  },
+  {
+    "id": "I2kLwPFPR28",
+    "artist": "Jeff Beck",
+    "title": "Jeff Beck - Full Concert [HD] | North Sea Jazz (2006)",
+    "year": 2006,
+    "genre": "Fusion",
+    "musicians": [
+      "Jeff Beck"
+    ],
+    "durationSeconds": 3644
+  },
+  {
+    "id": "FwNkfTGNPYc",
+    "artist": "Jeff Beck",
+    "title": "Jeff Beck LIVE Full Concert 2017",
+    "year": 2017,
+    "genre": "Fusion",
+    "musicians": [
+      "Jeff Beck"
+    ],
+    "durationSeconds": 4306
+  },
+  {
+    "id": "A36T_RTPJYc",
+    "artist": "Jeff Beck",
+    "title": "Jeff Beck Live 2022 🡆 Full Show ⬘ Anika Nilles 🡄 Sept 25 ⬘ The Woodlands, TX",
+    "year": 2022,
+    "genre": "Fusion",
+    "musicians": [
+      "Jeff Beck"
+    ],
+    "durationSeconds": 3545
+  },
+  {
+    "id": "fB6QbqT5c2U",
+    "artist": "Jimi Hendrix",
+    "title": "Jimi Hendrix Experience Live at Royal Albert Hall 2/24/1969 (Rare footage)",
+    "year": 1969,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jimi Hendrix"
+    ],
+    "durationSeconds": 3407
+  },
+  {
+    "id": "6oXvEbtx4L4",
+    "artist": "Jimi Hendrix",
+    "title": "THE JIMI HENDRIX EXPERIENCE LIVE STOCKHOLM, SWEDEN, 1969",
+    "year": 1969,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jimi Hendrix"
+    ],
+    "durationSeconds": 3390
+  },
+  {
+    "id": "J1KhIYe3L70",
+    "artist": "Jimi Hendrix",
+    "title": "JIMI HENDRIX-'' Live Rainbow Bridge Concert '' 30- 7 -1970",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jimi Hendrix"
+    ],
+    "durationSeconds": 2148
+  },
+  {
+    "id": "8G9mEwdp8Vs",
+    "artist": "John Coltrane",
+    "title": "JOHN COLTRANE, WYNTON KELLY, PAUL CHAMBERS, JIMMY COBB, STAN GETZ, OSCAR PETERSON (JATP 8.27.60)",
+    "year": 1960,
+    "genre": "Jazz",
+    "musicians": [
+      "John Coltrane"
+    ],
+    "durationSeconds": 2039
+  },
+  {
+    "id": "txiISVUrSjQ",
+    "artist": "John Coltrane",
+    "title": "John coltrane Quartet - 1962 Graz Concert",
+    "year": 1962,
+    "genre": "Jazz",
+    "musicians": [
+      "John Coltrane"
+    ],
+    "durationSeconds": 5453
+  },
+  {
+    "id": "ehYM_cg2DHI",
+    "artist": "John Coltrane",
+    "title": "John Coltrane Quartet My Favorite Things Live in Comblain-La-Tour 1965",
+    "year": 1965,
+    "genre": "Jazz",
+    "musicians": [
+      "John Coltrane"
+    ],
+    "durationSeconds": 1248
+  },
+  {
+    "id": "7cCsVjcqxf4",
+    "artist": "John McLaughlin",
+    "title": "John McLaughlin Stuttgart 1998 Full Concert",
+    "year": 1998,
+    "genre": "Fusion",
+    "musicians": [
+      "John McLaughlin"
+    ],
+    "durationSeconds": 3773
+  },
+  {
+    "id": "QmoMcjPELlc",
+    "artist": "John McLaughlin",
+    "title": "John McLaughlin and the 4th Dimension - Montreux Jazz Festival 2022 (full show)",
+    "year": 2022,
+    "genre": "Fusion",
+    "musicians": [
+      "John McLaughlin"
+    ],
+    "durationSeconds": 5632
+  },
+  {
+    "id": "E-he9mzrjCU",
+    "artist": "Joni Mitchell",
+    "title": "Joni Mitchell - Live at the BBC Television Centre, London, UK / Sept. 3, 1970 (several songs in HD)",
+    "year": 1970,
+    "genre": "Folk",
+    "musicians": [
+      "Joni Mitchell"
+    ],
+    "durationSeconds": 2923
+  },
+  {
+    "id": "rXJZqZi3xP4",
+    "artist": "Joni Mitchell",
+    "title": "Joni Mitchell - Live at the New Victoria Theatre, London, UK / April 22, 1974 (several songs in HD)",
+    "year": 1974,
+    "genre": "Folk",
+    "musicians": [
+      "Joni Mitchell"
+    ],
+    "durationSeconds": 5190
+  },
+  {
+    "id": "EK1Eu8V5IX8",
+    "artist": "Joni Mitchell",
+    "title": "Joni Mitchell - London, England, April 24, 1983, UPGRADE",
+    "year": 1983,
+    "genre": "Folk",
+    "musicians": [
+      "Joni Mitchell"
+    ],
+    "durationSeconds": 3546
+  },
+  {
+    "id": "K_UUD_Tc144",
+    "artist": "Judas Priest",
+    "title": "Judas Priest – Live in California (1991 Full Concert)",
+    "year": 1991,
+    "genre": "Metal",
+    "musicians": [
+      "Rob Halford",
+      "Glenn Tipton",
+      "K.K. Downing"
+    ],
+    "durationSeconds": 4523
+  },
+  {
+    "id": "cqcF7FhePfo",
+    "artist": "Judas Priest",
+    "title": "Judas Priest - Graspop Metal Meeting 2008 (Full Concert)",
+    "year": 2008,
+    "genre": "Metal",
+    "musicians": [
+      "Rob Halford",
+      "Glenn Tipton",
+      "K.K. Downing"
+    ],
+    "durationSeconds": 5920
+  },
+  {
+    "id": "1UeftDtoowQ",
+    "artist": "Judas Priest",
+    "title": "Judas Priest - 30th aniversary British Steel Live (Legendado PTBR)",
+    "year": 0,
+    "genre": "Metal",
+    "musicians": [
+      "Rob Halford",
+      "Glenn Tipton",
+      "K.K. Downing"
+    ],
+    "durationSeconds": 5308
+  },
+  {
+    "id": "q-qfW1UL-vQ",
+    "artist": "King Crimson",
+    "title": "King Crimson - Live in Bonn, 6 June 2000",
+    "year": 2000,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Robert Fripp",
+      "Adrian Belew",
+      "Trey Gunn",
+      "Pat Mastelotto"
+    ],
+    "durationSeconds": 2195
+  },
+  {
+    "id": "p6G9Q4Hs7C0",
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin - Live at Los Angeles 1972 (Full concert)",
+    "year": 1972,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jimmy Page",
+      "Robert Plant",
+      "John Paul Jones",
+      "John Bonham"
+    ],
+    "durationSeconds": 7190
+  },
+  {
+    "id": "IIu3peq4c7M",
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin - Live at Earls Court (May 24th, 1975) - Video",
+    "year": 1975,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jimmy Page",
+      "Robert Plant",
+      "John Paul Jones",
+      "John Bonham"
+    ],
+    "durationSeconds": 13028
+  },
+  {
+    "id": "y81BJuxncvM",
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin - Live in St. Louis, MO (Feb. 16th, 1975) - BEST SOUND/MOST COMPLETE",
+    "year": 1975,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jimmy Page",
+      "Robert Plant",
+      "John Paul Jones",
+      "John Bonham"
+    ],
+    "durationSeconds": 10595
+  },
+  {
+    "id": "TTFQlb1FWDE",
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin: Live in Seattle 1977 [Fully Filmed Concert]",
+    "year": 1977,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jimmy Page",
+      "Robert Plant",
+      "John Paul Jones",
+      "John Bonham"
+    ],
+    "durationSeconds": 12648
+  },
+  {
+    "id": "xxJr7CZE3AY",
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin Knebworth 11 August 1979 - 4K Full concert 60fps. Best quality - exclusive remaster.",
+    "year": 1979,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jimmy Page",
+      "Robert Plant",
+      "John Paul Jones",
+      "John Bonham"
+    ],
+    "durationSeconds": 9610
+  },
+  {
+    "id": "BcnOnJVotas",
+    "artist": "Led Zeppelin",
+    "title": "LED ZEPPELIN - CELEBRATION DAY - Live at The O2 Arena, London (England 2007) FULL CONCERT (1080p ᴴᴰ)",
+    "year": 2007,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Jimmy Page",
+      "Robert Plant",
+      "John Paul Jones",
+      "John Bonham"
+    ],
+    "durationSeconds": 7452
+  },
+  {
+    "id": "nl9W0mu66QE",
+    "artist": "Little Feat",
+    "title": "Little Feat - Live at the Orpheum Theatre October 31, 1975 (Complete Show)",
+    "year": 1975,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Lowell George"
+    ],
+    "durationSeconds": 6662
+  },
+  {
+    "id": "iS4ToSU7W84",
+    "artist": "Little Feat",
+    "title": "LITTLE FEAT - WAITING FOR COLUMBUS - LIVE ALBUM PLUS BONUS TRACKS - 1978",
+    "year": 1978,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Lowell George"
+    ],
+    "durationSeconds": 8376
+  },
+  {
+    "id": "ePLHv_MwJFk",
+    "artist": "Little Feat",
+    "title": "Little Feat - 06.13.25 - Rio Theater - Santa Cruz, CA - whole show 4K",
+    "year": 2025,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Little Feat"
+    ],
+    "durationSeconds": 6998
+  },
+  {
+    "id": "Zbszl2dAxwg",
+    "artist": "Lynyrd Skynyrd",
+    "title": "Lynyrd Skynyrd - Full Concert | Live at Winterland (1975)",
+    "year": 1975,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Ronnie Van Zant"
+    ],
+    "durationSeconds": 4030
+  },
+  {
+    "id": "QoEZa5oG4b4",
+    "artist": "Lynyrd Skynyrd",
+    "title": "Lynyrd Skynyrd Live Asbury Park 1977 Full Concert",
+    "year": 1977,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Ronnie Van Zant"
+    ],
+    "durationSeconds": 4428
+  },
+  {
+    "id": "gqVQ6UOnng8",
+    "artist": "Lynyrd Skynyrd",
+    "title": "Lynyrd Skynyrd Vicious Cycle Tour",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Lynyrd Skynyrd"
+    ],
+    "durationSeconds": 6841
+  },
+  {
+    "id": "iIk6JRVuvc0",
+    "artist": "Mahavishnu Orchestra",
+    "title": "Mahavishnu Orchestra - Live Between Nothingness & Eternity .1973",
+    "year": 1973,
+    "genre": "Fusion",
+    "musicians": [
+      "John McLaughlin"
+    ],
+    "durationSeconds": 2549
+  },
+  {
+    "id": "ofO599uw2DY",
+    "artist": "Mahavishnu Orchestra",
+    "title": "John McLaughlin’s Mahavishnu Orchestra live at the North Sea Jazz Festival • 1986 • World of Jazz",
+    "year": 1986,
+    "genre": "Fusion",
+    "musicians": [
+      "John McLaughlin"
+    ],
+    "durationSeconds": 5421
+  },
+  {
+    "id": "vbTPk7wSQ5U",
+    "artist": "Medeski Martin & Wood",
+    "title": "Medeski, Martin and Wood - Differ Ariake, Tokyo, Japan, 2005-12-31, part 2",
+    "year": 2005,
+    "genre": "Fusion",
+    "musicians": [
+      "John Medeski",
+      "Billy Martin",
+      "Chris Wood"
+    ],
+    "durationSeconds": 5693
+  },
+  {
+    "id": "0KeYU8xG-ek",
+    "artist": "Medeski Martin & Wood",
+    "title": "Medeski, Scofield, Martin _ Wood - Estival Jazz Lugano 2007 FullHD1080p 3D",
+    "year": 2007,
+    "genre": "Fusion",
+    "musicians": [
+      "John Medeski",
+      "Billy Martin",
+      "Chris Wood"
+    ],
+    "durationSeconds": 4563
+  },
+  {
+    "id": "ZSyOpjKUIpE",
+    "artist": "Medeski Martin & Wood",
+    "title": "MMW- Medeski Martin and Wood 11/09/2011 live Paris",
+    "year": 2011,
+    "genre": "Fusion",
+    "musicians": [
+      "John Medeski",
+      "Billy Martin",
+      "Chris Wood"
+    ],
+    "durationSeconds": 4977
+  },
+  {
+    "id": "klNLUYhW-KI",
+    "artist": "Megadeth",
+    "title": "Megadeth - Full Concert (Live at Woodstock 1999) [Official]",
+    "year": 1999,
+    "genre": "Metal",
+    "musicians": [
+      "Dave Mustaine"
+    ],
+    "durationSeconds": 4356
+  },
+  {
+    "id": "3v3z9IfuVVY",
+    "artist": "Megadeth",
+    "title": "Megadeth Rust In Peace Live 2010 FULL SHOW (W/ Bonus Material)",
+    "year": 2010,
+    "genre": "Metal",
+    "musicians": [
+      "Dave Mustaine"
+    ],
+    "durationSeconds": 4437
+  },
+  {
+    "id": "n-5-CtkBjDk",
+    "artist": "Megadeth",
+    "title": "Megadeth, live at Hellfest Open Air 2026 – ARTE Concert",
+    "year": 2026,
+    "genre": "Metal",
+    "musicians": [
+      "Dave Mustaine"
+    ],
+    "durationSeconds": 4441
+  },
+  {
+    "id": "o2EmWosdtuE",
+    "artist": "Metallica",
+    "title": "Metallica - Mountain View, CA, USA [1989.09.15] Full Concert",
+    "year": 1989,
+    "genre": "Metal",
+    "musicians": [
+      "James Hetfield",
+      "Lars Ulrich",
+      "Kirk Hammett",
+      "Jason Newsted"
+    ],
+    "durationSeconds": 8441
+  },
+  {
+    "id": "zrYLgKK2D-A",
+    "artist": "Metallica",
+    "title": "Metallica Full Concert - Live from Nimes, France 2009 HD)",
+    "year": 2009,
+    "genre": "Metal",
+    "musicians": [
+      "James Hetfield",
+      "Lars Ulrich",
+      "Kirk Hammett",
+      "Robert Trujillo"
+    ],
+    "durationSeconds": 7921
+  },
+  {
+    "id": "mJje9Xpp5GE",
+    "artist": "Metallica",
+    "title": "Metallica: Live in Manchester, England - June 18, 2019 (Full Concert)",
+    "year": 2019,
+    "genre": "Metal",
+    "musicians": [
+      "James Hetfield",
+      "Lars Ulrich",
+      "Kirk Hammett",
+      "Robert Trujillo"
+    ],
+    "durationSeconds": 8876
+  },
+  {
+    "id": "CEbSPtfl4g0",
+    "artist": "Michael Jackson",
+    "title": "LIVE IN YOKOHAMA, 1987 - Bad World Tour (Full Concert) [60FPS] | Michael Jackson",
+    "year": 1987,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Michael Jackson"
+    ],
+    "durationSeconds": 4900
+  },
+  {
+    "id": "9shByOh8fVE",
+    "artist": "Michael Jackson",
+    "title": "Michael Jackson - Live At Wembley (July 16, 1988)",
+    "year": 1988,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Michael Jackson"
+    ],
+    "durationSeconds": 8107
+  },
+  {
+    "id": "SDDC-QdOR14",
+    "artist": "Michael Jackson",
+    "title": "LIVE IN MUNICH, 1997 - HIStory World Tour (Remastered 4K) | Michael Jackson",
+    "year": 1997,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Michael Jackson"
+    ],
+    "durationSeconds": 7231
+  },
+  {
+    "id": "CWuhoo_QTd0",
+    "artist": "Miles Davis",
+    "title": "Miles Davis- June 21-29, 1969 Blue Coronet Club, New York City",
+    "year": 1969,
+    "genre": "Jazz",
+    "musicians": [
+      "Miles Davis"
+    ],
+    "durationSeconds": 6429
+  },
+  {
+    "id": "oVfAKZ5cpbg",
+    "artist": "Miles Davis",
+    "title": "Miles Davis Septet Live At The North Sea Jazz Festival • 13-07-1985 • World of Jazz",
+    "year": 1985,
+    "genre": "Jazz",
+    "musicians": [
+      "Miles Davis"
+    ],
+    "durationSeconds": 7934
+  },
+  {
+    "id": "eyA4G4FYjm8",
+    "artist": "Miles Davis",
+    "title": "Miles Davis Band w/ Mike Stern - March 22, 1986 Lehman Center For Performing Arts, The Bronx, NYC",
+    "year": 1986,
+    "genre": "Jazz",
+    "musicians": [
+      "Miles Davis"
+    ],
+    "durationSeconds": 7424
+  },
+  {
+    "id": "7EoSIP6WedI",
+    "artist": "Miles Davis",
+    "title": "Miles Davis- November 24, 1987 Fabrik, Hamburg",
+    "year": 1987,
+    "genre": "Jazz",
+    "musicians": [
+      "Miles Davis"
+    ],
+    "durationSeconds": 12367
+  },
+  {
+    "id": "eJbYZiA5gJ4",
+    "artist": "Miles Davis",
+    "title": "Miles Davis- July 7, 1988 Montreux Jazz Festival, Casino, Montreux [audio only version]",
+    "year": 1988,
+    "genre": "Jazz",
+    "musicians": [
+      "Miles Davis"
+    ],
+    "durationSeconds": 8053
+  },
+  {
+    "id": "v7We-LBEr-c",
+    "artist": "Miles Davis",
+    "title": "Miles Davis - The Senate 1990 Hamburg full concert",
+    "year": 1990,
+    "genre": "Jazz",
+    "musicians": [
+      "Miles Davis"
+    ],
+    "durationSeconds": 6890
+  },
+  {
+    "id": "BORlmRCh8m8",
+    "artist": "Missing Persons",
+    "title": "Missing Persons Live US Festival 1983",
+    "year": 1983,
+    "genre": "New Wave",
+    "musicians": [
+      "Dale Bozzio",
+      "Terry Bozzio",
+      "Warren Cuccurullo",
+      "Patrick O'Hearn"
+    ],
+    "durationSeconds": 2600
+  },
+  {
+    "id": "31OGnDSZOEE",
+    "artist": "Missing Persons",
+    "title": "Missing Persons - Live at The Civic Auditorium in Albuquerque, NM (1984) [FULL SET]",
+    "year": 1984,
+    "genre": "New Wave",
+    "musicians": [
+      "Dale Bozzio",
+      "Terry Bozzio",
+      "Warren Cuccurullo",
+      "Patrick O'Hearn"
+    ],
+    "durationSeconds": 3448
+  },
+  {
+    "id": "WbnKcpPlOKs",
+    "artist": "Motörhead",
+    "title": "Motörhead - Live in Cincinatti 1991 [Full Concert]",
+    "year": 1991,
+    "genre": "Metal",
+    "musicians": [
+      "Lemmy",
+      "Phil Campbell",
+      "Mikkey Dee"
+    ],
+    "durationSeconds": 3980
+  },
+  {
+    "id": "YLRWod35vzA",
+    "artist": "Motörhead",
+    "title": "Motörhead – Live at Estadio Vélez Sarsfield (1994 Full Concert) | Soundboard Audio",
+    "year": 1994,
+    "genre": "Metal",
+    "musicians": [
+      "Lemmy",
+      "Phil Campbell",
+      "Mikkey Dee"
+    ],
+    "durationSeconds": 4335
+  },
+  {
+    "id": "qH1eX8UVRiw",
+    "artist": "Motörhead",
+    "title": "Motörhead - Live in Oxford 2006 [Full Concert]",
+    "year": 2006,
+    "genre": "Metal",
+    "musicians": [
+      "Lemmy",
+      "Phil Campbell",
+      "Mikkey Dee"
+    ],
+    "durationSeconds": 5197
+  },
+  {
+    "id": "ggRwMFviLXw",
+    "artist": "Motörhead",
+    "title": "Motörhead - Les Vieilles Charrues 2008 (Full Concert) Pro-Shot | HQ Audio",
+    "year": 2008,
+    "genre": "Metal",
+    "musicians": [
+      "Lemmy",
+      "Phil Campbell",
+      "Mikkey Dee"
+    ],
+    "durationSeconds": 4395
+  },
+  {
+    "id": "eZU9Jimeko4",
+    "artist": "Motörhead",
+    "title": "Motörhead - Live: Everything Louder Than Everything Else | Full Concert",
+    "year": 0,
+    "genre": "Metal",
+    "musicians": [
+      "Lemmy",
+      "Phil Campbell",
+      "Mikkey Dee"
+    ],
+    "durationSeconds": 3990
+  },
+  {
+    "id": "wN29opqAs7Y",
+    "artist": "Nirvana",
+    "title": "Nirvana Live in Amsterdam Netherlands Paradiso 1991 1080p BluRay",
+    "year": 1991,
+    "genre": "Grunge",
+    "musicians": [
+      "Kurt Cobain",
+      "Krist Novoselic",
+      "Dave Grohl"
+    ],
+    "durationSeconds": 3637
+  },
+  {
+    "id": "WH55yigHAr8",
+    "artist": "Nirvana",
+    "title": "Nirvana - LIVE & LOUD - 12/13/1993 (Remixed & Remastered)",
+    "year": 1993,
+    "genre": "Grunge",
+    "musicians": [
+      "Kurt Cobain",
+      "Krist Novoselic",
+      "Dave Grohl"
+    ],
+    "durationSeconds": 4602
+  },
+  {
+    "id": "tluCDea1YQw",
+    "artist": "Nirvana",
+    "title": "Nirvana MTV Unplugged Full Live",
+    "year": 0,
+    "genre": "Grunge",
+    "musicians": [
+      "Kurt Cobain",
+      "Krist Novoselic",
+      "Dave Grohl"
+    ],
+    "durationSeconds": 3989
+  },
+  {
+    "id": "6gLW5TArWh0",
+    "artist": "Ozric Tentacles",
+    "title": "Ozric Tentacles - (Full Set) @ Gagarin205, Athens 04/03/2016",
+    "year": 2016,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Ed Wynne"
+    ],
+    "durationSeconds": 7032
+  },
+  {
+    "id": "t7-wermy0As",
+    "artist": "Ozric Tentacles",
+    "title": "Ozric Tentacles Electronic @ MushroomLand, Ghent Belgium - 19th May, 2023 - Full Concert",
+    "year": 2023,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Ed Wynne"
+    ],
+    "durationSeconds": 4963
+  },
+  {
+    "id": "4vEFBz3y9cE",
+    "artist": "Ozric Tentacles",
+    "title": "Ozric Tentacles - Budapest, 2024.04.24 (full show)",
+    "year": 2024,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Ed Wynne"
+    ],
+    "durationSeconds": 5714
+  },
+  {
+    "id": "mCn8sCyoKg0",
+    "artist": "Pat Metheny Group",
+    "title": "Pat Metheny Group - Live at Bushnell Park | July 12, 1979 | Hartford, Connecticut",
+    "year": 1979,
+    "genre": "Fusion",
+    "musicians": [
+      "Pat Metheny"
+    ],
+    "durationSeconds": 4534
+  },
+  {
+    "id": "IpI-Hj0UDlw",
+    "artist": "Pat Metheny Group",
+    "title": "Pat Metheny Group - Montreal (1989)",
+    "year": 1989,
+    "genre": "Fusion",
+    "musicians": [
+      "Pat Metheny"
+    ],
+    "durationSeconds": 5538
+  },
+  {
+    "id": "l3AZjcjhwhc",
+    "artist": "Pat Metheny Group",
+    "title": "Live Under The Sky '92 - Pat Metheny Group, Larry Coryell & Marcus Miller Project w/ David Sanborn",
+    "year": 1992,
+    "genre": "Fusion",
+    "musicians": [
+      "Pat Metheny"
+    ],
+    "durationSeconds": 6797
+  },
+  {
+    "id": "pFtFw_LOIxw",
+    "artist": "Patti Smith",
+    "title": "Patti Smith - 11/11/23 - Ulster PAC, Kingston, NY - Complete show (4K)",
+    "year": 2023,
+    "genre": "Punk",
+    "musicians": [
+      "Patti Smith"
+    ],
+    "durationSeconds": 6217
+  },
+  {
+    "id": "qrPw4iq9mIU",
+    "artist": "Patti Smith",
+    "title": "Patti Smith - MSG 8/18/23 - Complete show",
+    "year": 2023,
+    "genre": "Punk",
+    "musicians": [
+      "Patti Smith"
+    ],
+    "durationSeconds": 3737
+  },
+  {
+    "id": "AijCm5wLG9o",
+    "artist": "Patti Smith",
+    "title": "Patti Smith - 11/22/25 - Beacon Theatre NYC - Complete show with \"Horses\" album",
+    "year": 2025,
+    "genre": "Punk",
+    "musicians": [
+      "Patti Smith"
+    ],
+    "durationSeconds": 7465
+  },
+  {
+    "id": "2Lm_8h-Nb8Q",
+    "artist": "Pearl Jam",
+    "title": "Pearl Jam Live -TEN SHOW at Philadelphia April 29 2016 (Full Show/Bootleg Audio)",
+    "year": 2016,
+    "genre": "Grunge",
+    "musicians": [
+      "Eddie Vedder",
+      "Mike McCready",
+      "Stone Gossard",
+      "Jeff Ament"
+    ],
+    "durationSeconds": 8780
+  },
+  {
+    "id": "rZrgFebIong",
+    "artist": "Pearl Jam",
+    "title": "Pearl Jam - Chicago, IL - 2023/09/07 - Full Live Show - Multicam - HQ Audio",
+    "year": 2023,
+    "genre": "Grunge",
+    "musicians": [
+      "Eddie Vedder",
+      "Mike McCready",
+      "Stone Gossard",
+      "Jeff Ament"
+    ],
+    "durationSeconds": 8291
+  },
+  {
+    "id": "qwXjtba57YQ",
+    "artist": "Pearl Jam",
+    "title": "Pearl Jam - Matt Camerons Last Show - Pittsburgh, PA - 2025/05/18 - N2 - Full Show - SBD Multicam",
+    "year": 2025,
+    "genre": "Grunge",
+    "musicians": [
+      "Eddie Vedder",
+      "Mike McCready",
+      "Stone Gossard",
+      "Jeff Ament"
+    ],
+    "durationSeconds": 9703
+  },
+  {
+    "id": "CUGg7nojoC8",
+    "artist": "Peter Gabriel",
+    "title": "Peter Gabriel - Live In Seattle - August 10th, 1983",
+    "year": 1983,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Gabriel",
+      "Tony Levin"
+    ],
+    "durationSeconds": 6412
+  },
+  {
+    "id": "Y9VLqU6NWHQ",
+    "artist": "Peter Gabriel",
+    "title": "Peter Gabriel - The Spectrum (1987) (full show)",
+    "year": 1987,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Gabriel",
+      "Tony Levin"
+    ],
+    "durationSeconds": 6672
+  },
+  {
+    "id": "D9qal_r1slw",
+    "artist": "Peter Gabriel",
+    "title": "Peter Gabriel Full Concert 08 14 94 Woodstock 94 OFFICIAL",
+    "year": 1994,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Gabriel",
+      "Tony Levin"
+    ],
+    "durationSeconds": 5582
+  },
+  {
+    "id": "I_J5V8dfNF4",
+    "artist": "Peter Gabriel",
+    "title": "Peter Gabriel Growing Up Live 2003 2016",
+    "year": 2003,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Gabriel",
+      "Tony Levin"
+    ],
+    "durationSeconds": 8034
+  },
+  {
+    "id": "prtSRGeILEo",
+    "artist": "Peter Gabriel",
+    "title": "Peter Gabriel Full Concert 2017",
+    "year": 2017,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Gabriel",
+      "Tony Levin"
+    ],
+    "durationSeconds": 3905
+  },
+  {
+    "id": "TiRBMNLIBXY",
+    "artist": "Phish",
+    "title": "Phish - NYE ‘95 - 1995-12-31 - New York, NY - Full Show",
+    "year": 1995,
+    "genre": "Jam Band",
+    "musicians": [
+      "Trey Anastasio",
+      "Page McConnell",
+      "Mike Gordon",
+      "Jon Fishman"
+    ],
+    "durationSeconds": 12855
+  },
+  {
+    "id": "jZWoH5djJIs",
+    "artist": "Phish",
+    "title": "Phish - 1997-12-29 - Madison Square Garden, NYC - Full Show",
+    "year": 1997,
+    "genre": "Jam Band",
+    "musicians": [
+      "Trey Anastasio",
+      "Page McConnell",
+      "Mike Gordon",
+      "Jon Fishman"
+    ],
+    "durationSeconds": 9513
+  },
+  {
+    "id": "FTWl7uY5QuM",
+    "artist": "Phish",
+    "title": "Phish - 1998-04-04 - Providence Civic Center - Island Tour - Full Show",
+    "year": 1998,
+    "genre": "Jam Band",
+    "musicians": [
+      "Trey Anastasio",
+      "Page McConnell",
+      "Mike Gordon",
+      "Jon Fishman"
+    ],
+    "durationSeconds": 10433
+  },
+  {
+    "id": "UEK8oV1qdz0",
+    "artist": "Phish",
+    "title": "Phish 1999.12.31 Big Cypress RAW VHS Footage",
+    "year": 1999,
+    "genre": "Jam Band",
+    "musicians": [
+      "Trey Anastasio",
+      "Page McConnell",
+      "Mike Gordon",
+      "Jon Fishman"
+    ],
+    "durationSeconds": 21027
+  },
+  {
+    "id": "y7CPVb_I5uY",
+    "artist": "Phish",
+    "title": "Phish - 12/29/24 - MSG New York - Complete show (4K)",
+    "year": 2024,
+    "genre": "Jam Band",
+    "musicians": [
+      "Trey Anastasio",
+      "Page McConnell",
+      "Mike Gordon",
+      "Jon Fishman"
+    ],
+    "durationSeconds": 10089
+  },
+  {
+    "id": "DcUyaS2O5Gk",
+    "artist": "Phish",
+    "title": "Phish - 7/23/24 - Mohegan Sun Night 1 - Complete show (4K)",
+    "year": 2024,
+    "genre": "Jam Band",
+    "musicians": [
+      "Trey Anastasio",
+      "Page McConnell",
+      "Mike Gordon",
+      "Jon Fishman"
+    ],
+    "durationSeconds": 11070
+  },
+  {
+    "id": "QzOFJ22l09g",
+    "artist": "Pink Floyd",
+    "title": "Pink Floyd - 23rd October 1970 (Live At Santa Monica) - Definitive Edition",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Gilmour",
+      "Roger Waters",
+      "Richard Wright",
+      "Nick Mason"
+    ],
+    "durationSeconds": 8310
+  },
+  {
+    "id": "vE2m4BE08dk",
+    "artist": "Pink Floyd",
+    "title": "Pink Floyd Full Concert Cleveland 6 November 1971",
+    "year": 1971,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Gilmour",
+      "Roger Waters",
+      "Richard Wright",
+      "Nick Mason"
+    ],
+    "durationSeconds": 7952
+  },
+  {
+    "id": "SmDZb8Gedt0",
+    "artist": "Pink Floyd",
+    "title": "Pink Floyd - Live At Wembley (Full Concert) 1974",
+    "year": 1974,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Gilmour",
+      "Roger Waters",
+      "Richard Wright",
+      "Nick Mason"
+    ],
+    "durationSeconds": 7823
+  },
+  {
+    "id": "zwK-tXBFSmI",
+    "artist": "Pink Floyd",
+    "title": "Pink Floyd - Live in Montréal, QC (July 6th, 1977) - FULL CONCERT REMASTER",
+    "year": 1977,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Gilmour",
+      "Roger Waters",
+      "Richard Wright",
+      "Nick Mason"
+    ],
+    "durationSeconds": 9171
+  },
+  {
+    "id": "HriYRoxWo1I",
+    "artist": "Pink Floyd",
+    "title": "Pink Floyd - Pulse (Live at Earls Court 1994) Full Concert HD",
+    "year": 1994,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Gilmour",
+      "Richard Wright",
+      "Nick Mason"
+    ],
+    "durationSeconds": 8554
+  },
+  {
+    "id": "kwCl6IuLav0",
+    "artist": "Pink Floyd",
+    "title": "Pink Floyd - The Last Bell - Earls Court Exhibition Hall - October 29, 1994 [HD/HQ] - Full Show",
+    "year": 1994,
+    "genre": "Classic Rock",
+    "musicians": [
+      "David Gilmour",
+      "Richard Wright",
+      "Nick Mason"
+    ],
+    "durationSeconds": 9093
+  },
+  {
+    "id": "nbqHZVZQ65M",
+    "artist": "Porcupine Tree",
+    "title": "Porcupine Tree - NEARfest 2001 (Full Show)",
+    "year": 2001,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Steven Wilson"
+    ],
+    "durationSeconds": 6415
+  },
+  {
+    "id": "j3caYehujAk",
+    "artist": "Porcupine Tree",
+    "title": "Porcupine Tree - Rockpalast 2005 [Inedit Full Version]",
+    "year": 2005,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Steven Wilson"
+    ],
+    "durationSeconds": 5185
+  },
+  {
+    "id": "ig9eAwMHR4M",
+    "artist": "Porcupine Tree",
+    "title": "Porcupine Tree - Octane Twisted - Live in Chicago 2010 - Full Concert",
+    "year": 2010,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Steven Wilson"
+    ],
+    "durationSeconds": 3428
+  },
+  {
+    "id": "kdUPjdEciqA",
+    "artist": "Prince",
+    "title": "Prince Capitol Theatre 1982 (full show)",
+    "year": 1982,
+    "genre": "Funk",
+    "musicians": [
+      "Prince"
+    ],
+    "durationSeconds": 4067
+  },
+  {
+    "id": "RcVsgijoGdE",
+    "artist": "Prince",
+    "title": "Prince Lovesexy Tour 1988 Toronto (Remastered Sound)",
+    "year": 1988,
+    "genre": "Funk",
+    "musicians": [
+      "Prince"
+    ],
+    "durationSeconds": 7066
+  },
+  {
+    "id": "Q4DEsj5_G9w",
+    "artist": "Prince",
+    "title": "Prince - The Sacrifice Of Victor, London 08/09/1993 - Full Concert [4K Remaster]",
+    "year": 1993,
+    "genre": "Funk",
+    "musicians": [
+      "Prince"
+    ],
+    "durationSeconds": 2301
+  },
+  {
+    "id": "BjCIOnRsafc",
+    "artist": "Prince",
+    "title": "Prince Live - Act 1 Tour - Radio City Music Hall, NYC - 26th March 1993",
+    "year": 1993,
+    "genre": "Funk",
+    "musicians": [
+      "Prince"
+    ],
+    "durationSeconds": 8808
+  },
+  {
+    "id": "En376Hg5aQU",
+    "artist": "Prince",
+    "title": "Prince - Live In Tokyo 15/11/2002 - Full Concert [HD Remastered | Filmed by Mr Rozy]",
+    "year": 2002,
+    "genre": "Funk",
+    "musicians": [
+      "Prince"
+    ],
+    "durationSeconds": 7381
+  },
+  {
+    "id": "4raRhTCa_58",
+    "artist": "Prince",
+    "title": "Prince (Live in Los Angeles 2004 !)",
+    "year": 2004,
+    "genre": "Funk",
+    "musicians": [
+      "Prince"
+    ],
+    "durationSeconds": 8325
+  },
+  {
+    "id": "RwXSBALm0dg",
+    "artist": "Prince",
+    "title": "PRINCE - Live At The Los Angeles Forum (April 28, 2011) [Full Concert / 4K Remastered]",
+    "year": 2011,
+    "genre": "Funk",
+    "musicians": [
+      "Prince"
+    ],
+    "durationSeconds": 7107
+  },
+  {
+    "id": "6IiDt9Dz7Wo",
+    "artist": "Queen",
+    "title": "Queen-Live at Wembley-Friday 11th July 1986 (Full Concert)",
+    "year": 1986,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Freddie Mercury",
+      "Brian May",
+      "John Deacon",
+      "Roger Taylor"
+    ],
+    "durationSeconds": 6402
+  },
+  {
+    "id": "lV9omVrZAmk",
+    "artist": "Queen",
+    "title": "Queen On Fire: Live at the Bowl | Full Concert",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Freddie Mercury",
+      "Brian May",
+      "John Deacon",
+      "Roger Taylor"
+    ],
+    "durationSeconds": 6241
+  },
+  {
+    "id": "poiwqYcFqYY",
+    "artist": "Queen",
+    "title": "Queen: Live at Wembley Stadium | Full Concert",
+    "year": 0,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Freddie Mercury",
+      "Brian May",
+      "John Deacon",
+      "Roger Taylor"
+    ],
+    "durationSeconds": 6661
+  },
+  {
+    "id": "_hRHW7a7qTs",
+    "artist": "Rainbow",
+    "title": "Rainbow - Live Between The Eyes (Remastered Full HD 1982)",
+    "year": 1982,
+    "genre": "Metal",
+    "musicians": [
+      "Ritchie Blackmore",
+      "Joe Lynn Turner"
+    ],
+    "durationSeconds": 4509
+  },
+  {
+    "id": "rYUt6mWSAGg",
+    "artist": "Rainbow",
+    "title": "Rainbow - Live In Japan (1984) (2015 Digital Remaster)",
+    "year": 1984,
+    "genre": "Metal",
+    "musicians": [
+      "Ritchie Blackmore",
+      "Joe Lynn Turner"
+    ],
+    "durationSeconds": 6296
+  },
+  {
+    "id": "d3xfV0OLa3I",
+    "artist": "Rainbow",
+    "title": "Rainbow ▬ Memories in Rock▬ Live In Germany (2016)",
+    "year": 2016,
+    "genre": "Metal",
+    "musicians": [
+      "Ritchie Blackmore"
+    ],
+    "durationSeconds": 8369
+  },
+  {
+    "id": "EaH-44IxNH4",
+    "artist": "Ramones",
+    "title": "Ramones - US Festival 1982",
+    "year": 1982,
+    "genre": "Punk",
+    "musicians": [
+      "Joey Ramone",
+      "Johnny Ramone",
+      "Dee Dee Ramone",
+      "Marky Ramone"
+    ],
+    "durationSeconds": 1279
+  },
+  {
+    "id": "LRCZ9oKQxFo",
+    "artist": "Ramones",
+    "title": "Ramones Live in Tokyo 1991 Master Tape Network 1080p 60fps HD",
+    "year": 1991,
+    "genre": "Punk",
+    "musicians": [
+      "Joey Ramone",
+      "Johnny Ramone",
+      "Dee Dee Ramone",
+      "Marky Ramone"
+    ],
+    "durationSeconds": 3673
+  },
+  {
+    "id": "H21MiXzH5O0",
+    "artist": "Ramones",
+    "title": "Ramones - Greatest Hits Live [The Complete Show]",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Joey Ramone",
+      "Johnny Ramone",
+      "Dee Dee Ramone",
+      "Marky Ramone"
+    ],
+    "durationSeconds": 4626
+  },
+  {
+    "id": "tFsrAVJZ4GU",
+    "artist": "Return to Forever",
+    "title": "Return to Forever - Live in Vienna 1975 [audio only]",
+    "year": 1975,
+    "genre": "Fusion",
+    "musicians": [
+      "Chick Corea"
+    ],
+    "durationSeconds": 7587
+  },
+  {
+    "id": "8E3UN_NnzZ0",
+    "artist": "Return to Forever",
+    "title": "Return to Forever | Chick Corea | John Beasley | Frankfurt Radio Big Band | FULL CONCERT | 4k",
+    "year": 0,
+    "genre": "Fusion",
+    "musicians": [
+      "Chick Corea"
+    ],
+    "durationSeconds": 5320
+  },
+  {
+    "id": "N_PdK8Gt7BE",
+    "artist": "Rush",
+    "title": "Rush - Palace of Auburn Hills 3-22-94 Full Show",
+    "year": 1994,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Geddy Lee",
+      "Alex Lifeson",
+      "Neil Peart"
+    ],
+    "durationSeconds": 7536
+  },
+  {
+    "id": "74RKHYNdnVY",
+    "artist": "Rush",
+    "title": "RUSH In Rio - Complete Concert from MaracanÃ£ Stadium in Rio de Janeiro - 11/23/2002",
+    "year": 2002,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Geddy Lee",
+      "Alex Lifeson",
+      "Neil Peart"
+    ],
+    "durationSeconds": 10043
+  },
+  {
+    "id": "poVtw23AEnQ",
+    "artist": "Rush",
+    "title": "RUSH \"FULL SHOW\" Mohegan Sun Arena Uncasville CT November 1, 2026 w Anika Nilles",
+    "year": 2026,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Geddy Lee",
+      "Alex Lifeson",
+      "Neil Peart"
+    ],
+    "durationSeconds": 10004
+  },
+  {
+    "id": "VNTMdjopqds",
+    "artist": "Rush",
+    "title": "RUSH - FULL SHOW - FIFTY SOMETHING TOUR@PPG Paints Arena Pittsburgh 11/15/26",
+    "year": 2026,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Geddy Lee",
+      "Alex Lifeson",
+      "Neil Peart"
+    ],
+    "durationSeconds": 10273
+  },
+  {
+    "id": "b3_TQKdksyc",
+    "artist": "Santana",
+    "title": "Santana Full Concert 08/18/70 Tanglewood (OFFICIAL)",
+    "year": 1970,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Carlos Santana"
+    ],
+    "durationSeconds": 5244
+  },
+  {
+    "id": "0n6wNNVIfV4",
+    "artist": "Santana",
+    "title": "Santana-Live in Tokyo Japan on 4-23-2000 Full Concert",
+    "year": 2000,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Carlos Santana"
+    ],
+    "durationSeconds": 7155
+  },
+  {
+    "id": "eTTbwscTMjU",
+    "artist": "Santana",
+    "title": "Carlos Santana Live Full Concert 2021",
+    "year": 2021,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Carlos Santana"
+    ],
+    "durationSeconds": 6623
+  },
+  {
+    "id": "afSZNfCQ12w",
+    "artist": "Slayer",
+    "title": "Slayer - Live Intrusion DVD 1995 (full concert) - Upscaled to 4K UHD",
+    "year": 1995,
+    "genre": "Metal",
+    "musicians": [
+      "Tom Araya",
+      "Kerry King",
+      "Jeff Hanneman",
+      "Dave Lombardo"
+    ],
+    "durationSeconds": 4238
+  },
+  {
+    "id": "w9DzIaBAMIQ",
+    "artist": "Slayer",
+    "title": "Slayer – Live at Rock Am Ring 2005 [HD Remastered] (Full Concert)",
+    "year": 2005,
+    "genre": "Metal",
+    "musicians": [
+      "Tom Araya",
+      "Kerry King",
+      "Jeff Hanneman",
+      "Dave Lombardo"
+    ],
+    "durationSeconds": 3332
+  },
+  {
+    "id": "rzcYrPAsJvA",
+    "artist": "Slayer",
+    "title": "Slayer - Live at Wacken 2014 (Full show HQ)",
+    "year": 2014,
+    "genre": "Metal",
+    "musicians": [
+      "Tom Araya",
+      "Kerry King",
+      "Jeff Hanneman",
+      "Dave Lombardo"
+    ],
+    "durationSeconds": 4086
+  },
+  {
+    "id": "7gu8q_fJeVU",
+    "artist": "Snarky Puppy",
+    "title": "Snarky Puppy Live at Java Jazz Festival 2014",
+    "year": 2014,
+    "genre": "Fusion",
+    "musicians": [
+      "Snarky Puppy"
+    ],
+    "durationSeconds": 4539
+  },
+  {
+    "id": "3v6CEjGigI8",
+    "artist": "Snarky Puppy",
+    "title": "SNARKY PUPPY & METROPOLE ORKEST live in Utrecht 2025",
+    "year": 2025,
+    "genre": "Fusion",
+    "musicians": [
+      "Snarky Puppy"
+    ],
+    "durationSeconds": 4099
+  },
+  {
+    "id": "eAiErbS76f0",
+    "artist": "Snarky Puppy",
+    "title": "Snarky Puppy @ Mission Ballroom, Denver CO [October 10th 2026]",
+    "year": 2026,
+    "genre": "Fusion",
+    "musicians": [
+      "Snarky Puppy"
+    ],
+    "durationSeconds": 4309
+  },
+  {
+    "id": "7VoYKjilORI",
+    "artist": "Soft Machine",
+    "title": "Soft Machine LIVE at Band on the Wall Manchester 2026",
+    "year": 2026,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Soft Machine"
+    ],
+    "durationSeconds": 6957
+  },
+  {
+    "id": "QWE83meaNME",
+    "artist": "Sonny Rollins",
+    "title": "Sonny Rollins - Jazz Jamboree 1980",
+    "year": 1980,
+    "genre": "Jazz",
+    "musicians": [
+      "Sonny Rollins"
+    ],
+    "durationSeconds": 4588
+  },
+  {
+    "id": "6qfIbtEGZRs",
+    "artist": "Sonny Rollins",
+    "title": "Sonny Rollins Sextet live in Munich (1992)",
+    "year": 1992,
+    "genre": "Jazz",
+    "musicians": [
+      "Sonny Rollins"
+    ],
+    "durationSeconds": 4961
+  },
+  {
+    "id": "6d9HvBaUlTY",
+    "artist": "Sonny Rollins",
+    "title": "Sonny Rollins - Full Concert - 08/10/08 - Newport Jazz Festival (OFFICIAL)",
+    "year": 2008,
+    "genre": "Jazz",
+    "musicians": [
+      "Sonny Rollins"
+    ],
+    "durationSeconds": 4870
+  },
+  {
+    "id": "FSGiMAhMkkw",
+    "artist": "Soundgarden",
+    "title": "Soundgarden - [Pinkpop Festival 1992] [Fullscreen 720p]",
+    "year": 1992,
+    "genre": "Grunge",
+    "musicians": [
+      "Chris Cornell",
+      "Kim Thayil"
+    ],
+    "durationSeconds": 1291
+  },
+  {
+    "id": "DeqwU6umLh0",
+    "artist": "Soundgarden",
+    "title": "Soundgarden - Live at Rock am Ring 2012 [Full Concert]",
+    "year": 2012,
+    "genre": "Grunge",
+    "musicians": [
+      "Chris Cornell",
+      "Kim Thayil"
+    ],
+    "durationSeconds": 3397
+  },
+  {
+    "id": "vvY7FVLfrFQ",
+    "artist": "Soundgarden",
+    "title": "Soundgarden: Live From Austin TX 2014 - Full Concert (Special Superunknown)",
+    "year": 2014,
+    "genre": "Grunge",
+    "musicians": [
+      "Chris Cornell",
+      "Kim Thayil"
+    ],
+    "durationSeconds": 4955
+  },
+  {
+    "id": "ondA-EHI2SQ",
+    "artist": "Stanley Clarke",
+    "title": "Stanley Clarke - Full Concert - 08/10/03 - Newport Jazz Festival (OFFICIAL)",
+    "year": 2003,
+    "genre": "Fusion",
+    "musicians": [
+      "Stanley Clarke"
+    ],
+    "durationSeconds": 3431
+  },
+  {
+    "id": "gAwxI3781BA",
+    "artist": "Stanley Clarke",
+    "title": "Stanley Clarke - Full Concert [HD] | Live at North Sea Jazz Festival 2004",
+    "year": 2004,
+    "genre": "Fusion",
+    "musicians": [
+      "Stanley Clarke"
+    ],
+    "durationSeconds": 3939
+  },
+  {
+    "id": "D0tp3oNhLCI",
+    "artist": "Stanley Clarke",
+    "title": "Stanley Clarke Band - Full Concert [HD] | Live at North Sea Jazz Festival 2015",
+    "year": 2015,
+    "genre": "Fusion",
+    "musicians": [
+      "Stanley Clarke"
+    ],
+    "durationSeconds": 4388
+  },
+  {
+    "id": "-8L565auwRQ",
+    "artist": "Steely Dan",
+    "title": "Steely Dan - Live in Detroit, MI 2000 [FULL SHOW] [60FPS]",
+    "year": 2000,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Donald Fagen",
+      "Walter Becker"
+    ],
+    "durationSeconds": 7819
+  },
+  {
+    "id": "7GX4VXvoEBE",
+    "artist": "Steely Dan",
+    "title": "STEELY DAN 11th August 2003 - Clarkston (Pine Knob), Stereo Remixed & Remastered in 1080p 60fps",
+    "year": 2003,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Donald Fagen",
+      "Walter Becker"
+    ],
+    "durationSeconds": 7667
+  },
+  {
+    "id": "AXCCzoc3-xM",
+    "artist": "Steely Dan",
+    "title": "Steely Dan: \"Live\" St. Louis, MO, Sept. 4th, 2006, Full Concert, (HD)",
+    "year": 2006,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Donald Fagen",
+      "Walter Becker"
+    ],
+    "durationSeconds": 7311
+  },
+  {
+    "id": "vvQ-eZ3PFVE",
+    "artist": "Steve Vai",
+    "title": "Steve Vai - Live with the Holland Metropole Orchestra 2005 - Full Concert",
+    "year": 2005,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Steve Vai"
+    ],
+    "durationSeconds": 5855
+  },
+  {
+    "id": "fZ7DBuU_ueA",
+    "artist": "Steve Vai",
+    "title": "Steve Vai \"Inviolate Europe Full Set\" Live 07.04.23@TeatroDal Verme",
+    "year": 2023,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Steve Vai"
+    ],
+    "durationSeconds": 7679
+  },
+  {
+    "id": "B9CUD8KgwmE",
+    "artist": "Steve Vai",
+    "title": "Steve Vai - Live at the Billboard Tokyo - Full Show",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Steve Vai"
+    ],
+    "durationSeconds": 5922
+  },
+  {
+    "id": "Ik0T9ivZVhk",
+    "artist": "Steve Vai",
+    "title": "Steve Vai - Where The Wild Things Are [full concert]",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Steve Vai"
+    ],
+    "durationSeconds": 9775
+  },
+  {
+    "id": "oJ-AEDkoPw4",
+    "artist": "Stevie Ray Vaughan",
+    "title": "Stevie Ray Vaughan: Live at The Capitol Theatre 1985 (Full Concert Experience)",
+    "year": 1985,
+    "genre": "Blues",
+    "musicians": [
+      "Stevie Ray Vaughan"
+    ],
+    "durationSeconds": 5996
+  },
+  {
+    "id": "JvJ1QSMIsys",
+    "artist": "Stevie Ray Vaughan",
+    "title": "Stevie Ray Vaughan & Double Trouble - Live Austin City Limits 1989 (Full Concert)",
+    "year": 1989,
+    "genre": "Blues",
+    "musicians": [
+      "Stevie Ray Vaughan"
+    ],
+    "durationSeconds": 1987
+  },
+  {
+    "id": "Oqxs2WutrzQ",
+    "artist": "Stevie Wonder",
+    "title": "Stevie Wonder - Live At Last .2009 (Full)",
+    "year": 2009,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Stevie Wonder"
+    ],
+    "durationSeconds": 8058
+  },
+  {
+    "id": "1wpimw4xahY",
+    "artist": "Stevie Wonder",
+    "title": "STEVIE WONDER Live @ Glastonbury 2010 (REMASTERED FULL SHOW HD)",
+    "year": 2010,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Stevie Wonder"
+    ],
+    "durationSeconds": 5549
+  },
+  {
+    "id": "jQybKElBGR8",
+    "artist": "Stevie Wonder",
+    "title": "🪄Stevie Wonder LIVE @ MSG, NYC; 50 Years of Songs In The Key Of Life; Nov 19, 2026 (Madison Square)",
+    "year": 2026,
+    "genre": "Soul/R&B",
+    "musicians": [
+      "Stevie Wonder"
+    ],
+    "durationSeconds": 9651
+  },
+  {
+    "id": "dp9Oxsvt_VA",
+    "artist": "Stick Men",
+    "title": "Stick Man (Tony Levin, Pat Mastelotto & Markus Reuter), Homer (2024)",
+    "year": 2024,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Tony Levin",
+      "Pat Mastelotto",
+      "Markus Reuter"
+    ],
+    "durationSeconds": 7226
+  },
+  {
+    "id": "m1RuCftLGDc",
+    "artist": "Stick Men",
+    "title": "Stick Men - Prog Noir - at the Nieuwe Nor - Complete show",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Tony Levin",
+      "Pat Mastelotto",
+      "Markus Reuter"
+    ],
+    "durationSeconds": 6484
+  },
+  {
+    "id": "ZjGIAD86RKI",
+    "artist": "Supertramp",
+    "title": "Supertramp - Live in London - November 10th, 1977",
+    "year": 1977,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Rick Davies",
+      "Roger Hodgson"
+    ],
+    "durationSeconds": 3997
+  },
+  {
+    "id": "dBUCNKQyTIQ",
+    "artist": "Supertramp",
+    "title": "Roger Hodgson Supertramp Jazz Open Stuttgart 2013 HD",
+    "year": 2013,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Rick Davies"
+    ],
+    "durationSeconds": 4443
+  },
+  {
+    "id": "fFn6S2iRpPw",
+    "artist": "Supertramp",
+    "title": "Supertramp concert in Bulgaria 2014",
+    "year": 2014,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Rick Davies"
+    ],
+    "durationSeconds": 2888
+  },
+  {
+    "id": "GwWW742T0Wc",
+    "artist": "Talking Heads",
+    "title": "Talking Heads - Live in Rome 1980 [Full Concert]",
+    "year": 1980,
+    "genre": "New Wave",
+    "musicians": [
+      "David Byrne",
+      "Tina Weymouth",
+      "Chris Frantz",
+      "Jerry Harrison",
+      "Adrian Belew",
+      "Bernie Worrell"
+    ],
+    "durationSeconds": 3862
+  },
+  {
+    "id": "BFvgWguaC9g",
+    "artist": "Talking Heads",
+    "title": "Talking Heads Full Concert 11 04 80 Capitol Theatre OFFICIAL",
+    "year": 1980,
+    "genre": "New Wave",
+    "musicians": [
+      "David Byrne",
+      "Tina Weymouth",
+      "Chris Frantz",
+      "Jerry Harrison",
+      "Adrian Belew",
+      "Bernie Worrell"
+    ],
+    "durationSeconds": 4783
+  },
+  {
+    "id": "ldwpwrW6tno",
+    "artist": "Talking Heads",
+    "title": "Talking Heads live at Montreux Jazz Festival (1982)",
+    "year": 1982,
+    "genre": "New Wave",
+    "musicians": [
+      "David Byrne",
+      "Tina Weymouth",
+      "Chris Frantz",
+      "Jerry Harrison"
+    ],
+    "durationSeconds": 4885
+  },
+  {
+    "id": "uacvEM0F6Mw",
+    "artist": "Talking Heads",
+    "title": "Talking Heads - Live in Rome - Full Concert [Restored HD Video]",
+    "year": 0,
+    "genre": "New Wave",
+    "musicians": [
+      "David Byrne",
+      "Tina Weymouth",
+      "Chris Frantz",
+      "Jerry Harrison"
+    ],
+    "durationSeconds": 3870
+  },
+  {
+    "id": "5Hb9aNgivdg",
+    "artist": "The Allman Brothers Band",
+    "title": "The Allman Brothers Band - Full Concert | Live at Capitol Theatre (1979)",
+    "year": 1979,
+    "genre": "Blues",
+    "musicians": [
+      "Gregg Allman",
+      "Warren Haynes",
+      "Butch Trucks",
+      "Jaimoe"
+    ],
+    "durationSeconds": 9022
+  },
+  {
+    "id": "92qrKpkIt-k",
+    "artist": "The Allman Brothers Band",
+    "title": "Allman Brothers Live At Great Woods, Mansfield Massachusetts, 9/6/1991 (Full Concert)",
+    "year": 1991,
+    "genre": "Blues",
+    "musicians": [
+      "Gregg Allman",
+      "Warren Haynes",
+      "Butch Trucks",
+      "Jaimoe"
+    ],
+    "durationSeconds": 8533
+  },
+  {
+    "id": "1eHTnUoIP_A",
+    "artist": "The Allman Brothers Band",
+    "title": "Allman Brothers Live At Montage Mountain, Scranton Pennsylvania, 8/6/2000 (Full Concert)",
+    "year": 2000,
+    "genre": "Blues",
+    "musicians": [
+      "Gregg Allman",
+      "Warren Haynes",
+      "Butch Trucks",
+      "Jaimoe"
+    ],
+    "durationSeconds": 9310
+  },
+  {
+    "id": "Oxo7VtyEb9c",
+    "artist": "The Allman Brothers Band",
+    "title": "Allman Brothers Live At Polaris Amphitheatre, Columbus Ohio, 6/27/2000 (Full Concert)",
+    "year": 2000,
+    "genre": "Blues",
+    "musicians": [
+      "Gregg Allman",
+      "Warren Haynes",
+      "Butch Trucks",
+      "Jaimoe"
+    ],
+    "durationSeconds": 9559
+  },
+  {
+    "id": "-z2hBkyiggk",
+    "artist": "The Allman Brothers Band",
+    "title": "Allman Brothers Live At Riverfront Park, Nashville Tennessee, 5/5/2000 (Full Concert)",
+    "year": 2000,
+    "genre": "Blues",
+    "musicians": [
+      "Gregg Allman",
+      "Warren Haynes",
+      "Butch Trucks",
+      "Jaimoe"
+    ],
+    "durationSeconds": 8084
+  },
+  {
+    "id": "NXF_2ndbImc",
+    "artist": "The Allman Brothers Band",
+    "title": "Allman Brothers Live At The Beacon Theatre, New York City, 3/28/2009 PROSHOT (Full Concert)",
+    "year": 2009,
+    "genre": "Blues",
+    "musicians": [
+      "Gregg Allman",
+      "Warren Haynes",
+      "Butch Trucks",
+      "Jaimoe"
+    ],
+    "durationSeconds": 11742
+  },
+  {
+    "id": "8qnCB3fkoXA",
+    "artist": "The Band",
+    "title": "The Band Live At The Casino Arena 7/20/76 Complete Concert",
+    "year": 1976,
+    "genre": "Folk",
+    "musicians": [
+      "Levon Helm",
+      "Robbie Robertson",
+      "Rick Danko",
+      "Richard Manuel",
+      "Garth Hudson"
+    ],
+    "durationSeconds": 4808
+  },
+  {
+    "id": "fXJ9HHwAmfM",
+    "artist": "The Band",
+    "title": "The Band 12/31/83 Complete Concert",
+    "year": 1983,
+    "genre": "Folk",
+    "musicians": [
+      "Levon Helm"
+    ],
+    "durationSeconds": 4473
+  },
+  {
+    "id": "TDJSLuwghUU",
+    "artist": "The Band",
+    "title": "The Band 1994-4-22 Complete Show",
+    "year": 1994,
+    "genre": "Folk",
+    "musicians": [
+      "Levon Helm"
+    ],
+    "durationSeconds": 3886
+  },
+  {
+    "id": "5a4YupnT1sM",
+    "artist": "The Beach Boys",
+    "title": "THE BEACH BOYS THE LOST CONCERT 1964",
+    "year": 1964,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Brian Wilson",
+      "Mike Love"
+    ],
+    "durationSeconds": 1295
+  },
+  {
+    "id": "GEnVFuznUCg",
+    "artist": "The Beach Boys",
+    "title": "The Beach Boys - July 4. 1980 Washington D.C.",
+    "year": 1980,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Brian Wilson",
+      "Mike Love"
+    ],
+    "durationSeconds": 3346
+  },
+  {
+    "id": "XMBgzSqNgUY",
+    "artist": "The Beach Boys",
+    "title": "THE BEACH BOYS 50 YRS LIVE IN JAPAN 2012 FULL SHOW",
+    "year": 2012,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Brian Wilson",
+      "Mike Love"
+    ],
+    "durationSeconds": 6112
+  },
+  {
+    "id": "-gVv3VOSYIU",
+    "artist": "The Bears",
+    "title": "The Bears - Live at The Limelight, Chicago (Full Concert) 1986 (feat. Adrian Belew)",
+    "year": 1986,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Adrian Belew"
+    ],
+    "durationSeconds": 3390
+  },
+  {
+    "id": "FwrtjHxtkFo",
+    "artist": "The Clash",
+    "title": "The Clash - Live in Tokyo, Japan 1982 - full concert",
+    "year": 1982,
+    "genre": "Punk",
+    "musicians": [
+      "Joe Strummer",
+      "Mick Jones",
+      "Paul Simonon",
+      "Topper Headon"
+    ],
+    "durationSeconds": 3278
+  },
+  {
+    "id": "RgdXqj2nrfs",
+    "artist": "The Clash",
+    "title": "The Clash - US Festival 1983 [XRCF Remaster]",
+    "year": 1983,
+    "genre": "Punk",
+    "musicians": [
+      "Joe Strummer",
+      "Mick Jones",
+      "Paul Simonon",
+      "Topper Headon"
+    ],
+    "durationSeconds": 4703
+  },
+  {
+    "id": "dsZks2ZxqTs",
+    "artist": "The Clash",
+    "title": "The Clash live San Bernardino 1983",
+    "year": 1983,
+    "genre": "Punk",
+    "musicians": [
+      "Joe Strummer",
+      "Mick Jones",
+      "Paul Simonon",
+      "Topper Headon"
+    ],
+    "durationSeconds": 4523
+  },
+  {
+    "id": "337IsamlT78",
+    "artist": "The Cure",
+    "title": "The Cure Essen 1989 Remasted!! full show",
+    "year": 1989,
+    "genre": "New Wave",
+    "musicians": [
+      "Robert Smith"
+    ],
+    "durationSeconds": 8461
+  },
+  {
+    "id": "UEc2os_rj6c",
+    "artist": "The Cure",
+    "title": "The Cure - Full Concert [HD] | Live at Pinkpop 2012",
+    "year": 2012,
+    "genre": "New Wave",
+    "musicians": [
+      "Robert Smith"
+    ],
+    "durationSeconds": 8115
+  },
+  {
+    "id": "dynZy7HdVH4",
+    "artist": "The Cure",
+    "title": "The Cure - Live at Somerset 2019 (Full Set)",
+    "year": 2019,
+    "genre": "New Wave",
+    "musicians": [
+      "Robert Smith"
+    ],
+    "durationSeconds": 7093
+  },
+  {
+    "id": "NuppX_FpAX4",
+    "artist": "The Levin Brothers",
+    "title": "The Levin Brothers - 6.16.21 - Live from Daryl's House Club",
+    "year": 2021,
+    "genre": "Jazz",
+    "musicians": [
+      "Tony Levin",
+      "Pete Levin"
+    ],
+    "durationSeconds": 6835
+  },
+  {
+    "id": "FMGGo9miE00",
+    "artist": "The Police",
+    "title": "The Police - Hatfield Polytechnic 1979 (Full Show)",
+    "year": 1979,
+    "genre": "New Wave",
+    "musicians": [
+      "Sting",
+      "Stewart Copeland",
+      "Andy Summers"
+    ],
+    "durationSeconds": 2887
+  },
+  {
+    "id": "F4VjsqR5Vbc",
+    "artist": "The Police",
+    "title": "The Police – Full Show live, Hamburg l 1980 | Rockpalast",
+    "year": 1980,
+    "genre": "New Wave",
+    "musicians": [
+      "Sting",
+      "Stewart Copeland",
+      "Andy Summers"
+    ],
+    "durationSeconds": 3998
+  },
+  {
+    "id": "eJ_axsxy0Xk",
+    "artist": "The Police",
+    "title": "The Police - Certifiable Live Buenos Aires (Full Concert DVD HD)",
+    "year": 0,
+    "genre": "New Wave",
+    "musicians": [
+      "Sting",
+      "Stewart Copeland",
+      "Andy Summers"
+    ],
+    "durationSeconds": 6515
+  },
+  {
+    "id": "MqIMhoEISdM",
+    "artist": "The Rolling Stones",
+    "title": "The Rolling Stones live at Twickenham Stadium, London, 24 August 2003 - pro video | complete concert",
+    "year": 2003,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mick Jagger",
+      "Keith Richards",
+      "Charlie Watts",
+      "Ron Wood"
+    ],
+    "durationSeconds": 7098
+  },
+  {
+    "id": "kfORcR2VSbc",
+    "artist": "The Rolling Stones",
+    "title": "The Rolling Stones Live Full Concert 2017",
+    "year": 2017,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mick Jagger",
+      "Keith Richards",
+      "Charlie Watts",
+      "Ron Wood"
+    ],
+    "durationSeconds": 7876
+  },
+  {
+    "id": "yafcId3UYcE",
+    "artist": "The Rolling Stones",
+    "title": "Rolling Stones - Vienna 2022 Full Concert",
+    "year": 2022,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Mick Jagger",
+      "Keith Richards",
+      "Charlie Watts",
+      "Ron Wood"
+    ],
+    "durationSeconds": 7957
+  },
+  {
+    "id": "3w0RB6A9vak",
+    "artist": "The Who",
+    "title": "The Who [4k Remaster 10-bit] LIVE IN CHICAGO December 8, 1979",
+    "year": 1979,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Roger Daltrey",
+      "Pete Townshend",
+      "John Entwistle"
+    ],
+    "durationSeconds": 9117
+  },
+  {
+    "id": "Al3qlST6lnI",
+    "artist": "The Who",
+    "title": "THE WHO 1982 The Final Concert Live from Maple Leaf Gardens in Toronto Canada",
+    "year": 1982,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Roger Daltrey",
+      "Pete Townshend",
+      "John Entwistle"
+    ],
+    "durationSeconds": 6818
+  },
+  {
+    "id": "dX0fOyoyOlE",
+    "artist": "The Who",
+    "title": "The Who : Tommy - Concert (Live U.S. Tour / 1989)",
+    "year": 1989,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Roger Daltrey",
+      "Pete Townshend",
+      "John Entwistle"
+    ],
+    "durationSeconds": 3745
+  },
+  {
+    "id": "ZzWjR6xO-BE",
+    "artist": "Thelonious Monk",
+    "title": "Thelonious Monk - Live At Berliner Jazztage (1969)",
+    "year": 1969,
+    "genre": "Jazz",
+    "musicians": [
+      "Thelonious Monk"
+    ],
+    "durationSeconds": 1775
+  },
+  {
+    "id": "NetadSNIqdA",
+    "artist": "Thelonious Monk",
+    "title": "Thelonious Monk, Art Blakey, Kai Winding, Dizzy Gillespie, Sonny Stitt - Live 1971 • World of Jazz",
+    "year": 1971,
+    "genre": "Jazz",
+    "musicians": [
+      "Thelonious Monk"
+    ],
+    "durationSeconds": 3476
+  },
+  {
+    "id": "gc8DB499wcc",
+    "artist": "Tom Petty",
+    "title": "Tom Petty & The Heartbreakers: Live at Winterland 1978 (Full Concert Experience)",
+    "year": 1978,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Tom Petty"
+    ],
+    "durationSeconds": 5552
+  },
+  {
+    "id": "ascEnKGjph4",
+    "artist": "Tom Petty",
+    "title": "Tom Petty and the Heartbreakers Live USA 2003",
+    "year": 2003,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Tom Petty"
+    ],
+    "durationSeconds": 6393
+  },
+  {
+    "id": "hpa6hsdPj_Q",
+    "artist": "Tom Petty",
+    "title": "Tom Petty And The Heartbreakers - (PPL Center) Allentown,Pa 9.16.14 (HD Multicam)",
+    "year": 2014,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Tom Petty"
+    ],
+    "durationSeconds": 6355
+  },
+  {
+    "id": "Z8fkFKC0fV8",
+    "artist": "Tom Waits",
+    "title": "Tom Waits - Rockpalast 1977 FULL SHOW PROSHOT",
+    "year": 1977,
+    "genre": "Singer-Songwriter",
+    "musicians": [
+      "Tom Waits"
+    ],
+    "durationSeconds": 4820
+  },
+  {
+    "id": "JbKNrdlXHLY",
+    "artist": "Tom Waits",
+    "title": "Tom Waits, Austin City Limits, 1978",
+    "year": 1978,
+    "genre": "Singer-Songwriter",
+    "musicians": [
+      "Tom Waits"
+    ],
+    "durationSeconds": 3185
+  },
+  {
+    "id": "ByMi1Yii9ek",
+    "artist": "Tom Waits",
+    "title": "Tom Waits – Glitter and Doom Concert Experience (2008)",
+    "year": 2008,
+    "genre": "Singer-Songwriter",
+    "musicians": [
+      "Tom Waits"
+    ],
+    "durationSeconds": 6364
+  },
+  {
+    "id": "WFHMyX1PA4M",
+    "artist": "Tool",
+    "title": "Tool Live DVD 2016 (Full Concert)",
+    "year": 2016,
+    "genre": "Metal",
+    "musicians": [
+      "Maynard James Keenan",
+      "Adam Jones",
+      "Justin Chancellor",
+      "Danny Carey"
+    ],
+    "durationSeconds": 5664
+  },
+  {
+    "id": "ofCz96QvO-0",
+    "artist": "Tool",
+    "title": "Tool Live at State Farm Arena Atlanta Georgia 2024-01-24 [Full Show 4K]",
+    "year": 2024,
+    "genre": "Metal",
+    "musicians": [
+      "Maynard James Keenan",
+      "Adam Jones",
+      "Justin Chancellor",
+      "Danny Carey"
+    ],
+    "durationSeconds": 7159
+  },
+  {
+    "id": "rFuX08vV_qw",
+    "artist": "Tool",
+    "title": "TOOL @ Lollapalooza Chile 2025 Full Show Multicam [4K HDR]",
+    "year": 2025,
+    "genre": "Metal",
+    "musicians": [
+      "Maynard James Keenan",
+      "Adam Jones",
+      "Justin Chancellor",
+      "Danny Carey"
+    ],
+    "durationSeconds": 6346
+  },
+  {
+    "id": "PN1JhBz39vE",
+    "artist": "UK",
+    "title": "U.K. (Bruford-Wetton-Jobson-Holdsworth) - Cleveland 1978",
+    "year": 1978,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "John Wetton",
+      "Eddie Jobson",
+      "Allan Holdsworth",
+      "Bill Bruford"
+    ],
+    "durationSeconds": 3648
+  },
+  {
+    "id": "12VFzCwub8M",
+    "artist": "UK",
+    "title": "U.K. Live in Philadelphia, 1978/08/08",
+    "year": 1978,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "John Wetton",
+      "Eddie Jobson",
+      "Allan Holdsworth",
+      "Bill Bruford"
+    ],
+    "durationSeconds": 3939
+  },
+  {
+    "id": "OFoSyKxkLc8",
+    "artist": "UK",
+    "title": "U K Live In Oakland Coliseum November 18 1979 Full Concert",
+    "year": 1979,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "John Wetton",
+      "Eddie Jobson",
+      "Terry Bozzio"
+    ],
+    "durationSeconds": 3236
+  },
+  {
+    "id": "xlpsWHRYN7w",
+    "artist": "Van der Graaf Generator",
+    "title": "Van der Graaf Generator - Godbluff Live - 1975 (Restored & Remastered)",
+    "year": 1975,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Hammill"
+    ],
+    "durationSeconds": 2285
+  },
+  {
+    "id": "eUnTqMUYmwo",
+    "artist": "Van der Graaf Generator",
+    "title": "Van der Graaf Generator- Reunion Concert 2005",
+    "year": 2005,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Hammill"
+    ],
+    "durationSeconds": 7795
+  },
+  {
+    "id": "1gPTM2AwK3w",
+    "artist": "Van der Graaf Generator",
+    "title": "Van der Graaf Generator - NYC '76 (Live Footage!)",
+    "year": 1976,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Peter Hammill"
+    ],
+    "durationSeconds": 5294
+  },
+  {
+    "id": "9Osc4lcM5vI",
+    "artist": "Weather Report",
+    "title": "Weather Report - Live in Atlanta 1976 FULL SHOW!",
+    "year": 1976,
+    "genre": "Fusion",
+    "musicians": [
+      "Joe Zawinul",
+      "Wayne Shorter"
+    ],
+    "durationSeconds": 5181
+  },
+  {
+    "id": "jntZUdROEIw",
+    "artist": "Weather Report",
+    "title": "Weather Report - Live in Santa Cruz 1980 (FULL CONCERT)",
+    "year": 1980,
+    "genre": "Fusion",
+    "musicians": [
+      "Joe Zawinul",
+      "Wayne Shorter"
+    ],
+    "durationSeconds": 7008
+  },
+  {
+    "id": "rPZzHlTz-OU",
+    "artist": "Weather Report",
+    "title": "Weather Report - 1984-03-29, Uihlein Hall, Performing Arts Center, Milwaukee, WI",
+    "year": 1984,
+    "genre": "Fusion",
+    "musicians": [
+      "Joe Zawinul",
+      "Wayne Shorter"
+    ],
+    "durationSeconds": 7740
+  },
+  {
+    "id": "ATfQLwBiFvg",
+    "artist": "Whitesnake",
+    "title": "Whitesnake - Live At Donington 1990 (Full Concert)",
+    "year": 1990,
+    "genre": "Metal",
+    "musicians": [
+      "David Coverdale",
+      "Steve Vai"
+    ],
+    "durationSeconds": 6395
+  },
+  {
+    "id": "gWXB30iV5os",
+    "artist": "Whitesnake",
+    "title": "Whitesnake - Live at the Hammersmith Apollo, London, UK (2004) (Full Show)",
+    "year": 2004,
+    "genre": "Metal",
+    "musicians": [
+      "David Coverdale"
+    ],
+    "durationSeconds": 6105
+  },
+  {
+    "id": "DpanX6BFdgQ",
+    "artist": "Whitesnake",
+    "title": "Whitesnake - Made in Japan Full Concert [Blu-ray * 1080p Premium HD]",
+    "year": 0,
+    "genre": "Metal",
+    "musicians": [
+      "David Coverdale"
+    ],
+    "durationSeconds": 4432
+  },
+  {
+    "id": "9eE1KPwzAzA",
+    "artist": "Yes",
+    "title": "Yes - Philadelphia, PA 6/21/1979",
+    "year": 1979,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Jon Anderson",
+      "Steve Howe",
+      "Chris Squire",
+      "Rick Wakeman",
+      "Alan White"
+    ],
+    "durationSeconds": 3093
+  },
+  {
+    "id": "VFs0jJ5Sw5w",
+    "artist": "Yes",
+    "title": "Yes ~ 9012 Live Tour 1984",
+    "year": 1984,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Jon Anderson",
+      "Trevor Rabin",
+      "Chris Squire",
+      "Tony Kaye",
+      "Alan White"
+    ],
+    "durationSeconds": 2883
+  },
+  {
+    "id": "6JRJ5oN-FEU",
+    "artist": "Yes",
+    "title": "Yes - Live In Mountain View - August 8th, 1991",
+    "year": 1991,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Jon Anderson",
+      "Steve Howe",
+      "Chris Squire",
+      "Rick Wakeman",
+      "Alan White"
+    ],
+    "durationSeconds": 9305
+  },
+  {
+    "id": "yMIXCQjF9lc",
+    "artist": "Yes",
+    "title": "YES - SONGS FROM TSONGAS. THE 35TH ANNIVERSARY CONCERT 2004 HD",
+    "year": 2004,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Jon Anderson",
+      "Steve Howe",
+      "Chris Squire",
+      "Rick Wakeman",
+      "Alan White"
+    ],
+    "durationSeconds": 8647
+  },
+  {
+    "id": "t9VbeKd7AyE",
+    "artist": "Yes",
+    "title": "YES - Union Tour - Live Full Concert in the Round",
+    "year": 0,
+    "genre": "Progressive Rock",
+    "musicians": [
+      "Jon Anderson",
+      "Steve Howe",
+      "Chris Squire",
+      "Rick Wakeman",
+      "Alan White"
+    ],
+    "durationSeconds": 4913
+  },
+  {
+    "id": "NskLRp9MQAs",
+    "artist": "Zappa Plays Zappa",
+    "title": "Zappa Plays Zappa House Of Blues 2015",
+    "year": 2015,
+    "genre": "Classic Rock",
+    "musicians": [
+      "Dweezil Zappa"
+    ],
+    "durationSeconds": 9977
   }
 ]
