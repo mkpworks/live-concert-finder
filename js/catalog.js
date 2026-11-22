@@ -34,6 +34,7 @@
 
   function buildIndex(concerts, musicianInstruments) {
     const instrumentsByMusician = musicianInstruments || {};
+    const EMPTY_INSTRUMENTS = [];
     const musicianCount = {};
     for (const concert of concerts) {
       for (const name of concert.musicians) {
@@ -61,7 +62,7 @@
 
     function instrumentsFor(name) {
       const list = instrumentsByMusician[name];
-      return Array.isArray(list) ? list.slice() : [];
+      return Array.isArray(list) ? list : EMPTY_INSTRUMENTS;
     }
 
     function concertInstruments(concert) {

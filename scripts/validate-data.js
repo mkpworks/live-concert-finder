@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 
 const ID_RE = /^[A-Za-z0-9_-]{11}$/;
-const INSTRUMENT_RE = /^[a-z0-9]+(?:[ -][a-z0-9]+)*$/;
+const INSTRUMENT_RE = /^[A-Za-z0-9]+(?:[ /-][A-Za-z0-9]+)*$/;
 
 function isPlainObject(value) {
   return Boolean(value) && typeof value === "object" && !Array.isArray(value);
@@ -77,7 +77,7 @@ function validate(concerts, musicians) {
     const seenInst = new Set();
     list.forEach((instrument, index) => {
       if (typeof instrument !== "string" || !INSTRUMENT_RE.test(instrument)) {
-        errors.push("musicians " + JSON.stringify(name) + "[" + index + "] must be a lowercase instrument name");
+        errors.push("musicians " + JSON.stringify(name) + "[" + index + "] must be an instrument name");
         return;
       }
       if (seenInst.has(instrument)) errors.push("musicians " + JSON.stringify(name) + " repeats " + instrument);

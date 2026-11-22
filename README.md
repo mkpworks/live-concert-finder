@@ -61,7 +61,7 @@ node scripts/validate-data.js
 node scripts/check-catalog.js
 ```
 
-Validation requires unique YouTube ids and the required concert fields, and it checks that each instrument list is a non-empty list of lowercase names. It prints musicians who still have no instruments. That reminder is not a failure. The Pages workflow runs the same checks before it deploys.
+Validation requires unique YouTube ids and the required concert fields, and it checks that each instrument list is a non-empty list of names. It prints musicians who still have no instruments. That reminder is not a failure. The Pages workflow runs the same checks before it deploys.
 
 ## Deploy
 

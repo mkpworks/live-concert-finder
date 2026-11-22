@@ -16,6 +16,8 @@
     seedMode: true,
   };
   let index = null;
+  let crossStamp = "";
+  let discoverStamp = "";
 
   function esc(value) {
     return String(value).replace(/[&<>"']/g, (ch) => ({
@@ -107,7 +109,7 @@
     const pivot = Boolean(options && options.pivot);
     const shared = options && options.shared;
     const titleTag = feature || !grouped ? "h3" : "h4";
-    const year = concert.year ? String(concert.year) : "Year unknown";
+    const yearHtml = concert.year ? "<span>" + concert.year + "</span>" : "";
     const note = concert.notes ? '<span class="badge">' + esc(noteLabel(concert.notes)) + "</span>" : "";
     let sharedHtml = "";
     if (Array.isArray(shared)) {
@@ -127,7 +129,7 @@
           "</div>" +
           '<p class="meta">' +
             "<span>" + esc(concert.artist) + "</span>" +
-            "<span>" + esc(year) + "</span>" +
+            yearHtml +
             '<span class="genre"><i style="background:' + genreColor(concert.genre) + '"></i>' + esc(concert.genre) + "</span>" +
             '<span class="time">' + esc(Catalog.formatDuration(concert.durationSeconds)) + "</span>" +
             note +
@@ -227,22 +229,21 @@
     }
     document.getElementById("results").innerHTML = results;
 
-    document.getElementById("cross").innerHTML = index.crossMusicians.map((name) => musicianChip(name, true)).join("");
+    const nextCross = state.musician + "\0" + state.instrument;
+    if (nextCross !== crossStamp) {
+      crossStamp = nextCross;
+      document.getElementById("cross").innerHTML = index.crossMusicians.map((name) => musicianChip(name, true)).join("");
+    }
 
-    const pick = index.concerts.find((concert) => concert.id === state.pickId) || index.concerts[0];
-    const similar = Catalog.related(pick, index.concerts, 5);
-    const relatedHtml = similar.length
-      ? '<h3 class="subhead">Related shows</h3>' + similar.map((item) => concertArticle(item.concert, { shared: item.shared })).join("")
-      : '<p class="section-note">No related shows yet.</p>';
-    document.getElementById("discover-body").innerHTML = concertArticle(pick, { feature: true }) + relatedHtml;
-
-    const seconds = index.concerts.reduce((sum, concert) => sum + concert.durationSeconds, 0);
-    document.getElementById("stats").innerHTML =
-      stat("Shows", String(index.concerts.length)) +
-      stat("Listening time", formatLong(seconds)) +
-      stat("Musicians", String(index.musicianNames.length)) +
-      stat("Genres", String(index.genres.length));
-    document.getElementById("summary").textContent = index.concerts.length + " full concerts and long live sets on YouTube, grouped by band and linked by the musicians who played them. Running times are the real video lengths.";
+    if (state.pickId !== discoverStamp) {
+      discoverStamp = state.pickId;
+      const pick = index.concerts.find((concert) => concert.id === state.pickId) || index.concerts[0];
+      const similar = Catalog.related(pick, index.concerts, 5);
+      const relatedHtml = similar.length
+        ? '<h3 class="subhead">Related shows</h3>' + similar.map((item) => concertArticle(item.concert, { shared: item.shared })).join("")
+        : '<p class="section-note">No related shows yet.</p>';
+      document.getElementById("discover-body").innerHTML = concertArticle(pick, { feature: true }) + relatedHtml;
+    }
 
     syncControls(pages);
     if (focusGroup) {
@@ -418,6 +419,13 @@
     fillSelect("decade", index.decades);
     fillSelect("musician", index.musicianNames, musicianOptionLabel);
     fillSelect("instrument", index.instruments, labelInstrument);
+    const seconds = concerts.reduce((sum, concert) => sum + concert.durationSeconds, 0);
+    document.getElementById("stats").innerHTML =
+      stat("Shows", String(concerts.length)) +
+      stat("Listening time", formatLong(seconds)) +
+      stat("Musicians", String(index.musicianNames.length)) +
+      stat("Genres", String(index.genres.length));
+    document.getElementById("summary").textContent = concerts.length + " full concerts and long live sets on YouTube, grouped by band and linked by the musicians who played them. Running times are the real video lengths.";
     render(false);
   }
 
