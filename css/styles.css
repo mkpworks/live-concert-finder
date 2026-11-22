@@ -186,6 +186,20 @@ h3 { margin: 0; font-size: inherit; font-weight: inherit; }
   justify-content: space-between;
   align-items: center;
 }
+.type-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  align-items: center;
+  margin-top: 14px;
+}
+.type-label {
+  color: var(--faint);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
 .modes { display: flex; flex-wrap: wrap; gap: 6px; }
 .modes button,
 .btn,
@@ -368,6 +382,25 @@ kbd {
 .meta .time { color: var(--ink); font-variant-numeric: tabular-nums; }
 .genre { display: inline-flex; align-items: center; gap: 6px; }
 .genre i { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.type-badge {
+  border: 1px solid var(--line-strong);
+  border-radius: 999px;
+  padding: 1px 8px;
+  color: var(--faint);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.type-badge.is-interview { color: var(--teal); }
+.byline,
+.credits { margin: 6px 0 0; color: var(--teal); font-size: 0.92rem; }
+.credits { color: var(--muted); }
+.chip-role {
+  color: var(--faint);
+  font-size: 12px;
+  padding-right: 4px;
+}
 .badge {
   border: 1px solid var(--line-strong);
   border-radius: 999px;
