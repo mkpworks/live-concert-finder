@@ -29,7 +29,7 @@ assert(validate(concerts, ["bass"]).some((error) => error.includes("object")), "
 assert(validate(concerts, { Ada: ["guitar!"] }).some((error) => error.includes("instrument name")), "instrument shape");
 assert(validate(concerts, { Ada: ["DJ"] }).length === 0, "DJ is a valid instrument name");
 
-assert(concerts.length >= 901, "concert count");
+assert(concerts.length >= 1251, "concert count");
 for (const id of ["0wtqnKXZlWk", "5XB7iPsCjC4", "btIIPIPDO4U", "4fPKcqx87Yc", "TAMx_nkKqDg", "C_mFOnzglU8"]) {
   assert(concerts.some((concert) => concert.id === id), id);
 }
