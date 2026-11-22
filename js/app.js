@@ -9,6 +9,7 @@
     decade: "All",
     musician: "All",
     instrument: "All",
+    type: "All",
     query: "",
     page: 0,
     open: {},
@@ -88,19 +89,28 @@
     return instruments.length ? name + " · " + instruments.join(", ") : name;
   }
 
-  function musicianChip(name, withCount) {
+  function musicianChip(name, withCount, role) {
     const instruments = index.instrumentsFor(name);
     const linked = index.musicianCount[name] > 1;
     const nameClass = linked && state.musician === name ? "chip-btn is-on" : "chip-btn";
     const nameHtml = linked
       ? '<button type="button" class="' + nameClass + '" data-action="musician" data-name="' + esc(name) + '">' + esc(name) + "</button>"
       : '<span class="chip-name">' + esc(name) + "</span>";
+    const roleHtml = role ? '<span class="chip-role">' + esc(role) + "</span>" : "";
     const instHtml = instruments.map((instrument) => {
       const on = state.instrument === instrument ? " is-on" : "";
       return '<button type="button" class="inst-btn' + on + '" data-action="instrument" data-name="' + esc(instrument) + '" aria-label="Filter by ' + esc(labelInstrument(instrument)) + '">' + esc(labelInstrument(instrument)) + "</button>";
     }).join("");
     const countHtml = withCount ? '<span class="chip-count">' + index.musicianCount[name] + "</span>" : "";
-    return '<span class="chip">' + nameHtml + (instHtml ? '<span class="chip-insts">' + instHtml + "</span>" : "") + countHtml + "</span>";
+    return '<span class="chip">' + nameHtml + roleHtml + (instHtml ? '<span class="chip-insts">' + instHtml + "</span>" : "") + countHtml + "</span>";
+  }
+
+  function typePhrase(items) {
+    const counts = Catalog.countByType(items);
+    return Catalog.TYPES.filter((type) => counts[type.id]).map((type) => {
+      const count = counts[type.id];
+      return count + " " + (count === 1 ? type.label : type.plural).toLowerCase();
+    }).join(", ");
   }
 
   function concertArticle(concert, options) {
@@ -110,14 +120,21 @@
     const shared = options && options.shared;
     const titleTag = feature || !grouped ? "h3" : "h4";
     const yearHtml = concert.year ? "<span>" + concert.year + "</span>" : "";
+    const kind = Catalog.typeInfo(Catalog.itemType(concert));
+    const typeBadge = '<span class="type-badge is-' + esc(kind.id) + '">' + esc(kind.label) + "</span>";
     const note = concert.notes ? '<span class="badge">' + esc(noteLabel(concert.notes)) + "</span>" : "";
+    const bylineBits = [];
+    if (concert.outlet) bylineBits.push(concert.outlet);
+    if (concert.interviewer) bylineBits.push("Interviewed by " + concert.interviewer);
+    const byline = bylineBits.length ? '<p class="byline">' + esc(bylineBits.join(" · ")) + "</p>" : "";
+    const people = Catalog.lineup(concert);
     let sharedHtml = "";
     if (Array.isArray(shared)) {
       const text = shared.length ? "Shared: " + shared.join(", ") : "Same genre: " + concert.genre;
       sharedHtml = '<p class="shared">' + esc(text) + "</p>";
     }
     const pivotHtml = pivot
-      ? '<button type="button" class="text-btn" data-action="similar" data-id="' + esc(concert.id) + '">Related shows</button>'
+      ? '<button type="button" class="text-btn" data-action="similar" data-id="' + esc(concert.id) + '">Related</button>'
       : "";
     return (
       '<article class="concert' + (feature ? " is-feature" : "") + '">' +
@@ -130,11 +147,13 @@
           '<p class="meta">' +
             "<span>" + esc(concert.artist) + "</span>" +
             yearHtml +
+            typeBadge +
             '<span class="genre"><i style="background:' + genreColor(concert.genre) + '"></i>' + esc(concert.genre) + "</span>" +
             '<span class="time">' + esc(Catalog.formatDuration(concert.durationSeconds)) + "</span>" +
             note +
           "</p>" +
-          '<div class="chips">' + concert.musicians.map((name) => musicianChip(name, false)).join("") + "</div>" +
+          byline +
+          '<div class="chips">' + people.map((person) => musicianChip(person.name, false, person.role)).join("") + "</div>" +
           sharedHtml +
           pivotHtml +
         "</div>" +
@@ -164,7 +183,7 @@
       }
       extra = " · " + names.size + " musician" + (names.size === 1 ? "" : "s");
     }
-    const meta = group.shows + " show" + (group.shows === 1 ? "" : "s") + " · " + Catalog.formatDuration(group.seconds) + " total" + extra;
+    const meta = typePhrase(group.items) + " · " + Catalog.formatDuration(group.seconds) + " total" + extra;
     const body = open
       ? '<div class="group-body">' + group.items.map((concert) => concertArticle(concert, { grouped: true, pivot: true })).join("") + "</div>"
       : "";
@@ -211,9 +230,11 @@
     const pageGroups = groups.slice(start, start + Catalog.PER_PAGE);
 
     const unit = state.mode === "musician" ? "musicians" : state.mode === "instrument" ? "instruments" : "groups";
+    const selectedType = state.type === "All" ? null : Catalog.typeInfo(state.type);
+    const counted = typePhrase(rows) || (selectedType ? "0 " + selectedType.plural.toLowerCase() : "0 items");
     const concertLabel = rows.length === index.concerts.length
-      ? rows.length + " concerts"
-      : rows.length + " of " + index.concerts.length + " concerts";
+      ? counted
+      : counted + " of " + index.concerts.length;
     const groupLabel = state.mode === "list" ? "" : " · " + groups.length + " " + unit;
     document.getElementById("status").textContent = "Page " + (state.page + 1) + " of " + pages + " · " + concertLabel + groupLabel;
 
@@ -221,9 +242,9 @@
     if (state.mode === "list") {
       results = rows.length
         ? pageRows.map((concert) => concertArticle(concert, { pivot: true })).join("") + pager(pages)
-        : emptyState("No concerts match these filters.");
+        : emptyState("Nothing matches these filters.");
     } else if (!groups.length) {
-      results = emptyState(state.mode === "instrument" ? "No instrument credits match these filters." : "No concerts match these filters.");
+      results = emptyState(state.mode === "instrument" ? "No instrument credits match these filters." : "Nothing matches these filters.");
     } else {
       results = pageGroups.map(groupBlock).join("") + pager(pages);
     }
@@ -240,7 +261,7 @@
       const pick = index.concerts.find((concert) => concert.id === state.pickId) || index.concerts[0];
       const similar = Catalog.related(pick, index.concerts, 5);
       const relatedHtml = similar.length
-        ? '<h3 class="subhead">Related shows</h3>' + similar.map((item) => concertArticle(item.concert, { shared: item.shared })).join("")
+        ? '<h3 class="subhead">Related</h3>' + similar.map((item) => concertArticle(item.concert, { shared: item.shared })).join("")
         : '<p class="section-note">No related shows yet.</p>';
       document.getElementById("discover-body").innerHTML = concertArticle(pick, { feature: true }) + relatedHtml;
     }
@@ -277,6 +298,9 @@
     document.querySelectorAll("[data-mode]").forEach((button) => {
       button.setAttribute("aria-pressed", button.getAttribute("data-mode") === state.mode ? "true" : "false");
     });
+    document.querySelectorAll("[data-type]").forEach((button) => {
+      button.setAttribute("aria-pressed", button.getAttribute("data-type") === state.type ? "true" : "false");
+    });
     document.querySelectorAll("[data-group-only]").forEach((button) => {
       button.hidden = state.mode === "list";
     });
@@ -307,6 +331,7 @@
     state.decade = "All";
     state.musician = "All";
     state.instrument = "All";
+    state.type = "All";
     state.query = "";
     state.page = 0;
   }
@@ -315,7 +340,11 @@
     const el = event.target.closest("[data-action]");
     if (!el || el.disabled) return;
     const action = el.getAttribute("data-action");
-    if (action === "mode") {
+    if (action === "type") {
+      state.type = el.getAttribute("data-type");
+      state.page = 0;
+      render(false);
+    } else if (action === "mode") {
       state.mode = el.getAttribute("data-mode");
       state.page = 0;
       state.seedMode = true;
@@ -383,6 +412,9 @@
 
   function bind() {
     document.body.addEventListener("click", onClick);
+    const typeRoot = document.getElementById("types");
+    typeRoot.innerHTML = '<button type="button" data-action="type" data-type="All" aria-pressed="true">All</button>' +
+      Catalog.TYPES.map((type) => '<button type="button" data-action="type" data-type="' + type.id + '" aria-pressed="false">' + type.plural + "</button>").join("");
     document.getElementById("q").addEventListener("input", (event) => {
       state.query = event.target.value;
       state.page = 0;
@@ -420,12 +452,14 @@
     fillSelect("musician", index.musicianNames, musicianOptionLabel);
     fillSelect("instrument", index.instruments, labelInstrument);
     const seconds = concerts.reduce((sum, concert) => sum + concert.durationSeconds, 0);
+    const typeCounts = Catalog.countByType(concerts);
+    const typeStats = Catalog.TYPES.filter((type) => typeCounts[type.id]).map((type) => stat(type.plural, String(typeCounts[type.id]))).join("");
     document.getElementById("stats").innerHTML =
-      stat("Shows", String(concerts.length)) +
+      typeStats +
       stat("Listening time", formatLong(seconds)) +
       stat("Musicians", String(index.musicianNames.length)) +
       stat("Genres", String(index.genres.length));
-    document.getElementById("summary").textContent = concerts.length + " full concerts and long live sets on YouTube, grouped by band and linked by the musicians who played them. Running times are the real video lengths.";
+    document.getElementById("summary").textContent = typePhrase(concerts) + " on YouTube, grouped by artist and linked by the people in them. Running times are the real video lengths.";
     render(false);
   }
 

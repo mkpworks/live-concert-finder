@@ -1,6 +1,6 @@
 # Live Concert Finder
 
-A static catalog of full concerts and long live sets on YouTube. Shows can be searched and grouped by artist, musician, or instrument. Players who show up with more than one band are linked across the list.
+A static catalog of concerts, interviews, and other long-form sets on YouTube. Items can be searched and grouped by artist, musician, or instrument. People who show up more than once are linked across the list.
 
 Published with GitHub Pages at <https://mkpworks.github.io/live-concert-finder/>.
 
@@ -36,6 +36,27 @@ Append an object to `data/concerts.json`:
 - `musicians` is the lineup, in the order it should be shown. Spell a name the same way everywhere, including in `data/musicians.json`.
 - `durationSeconds` is the length of the YouTube video.
 - Optional `notes` is a short string. Use `"audio-only"` or `"partial"` when that applies. The page labels those two, and shows any other note as written.
+- Optional `type` is a category id. Leave it off, or set `"concert"`, for a concert. The known ids and their labels live in `TYPES` inside `js/catalog.js`. Adding a category such as lessons is one new object there; the Type filter and the data check both read that list. A missing `type` is treated as `concert`.
+
+An interview uses the same fields. `artist` is the main subject. `musicians` is the lineup and may be names or `{ "name", "role" }` entries (`interviewee`, `interviewer`, and so on). Optional `interviewer` and `outlet` are strings and belong only on interviews.
+
+```json
+{
+  "id": "youtubeVideoId",
+  "type": "interview",
+  "artist": "Herbie Hancock",
+  "title": "Herbie Hancock in conversation",
+  "year": 1984,
+  "genre": "Jazz",
+  "musicians": [
+    { "name": "Herbie Hancock", "role": "interviewee" },
+    { "name": "Host Name", "role": "interviewer" }
+  ],
+  "interviewer": "Host Name",
+  "outlet": "NPR",
+  "durationSeconds": 1800
+}
+```
 
 ## Add instruments
 
@@ -52,7 +73,7 @@ Append an object to `data/concerts.json`:
 
 Most people have one instrument. Use a list when more than one role is well known, and put the main one first. Leave a person out when you are not sure. Names that are not on a concert yet are fine. A later, fuller table can replace this file without a code change.
 
-The instrument filter and the "By instrument" view are built from this file. They only list instruments played by someone who appears on a concert. A lineup that only names the band, or a player with no entry here, is left out of that view and still appears under the artist and in All concerts.
+The instrument filter and the "By instrument" view are built from this file. They only list instruments played by someone on a lineup. An interview matches an instrument only when one of its lineup names has that instrument here. A credit that only names the band, or a person with no entry, is left out of that view and still appears under the artist and in All items.
 
 ## Check the data
 

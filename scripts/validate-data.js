@@ -3,8 +3,11 @@
 const fs = require("fs");
 const path = require("path");
 
+const { TYPES } = require("../js/catalog.js");
+
 const ID_RE = /^[A-Za-z0-9_-]{11}$/;
 const INSTRUMENT_RE = /^[A-Za-z0-9]+(?:[ /-][A-Za-z0-9]+)*$/;
+const TYPE_IDS = new Set(TYPES.map((type) => type.id));
 
 function isPlainObject(value) {
   return Boolean(value) && typeof value === "object" && !Array.isArray(value);
@@ -46,18 +49,34 @@ function validate(concerts, musicians) {
     if (!Number.isInteger(concert.durationSeconds) || concert.durationSeconds <= 0) {
       errors.push(where + " durationSeconds must be a positive whole number");
     }
+    if (concert.type !== undefined && !TYPE_IDS.has(concert.type)) {
+      errors.push(where + " type must be one of " + [...TYPE_IDS].join(", "));
+    }
+    const type = TYPE_IDS.has(concert.type) ? concert.type : "concert";
     if (!Array.isArray(concert.musicians) || concert.musicians.length === 0) {
       errors.push(where + " musicians must be a non-empty list");
     } else {
       const names = new Set();
-      concert.musicians.forEach((name, nameIndex) => {
+      concert.musicians.forEach((entry, nameIndex) => {
+        const name = typeof entry === "string" ? entry : entry && entry.name;
         if (typeof name !== "string" || !name.trim()) {
-          errors.push(where + " musicians[" + nameIndex + "] must be a non-empty string");
+          errors.push(where + " musicians[" + nameIndex + "] must be a name or { name, role }");
           return;
+        }
+        if (entry && typeof entry === "object" && entry.role !== undefined && (typeof entry.role !== "string" || !entry.role.trim())) {
+          errors.push(where + " musicians[" + nameIndex + "].role must be a non-empty string when present");
         }
         if (names.has(name)) errors.push(where + " lists " + name + " more than once");
         names.add(name);
       });
+    }
+    for (const field of ["interviewer", "outlet"]) {
+      if (concert[field] === undefined) continue;
+      if (typeof concert[field] !== "string" || !concert[field].trim()) {
+        errors.push(where + " " + field + " must be a non-empty string when present");
+      } else if (type !== "interview") {
+        errors.push(where + " " + field + " is only for interviews");
+      }
     }
     if (concert.notes !== undefined && (typeof concert.notes !== "string" || !concert.notes.trim())) {
       errors.push(where + " notes must be a non-empty string when present");

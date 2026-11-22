@@ -7,6 +7,47 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   const PER_PAGE = 12;
 
+  // Add a category here. The id is what data/concerts.json stores in `type`.
+  const TYPES = [
+    { id: "concert", label: "Concert", plural: "Concerts" },
+    { id: "interview", label: "Interview", plural: "Interviews" },
+  ];
+
+  function typeInfo(id) {
+    return TYPES.find((type) => type.id === id) || null;
+  }
+
+  function itemType(item) {
+    const id = item && item.type;
+    if (typeof id === "string" && typeInfo(id)) return id;
+    return "concert";
+  }
+
+  function lineup(item) {
+    if (!item || !Array.isArray(item.musicians)) return [];
+    const entries = [];
+    for (const entry of item.musicians) {
+      if (typeof entry === "string") {
+        if (entry.trim()) entries.push({ name: entry, role: "" });
+      } else if (entry && typeof entry === "object" && typeof entry.name === "string" && entry.name.trim()) {
+        const role = typeof entry.role === "string" ? entry.role.trim() : "";
+        entries.push({ name: entry.name, role });
+      }
+    }
+    return entries;
+  }
+
+  function lineupNames(item) {
+    return lineup(item).map((entry) => entry.name);
+  }
+
+  function countByType(items) {
+    const counts = {};
+    for (const type of TYPES) counts[type.id] = 0;
+    for (const item of items) counts[itemType(item)] += 1;
+    return counts;
+  }
+
   function formatDuration(seconds) {
     const total = Math.max(0, Math.floor(Number(seconds) || 0));
     const hours = Math.floor(total / 3600);
@@ -37,7 +78,7 @@
     const EMPTY_INSTRUMENTS = [];
     const musicianCount = {};
     for (const concert of concerts) {
-      for (const name of concert.musicians) {
+      for (const name of lineupNames(concert)) {
         musicianCount[name] = (musicianCount[name] || 0) + 1;
       }
     }
@@ -67,7 +108,7 @@
 
     function concertInstruments(concert) {
       const found = new Set();
-      for (const name of concert.musicians) {
+      for (const name of lineupNames(concert)) {
         for (const instrument of instrumentsFor(name)) found.add(instrument);
       }
       return [...found];
@@ -91,21 +132,29 @@
     const decade = (filters && filters.decade) || "All";
     const musician = (filters && filters.musician) || "All";
     const instrument = (filters && filters.instrument) || "All";
+    const type = (filters && filters.type) || "All";
     const query = ((filters && filters.query) || "").trim().toLowerCase();
+    const people = lineup(concert);
+    const names = people.map((entry) => entry.name);
+    if (type !== "All" && itemType(concert) !== type) return false;
     if (genre !== "All" && concert.genre !== genre) return false;
     if (decade !== "All" && decadeOf(concert.year) !== decade) return false;
-    if (musician !== "All" && !concert.musicians.includes(musician)) return false;
+    if (musician !== "All" && !names.includes(musician)) return false;
     if (instrument !== "All") {
-      const plays = concert.musicians.some((name) => index.instrumentsFor(name).includes(instrument));
+      const plays = names.some((name) => index.instrumentsFor(name).includes(instrument));
       if (!plays) return false;
     }
     if (query) {
+      const typeName = typeInfo(itemType(concert));
       const haystack = [
         concert.artist,
         concert.title,
         concert.genre,
         concert.notes || "",
-        concert.musicians.join(" "),
+        concert.outlet || "",
+        concert.interviewer || "",
+        typeName ? typeName.label + " " + typeName.plural : "",
+        people.map((entry) => entry.name + " " + entry.role).join(" "),
         index.concertInstruments(concert).join(" "),
       ].join(" ").toLowerCase();
       if (!haystack.includes(query)) return false;
@@ -135,7 +184,7 @@
     if (mode === "list") return [];
     for (const concert of rows) {
       let keys;
-      if (mode === "musician") keys = concert.musicians;
+      if (mode === "musician") keys = lineupNames(concert);
       else if (mode === "instrument") keys = index.concertInstruments(concert);
       else keys = [concert.artist];
       for (const key of new Set(keys)) {
@@ -177,10 +226,10 @@
   function related(concert, concerts, limit) {
     const max = limit || 5;
     return concerts
-      .filter((other) => other.id !== concert.id && (other.musicians.some((name) => concert.musicians.includes(name)) || other.genre === concert.genre))
+      .filter((other) => other.id !== concert.id && (lineupNames(other).some((name) => lineupNames(concert).includes(name)) || other.genre === concert.genre))
       .map((other) => ({
         concert: other,
-        shared: other.musicians.filter((name) => concert.musicians.includes(name)),
+        shared: lineupNames(other).filter((name) => lineupNames(concert).includes(name)),
       }))
       .sort((a, b) => b.shared.length - a.shared.length || compareNames(a.concert.artist, b.concert.artist) || compareNames(a.concert.title, b.concert.title))
       .slice(0, max);
@@ -192,6 +241,11 @@
 
   return {
     PER_PAGE,
+    TYPES,
+    typeInfo,
+    itemType,
+    lineup,
+    countByType,
     formatDuration,
     decadeOf,
     buildIndex,
