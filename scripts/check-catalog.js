@@ -29,7 +29,7 @@ assert(validate(concerts, ["bass"]).some((error) => error.includes("object")), "
 assert(validate(concerts, { Ada: ["guitar!"] }).some((error) => error.includes("instrument name")), "instrument shape");
 assert(validate(concerts, { Ada: ["DJ"] }).length === 0, "DJ is a valid instrument name");
 
-assert(concerts.length >= 1255, "concert count");
+assert(concerts.length >= 1341, "concert count");
 for (const id of ["0wtqnKXZlWk", "5XB7iPsCjC4", "btIIPIPDO4U", "4fPKcqx87Yc", "TAMx_nkKqDg", "C_mFOnzglU8"]) {
   assert(concerts.some((concert) => concert.id === id), id);
 }
@@ -171,7 +171,7 @@ assert(deployJob.includes("pages: write") && deployJob.includes("id-token: write
 
 assert(concerts.every((concert) => concert.type === "concert" || concert.type === "interview"), "every item has a type");
 assert(concerts.filter((concert) => concert.type === "concert").length === 1250, "concert count");
-assert(concerts.filter((concert) => concert.type === "interview").length === 5, "interview count");
+assert(concerts.filter((concert) => concert.type === "interview").length === 91, "interview count");
 assert(Catalog.itemType({}) === "concert", "missing type is concert");
 assert(Catalog.TYPES.map((type) => type.id).join() === "concert,interview");
 const interview = {
@@ -219,7 +219,7 @@ assert(validate([Object.assign({}, interview, { musicians: [{ name: "Pat Metheny
 const zappaItems = Catalog.sortConcerts(concerts.filter((item) => item.artist === "Frank Zappa"), "year");
 const zappaGroups = Catalog.groupConcerts(zappaItems, "artist", "year", { index, musician: "All", query: "" });
 const zappa = zappaGroups.find((group) => group.key === "Frank Zappa");
-assert(zappa && zappa.items.some((item) => item.type === "concert") && zappa.items.filter((item) => item.type === "interview").length === 5, "artist page mixes both types");
+assert(zappa && zappa.items.some((item) => item.type === "concert") && zappa.items.filter((item) => item.type === "interview").length === 91, "artist page mixes both types");
 assert(zappa.items.map((item) => item.id).join("|") === Catalog.sortConcerts(zappa.items, "year").map((item) => item.id).join("|"), "artist page is one sorted list");
 const zappaConcertsOnly = Catalog.groupConcerts(
   Catalog.sortConcerts(concerts.filter((item) => item.artist === "Frank Zappa" && Catalog.matches(item, { type: "concert" }, index)), "year"),
@@ -228,6 +228,27 @@ const zappaConcertsOnly = Catalog.groupConcerts(
   { index, musician: "All", query: "" }
 ).find((group) => group.key === "Frank Zappa");
 assert(zappaConcertsOnly && zappaConcertsOnly.items.every((item) => item.type === "concert") && !zappaConcertsOnly.items.some((item) => item.type === "interview"), "type filter hides interviews");
+const belewHits = concerts.filter((item) => Catalog.matches(item, { query: "adrian belew" }, index));
+const belewActs = new Set(belewHits.map((item) => item.artist));
+for (const act of ["Frank Zappa", "King Crimson", "Talking Heads", "Adrian Belew"]) {
+  assert(belewActs.has(act), "adrian belew search includes " + act);
+}
+const belewGroups = Catalog.groupConcerts(Catalog.sortConcerts(belewHits, "artist"), "artist", "artist", { index, musician: "All", query: "adrian belew" });
+assert(belewGroups.some((group) => group.key === "King Crimson") && belewGroups.some((group) => group.key === "Frank Zappa"), "belew results group by artist");
+const belewConcerts = concerts.filter((item) => Catalog.matches(item, { query: "adrian belew", type: "concert" }, index));
+assert(belewConcerts.length > 0 && belewConcerts.every((item) => item.type === "concert"), "type filter still applies to search");
+const accented = Object.assign({}, concerts[0], { id: "eeeeeeeeeee", artist: "José González", musicians: ["José González"] });
+assert(Catalog.matches(accented, { query: "jose gonzalez" }, Catalog.buildIndex([accented], {})));
+const creditOnly = Object.assign({}, concerts[0], {
+  id: "ffffffffffff",
+  artist: "Some Band",
+  title: "A talk",
+  musicians: ["Host Person"],
+  credits: [{ name: "Hidden Guest", role: "interviewer" }],
+});
+assert(Catalog.matches(creditOnly, { query: "hidden guest" }, Catalog.buildIndex([creditOnly], {})), "search matches credits names");
+const belewNotes = Catalog.appearances("adrian belew", belewHits);
+assert(belewNotes.some((person) => person.name === "Adrian Belew" && person.acts.includes("King Crimson") && person.acts.includes("Talking Heads")));
 assert(concerts.some((concert) => concert.year === 0), "unknown years stay in the data");
 assert(!fs.readFileSync(path.join(root, "js/app.js"), "utf8").includes("Year unknown"), "unknown years render blank");
 const started = process.hrtime.bigint();

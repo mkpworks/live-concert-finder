@@ -144,6 +144,20 @@ h2 {
 h3 { margin: 0; font-size: inherit; font-weight: inherit; }
 .lede { margin: 0; max-width: 66ch; color: var(--muted); }
 .section-note { margin: 8px 0 0; max-width: 72ch; color: var(--muted); }
+.appears { margin: 0 0 14px; color: var(--muted); }
+.appears p { margin: 0 0 6px; }
+.appears-name { color: var(--ink); font-weight: 600; }
+.act-link {
+  border: 0;
+  padding: 0;
+  background: none;
+  color: var(--accent);
+  font: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.act-sep { color: var(--faint); }
 .subhead {
   margin: 18px 0 4px;
   font-family: var(--serif);

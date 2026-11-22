@@ -1,6 +1,6 @@
 # Live Concert Finder
 
-A static catalog of concerts, interviews, and other long-form sets on YouTube. Items can be searched and grouped by artist, musician, or instrument. People who show up more than once are linked across the list.
+A static catalog of concerts, interviews, and other long-form sets on YouTube. Items can be searched and grouped by artist, musician, or instrument. Search matches the artist, title, lineup names, interview credit names, interviewer, and outlet, ignoring case and accents. People who show up more than once are linked across the list.
 
 Published with GitHub Pages at <https://mkpworks.github.io/live-concert-finder/>.
 
