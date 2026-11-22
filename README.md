@@ -77,6 +77,18 @@ Most people have one instrument. Use a list when more than one role is well know
 
 The instrument filter and the "By instrument" view are built from this file. They only list instruments played by someone on a lineup. An interview matches an instrument only when one of its lineup names has that instrument here. A credit that only names the band, or a person with no entry, is left out of that view and still appears under the artist and in All items.
 
+## Spreadsheet
+
+**Download this list**, in the toolbar, saves the videos that match the current type, search, genre, decade, musician, and instrument filters. The rows follow the current sort, one video per row. With the filters cleared, that file is the whole catalog.
+
+The Pages build also writes `data/catalog.csv`, the full catalog in artist order, as UTF-8 with a byte-order mark so Excel keeps accents. The footer link **Download full spreadsheet** points at that file. To write the same file locally:
+
+```bash
+node scripts/export-csv.js
+```
+
+The local copy is gitignored. The site build publishes its own. Columns are type, artist, title, year (blank when unknown), genre, duration in seconds and as `h:mm:ss`, featured instruments on file for the lineup (joined with `; `, blank when none are listed), musicians joined with `; `, interviewer, outlet, credits as `name (role)` joined with `; `, the YouTube URL, and the video id.
+
 ## Check the data
 
 ```bash

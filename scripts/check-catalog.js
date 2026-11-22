@@ -1,7 +1,9 @@
 "use strict";
 
 const fs = require("fs");
+const os = require("os");
 const path = require("path");
+const { spawnSync } = require("child_process");
 const Catalog = require("../js/catalog.js");
 const { validate } = require("./validate-data.js");
 
@@ -251,6 +253,117 @@ const belewNotes = Catalog.appearances("adrian belew", belewHits);
 assert(belewNotes.some((person) => person.name === "Adrian Belew" && person.acts.includes("King Crimson") && person.acts.includes("Talking Heads")));
 assert(concerts.some((concert) => concert.year === 0), "unknown years stay in the data");
 assert(!fs.readFileSync(path.join(root, "js/app.js"), "utf8").includes("Year unknown"), "unknown years render blank");
+function parseCsv(text) {
+  assert(text.charCodeAt(0) === 0xFEFF, "csv starts with a UTF-8 BOM");
+  const body = text.slice(1);
+  const rows = [];
+  let row = [];
+  let field = "";
+  let quoted = false;
+  for (let i = 0; i < body.length; i += 1) {
+    const ch = body[i];
+    if (quoted) {
+      if (ch === '"') {
+        if (body[i + 1] === '"') {
+          field += '"';
+          i += 1;
+        } else quoted = false;
+      } else field += ch;
+    } else if (ch === '"') quoted = true;
+    else if (ch === ",") {
+      row.push(field);
+      field = "";
+    } else if (ch === "\n") {
+      if (field.endsWith("\r")) field = field.slice(0, -1);
+      row.push(field);
+      rows.push(row);
+      row = [];
+      field = "";
+    } else field += ch;
+  }
+  if (field || row.length) {
+    if (field.endsWith("\r")) field = field.slice(0, -1);
+    row.push(field);
+    rows.push(row);
+  }
+  return rows.filter((cells) => cells.length > 1 || cells[0] !== "");
+}
+
+const tricky = {
+  id: "zzzzzzzzzzz",
+  type: "interview",
+  artist: 'José "Pepe" González',
+  title: "Hello, world",
+  year: 0,
+  genre: "Folk, early",
+  musicians: ["José González", "Ada, Lovelace"],
+  credits: [
+    { name: "José González", role: "interviewee" },
+    { name: "Ada, Lovelace", role: "interviewer" },
+  ],
+  interviewer: "Ada, Lovelace",
+  outlet: "Night\nFlight",
+  durationSeconds: 61,
+};
+const trickyIndex = Catalog.buildIndex([tricky], { "José González": ["guitar", "vocals"] });
+const trickyRows = parseCsv(Catalog.toCsv([tricky], trickyIndex));
+assert(trickyRows.length === 2, "header plus one row");
+assert(trickyRows[0].join(",") === Catalog.CSV_HEADERS.join(","), "csv header");
+const trickyRow = trickyRows[1];
+assert(trickyRow[0] === "interview");
+assert(trickyRow[1] === 'José "Pepe" González');
+assert(trickyRow[2] === "Hello, world");
+assert(trickyRow[3] === "", "unknown year is blank");
+assert(trickyRow[4] === "Folk, early");
+assert(trickyRow[5] === "61");
+assert(trickyRow[6] === "0:01:01");
+assert(trickyRow[7] === "Guitar; Vocals", "featured instruments");
+assert(trickyRow[8] === "José González; Ada, Lovelace");
+assert(trickyRow[9] === "Ada, Lovelace");
+assert(trickyRow[10] === "Night\nFlight");
+assert(trickyRow[11] === "José González (interviewee); Ada, Lovelace (interviewer)");
+assert(trickyRow[12] === "https://www.youtube.com/watch?v=zzzzzzzzzzz");
+assert(trickyRow[13] === "zzzzzzzzzzz");
+assert(Catalog.toCsv([tricky], trickyIndex).includes('"José ""Pepe"" González"'), "quotes are doubled");
+
+const sample = concerts.find((item) => item.id === "0wtqnKXZlWk");
+const sampleRow = parseCsv(Catalog.toCsv([sample], index))[1];
+assert(sampleRow[1] === sample.artist && sampleRow[8] === sample.musicians.join("; "));
+assert(sampleRow[7].split("; ").includes("Bass"), "Jaco's bass is a featured instrument");
+assert(sampleRow[6] === Catalog.formatDuration(sample.durationSeconds));
+assert(sampleRow[12] === "https://www.youtube.com/watch?v=" + sample.id);
+
+const interviewItems = Catalog.sortConcerts(concerts.filter((item) => Catalog.matches(item, { type: "interview" }, index)), "year");
+const interviewSheet = parseCsv(Catalog.toCsv(interviewItems, index));
+assert(interviewSheet.length === interviewItems.length + 1, "filtered csv is one row per interview");
+assert(interviewSheet.slice(1).every((row) => row[0] === "interview"));
+const talk = interviewItems.find((item) => item.credits && item.interviewer && item.outlet);
+assert(talk, "an interview with credits");
+const talkRow = parseCsv(Catalog.toCsv([talk], index))[1];
+assert(talkRow[9] === talk.interviewer && talkRow[10] === talk.outlet);
+assert(talkRow[11] === talk.credits.map((credit) => credit.name + " (" + credit.role + ")").join("; "));
+
+const belewSheet = parseCsv(Catalog.toCsv(Catalog.sortConcerts(belewHits, "artist"), index));
+const belewArtists = new Set(belewSheet.slice(1).map((row) => row[1]));
+for (const act of ["Frank Zappa", "King Crimson", "Talking Heads"]) {
+  assert(belewArtists.has(act), "csv search export includes " + act);
+}
+assert(belewSheet.length === belewHits.length + 1, "search export is one row per video");
+
+const fullSheet = parseCsv(Catalog.toCsv(Catalog.sortConcerts(concerts, "artist"), index));
+assert(fullSheet.length === concerts.length + 1, "unfiltered csv is the whole catalog");
+assert(fullSheet[1][1] === Catalog.sortConcerts(concerts, "artist")[0].artist);
+
+const exported = path.join(os.tmpdir(), "lcf-catalog-" + process.pid + ".csv");
+const exportRun = spawnSync(process.execPath, [path.join(root, "scripts", "export-csv.js"), exported], { encoding: "utf8" });
+assert(exportRun.status === 0, exportRun.stderr || "export-csv failed");
+const exportedText = fs.readFileSync(exported, "utf8");
+assert(exportedText === Catalog.toCsv(Catalog.sortConcerts(concerts, "artist"), index), "export script matches the catalog csv");
+fs.unlinkSync(exported);
+
+assert(html.includes("Download this list") && html.includes("Download full spreadsheet") && html.includes("data/catalog.csv"), "spreadsheet links");
+assert(workflow.includes("scripts/export-csv.js") && workflow.includes("_site/data/catalog.csv"), "pages build publishes the csv");
+
 const started = process.hrtime.bigint();
 for (let pass = 0; pass < 100; pass += 1) {
   const filtered = Catalog.sortConcerts(
