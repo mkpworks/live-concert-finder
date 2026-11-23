@@ -24,6 +24,28 @@
     return "All";
   }
 
+  // Drop a filter only when it would hide a hit for this search.
+  function clearedFilters(index, filters, query) {
+    const next = {
+      genre: (filters && filters.genre) || "All",
+      decade: (filters && filters.decade) || "All",
+      musician: (filters && filters.musician) || "All",
+      instrument: (filters && filters.instrument) || "All",
+      type: (filters && filters.type) || "All",
+      artist: (filters && filters.artist) || "",
+      query: query || "",
+    };
+    const hits = index.concerts.filter((item) => Catalog.matches(item, { query: next.query }, index));
+    if (!hits.length) return next;
+    if (next.genre !== "All" && hits.some((item) => item.genre !== next.genre)) next.genre = "All";
+    if (next.decade !== "All" && hits.some((item) => Catalog.decadeOf(item.year) !== next.decade)) next.decade = "All";
+    if (next.musician !== "All" && hits.some((item) => !Catalog.lineup(item).some((entry) => entry.name === next.musician))) next.musician = "All";
+    if (next.instrument !== "All" && hits.some((item) => !(Array.isArray(item.musicians) ? item.musicians : []).some((name) => index.instrumentsFor(name).includes(next.instrument)))) next.instrument = "All";
+    if (next.type !== "All" && hits.some((item) => Catalog.itemType(item) !== next.type)) next.type = "All";
+    if (next.artist && hits.some((item) => Catalog.artistSlug(item.artist) !== Catalog.artistSlug(next.artist))) next.artist = "";
+    return next;
+  }
+
   function shellHtml(options) {
     const home = (options && options.home) || "https://mkpworks.github.io/live-concert-finder/";
     const csv = (options && options.csv) || (home + "data/catalog.csv");
@@ -170,13 +192,14 @@
       return instruments.length ? name + " · " + instruments.join(", ") : name;
     }
 
+    function searchButton(name, className, marked) {
+      const on = marked || Catalog.fold(state.query) === Catalog.fold(name) ? " is-on" : "";
+      return '<button type="button" class="' + className + on + '" data-action="search" data-query="' + esc(name) + '" aria-label="Search for ' + esc(name) + '">' + esc(name) + "</button>";
+    }
+
     function musicianChip(name, withCount) {
       const instruments = index.instrumentsFor(name);
-      const linked = index.musicianCount[name] > 1;
-      const nameClass = linked && state.musician === name ? "chip-btn is-on" : "chip-btn";
-      const nameHtml = linked
-        ? '<button type="button" class="' + nameClass + '" data-action="musician" data-name="' + esc(name) + '">' + esc(name) + "</button>"
-        : '<span class="chip-name">' + esc(name) + "</span>";
+      const nameHtml = searchButton(name, "chip-btn", state.musician === name);
       const instHtml = instruments.map((instrument) => {
         const on = state.instrument === instrument ? " is-on" : "";
         return '<button type="button" class="inst-btn' + on + '" data-action="instrument" data-name="' + esc(instrument) + '" aria-label="Filter by ' + esc(labelInstrument(instrument)) + '">' + esc(labelInstrument(instrument)) + "</button>";
@@ -237,7 +260,7 @@
               links +
             "</div>" +
             '<p class="meta">' +
-              "<span>" + esc(concert.artist) + "</span>" +
+              searchButton(concert.artist, "name-link") +
               yearHtml +
               typeBadge +
               '<span class="genre"><i style="background:' + genreColor(concert.genre) + '"></i>' + esc(concert.genre) + "</span>" +
@@ -254,18 +277,10 @@
       );
     }
 
-    function groupTitle(key) {
-      if (state.mode === "instrument") return labelInstrument(key);
-      if (state.mode === "musician") {
-        const instruments = index.instrumentsFor(key).map(labelInstrument);
-        return instruments.length ? key + " · " + instruments.join(", ") : key;
-      }
-      return key;
-    }
-
     function groupBlock(group) {
       const id = groupId(group.key);
       const open = Boolean(state.open[id]);
+      const person = state.mode === "artist" || state.mode === "musician";
       let extra = "";
       if (state.mode === "instrument") {
         const names = new Set();
@@ -276,17 +291,30 @@
         }
         extra = " · " + names.size + " musician" + (names.size === 1 ? "" : "s");
       }
+      let titleHtml;
+      if (state.mode === "musician") {
+        const instruments = index.instrumentsFor(group.key).map(labelInstrument);
+        titleHtml = searchButton(group.key, "group-title") + (instruments.length ? '<span class="group-instruments"> · ' + esc(instruments.join(", ")) + "</span>" : "");
+      } else if (state.mode === "artist") {
+        titleHtml = searchButton(group.key, "group-title");
+      } else {
+        titleHtml = '<button type="button" class="group-title" data-action="group" data-group="' + esc(id) + '">' + esc(labelInstrument(group.key)) + "</button>";
+      }
+      const label = person ? group.key : labelInstrument(group.key);
       const meta = typePhrase(group.items) + " · " + Catalog.formatDuration(group.seconds) + " total" + extra;
       const body = open
         ? '<div class="group-body">' + group.items.map((concert) => concertArticle(concert, { grouped: true, pivot: true })).join("") + "</div>"
         : "";
       return (
         '<section class="group' + (open ? " is-open" : "") + '">' +
-          "<h3>" +
-            '<button type="button" class="group-toggle" data-action="group" data-group="' + esc(id) + '" aria-expanded="' + (open ? "true" : "false") + '">' +
-              '<span class="group-main"><span class="chev" aria-hidden="true">▸</span><span class="group-title">' + esc(groupTitle(group.key)) + "</span></span>" +
-              '<span class="group-meta">' + esc(meta) + "</span>" +
-            "</button>" +
+          '<h3 class="group-head">' +
+            '<span class="group-main">' +
+              '<button type="button" class="chev-btn" data-action="group" data-group="' + esc(id) + '" aria-expanded="' + (open ? "true" : "false") + '" aria-label="' + (open ? "Collapse " : "Expand ") + esc(label) + '">' +
+                '<span class="chev" aria-hidden="true">▸</span>' +
+              "</button>" +
+              titleHtml +
+            "</span>" +
+            '<button type="button" class="group-meta" data-action="group" data-group="' + esc(id) + '">' + esc(meta) + "</button>" +
           "</h3>" +
           body +
         "</section>"
@@ -300,7 +328,7 @@
         const shown = person.acts.slice(0, 12);
         const links = shown.map((act) => '<button type="button" class="act-link" data-action="search" data-query="' + esc(act) + '">' + esc(act) + "</button>").join('<span class="act-sep">, </span>');
         const more = person.acts.length > shown.length ? '<span class="act-sep">…</span>' : "";
-        return '<p><span class="appears-name">' + esc(person.name) + "</span> appears in: " + links + more + "</p>";
+        return "<p>" + searchButton(person.name, "name-link") + " appears in: " + links + more + "</p>";
       }).join("") + "</div>";
     }
 
@@ -439,6 +467,19 @@
       render(false);
     }
 
+    function runSearch(query, scroll) {
+      state.query = query;
+      state.page = 0;
+      const next = clearedFilters(index, state, query);
+      state.genre = next.genre;
+      state.decade = next.decade;
+      state.musician = next.musician;
+      state.instrument = next.instrument;
+      state.type = next.type;
+      state.artist = next.artist;
+      render(Boolean(scroll));
+    }
+
     function clearFilters() {
       state.genre = "All";
       state.decade = "All";
@@ -500,9 +541,7 @@
         state.open = {};
         render(false);
       } else if (action === "search") {
-        state.query = el.getAttribute("data-query") || "";
-        state.page = 0;
-        render(false);
+        runSearch(el.getAttribute("data-query") || "", true);
       } else if (action === "clear") {
         clearFilters();
         render(false);
@@ -606,5 +645,5 @@
     return { root };
   }
 
-  return { mount, shellHtml, typeOption };
+  return { mount, shellHtml, typeOption, clearedFilters };
 });

@@ -385,8 +385,37 @@ const boot = fs.readFileSync(path.join(root, "js", "embed-boot.js"), "utf8");
 assert(boot.includes("document.currentScript") && boot.includes("data/version.json") && boot.includes("data/catalog.json"), "embed resolves data from its own src");
 assert(boot.includes("attachShadow") && boot.includes("[data-concert-finder]") && boot.includes("window.ConcertFinder"), "embed contract");
 assert(boot.includes('cache: "no-store"'), "version fetch bypasses the pages cache");
+global.Catalog = Catalog;
 const FinderView = require("../js/view.js");
 assert(FinderView.typeOption("concerts") === "concert" && FinderView.typeOption("interviews") === "interview" && FinderView.typeOption("all") === "All");
+const rollinsHits = concerts.filter((item) => Catalog.matches(item, { query: "Henry Rollins" }, index));
+assert(rollinsHits.some((item) => item.artist === "Black Flag"), "Henry Rollins is on a Black Flag item");
+const rollinsSearch = FinderView.clearedFilters(index, {
+  genre: "Metal",
+  decade: "All",
+  musician: "All",
+  instrument: "All",
+  type: "interview",
+  artist: "black-flag",
+}, "Henry Rollins");
+assert(rollinsSearch.query === "Henry Rollins");
+assert(rollinsSearch.genre === "All", "a genre with no Rollins item is cleared");
+assert(rollinsSearch.type === "All", "a type with no Rollins item is cleared");
+assert(rollinsSearch.artist === "black-flag", "the Black Flag filter still matches his item");
+const belewNameHits = concerts.filter((item) => Catalog.matches(item, { query: "Adrian Belew" }, index));
+const belewNameActs = new Set(belewNameHits.map((item) => item.artist));
+assert(belewNameActs.size > 1, "Adrian Belew crosses acts");
+const belewSearch = FinderView.clearedFilters(index, {
+  genre: "All",
+  decade: "All",
+  musician: "All",
+  instrument: "All",
+  type: "All",
+  artist: "black-flag",
+}, "Adrian Belew");
+assert(belewSearch.query === "Adrian Belew" && belewSearch.artist === "", "an artist filter that hides other acts is cleared");
+assert(viewSource.includes('class="name-link"') || viewSource.includes('searchButton(concert.artist, "name-link")'));
+assert(viewSource.includes('data-action="search"') && viewSource.includes("runSearch"));
 const shell = FinderView.shellHtml();
 assert(shell.includes("Powered by") && shell.includes("Download this list") && shell.includes('id="results"'));
 
