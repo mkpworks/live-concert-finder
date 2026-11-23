@@ -87,12 +87,6 @@
     <p id="instrument-note" class="section-note" hidden>Shows are filed under each instrument on record for the lineup. A player with no instrument listed, or a credit that only names the band, is left out of this view.</p>
     <div id="results" tabindex="-1"></div>
 
-    <section class="band-cross" aria-labelledby="cross-heading">
-      <h2 id="cross-heading">Musicians who cross bands</h2>
-      <p class="section-note">On two or more shows. Choose a name to filter every view. The words beside a name are the instruments on file.</p>
-      <div id="cross" class="chips"></div>
-    </section>
-
     <section class="discover" id="discover" aria-labelledby="discover-heading">
       <div class="discover-head">
         <h2 id="discover-heading">Discover</h2>
@@ -101,6 +95,16 @@
       <p class="section-note">Related items are ranked by shared people. When nobody overlaps, other items in the same genre follow.</p>
       <div id="discover-body"></div>
     </section>
+
+    <details class="band-cross">
+      <summary>
+        <span class="chev" aria-hidden="true">▸</span>
+        <span class="cross-title" id="cross-heading">Musicians who cross bands</span>
+        <span class="cross-count" id="cross-count"></span>
+      </summary>
+      <p class="section-note">On two or more shows. Choose a name to filter every view. The words beside a name are the instruments on file.</p>
+      <div id="cross" class="chips"></div>
+    </details>
   </main>
   <footer class="site-footer">
     <div class="wrap">
