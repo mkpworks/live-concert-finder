@@ -347,27 +347,39 @@ kbd {
 .pager { margin: 8px 0 18px; }
 
 .group { border-top: 1px solid var(--line); }
-.group-toggle {
+.group-head {
   width: 100%;
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: 16px;
   padding: 14px 0;
-  border: 0;
-  background: transparent;
-  color: inherit;
+  margin: 0;
   font: inherit;
   text-align: left;
-  cursor: pointer;
 }
+.chev-btn,
+button.group-title,
+button.group-meta,
+.name-link {
+  border: 0;
+  padding: 0;
+  background: none;
+  color: inherit;
+  cursor: pointer;
+  text-align: left;
+}
+.chev-btn { flex: none; font: inherit; }
+.name-link { font: inherit; text-decoration: underline; text-decoration-color: transparent; text-underline-offset: 3px; }
+button.group-meta { text-align: right; font: inherit; }
 .group-main {
   display: inline-flex;
   align-items: baseline;
   min-width: 0;
   text-align: left;
 }
-.group-title {
+.group-title,
+button.group-title {
   font-family: var(--serif);
   font-size: clamp(1.25rem, 2vw, 1.55rem);
   font-weight: 560;
@@ -390,7 +402,11 @@ kbd {
   padding-left: 14px;
   border-left: 2px solid var(--accent);
 }
-.group-toggle:hover .group-title { color: var(--accent); }
+button.group-title:hover,
+.name-link:hover,
+.chip-btn:hover { color: var(--accent); }
+.name-link:hover { text-decoration-color: var(--accent); }
+.group-instruments { color: var(--muted); font-family: var(--sans); font-size: 0.95rem; font-weight: 500; }
 
 .concert {
   display: grid;
@@ -582,7 +598,7 @@ kbd {
 }
 @media (max-width: 720px) {
   .header-row { flex-direction: column; }
-  .group-toggle { flex-direction: column; gap: 4px; }
+  .group-head { flex-direction: column; gap: 4px; }
   .group-meta { white-space: normal; }
   .concert { grid-template-columns: 112px minmax(0, 1fr); gap: 10px; }
   .is-feature { grid-template-columns: 1fr; }
@@ -597,7 +613,7 @@ kbd {
 }
 @container finder (max-width: 720px) {
   .header-row { flex-direction: column; }
-  .group-toggle { flex-direction: column; gap: 4px; }
+  .group-head { flex-direction: column; gap: 4px; }
   .group-meta { white-space: normal; }
   .concert { grid-template-columns: 112px minmax(0, 1fr); gap: 10px; }
   .is-feature { grid-template-columns: 1fr; }
