@@ -172,8 +172,8 @@ assert(!deployJob.includes("actions/upload-pages-artifact"), "deploy job only de
 assert(deployJob.includes("pages: write") && deployJob.includes("id-token: write"), "deploy permissions");
 
 assert(concerts.every((concert) => concert.type === "concert" || concert.type === "interview"), "every item has a type");
-assert(concerts.filter((concert) => concert.type === "concert").length === 1250, "concert count");
-assert(concerts.filter((concert) => concert.type === "interview").length === 659, "interview count");
+assert(concerts.filter((concert) => concert.type === "concert").length === 1390, "concert count");
+assert(concerts.filter((concert) => concert.type === "interview").length === 736, "interview count");
 assert(Catalog.itemType({}) === "concert", "missing type is concert");
 assert(Catalog.TYPES.map((type) => type.id).join() === "concert,interview");
 const interview = {
@@ -401,7 +401,8 @@ const rollinsSearch = FinderView.clearedFilters(index, {
 assert(rollinsSearch.query === "Henry Rollins");
 assert(rollinsSearch.genre === "All", "a genre with no Rollins item is cleared");
 assert(rollinsSearch.type === "All", "a type with no Rollins item is cleared");
-assert(rollinsSearch.artist === "black-flag", "the Black Flag filter still matches his item");
+assert(rollinsHits.some((item) => item.artist === "Henry Rollins" && item.type === "concert" && item.genre === "Punk" && /spoken-word/i.test(item.notes || "")), "spoken-word shows stay Punk concerts");
+assert(rollinsSearch.artist === "", "the Black Flag filter hides his other shows");
 const belewNameHits = concerts.filter((item) => Catalog.matches(item, { query: "Adrian Belew" }, index));
 const belewNameActs = new Set(belewNameHits.map((item) => item.artist));
 assert(belewNameActs.size > 1, "Adrian Belew crosses acts");
