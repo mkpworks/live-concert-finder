@@ -30325,5 +30325,3337 @@
     ],
     "interviewer": "Steve Gilbert",
     "notes": "Miami, 14 September 1980, interview with Steve Gilbert, part 1."
+  },
+  {
+    "id": "qwX44r5d7LQ",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins - Spoken Word Show #1 - Live at Wacken Open Air 2013",
+    "year": 2013,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 3665,
+    "notes": "Official WackenTV spoken-word show #1, Wacken Open Air 2013. Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "jCBSZatSHrA",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins - Spoken Word Show #2 - Full Show - Live at Wacken Open Air 2013",
+    "year": 2013,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 3722,
+    "notes": "Official WackenTV spoken-word show #2, Wacken Open Air 2013 (a second, different set). Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "qYKG6N1WujQ",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins Up for It 2001 full show",
+    "year": 2001,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 5736,
+    "notes": "Full 'Up for It' spoken-word show, 2001. Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "rZWGQcO5LiI",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins Goes to London - Live Spoken Word Performance | 1994",
+    "year": 1994,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 6885,
+    "notes": "Full spoken-word performance, London 1994. Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "ktbjwcon7cY",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins - Talking From The Box Live Spoken Word Show | 1992",
+    "year": 1992,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 3733,
+    "notes": "'Talking From The Box' spoken-word show, 1992 (VHS transfer). Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "52YjYUuyfRc",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "part one Henry Rollins Spoken Word show Live 1993 Minneapolis Concert Performance Original Recording",
+    "year": 1993,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 5261,
+    "notes": "Part 1 of the March 16, 1993 spoken-word show at First Avenue, Minneapolis (audio master). Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "VpRkFlBB_Uk",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "part two Henry Rollins Spoken Word show Live 1993 Minneapolis Concert Performance Original Recording",
+    "year": 1993,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 4664,
+    "notes": "Part 2 of the March 16, 1993 spoken-word show at First Avenue, Minneapolis (audio master). Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "hEI7cPbw2-k",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins – Spoken Word Live at Rockefeller, Oslo Norway – November 17th, 1999",
+    "year": 1999,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 7860,
+    "notes": "Full spoken-word show, Rockefeller, Oslo, November 17, 1999 (soundboard). Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "8zL3wtNrq00",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins: Shock & Awe (2005) [Full Movie]",
+    "year": 2005,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 5814,
+    "notes": "Full 'Shock & Awe' spoken-word special, 2005. Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "njVUS5gSQD0",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins Spoken Word at DC Space 1990",
+    "year": 1990,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 5738,
+    "notes": "Spoken-word performance at DC Space, 1990. Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "sQAxqLY_gt8",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins - You Saw Me Up There (Spoken Word Show 1998) ",
+    "year": 1998,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 4988,
+    "notes": "'You Saw Me Up There' spoken-word show, 1998. Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "prO6WMDuuRk",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins -  Spoken Word - Kennel Club, Philadelphia (1/9/85)",
+    "year": 1985,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 4106,
+    "notes": "Early spoken-word set, Kennel Club, Philadelphia, January 9, 1985. Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "1Osrke5cP78",
+    "type": "concert",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins - Talk Is Cheap, Vol 4 [Part 1]",
+    "year": 2004,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 4775,
+    "notes": "Talk Is Cheap, Vol. 4, part 1. Official 2.13.61 spoken-word recording, April 16, 2004, San José State University. Filed as concert; schema has no spoken-word type."
+  },
+  {
+    "id": "_jAOWQxh46I",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "[REMASTERED] Black Flag :: Live @ Pollywog Park, Manhattan Beach, CA 7/22/79 [KEITH ON VOCALS]",
+    "year": 1979,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris",
+      "Greg Ginn",
+      "Chuck Dukowski"
+    ],
+    "durationSeconds": 1595,
+    "notes": "Keith Morris-era set, Pollywog Park, Manhattan Beach, July 22, 1979. Remastered upgrade of the same recording as cBVack_l7ew."
+  },
+  {
+    "id": "1yrIwOXKMVA",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "Black Flag :: Live @ Mabuhay Gardens, San Francisco, CA, 1/9/81 [DEZ ON VOCALS]",
+    "year": 1981,
+    "genre": "Punk",
+    "musicians": [
+      "Dez Cadena",
+      "Greg Ginn",
+      "Chuck Dukowski"
+    ],
+    "durationSeconds": 2274,
+    "notes": "Dez Cadena on vocals, Mabuhay Gardens, San Francisco, January 9, 1981. Complete set."
+  },
+  {
+    "id": "aGd4HnbUlCU",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "168   Black Flag - 100 Club, London UK December 18th 1981",
+    "year": 1981,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Greg Ginn",
+      "Chuck Dukowski",
+      "Dez Cadena"
+    ],
+    "durationSeconds": 4065,
+    "notes": "Early Rollins-era UK date, 100 Club, London, December 18, 1981 (two sets opening for Chron Gen)."
+  },
+  {
+    "id": "rWqnpBusmvY",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "Black Flag - Live in Los Angeles 1981 [Full Concert]",
+    "year": 1981,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Greg Ginn",
+      "Chuck Dukowski",
+      "Dez Cadena"
+    ],
+    "durationSeconds": 1909,
+    "notes": "Full concert, Los Angeles 1981. Lineup credited from the 1981 Rollins/Dez-guitar era."
+  },
+  {
+    "id": "pwMGbUq12Zo",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "Black Flag - Live in Salt Lake City 1982 [Full Concert]",
+    "year": 1982,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Greg Ginn",
+      "Chuck Dukowski",
+      "Dez Cadena"
+    ],
+    "durationSeconds": 2814,
+    "notes": "Full concert, Salt Lake City 1982."
+  },
+  {
+    "id": "LRi4dIc8kHA",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "Black Flag Live At Ukrainian Hall, Los Angeles, CA, 1982-12-10 [60fps]",
+    "year": 1982,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Greg Ginn",
+      "Chuck Dukowski",
+      "Dez Cadena"
+    ],
+    "durationSeconds": 5533,
+    "notes": "Ukrainian Hall, Los Angeles, December 10, 1982."
+  },
+  {
+    "id": "S_nul_CbJeA",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "Black Flag Live At SO 36 Club, Berlin, Germany, 1983-02-18 [50fps]",
+    "year": 1983,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Greg Ginn",
+      "Chuck Dukowski",
+      "Dez Cadena",
+      "Bill Stevenson"
+    ],
+    "durationSeconds": 1770,
+    "notes": "SO36, Berlin, February 18, 1983. Complete set; Dukowski still in the band."
+  },
+  {
+    "id": "aN-CkpUqL7U",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "Black Flag - Live in Milano 1983 [Full Concert]",
+    "year": 1983,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Greg Ginn",
+      "Dez Cadena",
+      "Bill Stevenson"
+    ],
+    "durationSeconds": 4303,
+    "notes": "Full concert, Milan 1983."
+  },
+  {
+    "id": "d6uujf0csGA",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "Black Flag (Live in Leeds, UK - May 1984)",
+    "year": 1984,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Greg Ginn",
+      "Kira Roessler",
+      "Bill Stevenson"
+    ],
+    "durationSeconds": 3457,
+    "notes": "Jettisoundz video: description locates the show at The Bierkeller, Bradford, May 19, 1984 (title says Leeds). 1984 My War-era lineup."
+  },
+  {
+    "id": "cGcsxs23EZU",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "Black Flag :: Live @ Brandeis University, Waltham, MA, 4/13/86 [SOUNDBOARD]",
+    "year": 1986,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Greg Ginn"
+    ],
+    "durationSeconds": 4328,
+    "notes": "Soundboard, Brandeis University, Waltham, MA, April 13, 1986. Late-era Flag; rhythm section not named in the title."
+  },
+  {
+    "id": "1KJe4aXRnUM",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "Black Flag Live At Graystone Hall, Detroit MI, 1986-06-28 [SOUNDBOARD]",
+    "year": 1986,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Greg Ginn"
+    ],
+    "durationSeconds": 4163,
+    "notes": "Soundboard, Graystone Hall, Detroit, June 28, 1986. Late-era Flag."
+  },
+  {
+    "id": "N_4M8_FOWKc",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "BLACK FLAG - Observatory (full set*) (Ron Reyes)",
+    "year": 2013,
+    "genre": "Punk",
+    "musicians": [
+      "Ron Reyes",
+      "Greg Ginn"
+    ],
+    "durationSeconds": 3052,
+    "notes": "Full set, The Observatory, with Ron Reyes on vocals (2013 Ginn/Reyes touring lineup, not the 1980 band)."
+  },
+  {
+    "id": "Oc3dd-gDobE",
+    "type": "concert",
+    "artist": "Black Flag",
+    "title": "Rollins Band w/ Keith Morris :: Live @ Amoeba Records, Hollywood, CA, 12/3/02 [BLACK FLAG SET]",
+    "year": 2002,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris",
+      "Henry Rollins",
+      "Chuck Dukowski"
+    ],
+    "durationSeconds": 1696,
+    "notes": "West Memphis Three benefit, Amoeba Hollywood, December 3, 2002: a Black Flag set with Keith Morris and then Henry Rollins on vocals (Rollins Band billing). Complete short set."
+  },
+  {
+    "id": "gRZkNue5s-Q",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins on Black Flag, Creativity & Cultural Extremes | Full Interview",
+    "year": 2026,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 7651,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Peeling The Onion",
+    "notes": "Full conversation recorded January 2, 2026."
+  },
+  {
+    "id": "8LBTReQJZ8s",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins on Rollins Band, Songwriting & Discipline | Full Interview",
+    "year": 2026,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 5451,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Peeling The Onion",
+    "notes": "Companion long-form interview on Rollins Band, songwriting and discipline."
+  },
+  {
+    "id": "4UG-XSBV3A0",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "VersoFest 2025: Henry Rollins in Conversation with Nabil Ayers",
+    "year": 2025,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Nabil Ayers"
+    ],
+    "durationSeconds": 5136,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      },
+      {
+        "name": "Nabil Ayers",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Nabil Ayers",
+    "outlet": "VersoFest / The Westport Library",
+    "notes": "VersoFest 2025 conversation, April 5."
+  },
+  {
+    "id": "nA6c8IKEs0g",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Black Flag to Spoken Word: Henry Rollins' Legacy | Broken Record Podcast Interview with Rick Rubin",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Rick Rubin"
+    ],
+    "durationSeconds": 2945,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      },
+      {
+        "name": "Rick Rubin",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Rick Rubin",
+    "outlet": "Broken Record",
+    "notes": "Broken Record podcast interview with Rick Rubin. Podcast within the last-5-years rule; year is not stated in the title or description."
+  },
+  {
+    "id": "-LwJcA_pkaA",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins on Black Flag, Ian MacKaye, & Spoken Word",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 5952,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      }
+    ],
+    "interviewer": "Logan Kelly",
+    "outlet": "Logan Sounds Off",
+    "notes": "Podcast interview covering Black Flag, Ian MacKaye and spoken word. Year is not stated in the title or description; episode is from the last 5 years."
+  },
+  {
+    "id": "9ijqE9XLQXk",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "#108 - Henry Rollins Interrogation",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 6316,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "We Are The Fall",
+    "notes": "Podcast episode #108, 'Henry Rollins Interrogation,' mostly about The Fall. Year is not stated in the title or description; episode is from the last 5 years."
+  },
+  {
+    "id": "0uwPQKpUaZo",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins & Ian Mackaye recount the Black Flag tour of England 1981 (KCRW)",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Ian MacKaye"
+    ],
+    "durationSeconds": 6332,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      },
+      {
+        "name": "Ian MacKaye",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "KCRW",
+    "notes": "Henry Rollins and Ian MacKaye recount Black Flag's 1981 England tour. The 1981 in the title is the tour being discussed, not the recording year."
+  },
+  {
+    "id": "oo45QMJPOe8",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins interview with Matt Pinfield on MTV's \"120 Minutes\"",
+    "year": 1997,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Matt Pinfield"
+    ],
+    "durationSeconds": 1482,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      },
+      {
+        "name": "Matt Pinfield",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Matt Pinfield",
+    "outlet": "MTV 120 Minutes",
+    "notes": "Circa 1997, discussing Come In and Burn and Melvin Gibbs joining Rollins Band."
+  },
+  {
+    "id": "JjqxpQeoi48",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins - BBC HARDtalk 18/01/2016 (Part 1)",
+    "year": 2016,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 752,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC HARDtalk",
+    "notes": "BBC HARDtalk, January 18, 2016, part 1."
+  },
+  {
+    "id": "_EqSfEP_kt0",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins interview - New Mexico (Sept 18th 1985)",
+    "year": 1985,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 1423,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Interview recorded in New Mexico, September 18, 1985."
+  },
+  {
+    "id": "xSkzaIz30pU",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins - Interview MTV 90's",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 630,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV",
+    "notes": "1990s MTV interview; exact year not stated."
+  },
+  {
+    "id": "64PnUvlPQAc",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins - MTV Profile 1992 Interview",
+    "year": 1992,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 417,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV",
+    "notes": "MTV profile/interview, 1992."
+  },
+  {
+    "id": "SbW6SuS7y6Y",
+    "type": "interview",
+    "artist": "Rollins Band",
+    "title": "Rollins Band - Low Self Opinion + interview [1-29-92]",
+    "year": 1992,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins"
+    ],
+    "durationSeconds": 594,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Performance of Low Self Opinion plus interview, January 29, 1992."
+  },
+  {
+    "id": "za_hwtOpj08",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins on the Dennis Miller Show, 1992",
+    "year": 1992,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Dennis Miller"
+    ],
+    "durationSeconds": 492,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      },
+      {
+        "name": "Dennis Miller",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Dennis Miller",
+    "outlet": "The Dennis Miller Show",
+    "notes": "Dennis Miller Show appearance, 1992."
+  },
+  {
+    "id": "x6j4QzYyNc0",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins on the \"Tonight Show with Jay Leno\" 1994",
+    "year": 1994,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Jay Leno"
+    ],
+    "durationSeconds": 501,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      },
+      {
+        "name": "Jay Leno",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Jay Leno",
+    "outlet": "The Tonight Show with Jay Leno",
+    "notes": "Tonight Show appearance, 1994."
+  },
+  {
+    "id": "n_obFRg2hHI",
+    "type": "interview",
+    "artist": "Henry Rollins",
+    "title": "Henry Rollins Howard 2001",
+    "year": 2001,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Howard Stern"
+    ],
+    "durationSeconds": 3032,
+    "credits": [
+      {
+        "name": "Henry Rollins",
+        "role": "interviewee"
+      },
+      {
+        "name": "Howard Stern",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Howard Stern",
+    "outlet": "The Howard Stern Show",
+    "notes": "Howard Stern interview, 2001."
+  },
+  {
+    "id": "H9UxYRNww6Y",
+    "type": "interview",
+    "artist": "Black Flag",
+    "title": "Keith Morris Part 1: BLACK FLAG (A HardLore Special)",
+    "year": 2026,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 7149,
+    "credits": [
+      {
+        "name": "Keith Morris",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "HARDLORE",
+    "notes": "HardLore special part 1: Keith Morris on founding Black Flag. Long-form interview, 2026."
+  },
+  {
+    "id": "ZxlH_rzxTls",
+    "type": "interview",
+    "artist": "Circle Jerks",
+    "title": "Keith Morris Part 2: CIRCLE JERKS (A HardLore Special)",
+    "year": 2026,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 7969,
+    "credits": [
+      {
+        "name": "Keith Morris",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "HARDLORE",
+    "notes": "HardLore special part 2: Keith Morris on Circle Jerks. Long-form interview, 2026."
+  },
+  {
+    "id": "JVCyRlcsM5Q",
+    "type": "interview",
+    "artist": "OFF!",
+    "title": "Keith Morris from Circle Jerks, Off! & Black Flag, on A Hardcore Conversation, Holy Crap!",
+    "year": 2026,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 5940,
+    "credits": [
+      {
+        "name": "Keith Morris",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "A Hardcore Conversation",
+    "notes": "Long-form Keith Morris interview covering Circle Jerks, OFF! and Black Flag."
+  },
+  {
+    "id": "lqKI-LMQfCU",
+    "type": "interview",
+    "artist": "OFF!",
+    "title": "Keith Morris (OFF!, Black Flag, Circle Jerks) talks with Tom Scharpling",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris",
+      "Tom Scharpling"
+    ],
+    "durationSeconds": 4680,
+    "credits": [
+      {
+        "name": "Keith Morris",
+        "role": "interviewee"
+      },
+      {
+        "name": "Tom Scharpling",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Tom Scharpling",
+    "outlet": "The Best Show with Tom Scharpling",
+    "notes": "Podcast conversation. Year is not stated in the title or description; episode is from the last 5 years."
+  },
+  {
+    "id": "8I-PF8jfr-Q",
+    "type": "interview",
+    "artist": "OFF!",
+    "title": "NEW Keith Morris Interview 10/29/24",
+    "year": 2024,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 2652,
+    "credits": [
+      {
+        "name": "Keith Morris",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "Da Roosta Show",
+    "notes": "Keith Morris interview, October 29, 2024 (podcast)."
+  },
+  {
+    "id": "iwxNZFk5A3c",
+    "type": "interview",
+    "artist": "OFF!",
+    "title": "OFF!'s Keith Morris talks about his time in Black Flag & Circle Jerks W Eric Blair",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris",
+      "Eric Blair"
+    ],
+    "durationSeconds": 3266,
+    "credits": [
+      {
+        "name": "Keith Morris",
+        "role": "interviewee"
+      },
+      {
+        "name": "Eric Blair",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Eric Blair",
+    "outlet": "The Blairing Out Show",
+    "notes": "Keith Morris on Black Flag and Circle Jerks."
+  },
+  {
+    "id": "odBKx2zChO8",
+    "type": "interview",
+    "artist": "Black Flag",
+    "title": "Interview with Keith Morris of Black Flag, Circle Jerks & OFF! in Asbury Park NJ",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 890,
+    "credits": [
+      {
+        "name": "Keith Morris",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Keith Morris interview in Asbury Park, covering Black Flag, Circle Jerks and OFF!."
+  },
+  {
+    "id": "IMHbNOEafsY",
+    "type": "interview",
+    "artist": "Black Flag",
+    "title": "Nardwuar vs. Ron Reyes / Black Flag",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Ron Reyes",
+      "Nardwuar"
+    ],
+    "durationSeconds": 596,
+    "credits": [
+      {
+        "name": "Ron Reyes",
+        "role": "interviewee"
+      },
+      {
+        "name": "Nardwuar",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Nardwuar",
+    "outlet": "Nardwuar",
+    "notes": "Nardwuar vs. Ron Reyes."
+  },
+  {
+    "id": "2j3gg7XUE4s",
+    "type": "interview",
+    "artist": "Black Flag",
+    "title": "Nardwuar vs. Greg Ginn / Black Flag",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Greg Ginn",
+      "Nardwuar"
+    ],
+    "durationSeconds": 471,
+    "credits": [
+      {
+        "name": "Greg Ginn",
+        "role": "interviewee"
+      },
+      {
+        "name": "Nardwuar",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Nardwuar",
+    "outlet": "Nardwuar",
+    "notes": "Nardwuar vs. Greg Ginn."
+  },
+  {
+    "id": "kSsZzB54Guk",
+    "type": "interview",
+    "artist": "Black Flag",
+    "title": "Greg Ginn- KDVS Interview, Davis Ca 9/19/94 xfer f/master audio cassette Black Flag Gone SST Records",
+    "year": 1994,
+    "genre": "Punk",
+    "musicians": [
+      "Greg Ginn"
+    ],
+    "durationSeconds": 1166,
+    "credits": [
+      {
+        "name": "Greg Ginn",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "KDVS",
+    "notes": "Greg Ginn interview, KDVS, Davis, CA, September 19, 1994 (master cassette transfer)."
+  },
+  {
+    "id": "PQsvXQSIggU",
+    "type": "concert",
+    "artist": "Rollins Band",
+    "title": "Rollins Band - Full Concert [HD] | Live at Pinkpop 1995",
+    "year": 1995,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Chris Haskett",
+      "Melvin Gibbs",
+      "Sim Cain"
+    ],
+    "durationSeconds": 3011
+  },
+  {
+    "id": "qPXhPEXzygU",
+    "type": "concert",
+    "artist": "Rollins Band",
+    "title": "ROLLINS BAND CREST THEATER SACRAMENTO 6.8.94 FULL SET",
+    "year": 1994,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Chris Haskett",
+      "Melvin Gibbs",
+      "Sim Cain"
+    ],
+    "durationSeconds": 5093
+  },
+  {
+    "id": "22RUU4cgCsk",
+    "type": "concert",
+    "artist": "Rollins Band",
+    "title": "Rollins Band :: Live @ Auditorium Flog, Florence, Italy, 6/11/92 [PRO SHOT]",
+    "year": 1992,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Chris Haskett",
+      "Andrew Weiss",
+      "Sim Cain"
+    ],
+    "durationSeconds": 4846
+  },
+  {
+    "id": "goxsiNY288g",
+    "type": "concert",
+    "artist": "Rollins Band",
+    "title": "Rollins Band Festival Dour Belgium 10 jul 1994 Full Show",
+    "year": 1994,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Chris Haskett",
+      "Melvin Gibbs",
+      "Sim Cain"
+    ],
+    "durationSeconds": 3868
+  },
+  {
+    "id": "NVXn63O81yU",
+    "type": "concert",
+    "artist": "Rollins Band",
+    "title": "Rollins Band - Bill Graham Civic/San Francisco, CA  11-25-92 full show",
+    "year": 1992,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Chris Haskett",
+      "Andrew Weiss",
+      "Sim Cain"
+    ],
+    "durationSeconds": 3819
+  },
+  {
+    "id": "hlY7XI_yQL0",
+    "type": "concert",
+    "artist": "Rollins Band",
+    "title": "Rollins Band Live @ Bizarre Festival (Full Concert)[ProShot]",
+    "year": 2000,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Chris Haskett",
+      "Melvin Gibbs",
+      "Sim Cain"
+    ],
+    "durationSeconds": 3361
+  },
+  {
+    "id": "4dFMLFt8dzo",
+    "type": "concert",
+    "artist": "Rollins Band",
+    "title": "Rollins Band Roskildefestival Roskilde Denmark 2 jul 1994 Full Show",
+    "year": 1994,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Chris Haskett",
+      "Melvin Gibbs",
+      "Sim Cain"
+    ],
+    "durationSeconds": 3295
+  },
+  {
+    "id": "vOJF-V63Dfc",
+    "type": "concert",
+    "artist": "Rollins Band",
+    "title": "Rollins Band :: Live @ Lollapalooza, Harriet Island, Saint Paul, MN, 8/1/91 [SOUNDBOARD]",
+    "year": 1991,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Chris Haskett",
+      "Andrew Weiss",
+      "Sim Cain"
+    ],
+    "durationSeconds": 2765,
+    "notes": "Lollapalooza set, soundboard."
+  },
+  {
+    "id": "u_SgUHZj9VM",
+    "type": "concert",
+    "artist": "Rollins Band",
+    "title": "Rollins Band Rockpalast Bizarre Festival Butzweilerhof Cologne 16 aug 1997",
+    "year": 1997,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Chris Haskett",
+      "Melvin Gibbs",
+      "Sim Cain"
+    ],
+    "durationSeconds": 3013
+  },
+  {
+    "id": "GPirybtE9hE",
+    "type": "concert",
+    "artist": "Rollins Band",
+    "title": "Rollins Band- KDOC Request Video, Anaheim Ca 7/23/92 xfer from master VHS tape Enhanced Henry",
+    "year": 1992,
+    "genre": "Punk",
+    "musicians": [
+      "Henry Rollins",
+      "Chris Haskett",
+      "Andrew Weiss",
+      "Sim Cain"
+    ],
+    "durationSeconds": 2621
+  },
+  {
+    "id": "PDYG7Lz9TBk",
+    "type": "concert",
+    "artist": "OFF!",
+    "title": "OFF! - FULL CONCERT AT CAMP ANARCHY, OHIO, 2019",
+    "year": 2019,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 2257
+  },
+  {
+    "id": "E1oB31kglYw",
+    "type": "concert",
+    "artist": "The Offspring",
+    "title": "The Offspring, live at Hellfest Open Air 2026- ARTE Concert",
+    "year": 2026,
+    "genre": "Punk",
+    "musicians": [
+      "Dexter Holland"
+    ],
+    "durationSeconds": 4692,
+    "notes": "ARTE Concert, Hellfest Open Air 2026. Was briefly mis-tagged during OFF! search."
+  },
+  {
+    "id": "ySfSP63UEyw",
+    "type": "concert",
+    "artist": "OFF!",
+    "title": "OFF! - Final Show Ever - The Belasco LA (07/26/2024) - Full Live Concert",
+    "year": 2024,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 3590
+  },
+  {
+    "id": "K8f_Drdeluo",
+    "type": "concert",
+    "artist": "OFF!",
+    "title": "Off! - Live - Sydney - 2024",
+    "year": 2024,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 3521
+  },
+  {
+    "id": "WLxSAH4umL4",
+    "type": "concert",
+    "artist": "OFF!",
+    "title": "OFF! - The Echo, Los Angeles Ca 11/29/14 Multicam Keith Morris Punk",
+    "year": 2014,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 2795
+  },
+  {
+    "id": "wI6xtPRmLro",
+    "type": "concert",
+    "artist": "OFF!",
+    "title": "[hate5six] OFF! - July 27, 2019",
+    "year": 2019,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 2070
+  },
+  {
+    "id": "H_2o6eooKzQ",
+    "type": "concert",
+    "artist": "Bad Religion",
+    "title": "Bad Religion - Full Concert [HD] | Live at Pinkpop 1995",
+    "year": 1995,
+    "genre": "Punk",
+    "musicians": [
+      "Greg Graffin"
+    ],
+    "durationSeconds": 2997
+  },
+  {
+    "id": "Qe7g0kv9dNs",
+    "type": "concert",
+    "artist": "Bad Religion",
+    "title": "ONE OF THE BAD RELIGION'S BEST LIVE PERFORMANCES - FULL CONCERT AT CAMP ANARCHY AND WHOLE NO CONTROL",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Greg Graffin"
+    ],
+    "durationSeconds": 4205
+  },
+  {
+    "id": "GOr-8NuEH4Q",
+    "type": "concert",
+    "artist": "Bad Religion",
+    "title": "Bad Religion - Hellfest 2022 (Full Concert)",
+    "year": 2022,
+    "genre": "Punk",
+    "musicians": [
+      "Greg Graffin"
+    ],
+    "durationSeconds": 3858
+  },
+  {
+    "id": "eV3Td7a9KGg",
+    "type": "concert",
+    "artist": "Dead Kennedys",
+    "title": "DEAD KENNEDYS - Portland (26-04-1983) FULL SHOW",
+    "year": 1983,
+    "genre": "Punk",
+    "musicians": [
+      "Jello Biafra"
+    ],
+    "durationSeconds": 3244
+  },
+  {
+    "id": "nezUCtU3j3o",
+    "type": "concert",
+    "artist": "Dead Kennedys",
+    "title": "DEAD KENNEDYS LIVE La Bamba Club, Portland, OR. 30-04-1983 (Full Concert)",
+    "year": 1983,
+    "genre": "Punk",
+    "musicians": [
+      "Jello Biafra"
+    ],
+    "durationSeconds": 3239
+  },
+  {
+    "id": "VU6SksbWdyk",
+    "type": "concert",
+    "artist": "Dead Kennedys",
+    "title": "Dead Kennedys: London, England 2/12/1982 (Best Source Mix - 2024 Version)",
+    "year": 1982,
+    "genre": "Punk",
+    "musicians": [
+      "Jello Biafra"
+    ],
+    "durationSeconds": 4763
+  },
+  {
+    "id": "JVrPP7k1p8c",
+    "type": "concert",
+    "artist": "Dead Kennedys",
+    "title": "Dead Kennedys-Live LaBamba's 1983 best quality",
+    "year": 1983,
+    "genre": "Punk",
+    "musicians": [
+      "Jello Biafra"
+    ],
+    "durationSeconds": 3381
+  },
+  {
+    "id": "alNUfWcons4",
+    "type": "interview",
+    "artist": "Descendents",
+    "title": "Punk rock, coffee, and... Donald Trump / Milo Aukerman / Descendents / interview 2025 / rozmowy #62",
+    "year": 2025,
+    "genre": "Punk",
+    "musicians": [
+      "Milo Aukerman"
+    ],
+    "durationSeconds": 2718,
+    "credits": [
+      {
+        "name": "Milo Aukerman",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "unqFi3mTa-k",
+    "type": "interview",
+    "artist": "Descendents",
+    "title": "PunkTV - The Descendents Interview - Ogden Theater",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Milo Aukerman"
+    ],
+    "durationSeconds": 1434,
+    "credits": [
+      {
+        "name": "Milo Aukerman",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "s-7L8RGKiWY",
+    "type": "interview",
+    "artist": "Minor Threat",
+    "title": "Nardwuar vs. Ian MacKaye  (2001)",
+    "year": 2001,
+    "genre": "Punk",
+    "musicians": [
+      "Ian MacKaye",
+      "Nardwuar"
+    ],
+    "durationSeconds": 2072,
+    "credits": [
+      {
+        "name": "Ian MacKaye",
+        "role": "interviewee"
+      },
+      {
+        "name": "Nardwuar",
+        "role": "interviewer"
+      }
+    ],
+    "interviewer": "Nardwuar",
+    "outlet": "Nardwuar"
+  },
+  {
+    "id": "2r3mzGqKwMo",
+    "type": "interview",
+    "artist": "Minor Threat",
+    "title": "Ian MacKaye interview",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Ian MacKaye"
+    ],
+    "durationSeconds": 591,
+    "credits": [
+      {
+        "name": "Ian MacKaye",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "xoYgoZnEUJE",
+    "type": "concert",
+    "artist": "Social Distortion",
+    "title": "Social Distortion - Live At Rockpalast, Düsseldorf, Germany 30-03-1997 [HD] FULL CONCERT",
+    "year": 1997,
+    "genre": "Punk",
+    "musicians": [
+      "Mike Ness"
+    ],
+    "durationSeconds": 2069
+  },
+  {
+    "id": "rvJHwtc1GPw",
+    "type": "concert",
+    "artist": "Social Distortion",
+    "title": "Social Distortion Full Set LIVE | Roadrunner Boston, MA | September 9, 2026",
+    "year": 2026,
+    "genre": "Punk",
+    "musicians": [
+      "Mike Ness"
+    ],
+    "durationSeconds": 5152
+  },
+  {
+    "id": "EmjbPWoOpE4",
+    "type": "concert",
+    "artist": "Social Distortion",
+    "title": "Social Distortion - Live At UC Irvine 1990 - UNSEEN FOOTAGE [FULL CONCERT]",
+    "year": 1990,
+    "genre": "Punk",
+    "musicians": [
+      "Mike Ness"
+    ],
+    "durationSeconds": 4065
+  },
+  {
+    "id": "dCxpaHD7SD0",
+    "type": "interview",
+    "artist": "Green Day",
+    "title": "\"It's Profiting off of Peoples' Depression\" Billie Joe Armstrong/Green Day Interview | Much Rewind",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Billie Joe Armstrong"
+    ],
+    "durationSeconds": 2137,
+    "credits": [
+      {
+        "name": "Billie Joe Armstrong",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "CVCvgX5sWEc",
+    "type": "interview",
+    "artist": "Green Day",
+    "title": "Extended interview: Green Day",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Billie Joe Armstrong"
+    ],
+    "durationSeconds": 1501,
+    "credits": [
+      {
+        "name": "Billie Joe Armstrong",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "c9DKS9VipQE",
+    "type": "concert",
+    "artist": "Iggy Pop",
+    "title": "Iggy & The Stooges - Full Concert [HD] | Live at Pinkpop 2007",
+    "year": 2007,
+    "genre": "Punk",
+    "musicians": [
+      "Iggy Pop"
+    ],
+    "durationSeconds": 3631
+  },
+  {
+    "id": "ZMfOGqTwNB4",
+    "type": "concert",
+    "artist": "Iggy Pop",
+    "title": "Iggy and the Stooges | Live In Sydney - 2013 | Full Concert",
+    "year": 2013,
+    "genre": "Punk",
+    "musicians": [
+      "Iggy Pop"
+    ],
+    "durationSeconds": 4578
+  },
+  {
+    "id": "P1ENL9bsF98",
+    "type": "concert",
+    "artist": "Iggy Pop",
+    "title": "The Stooges - Glastonbury 2007 (FULL SHOW)",
+    "year": 2007,
+    "genre": "Punk",
+    "musicians": [
+      "Iggy Pop"
+    ],
+    "durationSeconds": 3828
+  },
+  {
+    "id": "_T6AT06Aeis",
+    "type": "concert",
+    "artist": "Iggy Pop",
+    "title": "Iggy Pop And The Stooges - Live in San Francisco 1973 [Full Concert]",
+    "year": 1973,
+    "genre": "Punk",
+    "musicians": [
+      "Iggy Pop"
+    ],
+    "durationSeconds": 3420
+  },
+  {
+    "id": "jpZON9pId6w",
+    "type": "interview",
+    "artist": "NOFX",
+    "title": "The FAT MIKE Interview",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Fat Mike"
+    ],
+    "durationSeconds": 4049,
+    "credits": [
+      {
+        "name": "Fat Mike",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "x9DRObORCT8",
+    "type": "interview",
+    "artist": "NOFX",
+    "title": "Will NOFX Ever Reunite? Interview with Fat Mike (On The Phone) & El Hefe",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Fat Mike"
+    ],
+    "durationSeconds": 1306,
+    "credits": [
+      {
+        "name": "Fat Mike",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "OIRUD998aCI",
+    "type": "interview",
+    "artist": "Social Distortion",
+    "title": "Under the Influences Interview with Mike Ness of Social Distortion",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Mike Ness"
+    ],
+    "durationSeconds": 5424,
+    "credits": [
+      {
+        "name": "Mike Ness",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "eJ-Th0gLrTA",
+    "type": "interview",
+    "artist": "Social Distortion",
+    "title": "Social Distortion on World Cafe | Studio Session & Interview",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Mike Ness"
+    ],
+    "durationSeconds": 2731,
+    "credits": [
+      {
+        "name": "Mike Ness",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "jQmDpBA5rZE",
+    "type": "interview",
+    "artist": "The Clash",
+    "title": "JOE STRUMMER VERY RARE LOST INTERVIEW 1995",
+    "year": 1995,
+    "genre": "Punk",
+    "musicians": [
+      "Joe Strummer"
+    ],
+    "durationSeconds": 2765,
+    "credits": [
+      {
+        "name": "Joe Strummer",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "L3lcqgy7adE",
+    "type": "interview",
+    "artist": "The Clash",
+    "title": "Joe Strummer Interview 1984",
+    "year": 1984,
+    "genre": "Punk",
+    "musicians": [
+      "Joe Strummer"
+    ],
+    "durationSeconds": 2463,
+    "credits": [
+      {
+        "name": "Joe Strummer",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "35Z34NVZf3Y",
+    "type": "interview",
+    "artist": "Ramones",
+    "title": "The Most Chaotic Ramones Interview Ever Recorded",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Joey Ramone"
+    ],
+    "durationSeconds": 982,
+    "credits": [
+      {
+        "name": "Joey Ramone",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "IIPEPnI-Hq8",
+    "type": "interview",
+    "artist": "Ramones",
+    "title": "Ramones - Interview On The Tomorrow Show (1981)",
+    "year": 1981,
+    "genre": "Punk",
+    "musicians": [
+      "Joey Ramone"
+    ],
+    "durationSeconds": 558,
+    "credits": [
+      {
+        "name": "Joey Ramone",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "gDP968V68z0",
+    "type": "interview",
+    "artist": "Television",
+    "title": "Rare Tom Verlaine Interview - BBC 1977 (earliest interview)",
+    "year": 1977,
+    "genre": "Punk",
+    "musicians": [
+      "Tom Verlaine"
+    ],
+    "durationSeconds": 1732,
+    "credits": [
+      {
+        "name": "Tom Verlaine",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "BBC"
+  },
+  {
+    "id": "8VmTUqDWLTk",
+    "type": "interview",
+    "artist": "Television",
+    "title": "Tom Verlaine of Television: A Rare Interview Part 1 - 1992 - San Francisco, CA.",
+    "year": 1992,
+    "genre": "Punk",
+    "musicians": [
+      "Tom Verlaine"
+    ],
+    "durationSeconds": 876,
+    "credits": [
+      {
+        "name": "Tom Verlaine",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "uptTFRzbrw0",
+    "type": "concert",
+    "artist": "Ramones",
+    "title": "The Ramones - Full Concert - 12/28/78 - Winterland (OFFICIAL)",
+    "year": 1978,
+    "genre": "Punk",
+    "musicians": [
+      "Joey Ramone"
+    ],
+    "durationSeconds": 2908
+  },
+  {
+    "id": "2Le096MVDrk",
+    "type": "concert",
+    "artist": "Ramones",
+    "title": "Ramones Live The Lyceum Theatre, London, England 25/02/1985 (FULL SHOW)",
+    "year": 1985,
+    "genre": "Punk",
+    "musicians": [
+      "Joey Ramone"
+    ],
+    "durationSeconds": 3652
+  },
+  {
+    "id": "F_GahTZv2Rg",
+    "type": "concert",
+    "artist": "Ramones",
+    "title": "RAMONES 1978-02-19 Houston TX, On the Border ( Video, audience, complete show)",
+    "year": 1978,
+    "genre": "Punk",
+    "musicians": [
+      "Joey Ramone"
+    ],
+    "durationSeconds": 3390
+  },
+  {
+    "id": "vZ7wjMjFC5Q",
+    "type": "interview",
+    "artist": "Dead Kennedys",
+    "title": "Jello Biafra -Interview- 1990",
+    "year": 1990,
+    "genre": "Punk",
+    "musicians": [
+      "Jello Biafra"
+    ],
+    "durationSeconds": 924,
+    "credits": [
+      {
+        "name": "Jello Biafra",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "oMdYuSL03sI",
+    "type": "interview",
+    "artist": "Dead Kennedys",
+    "title": "Dead Kennedys Jello Biafra Obscenity Trial Interview Canadian New Music Show 1987",
+    "year": 1987,
+    "genre": "Punk",
+    "musicians": [
+      "Jello Biafra"
+    ],
+    "durationSeconds": 570,
+    "credits": [
+      {
+        "name": "Jello Biafra",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "rNCA4dAgVag",
+    "type": "concert",
+    "artist": "Bad Brains",
+    "title": "BAD BRAINS — LIVE AT CBGB 1982 | BROUGHT BACK TO LIFE IN 4K (FULL CONCERT)",
+    "year": 1982,
+    "genre": "Punk",
+    "musicians": [
+      "H.R."
+    ],
+    "durationSeconds": 3467
+  },
+  {
+    "id": "Q-wgzqTKFiE",
+    "type": "concert",
+    "artist": "Bad Brains",
+    "title": "Bad brains Florida Live FULL SHOW PROSHOT HQ the BEST quallity 1987",
+    "year": 1987,
+    "genre": "Punk",
+    "musicians": [
+      "H.R."
+    ],
+    "durationSeconds": 1506
+  },
+  {
+    "id": "MBHK1bNEe8g",
+    "type": "concert",
+    "artist": "Bad Brains",
+    "title": "Bad Brains Live At The 9:30 Club, Washington, DC, 1986-10-16 [60fps]",
+    "year": 1986,
+    "genre": "Punk",
+    "musicians": [
+      "H.R."
+    ],
+    "durationSeconds": 6035
+  },
+  {
+    "id": "gYUNNh-5RtY",
+    "type": "concert",
+    "artist": "Bad Brains",
+    "title": "Bad Brains (US) Live @ The Ritz, NYC.27th December 1986 (Restored & mastered)",
+    "year": 1986,
+    "genre": "Punk",
+    "musicians": [
+      "H.R."
+    ],
+    "durationSeconds": 4367
+  },
+  {
+    "id": "BncNUwG5Xjg",
+    "type": "interview",
+    "artist": "Bad Brains",
+    "title": "Bad Brains - H.R. Interview / Solo (2010) - Megaforce Records",
+    "year": 2010,
+    "genre": "Punk",
+    "musicians": [
+      "H.R."
+    ],
+    "durationSeconds": 1121,
+    "credits": [
+      {
+        "name": "H.R.",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "KDS2RyG9JGc",
+    "type": "interview",
+    "artist": "Bad Brains",
+    "title": "HR OF BAD BRAINS INTERVIEW  7/24/01 PITTSBURGH, PA",
+    "year": 2001,
+    "genre": "Punk",
+    "musicians": [
+      "H.R."
+    ],
+    "durationSeconds": 948,
+    "credits": [
+      {
+        "name": "H.R.",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "UlxWddFz3Vc",
+    "type": "concert",
+    "artist": "Minor Threat",
+    "title": "Minor Threat :: Live @ Wilson Center, Washington, DC, 2/25/83 [SOUNDBOARD]",
+    "year": 1983,
+    "genre": "Punk",
+    "musicians": [
+      "Ian MacKaye"
+    ],
+    "durationSeconds": 2814
+  },
+  {
+    "id": "kMLGw8634ng",
+    "type": "concert",
+    "artist": "Minor Threat",
+    "title": "Minor Threat - Live in Washington D.C. 1982 [Full Concert]",
+    "year": 1982,
+    "genre": "Punk",
+    "musicians": [
+      "Ian MacKaye"
+    ],
+    "durationSeconds": 2126
+  },
+  {
+    "id": "C3R3VDFpcqw",
+    "type": "concert",
+    "artist": "Minor Threat",
+    "title": "Minor Threat - Live at Irving Plaza, NYC, 1982-05-15 [SOUNDBOARD]",
+    "year": 1982,
+    "genre": "Punk",
+    "musicians": [
+      "Ian MacKaye"
+    ],
+    "durationSeconds": 2074
+  },
+  {
+    "id": "8bqWoD5Rg3w",
+    "type": "concert",
+    "artist": "Minor Threat",
+    "title": "MINOR THREAT - Live at 9:30 Club [1983] [1080/60fps upscale]",
+    "year": 1983,
+    "genre": "Punk",
+    "musicians": [
+      "Ian MacKaye"
+    ],
+    "durationSeconds": 2332
+  },
+  {
+    "id": "Okii1Qov0uY",
+    "type": "concert",
+    "artist": "Fugazi",
+    "title": "Fugazi- Bernard's Pub, St. Louis Mo 6/5/89 xfer from 1st gen VHS Complete Show",
+    "year": 1989,
+    "genre": "Punk",
+    "musicians": [
+      "Ian MacKaye",
+      "Guy Picciotto"
+    ],
+    "durationSeconds": 4121
+  },
+  {
+    "id": "IQrVO3UgLBQ",
+    "type": "concert",
+    "artist": "Fugazi",
+    "title": "Fugazi - BRAZIL - Belo Horizonte - 1997 - [Full Set]",
+    "year": 1997,
+    "genre": "Punk",
+    "musicians": [
+      "Ian MacKaye",
+      "Guy Picciotto"
+    ],
+    "durationSeconds": 5461
+  },
+  {
+    "id": "VFpmACD4BKg",
+    "type": "concert",
+    "artist": "Fugazi",
+    "title": "Fugazi - Live at d.c. space - 1987 (full set)",
+    "year": 1987,
+    "genre": "Punk",
+    "musicians": [
+      "Ian MacKaye",
+      "Guy Picciotto"
+    ],
+    "durationSeconds": 3187
+  },
+  {
+    "id": "wFijfexyiSU",
+    "type": "concert",
+    "artist": "Fugazi",
+    "title": "Fugazi | The Powerstation, Auckland | 8.11.1991",
+    "year": 1991,
+    "genre": "Punk",
+    "musicians": [
+      "Ian MacKaye",
+      "Guy Picciotto"
+    ],
+    "durationSeconds": 4823
+  },
+  {
+    "id": "hGouBn6pP6Q",
+    "type": "interview",
+    "artist": "Fugazi",
+    "title": "Fugazi - Interview // Tribal Area",
+    "year": 1989,
+    "genre": "Punk",
+    "musicians": [
+      "Ian MacKaye",
+      "Guy Picciotto"
+    ],
+    "durationSeconds": 337,
+    "credits": [
+      {
+        "name": "Ian MacKaye",
+        "role": "interviewee"
+      },
+      {
+        "name": "Guy Picciotto",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "4fWaYmOa4Fo",
+    "type": "interview",
+    "artist": "Fugazi",
+    "title": "German interview with Ian MacKaye of Fugazi (1/2)",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Ian MacKaye",
+      "Guy Picciotto"
+    ],
+    "durationSeconds": 306,
+    "credits": [
+      {
+        "name": "Ian MacKaye",
+        "role": "interviewee"
+      },
+      {
+        "name": "Guy Picciotto",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "p9fTjAADB2g",
+    "type": "concert",
+    "artist": "Descendents",
+    "title": "Descendents - [Full Concert] (Houston 02.27.26) 4K",
+    "year": 2026,
+    "genre": "Punk",
+    "musicians": [
+      "Milo Aukerman"
+    ],
+    "durationSeconds": 4331
+  },
+  {
+    "id": "BFkejwJ3CL0",
+    "type": "concert",
+    "artist": "Descendents",
+    "title": "Descendents LIVE Full Set - July 29, 2025 - Music Farm - Charleston, South Carolina - Punk",
+    "year": 2025,
+    "genre": "Punk",
+    "musicians": [
+      "Milo Aukerman"
+    ],
+    "durationSeconds": 4055
+  },
+  {
+    "id": "keg8iRWcjNM",
+    "type": "concert",
+    "artist": "Descendents",
+    "title": "DESCENDENTS FULL CONCERT AT SABROSO FEST, 2019",
+    "year": 2019,
+    "genre": "Punk",
+    "musicians": [
+      "Milo Aukerman"
+    ],
+    "durationSeconds": 3278
+  },
+  {
+    "id": "Xu4i4aLi6Ys",
+    "type": "concert",
+    "artist": "Circle Jerks",
+    "title": "Circle Jerks - Live at Saturn, Birmingham, AL, 09/03/26 (Full Show)",
+    "year": 2026,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 4721
+  },
+  {
+    "id": "7LTlqfWun7Q",
+    "type": "concert",
+    "artist": "Circle Jerks",
+    "title": "Circle Jerks [Full Concert] (Houston 03.19.24) HD",
+    "year": 2024,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 3268
+  },
+  {
+    "id": "IgfFnbDLRP8",
+    "type": "interview",
+    "artist": "Circle Jerks",
+    "title": "Keith Morris of The Circle Jerks & Ed Colver Interview: Punk Rock History & Photography(Part 1 of 2)",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Keith Morris"
+    ],
+    "durationSeconds": 6144,
+    "credits": [
+      {
+        "name": "Keith Morris",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "sOriYKv4K8c",
+    "type": "concert",
+    "artist": "Germs",
+    "title": "The Germs - Live @ The Fleetwood, Redondo Beach, CA, 5/6/80 [SOUNDBOARD]",
+    "year": 1980,
+    "genre": "Punk",
+    "musicians": [
+      "Darby Crash",
+      "Pat Smear"
+    ],
+    "durationSeconds": 2514
+  },
+  {
+    "id": "0OqimuHeXfQ",
+    "type": "concert",
+    "artist": "Germs",
+    "title": "The Germs - Live in Los Angeles 1978 [Full Concert]",
+    "year": 1978,
+    "genre": "Punk",
+    "musicians": [
+      "Darby Crash",
+      "Pat Smear"
+    ],
+    "durationSeconds": 2149
+  },
+  {
+    "id": "7mms3M5vY4A",
+    "type": "concert",
+    "artist": "Germs",
+    "title": "The Germs - Live @ Hope Street Hall, Los Angeles, CA, 12/14/79",
+    "year": 1979,
+    "genre": "Punk",
+    "musicians": [
+      "Darby Crash",
+      "Pat Smear"
+    ],
+    "durationSeconds": 1830
+  },
+  {
+    "id": "LKWq9xcQf0w",
+    "type": "interview",
+    "artist": "X",
+    "title": "Exene Cervenka: Full Life Interview",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Exene Cervenka",
+      "John Doe"
+    ],
+    "durationSeconds": 6033,
+    "credits": [
+      {
+        "name": "Exene Cervenka",
+        "role": "interviewee"
+      },
+      {
+        "name": "John Doe",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "AcCFLSioQ3g",
+    "type": "interview",
+    "artist": "X",
+    "title": "X – interview at The Current",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Exene Cervenka",
+      "John Doe"
+    ],
+    "durationSeconds": 1160,
+    "credits": [
+      {
+        "name": "Exene Cervenka",
+        "role": "interviewee"
+      },
+      {
+        "name": "John Doe",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "kcBZzHpE6as",
+    "type": "concert",
+    "artist": "Minutemen",
+    "title": "Minutemen - Live in Hoboken 1985 [Full Concert]",
+    "year": 1985,
+    "genre": "Punk",
+    "musicians": [
+      "D. Boon",
+      "Mike Watt"
+    ],
+    "durationSeconds": 5022
+  },
+  {
+    "id": "_aO-JYY5bBs",
+    "type": "concert",
+    "artist": "Minutemen",
+    "title": "Minutemen live @ WREK-FM in Atlanta GA 30/NOV/1985 (full? broadcast)",
+    "year": 1985,
+    "genre": "Punk",
+    "musicians": [
+      "D. Boon",
+      "Mike Watt"
+    ],
+    "durationSeconds": 6117
+  },
+  {
+    "id": "Z6TBswDS8m4",
+    "type": "interview",
+    "artist": "Minutemen",
+    "title": "Mike Watt Talks Minutemen, The Stooges, DIY & Punk | Punk Globe Interview",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Mike Watt"
+    ],
+    "durationSeconds": 5546,
+    "credits": [
+      {
+        "name": "Mike Watt",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "_RSib2IzniE",
+    "type": "interview",
+    "artist": "Minutemen",
+    "title": "Minutemen Bard College Interview (1985)",
+    "year": 1985,
+    "genre": "Punk",
+    "musicians": [
+      "D. Boon",
+      "Mike Watt"
+    ],
+    "durationSeconds": 3401,
+    "credits": [
+      {
+        "name": "D. Boon",
+        "role": "interviewee"
+      },
+      {
+        "name": "Mike Watt",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "qqYND_9Wz7c",
+    "type": "concert",
+    "artist": "Hüsker Dü",
+    "title": "Husker Du- The Patio, Indianapolis In 6/21/85 Transfer f/Julie Huffaker VHS Tape Complete Set",
+    "year": 1985,
+    "genre": "Punk",
+    "musicians": [
+      "Bob Mould",
+      "Grant Hart"
+    ],
+    "durationSeconds": 4445
+  },
+  {
+    "id": "uBWqRJt2-Ps",
+    "type": "concert",
+    "artist": "Hüsker Dü",
+    "title": "Hüsker Dü - Warehouse: Live in Chicago",
+    "year": 1987,
+    "genre": "Punk",
+    "musicians": [
+      "Bob Mould",
+      "Grant Hart"
+    ],
+    "durationSeconds": 5142
+  },
+  {
+    "id": "8w3lc3ANnBw",
+    "type": "interview",
+    "artist": "The Misfits",
+    "title": "Glenn Danzig  The Pushead Interview ( All 3 parts)",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Glenn Danzig"
+    ],
+    "durationSeconds": 12532,
+    "credits": [
+      {
+        "name": "Glenn Danzig",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "e3LNBawDN4M",
+    "type": "interview",
+    "artist": "The Misfits",
+    "title": "Glenn Danzig Full Interview - Thrasher Magazine June 1986",
+    "year": 1986,
+    "genre": "Punk",
+    "musicians": [
+      "Glenn Danzig"
+    ],
+    "durationSeconds": 10018,
+    "credits": [
+      {
+        "name": "Glenn Danzig",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "naqVpYTxh_M",
+    "type": "interview",
+    "artist": "Bad Religion",
+    "title": "Greg Graffin's Book Signing & Interview | Punk Paradox",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Greg Graffin"
+    ],
+    "durationSeconds": 2941,
+    "credits": [
+      {
+        "name": "Greg Graffin",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "kobrtc8ARA4",
+    "type": "concert",
+    "artist": "Television",
+    "title": "Television : CBGB's, NYC 1976 12 28",
+    "year": 1976,
+    "genre": "Punk",
+    "musicians": [
+      "Tom Verlaine"
+    ],
+    "durationSeconds": 6432
+  },
+  {
+    "id": "LDTBm52mnW0",
+    "type": "concert",
+    "artist": "Richard Hell",
+    "title": "Richard Hell And The Voidoids - Live in New York 1977 [Full Concert]",
+    "year": 1977,
+    "genre": "Punk",
+    "musicians": [
+      "Richard Hell"
+    ],
+    "durationSeconds": 2490
+  },
+  {
+    "id": "srn98FdXI4E",
+    "type": "concert",
+    "artist": "Television",
+    "title": "Television - The Full Ork Loft Tapes, 1974",
+    "year": 1974,
+    "genre": "Punk",
+    "musicians": [
+      "Tom Verlaine",
+      "Richard Hell"
+    ],
+    "durationSeconds": 3761,
+    "notes": "Early Television Ork Loft tapes, 1974, from the period when Richard Hell was in the band. Refiled from Richard Hell to Television."
+  },
+  {
+    "id": "kZzZ6CdTY3Y",
+    "type": "interview",
+    "artist": "Richard Hell",
+    "title": "Low Cut Connie & Richard Hell - TOUGH COOKIES (Full Interview)",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Richard Hell"
+    ],
+    "durationSeconds": 3816,
+    "credits": [
+      {
+        "name": "Richard Hell",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "KSnMUCSroLM",
+    "type": "interview",
+    "artist": "Richard Hell",
+    "title": "1983 Richard Hell Interview on Videowave",
+    "year": 1983,
+    "genre": "Punk",
+    "musicians": [
+      "Richard Hell"
+    ],
+    "durationSeconds": 549,
+    "credits": [
+      {
+        "name": "Richard Hell",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "wAw0jiPVE94",
+    "type": "concert",
+    "artist": "The Stooges",
+    "title": "Iggy & The Stooges @ Exit Festival 2004",
+    "year": 2004,
+    "genre": "Punk",
+    "musicians": [
+      "Iggy Pop"
+    ],
+    "durationSeconds": 4059
+  },
+  {
+    "id": "S4ilja9wGAs",
+    "type": "interview",
+    "artist": "MC5",
+    "title": "Wayne Kramer - In the Trenches with Ryan Roxie Podcast Episode No.7084",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Wayne Kramer"
+    ],
+    "durationSeconds": 5509,
+    "credits": [
+      {
+        "name": "Wayne Kramer",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "In the Trenches with Ryan Roxie",
+    "notes": "Podcast interview (episode 7084), not a concert. Year is not stated in the title or description; episode is from the last 5 years."
+  },
+  {
+    "id": "CWxUyn9chDw",
+    "type": "concert",
+    "artist": "MC5",
+    "title": "MC5   LIVE 1972",
+    "year": 1972,
+    "genre": "Punk",
+    "musicians": [
+      "Wayne Kramer"
+    ],
+    "durationSeconds": 5177
+  },
+  {
+    "id": "b7an-dddlrk",
+    "type": "interview",
+    "artist": "MC5",
+    "title": "Wayne Kramer's Flagrant Disregard For Authority - The 'Lexington' Interview",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Wayne Kramer"
+    ],
+    "durationSeconds": 409,
+    "credits": [
+      {
+        "name": "Wayne Kramer",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "JmKFICbJFB4",
+    "type": "concert",
+    "artist": "Dead Boys",
+    "title": "Dead Boys - 1980 Raw & Uncut (Full Concert Irving Plaza NYC)",
+    "year": 1980,
+    "genre": "Punk",
+    "musicians": [
+      "Stiv Bators"
+    ],
+    "durationSeconds": 2185
+  },
+  {
+    "id": "HChgnw5aA5k",
+    "type": "concert",
+    "artist": "Dead Boys",
+    "title": "Dead Boys - Live At CBGB (1979 Full Concert)",
+    "year": 1979,
+    "genre": "Punk",
+    "musicians": [
+      "Stiv Bators"
+    ],
+    "durationSeconds": 1938
+  },
+  {
+    "id": "xuPrtZaZswM",
+    "type": "concert",
+    "artist": "Dead Boys",
+    "title": "Punk Rock's Ultimate Treat: DEAD BOYS Reunited for Halloween 1986",
+    "year": 1986,
+    "genre": "Punk",
+    "musicians": [
+      "Stiv Bators"
+    ],
+    "durationSeconds": 3791
+  },
+  {
+    "id": "eWUrBnxrHYw",
+    "type": "concert",
+    "artist": "The Replacements",
+    "title": "The Replacements - Live at Vic Theatre, Chicago (Full Concert) 1986",
+    "year": 1986,
+    "genre": "Punk",
+    "musicians": [
+      "Paul Westerberg"
+    ],
+    "durationSeconds": 5701
+  },
+  {
+    "id": "dLG-YrvGxL8",
+    "type": "concert",
+    "artist": "The Replacements",
+    "title": "The Replacements - Live 1991",
+    "year": 1991,
+    "genre": "Punk",
+    "musicians": [
+      "Paul Westerberg"
+    ],
+    "durationSeconds": 5487
+  },
+  {
+    "id": "LrdyTou0EQw",
+    "type": "concert",
+    "artist": "The Replacements",
+    "title": "The Replacements - Riot Fest - Byers, CO - 9/21/13 [multicam edit]",
+    "year": 2013,
+    "genre": "Punk",
+    "musicians": [
+      "Paul Westerberg"
+    ],
+    "durationSeconds": 4812
+  },
+  {
+    "id": "reN6W_AKou0",
+    "type": "concert",
+    "artist": "The Replacements",
+    "title": "The Replacements live Cincinnati 1987",
+    "year": 1987,
+    "genre": "Punk",
+    "musicians": [
+      "Paul Westerberg"
+    ],
+    "durationSeconds": 4523
+  },
+  {
+    "id": "XfozpSNm0p8",
+    "type": "interview",
+    "artist": "The Replacements",
+    "title": "Paul Westerberg revealing telephone interview from 1996",
+    "year": 1996,
+    "genre": "Punk",
+    "musicians": [
+      "Paul Westerberg"
+    ],
+    "durationSeconds": 1578,
+    "credits": [
+      {
+        "name": "Paul Westerberg",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "sPZLqTUSq3g",
+    "type": "interview",
+    "artist": "The Replacements",
+    "title": "Westerberg Interview 96",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Paul Westerberg"
+    ],
+    "durationSeconds": 1244,
+    "credits": [
+      {
+        "name": "Paul Westerberg",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "Iefy37rMe8o",
+    "type": "concert",
+    "artist": "Sex Pistols",
+    "title": "Sex Pistols - Live at Club Zebra, Kristinehamn, Sweden, 1977-07-19 - SOUNDBOARD",
+    "year": 1977,
+    "genre": "Punk",
+    "musicians": [
+      "John Lydon"
+    ],
+    "durationSeconds": 4474
+  },
+  {
+    "id": "0Rl9szoCMLY",
+    "type": "interview",
+    "artist": "Public Image Ltd",
+    "title": "John Lydon talks first PiL tour in 8 years, late wife Nora, 'Time Zone,' Sex Pistols memories & more",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "John Lydon"
+    ],
+    "durationSeconds": 5520,
+    "credits": [
+      {
+        "name": "John Lydon",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "John Lydon interview focused on the first PiL tour in eight years (also discusses Sex Pistols). Filed under Public Image Ltd."
+  },
+  {
+    "id": "o_SQI9kgqIc",
+    "type": "concert",
+    "artist": "Sex Pistols",
+    "title": "There'll Always be an England(Sex Pistols Live at Brixton Academy 2007)",
+    "year": 2007,
+    "genre": "Punk",
+    "musicians": [
+      "John Lydon"
+    ],
+    "durationSeconds": 4231
+  },
+  {
+    "id": "FsDwOXyuTfs",
+    "type": "concert",
+    "artist": "Sex Pistols",
+    "title": "Sex Pistols Live at Budokan, Tokyo Japan ● The Filthy Lucre Tour ● Full Performance (1996)",
+    "year": 1996,
+    "genre": "Punk",
+    "musicians": [
+      "John Lydon"
+    ],
+    "durationSeconds": 4036
+  },
+  {
+    "id": "Pzcq1DCKBy4",
+    "type": "interview",
+    "artist": "Sex Pistols",
+    "title": "“This Is All Fake” – John Lydon on Punk, Media Lies & Truth - Louder Than War John Lydon Interview",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "John Lydon"
+    ],
+    "durationSeconds": 4163,
+    "credits": [
+      {
+        "name": "John Lydon",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "rkAvUNrWm9A",
+    "type": "concert",
+    "artist": "The Clash",
+    "title": "The Clash - Live in Leicester 1977 [Full Concert]",
+    "year": 1977,
+    "genre": "Punk",
+    "musicians": [
+      "Joe Strummer"
+    ],
+    "durationSeconds": 2016
+  },
+  {
+    "id": "lIHqdZBmD2k",
+    "type": "concert",
+    "artist": "The Damned",
+    "title": "The Damned (Full Set) LIVE @ The Vic Theater 9/17/25",
+    "year": 2025,
+    "genre": "Punk",
+    "musicians": [
+      "Dave Vanian"
+    ],
+    "durationSeconds": 5766
+  },
+  {
+    "id": "syYQY6YBLTg",
+    "type": "concert",
+    "artist": "The Damned",
+    "title": "The Damned (Full Set) LIVE @ Newport Music Hall 10/30/26",
+    "year": 2026,
+    "genre": "Punk",
+    "musicians": [
+      "Dave Vanian"
+    ],
+    "durationSeconds": 5604
+  },
+  {
+    "id": "xU4xt4KplnQ",
+    "type": "concert",
+    "artist": "Buzzcocks",
+    "title": "The Buzzcocks Live 1981",
+    "year": 1981,
+    "genre": "Punk",
+    "musicians": [
+      "Pete Shelley"
+    ],
+    "durationSeconds": 3450
+  },
+  {
+    "id": "23ycSBgCbus",
+    "type": "concert",
+    "artist": "Wire",
+    "title": "Wire - Live in Hoboken 1987 [Full Concert]",
+    "year": 1987,
+    "genre": "Punk",
+    "musicians": [
+      "Wire"
+    ],
+    "durationSeconds": 4732
+  },
+  {
+    "id": "EJvZENrsq90",
+    "type": "concert",
+    "artist": "Wire",
+    "title": "WIRE - live at Rockpalast 1979",
+    "year": 1979,
+    "genre": "Punk",
+    "musicians": [
+      "Wire"
+    ],
+    "durationSeconds": 3387
+  },
+  {
+    "id": "JeAttSJJ-8U",
+    "type": "concert",
+    "artist": "Stiff Little Fingers",
+    "title": "Stiff Little Fingers - Live At Rockpalast 1980 (Full Concert Video)",
+    "year": 1980,
+    "genre": "Punk",
+    "musicians": [
+      "Jake Burns"
+    ],
+    "durationSeconds": 3609
+  },
+  {
+    "id": "qVCQCa9DunI",
+    "type": "concert",
+    "artist": "Stiff Little Fingers",
+    "title": "Stiff Little Fingers - Wasted Life (Full live album 2007)",
+    "year": 2007,
+    "genre": "Punk",
+    "musicians": [
+      "Jake Burns"
+    ],
+    "durationSeconds": 6011
+  },
+  {
+    "id": "M8aBcQkn-jw",
+    "type": "concert",
+    "artist": "Stiff Little Fingers",
+    "title": "STIFF LITTLE FINGERS Variety Arts L A  9 24 1988 a PUNK CONCERT filmed by Video Louis LApunk13 com",
+    "year": 1988,
+    "genre": "Punk",
+    "musicians": [
+      "Jake Burns"
+    ],
+    "durationSeconds": 5087
+  },
+  {
+    "id": "1wKQespxVK8",
+    "type": "concert",
+    "artist": "Siouxsie and the Banshees",
+    "title": "Siouxsie And The Banshees   Rockpalast 1981 Full Concert",
+    "year": 1981,
+    "genre": "Punk",
+    "musicians": [
+      "Siouxsie Sioux"
+    ],
+    "durationSeconds": 4466
+  },
+  {
+    "id": "B72l3sETrkw",
+    "type": "concert",
+    "artist": "Siouxsie and the Banshees",
+    "title": "Siouxsie  - Dreamshow - Royal Festival Hall - London - 16/10/04 (Full Show)",
+    "year": 2004,
+    "genre": "Punk",
+    "musicians": [
+      "Siouxsie Sioux"
+    ],
+    "durationSeconds": 8667
+  },
+  {
+    "id": "DFSUQ1AnmKI",
+    "type": "concert",
+    "artist": "Siouxsie and the Banshees",
+    "title": "Siouxsie And The Banshees - Mexico 1995 (Full Concert)",
+    "year": 1995,
+    "genre": "Punk",
+    "musicians": [
+      "Siouxsie Sioux"
+    ],
+    "durationSeconds": 5966
+  },
+  {
+    "id": "2PAC4HIQ3lk",
+    "type": "concert",
+    "artist": "Siouxsie and the Banshees",
+    "title": "Siouxsie - Finale: The Last Mantaray & More Show (2009) (Full Concert)",
+    "year": 2009,
+    "genre": "Punk",
+    "musicians": [
+      "Siouxsie Sioux"
+    ],
+    "durationSeconds": 3386
+  },
+  {
+    "id": "mFkiNsrW6UI",
+    "type": "interview",
+    "artist": "Siouxsie and the Banshees",
+    "title": "Siouxsie and the Banshees - 1984 MTV Interview (unedited)",
+    "year": 1984,
+    "genre": "Punk",
+    "musicians": [
+      "Siouxsie Sioux"
+    ],
+    "durationSeconds": 764,
+    "credits": [
+      {
+        "name": "Siouxsie Sioux",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "5cfCGLaIfWo",
+    "type": "interview",
+    "artist": "Siouxsie and the Banshees",
+    "title": "Siouxsie & The Banshees a long interview London 1988",
+    "year": 1988,
+    "genre": "Punk",
+    "musicians": [
+      "Siouxsie Sioux"
+    ],
+    "durationSeconds": 994,
+    "credits": [
+      {
+        "name": "Siouxsie Sioux",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "8yogVw1WK_Q",
+    "type": "concert",
+    "artist": "The Jam",
+    "title": "The Jam Live - Last Gig Full Set Brighton 11 December 1982",
+    "year": 1982,
+    "genre": "Punk",
+    "musicians": [
+      "Paul Weller"
+    ],
+    "durationSeconds": 4936
+  },
+  {
+    "id": "n4cOyydkD1U",
+    "type": "concert",
+    "artist": "The Jam",
+    "title": "The Jam   Bingley Hall 1982",
+    "year": 1982,
+    "genre": "Punk",
+    "musicians": [
+      "Paul Weller"
+    ],
+    "durationSeconds": 5317
+  },
+  {
+    "id": "nemK9oV53Tg",
+    "type": "interview",
+    "artist": "The Jam",
+    "title": "Paul Weller Interview (in his dressing room) at Hard Rock Calling 2013",
+    "year": 2013,
+    "genre": "Punk",
+    "musicians": [
+      "Paul Weller"
+    ],
+    "durationSeconds": 360,
+    "credits": [
+      {
+        "name": "Paul Weller",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "lsGD4cF8A08",
+    "type": "interview",
+    "artist": "The Jam",
+    "title": "THE JAM - Paul Weller TV Interview \"Tomorrow Show\" US/TV October 16th 1977",
+    "year": 1977,
+    "genre": "Punk",
+    "musicians": [
+      "Paul Weller"
+    ],
+    "durationSeconds": 331,
+    "credits": [
+      {
+        "name": "Paul Weller",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "i7BBwWp6Ppk",
+    "type": "concert",
+    "artist": "Crass",
+    "title": "Steve Ignorant / Crass (full set) Live - 1865, Southampton - 31/03/23",
+    "year": 2023,
+    "genre": "Punk",
+    "musicians": [
+      "Steve Ignorant"
+    ],
+    "durationSeconds": 4543,
+    "notes": "Steve Ignorant's Last Supper performance of Crass material, not the original 1977–84 Crass lineup."
+  },
+  {
+    "id": "V5BrtNRjrKo",
+    "type": "concert",
+    "artist": "Crass",
+    "title": "Steve Ignorant - The Last Supper (Crass)",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Steve Ignorant"
+    ],
+    "durationSeconds": 6279,
+    "notes": "Steve Ignorant's Last Supper performance of Crass material, not the original 1977–84 Crass lineup."
+  },
+  {
+    "id": "EoTNdoxgzn0",
+    "type": "concert",
+    "artist": "Public Image Ltd",
+    "title": "Public Image Limited live at The Observatory in Santa Ana, CA 09-08-2026 (Full Set) @pilofficial",
+    "year": 2026,
+    "genre": "Punk",
+    "musicians": [
+      "John Lydon"
+    ],
+    "durationSeconds": 5381
+  },
+  {
+    "id": "UB0ZzivBkSE",
+    "type": "concert",
+    "artist": "Public Image Ltd",
+    "title": "Public Image Limited Live At Rockpalast 31.10.1983 | Full Concert",
+    "year": 1983,
+    "genre": "Punk",
+    "musicians": [
+      "John Lydon"
+    ],
+    "durationSeconds": 3518
+  },
+  {
+    "id": "B9-9YjcHRwk",
+    "type": "concert",
+    "artist": "Public Image Ltd",
+    "title": "Public Image Ltd  Paris October 23rd  2013 @ Cité de la musique full Show",
+    "year": 2013,
+    "genre": "Punk",
+    "musicians": [
+      "John Lydon"
+    ],
+    "durationSeconds": 5946
+  },
+  {
+    "id": "tVDsdpJR_Q0",
+    "type": "interview",
+    "artist": "Public Image Ltd",
+    "title": "Public Image Ltd.- Interview With JJ Jackson (MTV 1982) 1st Part",
+    "year": 1982,
+    "genre": "Punk",
+    "musicians": [
+      "John Lydon"
+    ],
+    "durationSeconds": 901,
+    "credits": [
+      {
+        "name": "John Lydon",
+        "role": "interviewee"
+      }
+    ],
+    "outlet": "MTV"
+  },
+  {
+    "id": "Y0q98NlzvCQ",
+    "type": "interview",
+    "artist": "Public Image Ltd",
+    "title": "Public Image Limited interview with Keith Levene & John Lydon on The Tom Snyder Show 1980",
+    "year": 1980,
+    "genre": "Punk",
+    "musicians": [
+      "John Lydon",
+      "Keith Levene"
+    ],
+    "durationSeconds": 707,
+    "credits": [
+      {
+        "name": "John Lydon",
+        "role": "interviewee"
+      },
+      {
+        "name": "Keith Levene",
+        "role": "interviewee"
+      }
+    ],
+    "interviewer": "Tom Snyder",
+    "outlet": "The Tomorrow Show"
+  },
+  {
+    "id": "ItYUrZh-n3k",
+    "type": "concert",
+    "artist": "Green Day",
+    "title": "Green Day - Full Concert [HD] | Live at Pinkpop 2013",
+    "year": 2013,
+    "genre": "Punk",
+    "musicians": [
+      "Billie Joe Armstrong"
+    ],
+    "durationSeconds": 8392
+  },
+  {
+    "id": "RqFCqobkSHU",
+    "type": "concert",
+    "artist": "Green Day",
+    "title": "Green Day - Full Concert [HD] | Live at Pinkpop 2017",
+    "year": 2017,
+    "genre": "Punk",
+    "musicians": [
+      "Billie Joe Armstrong"
+    ],
+    "durationSeconds": 7508
+  },
+  {
+    "id": "wgdgTgWB0SI",
+    "type": "concert",
+    "artist": "Green Day",
+    "title": "Green Day - Bullet in a Bible: Live at Milton Keynes National Bowl 2005 (Full Concert 4K - 60 FPS)",
+    "year": 2005,
+    "genre": "Punk",
+    "musicians": [
+      "Billie Joe Armstrong"
+    ],
+    "durationSeconds": 6970
+  },
+  {
+    "id": "AIa0dj9MXn8",
+    "type": "concert",
+    "artist": "Green Day",
+    "title": "GREEN DAY: 'Rock In Rio 2022' [Live 4K | Full Proshot Concert]",
+    "year": 2022,
+    "genre": "Punk",
+    "musicians": [
+      "Billie Joe Armstrong"
+    ],
+    "durationSeconds": 6238
+  },
+  {
+    "id": "C-4nuSB_PRE",
+    "type": "concert",
+    "artist": "Rancid",
+    "title": "Rancid - Full Concert [HD] | Live at Pinkpop 1996",
+    "year": 1996,
+    "genre": "Punk",
+    "musicians": [
+      "Tim Armstrong"
+    ],
+    "durationSeconds": 2857
+  },
+  {
+    "id": "v4Na3sHRZgk",
+    "type": "concert",
+    "artist": "Rancid",
+    "title": "RANCID LIVE - FULL CONCERT AT IT'S NOT DEAD FESTIVAL, 2017",
+    "year": 2017,
+    "genre": "Punk",
+    "musicians": [
+      "Tim Armstrong"
+    ],
+    "durationSeconds": 4236
+  },
+  {
+    "id": "VV8OW2MdxU4",
+    "type": "concert",
+    "artist": "Operation Ivy",
+    "title": "Operation Ivy- Berkeley Square, Berkeley Ca 12/19/88 xfer f/1st gen VHS tape complete show Rancid",
+    "year": 1988,
+    "genre": "Punk",
+    "musicians": [
+      "Tim Armstrong"
+    ],
+    "durationSeconds": 2219
+  },
+  {
+    "id": "bWfyBScbQ1k",
+    "type": "concert",
+    "artist": "Operation Ivy",
+    "title": "Operation Ivy- 924 Gilman, Berkeley Ca. 5/28/89 Multicam w/Sony D6 Audio",
+    "year": 1989,
+    "genre": "Punk",
+    "musicians": [
+      "Tim Armstrong"
+    ],
+    "durationSeconds": 4137
+  },
+  {
+    "id": "HRhUMGW-FuY",
+    "type": "concert",
+    "artist": "NOFX",
+    "title": "NOFX live @ Padova 16/06/2013 Full Show",
+    "year": 2013,
+    "genre": "Punk",
+    "musicians": [
+      "Fat Mike"
+    ],
+    "durationSeconds": 5159
+  },
+  {
+    "id": "j5PHSlc6_EM",
+    "type": "concert",
+    "artist": "NOFX",
+    "title": "NOFX - Full Concert 28. August 2011 Hamburg / Germany",
+    "year": 2011,
+    "genre": "Punk",
+    "musicians": [
+      "Fat Mike"
+    ],
+    "durationSeconds": 4140
+  },
+  {
+    "id": "_-7Bmu1GJO8",
+    "type": "concert",
+    "artist": "NOFX",
+    "title": "NOFX - (Cbgb's) New York City 11.20.94 (Complete Show/HQ Audio)",
+    "year": 1994,
+    "genre": "Punk",
+    "musicians": [
+      "Fat Mike"
+    ],
+    "durationSeconds": 4019
+  },
+  {
+    "id": "gye0_8VzSgM",
+    "type": "concert",
+    "artist": "The Offspring",
+    "title": "The Offspring - Full Concert [HD] | Live at Pinkpop 2001",
+    "year": 2001,
+    "genre": "Punk",
+    "musicians": [
+      "Dexter Holland"
+    ],
+    "durationSeconds": 3541
+  },
+  {
+    "id": "qD0PlquZgLg",
+    "type": "concert",
+    "artist": "The Offspring",
+    "title": "OFFSPRING WOODSTOCK 99 1999 FULL CONCERT DVD QUALITY 2013",
+    "year": 1999,
+    "genre": "Punk",
+    "musicians": [
+      "Dexter Holland"
+    ],
+    "durationSeconds": 3180
+  },
+  {
+    "id": "seyeT-Pg-Mw",
+    "type": "concert",
+    "artist": "The Offspring",
+    "title": "The Offspring - Live At Wembley 2001 Full Concert Full HD",
+    "year": 2001,
+    "genre": "Punk",
+    "musicians": [
+      "Dexter Holland"
+    ],
+    "durationSeconds": 2798
+  },
+  {
+    "id": "XVHzQDhQmMg",
+    "type": "interview",
+    "artist": "The Offspring",
+    "title": "Dexter Holland from The Offspring. Most personal interview ever!",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Dexter Holland"
+    ],
+    "durationSeconds": 5731,
+    "credits": [
+      {
+        "name": "Dexter Holland",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "tHqJ3isbmVk",
+    "type": "interview",
+    "artist": "The Offspring",
+    "title": "interview with Dexter Holland at Rock for People 2024",
+    "year": 2024,
+    "genre": "Punk",
+    "musicians": [
+      "Dexter Holland"
+    ],
+    "durationSeconds": 3228,
+    "credits": [
+      {
+        "name": "Dexter Holland",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "0lbH_Z-Xi1Q",
+    "type": "concert",
+    "artist": "Idles",
+    "title": "IDLES live at Le Bataclan in Paris, Dec 2018 (Full Concert)",
+    "year": 2018,
+    "genre": "Punk",
+    "musicians": [
+      "Joe Talbot"
+    ],
+    "durationSeconds": 6184
+  },
+  {
+    "id": "7rdSlshLV9U",
+    "type": "concert",
+    "artist": "Idles",
+    "title": "IDLES Full Set | From The Basement",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Joe Talbot"
+    ],
+    "durationSeconds": 1754
+  },
+  {
+    "id": "u7HkHzpDcp0",
+    "type": "interview",
+    "artist": "Idles",
+    "title": "Mark Bowen on leaving dentistry IDLES, creativity and Florence + The Machine",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Mark Bowen"
+    ],
+    "durationSeconds": 5521,
+    "credits": [
+      {
+        "name": "Mark Bowen",
+        "role": "interviewee"
+      }
+    ],
+    "notes": "Interview with Idles guitarist Mark Bowen, not a concert."
+  },
+  {
+    "id": "IJc1JWK9ekc",
+    "type": "interview",
+    "artist": "Idles",
+    "title": "IDLES INTERVIEW",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Joe Talbot"
+    ],
+    "durationSeconds": 4002,
+    "credits": [
+      {
+        "name": "Joe Talbot",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "v7Lvy682-WM",
+    "type": "interview",
+    "artist": "Idles",
+    "title": "An Interview with IDLES",
+    "year": 0,
+    "genre": "Punk",
+    "musicians": [
+      "Joe Talbot"
+    ],
+    "durationSeconds": 776,
+    "credits": [
+      {
+        "name": "Joe Talbot",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "qEh3GzWBNUc",
+    "type": "concert",
+    "artist": "Fontaines D.C.",
+    "title": "Fontaines D.C. - Fuji Rock Festival 2024 - Full Show HD",
+    "year": 2024,
+    "genre": "Punk",
+    "musicians": [
+      "Grian Chatten"
+    ],
+    "durationSeconds": 3577
+  },
+  {
+    "id": "TMeh_0HllBk",
+    "type": "concert",
+    "artist": "Fontaines D.C.",
+    "title": "Fontaines D.C. @ Flow Festival 2025 Helsinki, Finland FULL CONCERT 4K",
+    "year": 2025,
+    "genre": "Punk",
+    "musicians": [
+      "Grian Chatten"
+    ],
+    "durationSeconds": 4361
+  },
+  {
+    "id": "ax-zd_O_6t8",
+    "type": "concert",
+    "artist": "Fontaines D.C.",
+    "title": "Fontaines D.C. Live Rock en Seine 2022 (Full Concert)",
+    "year": 2022,
+    "genre": "Punk",
+    "musicians": [
+      "Grian Chatten"
+    ],
+    "durationSeconds": 3772
+  },
+  {
+    "id": "O4Y8K_nL-iM",
+    "type": "interview",
+    "artist": "Fontaines D.C.",
+    "title": "Fontaines D.C. interview with Jools Holland (Grian Chatten) (22/06/24)",
+    "year": 2024,
+    "genre": "Punk",
+    "musicians": [
+      "Grian Chatten"
+    ],
+    "durationSeconds": 362,
+    "credits": [
+      {
+        "name": "Grian Chatten",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "NLdQPye5Bz0",
+    "type": "interview",
+    "artist": "Fontaines D.C.",
+    "title": "Fontaines D.C.-Records In My Life (first in person interview of 2022!)",
+    "year": 2022,
+    "genre": "Punk",
+    "musicians": [
+      "Grian Chatten"
+    ],
+    "durationSeconds": 717,
+    "credits": [
+      {
+        "name": "Grian Chatten",
+        "role": "interviewee"
+      }
+    ]
+  },
+  {
+    "id": "YL1d-uLlBOQ",
+    "type": "concert",
+    "artist": "Patti Smith",
+    "title": "(Video) Patti Smith Group / Live Stockholm (April 15 1977) [The Real Full concert with interview]",
+    "year": 1977,
+    "genre": "Punk",
+    "musicians": [
+      "Patti Smith"
+    ],
+    "durationSeconds": 3729,
+    "notes": "Full Patti Smith Group concert, Stockholm, April 15, 1977 (video also includes interview segments)."
+  },
+  {
+    "id": "BMOCpqZwBAo",
+    "type": "concert",
+    "artist": "Patti Smith",
+    "title": "Patti Smith   Rockpalast Essen 1979",
+    "year": 1979,
+    "genre": "Punk",
+    "musicians": [
+      "Patti Smith"
+    ],
+    "durationSeconds": 5007
+  },
+  {
+    "id": "XnmCYK9tRU8",
+    "type": "concert",
+    "artist": "Patti Smith",
+    "title": "Patti Smith Group (Stockholm, 1976)",
+    "year": 1976,
+    "genre": "Punk",
+    "musicians": [
+      "Patti Smith"
+    ],
+    "durationSeconds": 3728
   }
 ]
