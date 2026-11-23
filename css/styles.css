@@ -575,6 +575,35 @@ button.group-title:hover,
 
 .band-cross,
 .discover { margin-top: 28px; }
+.band-cross {
+  border-top: 1px solid var(--line);
+}
+.band-cross > summary {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px 12px;
+  padding: 14px 0;
+  list-style: none;
+  cursor: pointer;
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.7rem;
+  font-weight: 560;
+  letter-spacing: -0.03em;
+}
+.band-cross > summary::-webkit-details-marker { display: none; }
+.band-cross > summary .chev { margin-right: 0; }
+.band-cross[open] > summary .chev { transform: rotate(90deg); }
+.cross-count {
+  margin-left: auto;
+  color: var(--faint);
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0;
+  font-variant-numeric: tabular-nums;
+}
 .discover-head {
   display: flex;
   flex-wrap: wrap;

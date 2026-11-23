@@ -419,6 +419,17 @@ assert(viewSource.includes('class="name-link"') || viewSource.includes('searchBu
 assert(viewSource.includes('data-action="search"') && viewSource.includes("runSearch"));
 const shell = FinderView.shellHtml();
 assert(shell.includes("Powered by") && shell.includes("Download this list") && shell.includes('id="results"'));
+function disclosureOrder(markup, label) {
+  const discoverAt = markup.indexOf('id="discover"');
+  const crossAt = markup.indexOf('class="band-cross"');
+  assert(discoverAt > -1 && crossAt > discoverAt, label + " shows Discover above the cross-band list");
+  assert(markup.includes("<details class=\"band-cross\">"), label + " uses a collapsed details element");
+  assert(!markup.includes("<details class=\"band-cross\" open"), label + " starts collapsed");
+  assert(markup.includes("Musicians who cross bands") && markup.includes('id="cross-count"'), label + " summary has the title and count");
+}
+disclosureOrder(html, "site");
+disclosureOrder(shell, "embed shell");
+assert(viewSource.includes('byId("cross-count")') && viewSource.includes("crossMusicians.length"), "cross-band summary count");
 
 const built = path.join(os.tmpdir(), "lcf-embed-" + process.pid);
 fs.mkdirSync(built, { recursive: true });

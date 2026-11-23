@@ -92,13 +92,17 @@
           "</div>" +
           '<p id="instrument-note" class="section-note" hidden>Shows are filed under each instrument on record for the lineup. A player with no instrument listed, or a credit that only names the band, is left out of this view.</p>' +
           '<div id="results" tabindex="-1"></div>' +
-          '<section class="band-cross" aria-labelledby="cross-heading"><h2 id="cross-heading">Musicians who cross bands</h2>' +
-            '<p class="section-note">On two or more shows. Choose a name to filter every view. The words beside a name are the instruments on file.</p>' +
-            '<div id="cross" class="chips"></div></section>' +
           '<section class="discover" id="discover" aria-labelledby="discover-heading"><div class="discover-head"><h2 id="discover-heading">Discover</h2>' +
             '<button type="button" class="btn btn-primary" data-action="random">Random item</button></div>' +
             '<p class="section-note">Related items are ranked by shared people. When nobody overlaps, other items in the same genre follow.</p>' +
             '<div id="discover-body"></div></section>' +
+          '<details class="band-cross"><summary>' +
+            '<span class="chev" aria-hidden="true">▸</span>' +
+            '<span class="cross-title" id="cross-heading">Musicians who cross bands</span>' +
+            '<span class="cross-count" id="cross-count"></span>' +
+            '</summary>' +
+            '<p class="section-note">On two or more shows. Choose a name to filter every view. The words beside a name are the instruments on file.</p>' +
+            '<div id="cross" class="chips"></div></details>' +
           '<footer class="site-footer">' +
             "<p>Watch links open YouTube uploads. Those videos are not hosted here, and the uploads can change or be removed.</p>" +
             '<p><a href="' + esc(csv) + '">Download full spreadsheet</a></p>' +
@@ -640,6 +644,11 @@
     const summary = byId("summary");
     if (summary) {
       summary.textContent = typePhrase(concerts) + " on YouTube, grouped by artist and linked by the people in them. Running times are the real video lengths.";
+    }
+    const crossCount = byId("cross-count");
+    if (crossCount) {
+      const count = index.crossMusicians.length;
+      crossCount.textContent = count + " musician" + (count === 1 ? "" : "s");
     }
     render(false);
     return { root };
