@@ -83,6 +83,17 @@
     return String(value || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
   }
 
+  function artistSlug(name) {
+    return fold(name).replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+  }
+
+  // One place for the YT Trainer link. The id is appended as video_id.
+  const YT_TRAINER_BASE = "https://ytmusictrainer.com/?video_id=";
+
+  function trainerUrl(id) {
+    return YT_TRAINER_BASE + encodeURIComponent(id || "");
+  }
+
   function uniqueSorted(values) {
     return [...new Set(values)].sort(compareNames);
   }
@@ -147,10 +158,12 @@
     const musician = (filters && filters.musician) || "All";
     const instrument = (filters && filters.instrument) || "All";
     const type = (filters && filters.type) || "All";
+    const artist = (filters && filters.artist) || "";
     const query = fold((filters && filters.query) || "").trim();
     const people = lineup(concert);
     const names = people.map((entry) => entry.name);
     if (type !== "All" && itemType(concert) !== type) return false;
+    if (artist && artist !== "All" && artistSlug(concert.artist) !== artistSlug(artist)) return false;
     if (genre !== "All" && concert.genre !== genre) return false;
     if (decade !== "All" && decadeOf(concert.year) !== decade) return false;
     if (musician !== "All" && !names.includes(musician)) return false;
@@ -287,6 +300,7 @@
     "outlet",
     "credits",
     "youtube_url",
+    "ytmusictrainer_url",
     "id",
   ];
 
@@ -338,6 +352,7 @@
       (item && item.outlet) || "",
       creditCell(item),
       youtubeUrl(item && item.id),
+      trainerUrl(item && item.id),
       (item && item.id) || "",
     ];
     return values.map(csvField).join(",");
@@ -367,9 +382,12 @@
     groupConcerts,
     appearances,
     fold,
+    artistSlug,
     related,
     pageCount,
     toCsv,
     youtubeUrl,
+    YT_TRAINER_BASE,
+    trainerUrl,
   };
 });

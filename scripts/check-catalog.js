@@ -153,17 +153,17 @@ assert(extraIndex.genres.includes("Zydeco"));
 assert(extraIndex.instruments.includes("sitar"));
 assert(extraConcerts.some((concert) => Catalog.matches(concert, { genre: "Zydeco", instrument: "sitar" }, extraIndex)));
 
-for (const file of ["index.html", "css/styles.css", "js/app.js", "js/catalog.js"]) {
+for (const file of ["index.html", "embed-demo.html", "css/styles.css", "js/app.js", "js/view.js", "js/catalog.js", "js/embed-boot.js"]) {
   const text = fs.readFileSync(path.join(root, file), "utf8");
   if (/(?:href|src|url\()\s*["']?\//.test(text)) throw new Error(file + " has a root-absolute path");
 }
 const html = fs.readFileSync(path.join(root, "index.html"), "utf8");
-for (const ref of ["css/styles.css", "js/catalog.js", "js/app.js", "favicon.svg", "data/concerts.json"]) {
+for (const ref of ["css/styles.css", "js/catalog.js", "js/view.js", "js/app.js", "favicon.svg", "data/concerts.json"]) {
   const bundle = ref.endsWith(".json") ? fs.readFileSync(path.join(root, "js/app.js"), "utf8") : html;
   assert(bundle.includes(ref), "missing " + ref);
 }
 const workflow = fs.readFileSync(path.join(root, ".github/workflows/pages.yml"), "utf8");
-for (const name of ["actions/configure-pages", "actions/upload-pages-artifact", "actions/deploy-pages", "scripts/validate-data.js", "workflow_dispatch", "needs: build"]) {
+for (const name of ["actions/configure-pages", "actions/upload-pages-artifact", "actions/deploy-pages", "scripts/validate-data.js", "scripts/build-catalog.js", "scripts/build-embed.js", "embed-demo.html", "workflow_dispatch", "needs: build"]) {
   assert(workflow.includes(name), name);
 }
 const deployJob = workflow.split(/\n {2}deploy:\n/)[1] || "";
@@ -323,7 +323,8 @@ assert(trickyRow[9] === "Ada, Lovelace");
 assert(trickyRow[10] === "Night\nFlight");
 assert(trickyRow[11] === "José González (interviewee); Ada, Lovelace (interviewer)");
 assert(trickyRow[12] === "https://www.youtube.com/watch?v=zzzzzzzzzzz");
-assert(trickyRow[13] === "zzzzzzzzzzz");
+assert(trickyRow[13] === "https://ytmusictrainer.com/?video_id=zzzzzzzzzzz");
+assert(trickyRow[14] === "zzzzzzzzzzz");
 assert(Catalog.toCsv([tricky], trickyIndex).includes('"José ""Pepe"" González"'), "quotes are doubled");
 
 const sample = concerts.find((item) => item.id === "0wtqnKXZlWk");
@@ -332,6 +333,15 @@ assert(sampleRow[1] === sample.artist && sampleRow[8] === sample.musicians.join(
 assert(sampleRow[7].split("; ").includes("Bass"), "Jaco's bass is a featured instrument");
 assert(sampleRow[6] === Catalog.formatDuration(sample.durationSeconds));
 assert(sampleRow[12] === "https://www.youtube.com/watch?v=" + sample.id);
+assert(sampleRow[13] === Catalog.trainerUrl(sample.id));
+assert(Catalog.YT_TRAINER_BASE === "https://ytmusictrainer.com/?video_id=");
+assert(Catalog.trainerUrl("HW9qLOfHabI") === "https://ytmusictrainer.com/?video_id=HW9qLOfHabI");
+assert(Catalog.artistSlug("Frank Zappa") === "frank-zappa");
+assert(Catalog.artistSlug("José González") === "jose-gonzalez");
+const zappaConcert = concerts.find((item) => item.artist === "Frank Zappa");
+const otherAct = concerts.find((item) => item.artist === "Weather Report");
+assert(Catalog.matches(zappaConcert, { artist: "frank-zappa" }, index));
+assert(!Catalog.matches(otherAct, { artist: "frank-zappa" }, index));
 
 const interviewItems = Catalog.sortConcerts(concerts.filter((item) => Catalog.matches(item, { type: "interview" }, index)), "year");
 const interviewSheet = parseCsv(Catalog.toCsv(interviewItems, index));
@@ -362,6 +372,43 @@ assert(exportedText === Catalog.toCsv(Catalog.sortConcerts(concerts, "artist"), 
 fs.unlinkSync(exported);
 
 assert(html.includes("Download this list") && html.includes("Download full spreadsheet") && html.includes("data/catalog.csv"), "spreadsheet links");
+const viewSource = fs.readFileSync(path.join(root, "js", "view.js"), "utf8");
+assert(viewSource.includes("View on YouTube") && viewSource.includes("Open on YT Trainer"), "video links");
+assert(viewSource.includes("Catalog.trainerUrl") && !viewSource.includes("ytmusictrainer.com"), "trainer url stays in catalog.js");
+assert(viewSource.includes("youtube-nocookie.com/embed/"), "inline player");
+assert(viewSource.includes('data-action="csv"'), "embed shell has the csv button");
+const demo = fs.readFileSync(path.join(root, "embed-demo.html"), "utf8");
+assert(demo.includes('<div id="concert-finder"></div>') || demo.includes("&lt;div id=\"concert-finder\"&gt;&lt;/div&gt;"), "demo snippet");
+assert(demo.includes("https://mkpworks.github.io/live-concert-finder/embed.js") && demo.includes("defer"), "demo script url");
+assert(demo.includes('src="embed.js"'), "demo runs the local embed");
+const boot = fs.readFileSync(path.join(root, "js", "embed-boot.js"), "utf8");
+assert(boot.includes("document.currentScript") && boot.includes("data/version.json") && boot.includes("data/catalog.json"), "embed resolves data from its own src");
+assert(boot.includes("attachShadow") && boot.includes("[data-concert-finder]") && boot.includes("window.ConcertFinder"), "embed contract");
+assert(boot.includes('cache: "no-store"'), "version fetch bypasses the pages cache");
+const FinderView = require("../js/view.js");
+assert(FinderView.typeOption("concerts") === "concert" && FinderView.typeOption("interviews") === "interview" && FinderView.typeOption("all") === "All");
+const shell = FinderView.shellHtml();
+assert(shell.includes("Powered by") && shell.includes("Download this list") && shell.includes('id="results"'));
+
+const built = path.join(os.tmpdir(), "lcf-embed-" + process.pid);
+fs.mkdirSync(built, { recursive: true });
+const catalogBuild = spawnSync(process.execPath, [path.join(root, "scripts", "build-catalog.js"), built], { encoding: "utf8" });
+assert(catalogBuild.status === 0, catalogBuild.stderr || "build-catalog failed");
+const versionFile = JSON.parse(fs.readFileSync(path.join(built, "version.json"), "utf8"));
+const catalogFile = JSON.parse(fs.readFileSync(path.join(built, "catalog.json"), "utf8"));
+assert(versionFile.version === "1" && catalogFile.version === "1", "schema version 1");
+assert(versionFile.generated_at === catalogFile.generated_at && /^\d{4}-\d{2}-\d{2}T/.test(versionFile.generated_at), "generated_at");
+assert(catalogFile.concerts.length === concerts.length, "catalog.json concerts");
+assert(JSON.stringify(catalogFile.musicians["Jaco Pastorius"]) === JSON.stringify(["bass"]), "catalog.json musicians");
+const embedOut = path.join(built, "embed.js");
+const embedBuild = spawnSync(process.execPath, [path.join(root, "scripts", "build-embed.js"), embedOut], { encoding: "utf8" });
+assert(embedBuild.status === 0, embedBuild.stderr || "build-embed failed");
+const embedCheck = spawnSync(process.execPath, ["--check", embedOut], { encoding: "utf8" });
+assert(embedCheck.status === 0, embedCheck.stderr || "embed.js syntax");
+const embedSource = fs.readFileSync(embedOut, "utf8");
+for (const needle of ["window.ConcertFinder", "attachShadow", "[data-concert-finder]", "data/version.json", "data/catalog.json", "Open on YT Trainer", "youtube-nocookie.com/embed/", "Powered by"]) {
+  assert(embedSource.includes(needle), "embed bundle missing " + needle);
+}
 assert(workflow.includes("scripts/export-csv.js") && workflow.includes("_site/data/catalog.csv"), "pages build publishes the csv");
 
 const started = process.hrtime.bigint();

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Embed Live Concert Finder</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/styles.css">
+  <style>
+    .demo-note { max-width: 72ch; }
+    .snippet {
+      margin: 16px 0 28px;
+      padding: 16px;
+      overflow: auto;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--bg-raised);
+      color: var(--ink);
+      font: 14px/1.5 ui-monospace, "Cascadia Code", Consolas, monospace;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <p class="eyebrow">Embed</p>
+      <h1>Use the finder on another site</h1>
+      <p class="lede demo-note">Add this markup. The script loads the catalog from this site, draws inside a shadow root, and does not restyle the host page.</p>
+      <pre class="snippet">&lt;div id="concert-finder"&gt;&lt;/div&gt;
+&lt;script src="https://mkpworks.github.io/live-concert-finder/embed.js" defer&gt;&lt;/script&gt;</pre>
+      <p class="lede demo-note">Optional attributes: <code>data-theme</code> (<code>light</code> or <code>dark</code>), <code>data-accent</code> (a hex color), <code>data-type</code> (<code>concerts</code>, <code>interviews</code>, or <code>all</code>), <code>data-artist</code> (an artist slug such as <code>frank-zappa</code>), and <code>data-height</code> (a max height). Any element with <code>data-concert-finder</code> mounts too. Call <code>ConcertFinder.mount(element, options)</code> for the same options in script.</p>
+    </div>
+  </header>
+  <div class="wrap">
+    <div id="concert-finder"></div>
+  </div>
+  <script src="embed.js" defer></script>
+</body>
+</html>

@@ -45,9 +45,11 @@ jobs:
         run: |
           rm -rf _site
           mkdir -p _site
-          cp index.html favicon.svg _site/
+          cp index.html embed-demo.html favicon.svg _site/
           cp -r css js data fonts _site/
           node scripts/export-csv.js _site/data/catalog.csv
+          node scripts/build-catalog.js _site/data
+          node scripts/build-embed.js _site/embed.js
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5
         with:
