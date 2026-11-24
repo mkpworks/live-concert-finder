@@ -89,9 +89,53 @@
 
   // One place for the YT Trainer link. The id is appended as video_id.
   const YT_TRAINER_BASE = "https://ytmusictrainer.com/?video_id=";
+  const TRAINER_HOST = "ytmusictrainer.com";
 
   function trainerUrl(id) {
     return YT_TRAINER_BASE + encodeURIComponent(id || "");
+  }
+
+  function normalizedHost(value) {
+    return String(value == null ? "" : value).trim().toLowerCase().replace(/\.+$/, "");
+  }
+
+  // ytmusictrainer.com itself, or a subdomain such as www.
+  function isTrainerHost(hostname) {
+    const host = normalizedHost(hostname);
+    return host === TRAINER_HOST || host.endsWith("." + TRAINER_HOST);
+  }
+
+  function urlHost(href) {
+    const text = String(href == null ? "" : href).trim();
+    if (!text) return "";
+    const absolute = /^[a-z][a-z0-9+.-]*:/i.test(text) || text.slice(0, 2) === "//";
+    if (!absolute) return "";
+    try {
+      return normalizedHost(new URL(text, "https://ytmusictrainer.invalid").hostname);
+    } catch (error) {
+      return "";
+    }
+  }
+
+  function pageHost(hostname) {
+    if (hostname != null) return hostname;
+    try {
+      const scope = typeof window !== "undefined" ? window : globalThis;
+      return scope && scope.location ? scope.location.hostname : "";
+    } catch (error) {
+      return "";
+    }
+  }
+
+  // New-tab attributes for an outbound link. A link to ytmusictrainer.com
+  // stays in this tab when the hosting page is already on that site.
+  // Pass hostname to override window.location.hostname (tests, and callers
+  // that already know the host).
+  function linkAttrs(href, hostname) {
+    const dest = urlHost(href);
+    if (!dest) return "";
+    if (isTrainerHost(dest) && isTrainerHost(pageHost(hostname))) return "";
+    return ' target="_blank" rel="noopener noreferrer"';
   }
 
   function uniqueSorted(values) {
@@ -389,5 +433,6 @@
     youtubeUrl,
     YT_TRAINER_BASE,
     trainerUrl,
+    linkAttrs,
   };
 });

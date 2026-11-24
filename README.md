@@ -110,7 +110,7 @@ Other sites load the finder from this repository. They do not copy the catalog.
 | `data-artist` / `artist` | Artist slug, such as `frank-zappa` | No artist filter |
 | `data-height` / `height` | CSS length, or a number of pixels | Natural height |
 
-An artist slug is the name in lowercase, with accents removed and every other run of characters turned into a single hyphen. The widget renders in a shadow root, so its CSS does not leak in or out. Search, filters, sort, genre, decade, lineup, interviews, and artist pages are the same finder as this site. A thumbnail plays inline from `youtube-nocookie.com`. **View on YouTube** and **Open on YT Trainer** open in a new tab. **Download this list** exports the filtered rows. A **Powered by Live Concert Finder** link points back here.
+An artist slug is the name in lowercase, with accents removed and every other run of characters turned into a single hyphen. The widget renders in a shadow root, so its CSS does not leak in or out. Search, filters, sort, genre, decade, lineup, interviews, and artist pages are the same finder as this site. A thumbnail plays inline from `youtube-nocookie.com`. **View on YouTube** opens in a new tab. **Open on YT Trainer** opens in the same tab when the hosting page is `ytmusictrainer.com` or a subdomain such as `www.ytmusictrainer.com`, and in a new tab on every other host. Any other link to `ytmusictrainer.com` follows that same host rule. **Download this list** exports the filtered rows. A **Powered by Live Concert Finder** link points back here.
 
 `embed-demo.html` on this site shows the snippet and a live embed.
 
