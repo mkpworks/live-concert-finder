@@ -247,10 +247,12 @@
       const pivotHtml = pivot
         ? '<button type="button" class="text-btn" data-action="similar" data-id="' + esc(concert.id) + '">Related</button>'
         : "";
+      const watchHref = Catalog.youtubeUrl(concert.id);
+      const trainerHref = Catalog.trainerUrl(concert.id);
       const links =
         '<div class="video-links">' +
-          '<a class="watch" href="' + Catalog.youtubeUrl(concert.id) + '" target="_blank" rel="noopener noreferrer" aria-label="View ' + esc(concert.title) + ' on YouTube">View on YouTube</a>' +
-          '<a class="trainer" href="' + Catalog.trainerUrl(concert.id) + '" target="_blank" rel="noopener noreferrer" aria-label="Open ' + esc(concert.title) + ' on YT Trainer">Open on YT Trainer</a>' +
+          '<a class="watch" href="' + watchHref + '"' + Catalog.linkAttrs(watchHref) + ' aria-label="View ' + esc(concert.title) + ' on YouTube">View on YouTube</a>' +
+          '<a class="trainer" href="' + trainerHref + '"' + Catalog.linkAttrs(trainerHref) + ' aria-label="Open ' + esc(concert.title) + ' on YT Trainer">Open on YT Trainer</a>' +
         "</div>";
       return (
         '<article class="concert' + (feature ? " is-feature" : "") + '">' +

@@ -336,6 +336,30 @@ assert(sampleRow[12] === "https://www.youtube.com/watch?v=" + sample.id);
 assert(sampleRow[13] === Catalog.trainerUrl(sample.id));
 assert(Catalog.YT_TRAINER_BASE === "https://ytmusictrainer.com/?video_id=");
 assert(Catalog.trainerUrl("HW9qLOfHabI") === "https://ytmusictrainer.com/?video_id=HW9qLOfHabI");
+const newTab = ' target="_blank" rel="noopener noreferrer"';
+const trainerHref = Catalog.trainerUrl("HW9qLOfHabI");
+const watchHref = Catalog.youtubeUrl("HW9qLOfHabI");
+assert(Catalog.linkAttrs(trainerHref, "mkpworks.github.io") === newTab, "trainer link opens a new tab on the standalone site");
+assert(Catalog.linkAttrs(trainerHref, "localhost") === newTab, "trainer link opens a new tab on localhost");
+assert(Catalog.linkAttrs(trainerHref, "") === newTab, "trainer link opens a new tab when the host is unknown");
+assert(Catalog.linkAttrs(trainerHref, "ytmusictrainer.com") === "", "trainer link stays in this tab on ytmusictrainer.com");
+assert(Catalog.linkAttrs(trainerHref, "www.ytmusictrainer.com") === "", "trainer link stays in this tab on www.ytmusictrainer.com");
+assert(Catalog.linkAttrs(trainerHref, "Music.YTMusicTrainer.com.") === "", "trainer host check ignores case and a trailing dot");
+assert(Catalog.linkAttrs(trainerHref, "notytmusictrainer.com") === newTab, "a lookalike host still opens a new tab");
+assert(Catalog.linkAttrs(trainerHref, "ytmusictrainer.com.evil.example") === newTab, "a suffixed host still opens a new tab");
+assert(Catalog.linkAttrs(watchHref, "www.ytmusictrainer.com") === newTab, "youtube stays in a new tab on the trainer site");
+assert(Catalog.linkAttrs(watchHref, "mkpworks.github.io") === newTab, "youtube stays in a new tab off-site");
+assert(Catalog.linkAttrs("https://www.ytmusictrainer.com/path?video_id=abc", "lessons.ytmusictrainer.com") === "", "other trainer links stay in this tab");
+assert(Catalog.linkAttrs("http://blog.ytmusictrainer.com/a", "example.com") === newTab, "other trainer links open a new tab off-site");
+assert(Catalog.linkAttrs("//ytmusictrainer.com/?video_id=abc", "ytmusictrainer.com") === "", "protocol-relative trainer links stay in this tab");
+assert(Catalog.linkAttrs("data/catalog.csv", "ytmusictrainer.com") === "", "relative links are left alone");
+assert(Catalog.linkAttrs("https://github.com/mkpworks/live-concert-finder", "ytmusictrainer.com") === newTab, "a non-trainer link stays in a new tab");
+global.window = { location: { hostname: "www.ytmusictrainer.com" } };
+assert(Catalog.linkAttrs(trainerHref) === "", "an omitted host reads window.location.hostname");
+assert(Catalog.linkAttrs(watchHref) === newTab, "youtube still opens a new tab when the host is read from window");
+global.window = { location: { hostname: "mkpworks.github.io" } };
+assert(Catalog.linkAttrs(trainerHref) === newTab, "github pages stays a new tab when the host is read from window");
+delete global.window;
 assert(Catalog.artistSlug("Frank Zappa") === "frank-zappa");
 assert(Catalog.artistSlug("José González") === "jose-gonzalez");
 const zappaConcert = concerts.find((item) => item.artist === "Frank Zappa");
@@ -375,6 +399,8 @@ assert(html.includes("Download this list") && html.includes("Download full sprea
 const viewSource = fs.readFileSync(path.join(root, "js", "view.js"), "utf8");
 assert(viewSource.includes("View on YouTube") && viewSource.includes("Open on YT Trainer"), "video links");
 assert(viewSource.includes("Catalog.trainerUrl") && !viewSource.includes("ytmusictrainer.com"), "trainer url stays in catalog.js");
+assert(viewSource.includes("Catalog.linkAttrs(watchHref)") && viewSource.includes("Catalog.linkAttrs(trainerHref)"), "video links take their target from linkAttrs");
+assert(!viewSource.includes('target="_blank"'), "view.js does not hardcode a new tab");
 assert(viewSource.includes("youtube-nocookie.com/embed/"), "inline player");
 assert(viewSource.includes('data-action="csv"'), "embed shell has the csv button");
 const demo = fs.readFileSync(path.join(root, "embed-demo.html"), "utf8");
@@ -447,9 +473,12 @@ assert(embedBuild.status === 0, embedBuild.stderr || "build-embed failed");
 const embedCheck = spawnSync(process.execPath, ["--check", embedOut], { encoding: "utf8" });
 assert(embedCheck.status === 0, embedCheck.stderr || "embed.js syntax");
 const embedSource = fs.readFileSync(embedOut, "utf8");
-for (const needle of ["window.ConcertFinder", "attachShadow", "[data-concert-finder]", "data/version.json", "data/catalog.json", "Open on YT Trainer", "youtube-nocookie.com/embed/", "Powered by"]) {
+for (const needle of ["window.ConcertFinder", "attachShadow", "[data-concert-finder]", "data/version.json", "data/catalog.json", "Open on YT Trainer", "function linkAttrs", "youtube-nocookie.com/embed/", "Powered by"]) {
   assert(embedSource.includes(needle), "embed bundle missing " + needle);
 }
+assert(embedSource.includes("Catalog.linkAttrs(trainerHref)"), "bundled trainer link uses linkAttrs");
+const trainerLine = embedSource.split("\n").find((line) => line.includes('class="trainer"'));
+assert(trainerLine && !trainerLine.includes("target="), "bundled trainer link has no hardcoded target");
 assert(workflow.includes("scripts/export-csv.js") && workflow.includes("_site/data/catalog.csv"), "pages build publishes the csv");
 
 const started = process.hrtime.bigint();
