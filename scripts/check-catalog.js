@@ -172,7 +172,7 @@ assert(!deployJob.includes("actions/upload-pages-artifact"), "deploy job only de
 assert(deployJob.includes("pages: write") && deployJob.includes("id-token: write"), "deploy permissions");
 
 assert(concerts.every((concert) => concert.type === "concert" || concert.type === "interview"), "every item has a type");
-assert(concerts.filter((concert) => concert.type === "concert").length === 1390, "concert count");
+assert(concerts.filter((concert) => concert.type === "concert").length === 2391, "concert count");
 assert(concerts.filter((concert) => concert.type === "interview").length === 736, "interview count");
 assert(Catalog.itemType({}) === "concert", "missing type is concert");
 assert(Catalog.TYPES.map((type) => type.id).join() === "concert,interview");
