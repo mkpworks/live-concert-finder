@@ -58,8 +58,40 @@ assert(Catalog.pageCount(13) === 2);
 assert(Catalog.PER_PAGE === 12);
 
 const index = Catalog.buildIndex(concerts, musicians);
-const genreList = [...new Set(concerts.map((concert) => concert.genre))].sort((a, b) => a.localeCompare(b, undefined, { sensitivity: "base" }));
+const genreList = [...new Set(concerts.map((concert) => concert.genre))].sort((a, b) => Catalog.compareOptions(a, b));
 assert(JSON.stringify(index.genres) === JSON.stringify(genreList), "genres come from the data");
+assert(Catalog.compareOptions("Funk", "Triads") < 0, "Funk before Triads");
+assert(Catalog.compareOptions("Item 2", "Item 10") < 0, "natural numeric order");
+assert(Catalog.compareOptions("funk", "FUNK") === 0, "option compare ignores case");
+const optionOrder = Catalog.sortSelectOptions([
+  { value: "triads", label: "Triads" },
+  { value: "any", label: "Any" },
+  { value: "funk", label: "Funk" },
+  { value: "all-instruments", label: "All instruments" },
+  { value: "All", label: "All" },
+  { value: "item10", label: "Item 10" },
+  { value: "item2", label: "Item 2" },
+  { value: "allan", label: "Allan Holdsworth" },
+]).map((entry) => entry.label);
+assert(optionOrder.join("|") === "All|All instruments|Any|Allan Holdsworth|Funk|Item 2|Item 10|Triads", "dropdown option order");
+function sortedByOptions(list) {
+  for (let i = 1; i < list.length; i += 1) {
+    if (Catalog.compareOptions(list[i - 1], list[i]) > 0) return false;
+  }
+  return true;
+}
+assert(sortedByOptions(index.genres), "genres sorted");
+assert(sortedByOptions(index.instruments), "instruments sorted");
+assert(sortedByOptions(index.musicianNames), "musicians sorted");
+for (let i = 1; i < index.decades.length; i += 1) {
+  const previous = index.decades[i - 1];
+  const current = index.decades[i];
+  if (current === "Unknown") {
+    assert(i === index.decades.length - 1, "Unknown decade stays last");
+    continue;
+  }
+  assert(previous !== "Unknown" && parseInt(previous, 10) <= parseInt(current, 10), "decades stay chronological");
+}
 const requiredGenres = ["Afrobeat", "Bluegrass", "Blues", "Chamber Music", "Classic Rock", "Country", "EDM", "Experimental", "Flamenco", "Folk", "Funk", "Fusion", "Gamelan", "Gospel", "House", "Indian Classical", "Jazz", "K-pop", "Latin/Salsa", "Manchester/Madchester", "Metal", "Orchestral", "Progressive Rock", "Punk", "Rap/Hip-Hop", "Reggae", "Rockabilly", "Soul/R&B", "Taiko"];
 for (const genre of requiredGenres) assert(index.genres.includes(genre), genre);
 assert(index.instruments.includes("DJ") && index.instruments.includes("sarod") && index.instruments.includes("taiko") && index.instruments.includes("gamelan"));
@@ -480,6 +512,83 @@ assert(embedSource.includes("Catalog.linkAttrs(trainerHref)"), "bundled trainer 
 const trainerLine = embedSource.split("\n").find((line) => line.includes('class="trainer"'));
 assert(trainerLine && !trainerLine.includes("target="), "bundled trainer link has no hardcoded target");
 assert(workflow.includes("scripts/export-csv.js") && workflow.includes("_site/data/catalog.csv"), "pages build publishes the csv");
+assert(viewSource.includes("Catalog.sortSelectOptions") && viewSource.includes("keepOrder: true"), "dropdowns sort at render, decades keep their order");
+assert(embedSource.includes("function sortSelectOptions") && embedSource.includes("keepOrder: true"), "embed bundle sorts dropdowns the same way");
+assert(shell.includes('<option value="artist">Artist A–Z</option><option value="year">Year (oldest first)</option><option value="time">Running time (longest)</option>'), "sort menu stays in chosen order");
+const sortAt = html.indexOf('id="sort"');
+const sortBlock = html.slice(sortAt, sortAt + 500);
+assert(sortBlock.indexOf("Artist A–Z") < sortBlock.indexOf("Year (oldest first)") && sortBlock.indexOf("Year (oldest first)") < sortBlock.indexOf("Running time (longest)"), "site sort menu order");
+
+function optionLabels(markup) {
+  return [...markup.matchAll(/<option value="[^"]*">([^<]*)<\/option>/g)].map((match) => match[1]);
+}
+
+function fakeRoot(ids) {
+  const map = {};
+  for (const id of ids) {
+    map[id] = {
+      id,
+      innerHTML: "",
+      value: "",
+      hidden: false,
+      disabled: false,
+      textContent: "",
+      addEventListener() {},
+      setAttribute() {},
+      getAttribute() { return null; },
+    };
+  }
+  map.sort.innerHTML = '<option value="artist">Artist A–Z</option><option value="year">Year (oldest first)</option><option value="time">Running time (longest)</option>';
+  return {
+    activeElement: null,
+    addEventListener() {},
+    getElementById(id) { return map[id] || null; },
+    querySelectorAll() { return []; },
+    querySelector() { return null; },
+    map,
+  };
+}
+
+const sampleConcerts = [
+  { id: "aaaaaaaaaaa", type: "concert", artist: "Zed Band", title: "Late", year: 1974, genre: "Triads", musicians: ["Zed Person", "Player 10"], durationSeconds: 120 },
+  { id: "bbbbbbbbbbb", type: "concert", artist: "Ann Band", title: "Early", year: 1964, genre: "Funk", musicians: ["Ann Person", "Player 2"], durationSeconds: 90 },
+  { id: "ccccccccccc", type: "interview", artist: "Item Band", title: "Talk", year: 0, genre: "Item 10", musicians: ["Mia Ten"], durationSeconds: 40 },
+  { id: "ddddddddddd", type: "concert", artist: "Item Band", title: "Two", year: 2016, genre: "Item 2", musicians: ["Mia Ten"], durationSeconds: 50 },
+];
+const sampleMusicians = {
+  "Zed Person": ["drums"],
+  "Ann Person": ["bass"],
+  "Player 10": ["vocals"],
+  "Player 2": ["guitar"],
+  "Mia Ten": ["piano"],
+};
+const menuRoot = fakeRoot(["summary", "stats", "theme", "genre", "decade", "musician", "instrument", "sort", "status", "results", "discover", "discover-body", "cross", "cross-count", "q", "types", "instrument-note"]);
+const sortMenu = menuRoot.map.sort.innerHTML;
+const realSort = Catalog.sortSelectOptions;
+let sortCalls = 0;
+Catalog.sortSelectOptions = function (entries) {
+  sortCalls += 1;
+  return realSort(entries);
+};
+try {
+  FinderView.mount(menuRoot, {
+    concerts: sampleConcerts,
+    musicians: sampleMusicians,
+    themeTarget: { getAttribute() { return "dark"; }, setAttribute() {} },
+  });
+} finally {
+  Catalog.sortSelectOptions = realSort;
+}
+assert(sortCalls === 3, "genre, musician, and instrument lists sort at render");
+assert(optionLabels(menuRoot.map.genre.innerHTML).join("|") === "All|Funk|Item 2|Item 10|Triads", "genre dropdown");
+assert(optionLabels(menuRoot.map.decade.innerHTML).join("|") === "All|1960s|1970s|2010s|Unknown", "decade dropdown stays chronological");
+assert(optionLabels(menuRoot.map.instrument.innerHTML).join("|") === "All|Bass|Drums|Guitar|Piano|Vocals", "instrument dropdown");
+const musicianLabels = optionLabels(menuRoot.map.musician.innerHTML);
+assert(musicianLabels[0] === "All", "musician placeholder first");
+const player2At = musicianLabels.findIndex((label) => label.startsWith("Player 2"));
+const player10At = musicianLabels.findIndex((label) => label.startsWith("Player 10"));
+assert(player2At > 0 && player2At < player10At, "musician names use natural order");
+assert(menuRoot.map.sort.innerHTML === sortMenu, "sort menu is not rewritten");
 
 const started = process.hrtime.bigint();
 for (let pass = 0; pass < 100; pass += 1) {

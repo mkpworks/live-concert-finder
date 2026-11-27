@@ -180,12 +180,19 @@
       });
     }
 
-    function fillSelect(id, values, labeler) {
+    function fillSelect(id, values, labeler, selectOptions) {
       const select = byId(id);
-      const choices = ['<option value="All">All</option>'];
+      const keepOrder = Boolean(selectOptions && selectOptions.keepOrder);
+      const items = [{ value: "All", label: "All" }];
       for (const value of values) {
+        if (String(value) === "All") continue;
         const label = labeler ? labeler(value) : value;
-        choices.push('<option value="' + esc(value) + '">' + esc(label) + "</option>");
+        items.push({ value, label });
+      }
+      const ordered = keepOrder ? items : Catalog.sortSelectOptions(items);
+      const choices = [];
+      for (const item of ordered) {
+        choices.push('<option value="' + esc(item.value) + '">' + esc(item.label) + "</option>");
       }
       select.innerHTML = choices.join("");
       select.value = "All";
@@ -629,7 +636,7 @@
     state.pickId = concerts.some((concert) => concert.id === "5XB7iPsCjC4") ? "5XB7iPsCjC4" : (concerts[0] ? concerts[0].id : "");
     bind();
     fillSelect("genre", index.genres);
-    fillSelect("decade", index.decades);
+    fillSelect("decade", index.decades, null, { keepOrder: true });
     fillSelect("musician", index.musicianNames, musicianOptionLabel);
     fillSelect("instrument", index.instruments, labelInstrument);
     const seconds = concerts.reduce((sum, concert) => sum + concert.durationSeconds, 0);
