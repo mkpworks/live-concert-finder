@@ -79,6 +79,34 @@
     return String(a).localeCompare(String(b), undefined, { sensitivity: "base" });
   }
 
+  // Dropdown and facet labels. Case and accents are ignored, and a number
+  // counts by its value, so "Item 2" stays before "Item 10" and "Funk" before "Triads".
+  function compareOptions(a, b) {
+    return String(a).localeCompare(String(b), undefined, { sensitivity: "base", numeric: true });
+  }
+
+  // Placeholders such as "All", "Any", and "All instruments" stay first.
+  function isPlaceholderOption(text) {
+    return /^(?:all|any)(?:\s|$)/i.test(String(text == null ? "" : text).trim());
+  }
+
+  function optionLabel(entry) {
+    if (entry && entry.label != null) return entry.label;
+    if (entry && entry.value != null) return entry.value;
+    return "";
+  }
+
+  function sortSelectOptions(entries) {
+    return entries.slice().sort((a, b) => {
+      const aLabel = optionLabel(a);
+      const bLabel = optionLabel(b);
+      const ap = isPlaceholderOption(aLabel) || isPlaceholderOption(a && a.value);
+      const bp = isPlaceholderOption(bLabel) || isPlaceholderOption(b && b.value);
+      if (ap !== bp) return ap ? -1 : 1;
+      return compareOptions(aLabel, bLabel);
+    });
+  }
+
   function fold(value) {
     return String(value || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
   }
@@ -139,7 +167,7 @@
   }
 
   function uniqueSorted(values) {
-    return [...new Set(values)].sort(compareNames);
+    return [...new Set(values)].sort(compareOptions);
   }
 
   function buildIndex(concerts, musicianInstruments) {
@@ -151,7 +179,7 @@
         musicianCount[name] = (musicianCount[name] || 0) + 1;
       }
     }
-    const musicianNames = Object.keys(musicianCount).sort(compareNames);
+    const musicianNames = Object.keys(musicianCount).sort(compareOptions);
     const instrumentSet = new Set();
     for (const name of musicianNames) {
       const list = instrumentsByMusician[name];
@@ -160,12 +188,13 @@
     }
     const genres = uniqueSorted(concerts.map((concert) => concert.genre));
     const decades = uniqueSorted(concerts.map((concert) => decadeOf(concert.year)));
+    // Chronological, with unknown years last.
     decades.sort((a, b) => {
       if (a === "Unknown") return 1;
       if (b === "Unknown") return -1;
       return a.localeCompare(b);
     });
-    const instruments = [...instrumentSet].sort(compareNames);
+    const instruments = [...instrumentSet].sort(compareOptions);
     const crossMusicians = musicianNames
       .filter((name) => musicianCount[name] > 1)
       .sort((a, b) => musicianCount[b] - musicianCount[a] || compareNames(a, b));
@@ -421,6 +450,8 @@
     formatDuration,
     decadeOf,
     buildIndex,
+    compareOptions,
+    sortSelectOptions,
     matches,
     sortConcerts,
     groupConcerts,
